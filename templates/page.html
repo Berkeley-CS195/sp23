@@ -1,10 +1,39 @@
+<!doctype html>
 <html>
   <head>
     <title>{{ title }}</title>
+    <link rel="stylesheet" href="assets/css/styles.css" type="text/css" media="screen" />
   </head>
-  <body>
-    <h3>{{ title }}</h3>
 
-    {{ :all }}
+  <body>
+  <div id="wrapper">
+    <div id="header">
+        <div id="logo">
+            <img src="assets/images/header_intersectionconsulting.jpg" style="width:300px;height=300px">
+        </div>
+        <div id="title">
+            <h1>Social Implications of Computing</h1>
+            <h2>&nbsp;&nbsp;&nbsp;&nbsp;CS 195, Fall 2014</h2>
+        </div>
+    </div><!-- end of header -->
+
+    <div id="main">
+        <div id="content">
+
+        {{ :all }}
+
+        </div><!-- end of #content -->
+
+        <div id="sidebar"><!-- sidebar -->
+            <div class="standard">
+                <h3>Class Meetings</h3>
+                <p>Wednesdays, 4-5:30 in <br>1 LeConte</p>
+                <h3>Office Hours</h3>
+                <p>Brian Harvey: 3pm-4pm <br>Tuesday in 784 Soda
+                <p>John DeNero: 12pm-1pm <br>Monday in 781 Soda
+            </div>
+        </div><!-- end of sidebar -->
+    </div><!-- end of #main content and sidebar-->
+  </div><!-- #wrapper -->
   </body>
 </html>
