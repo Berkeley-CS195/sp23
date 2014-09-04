@@ -17,7 +17,7 @@ Rachels, "[Why Privacy Is Important][why_privacy]"
 
 Boyd, "[Facebook's Privacy Trainwreck][facebook]"
 
-TODO, "[Addicted to Apps][addicted]"
+Miller, "[Addicted to Apps][addicted]"
 
    [why_privacy]: http://www.jstor.org/stable/2265077
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
