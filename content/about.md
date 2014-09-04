@@ -1,11 +1,5 @@
 ~ title: Course description and policies
 
-List the [Course readings][readings].
-
-   [readings]: index.html
-
-## Course Description and Policies
-
 CS 195 is a discussion-intensive course about the social implications of
 computing. The purpose of this course is to help you and your fellow computer
 science students make informed and thoughtful choices about your careers,

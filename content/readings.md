@@ -1,11 +1,5 @@
 ~ title: Weekly Readings
 
-Read the [Course description and policies][about].
-
-   [about]: about.html
-
-## Readings
-
 There is a course reader at Copy Central, 48 Shattuck Square (that little
 island in the middle of Shattuck south of University). All assigned readings
 are either in the course reader or linked below.

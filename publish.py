@@ -24,8 +24,10 @@ def main():
     templar('page.html', 'content/about.md', 'about.html')
     templar('page.html', 'content/readings.md', 'index.html')
 
-    shutil.rmtree(os.path.join(PUB, 'assets'))
-    shutil.copytree('assets', os.path.join(PUB, 'assets'))
+    pub_assets = os.path.join(PUB, 'assets')
+    if os.path.exists(pub_assets):
+        shutil.rmtree(pub_assets)
+    shutil.copytree('assets', pub_assets)
 
 if __name__ == '__main__':
     main()

@@ -2,38 +2,80 @@
 <html>
   <head>
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="assets/css/styles.css" type="text/css" media="screen" />
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <style type="text/css">
+      body {
+        padding-top: 20px;
+        padding-bottom: 60px;
+      }
+
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+      }
+      .container > hr {
+        margin: 60px 0;
+      }
+      .container h1 {
+        font-size: 24px;
+      }
+      .container h2 {
+        font-size: 20px;
+      }
+      .container h3 {
+        font-size: 16px;
+      }
+    </style>
+
   </head>
 
   <body>
-  <div id="wrapper">
-    <div id="header">
-        <div id="logo">
-            <img src="assets/images/header_intersectionconsulting.jpg" style="width:300px;height=300px">
-        </div>
-        <div id="title">
-            <h1>Social Implications of Computing</h1>
-            <h2>&nbsp;&nbsp;&nbsp;&nbsp;CS 195, Fall 2014</h2>
-        </div>
-    </div><!-- end of header -->
+    <div class="container">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li><a href="index.html">Readings</a></li>
+              <li><a href="about.html">Course Info</a></li>
+              <li><a href="assignments.html">Assignments</a></li>
+              <li><a href="surveys.html">Surveys</a></li>
+              <li class="nav-header">Class Meeting</li>
+              <li>Wednesdays, 4-5:30 in 1 LeConte</p>
+              <li class="nav-header">Office Hours</li>
+              <li>Brian Harvey: 3pm-4pm Tuesday in 784 Soda</li>
+              <li>John DeNero: 12pm-1pm Monday in 781 Soda</li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
 
-    <div id="main">
-        <div id="content">
-
-        {{ :all }}
-
-        </div><!-- end of #content -->
-
-        <div id="sidebar"><!-- sidebar -->
-            <div class="standard">
-                <h3>Class Meetings</h3>
-                <p>Wednesdays, 4-5:30 in <br>1 LeConte</p>
-                <h3>Office Hours</h3>
-                <p>Brian Harvey: 3pm-4pm <br>Tuesday in 784 Soda
-                <p>John DeNero: 12pm-1pm <br>Monday in 781 Soda
+        <div class="span9">
+          <div class="row-fluid">
+            <div class="span3">
+            <img src="assets/images/header_intersectionconsulting.jpg"
+                 style="width:200px;height=200px">
             </div>
-        </div><!-- end of sidebar -->
-    </div><!-- end of #main content and sidebar-->
-  </div><!-- #wrapper -->
+            <div class="span9">
+                <h1>Social Implications of Computing</h1>
+                <h2>CS 195, Fall 2014</h2>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row-fluid">
+            <h2> {{ title }} </h2>
+            {{ :all }}
+          </div>
+
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+      </footer>
+
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
