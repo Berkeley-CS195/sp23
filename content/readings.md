@@ -13,6 +13,8 @@ VPN][vpn] on your computer (better privacy).
 
 ### 9/10 Privacy
 
+**Complete this [Survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.**
+
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
 Boyd, "[Facebook's Privacy Trainwreck][facebook]"
