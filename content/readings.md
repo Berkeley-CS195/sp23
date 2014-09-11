@@ -2,7 +2,7 @@
 
 There is a course reader at Copy Central, 48 Shattuck Square (that little
 island in the middle of Shattuck south of University). All assigned readings
-are either in the course reader or linked below.
+will be in the course reader, linked below, or handed out in class.
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -13,7 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 9/10 Privacy
 
-**Complete this [Survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.**
+Complete this [survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -29,29 +29,32 @@ Miller, "[Addicted to Apps][addicted]"
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
+Heckel, "[Debunking the Software Patent Myths][patent]"
+
    [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 9/24 Ethics
 
-Hospers, "The Best of ..." (reader)
+Hospers, "The Best of ..." (handout)
 
-Rachels, "The Best of ..." (reader)
+Rachels, "The Best of ..." (handout)
 
-Aristotle, "The Best of ..." (reader)
+Aristotle, "The Best of ..." (handout)
 
 Macintyre, "After Virtue" (reader)
 
 ### 10/1 War
 
-Mahnken, "[Weapons: The Growth ...][weapons]"
+Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]"
 
-Dunlap, "[Military Industrial ...][military]"
+Dunlap, "[The Military-Industrial Complex][military]"
 
-Shaffer "[AI Outsmarts ...][war_ai]"
+Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
    [weapons]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00097
    [military]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
-   [war_ai]: http://coe.berkeley.edu/news-center/publications/forefront/forefront-pdfs/forefront-fall-2011.pdf
+   [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
 
 ### 10/8 Economy
 
