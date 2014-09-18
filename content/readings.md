@@ -13,7 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 9/10 Privacy
 
-Complete this [survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.
+*Complete this [survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -27,22 +27,35 @@ Miller, "[Addicted to Apps][addicted]"
 
 ### 9/17 Intellectual Property
 
+*Complete this [survey](http://goo.gl/oMRqkK) by Tuesday 9/16 at 11:59pm.*
+
 Stallman, "[Misinterpreting Copyright][copyright]"
 
-Heckel, "[Debunking the Software Patent Myths][patent]"
+Stallman, "[The Dangers of Software Patents][no_patent]" ([Video][no_patent_video])
+
+Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
    [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
-   [patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [no_patent]: assets/pdfs/patents.pdf
+   [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 9/24 Ethics
 
-Hospers, "The Best of ..." (handout)
+[Utilitarianism][utility] (or try section 1 of this [alternate reading on utilitarianism][stanford_utility])
 
-Rachels, "The Best of ..." (handout)
+[Kant's Morality][kant] (or try sections 2 & 3 of this [alternate reading on Kant][stanford_kant])
 
-Aristotle, "The Best of ..." (handout)
+[Virtue Ethics][virtue] (or try sections 1 & 2 of this [alternate reading on virtue ethics][stanford_virtue])
 
 Macintyre, "After Virtue" (reader)
+
+   [utility]: http://www.newworldencyclopedia.org/entry/Utilitarianism
+   [kant]: http://philosophypages.com/hy/5i.htm#gdwl
+   [virtue]: http://www.iep.utm.edu/virtue/
+   [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
+   [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
 
 ### 10/1 War
 
