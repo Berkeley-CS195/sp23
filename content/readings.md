@@ -42,13 +42,19 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 9/24 Ethics
 
+**Complete this [survey](http://goo.gl/gEv2e7) by Tuesday 9/23 at 11:59pm.**
+
 [Utilitarianism][utility] (or try section 1 of this [alternate reading on utilitarianism][stanford_utility])
 
 [Kant's Morality][kant] (or try sections 2 & 3 of this [alternate reading on Kant][stanford_kant])
 
 [Virtue Ethics][virtue] (or try sections 1 & 2 of this [alternate reading on virtue ethics][stanford_virtue])
 
-Macintyre, "After Virtue" (reader)
+Macintyre, Chapter 14 of After Virtue called "The Nature of the Virtues," (or
+read the [summary][macintyre_summary] written by your classmates). This reading
+appears in the course reader. Be careful: page 196 is out of order. A [Google
+search][macintyre] may lead you to an electronic version of this copyrighted
+work.
 
    [utility]: http://www.newworldencyclopedia.org/entry/Utilitarianism
    [kant]: http://philosophypages.com/hy/5i.htm#gdwl
@@ -56,6 +62,8 @@ Macintyre, "After Virtue" (reader)
    [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
+   [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
+   [macintyre_summary]: https://docs.google.com/a/berkeley.edu/document/d/184MFILYsz6OfvVO8WwMidxRiqtuSzM7ewIITDH5V5HQ/view
 
 ### 10/1 War
 
