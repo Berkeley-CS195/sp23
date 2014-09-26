@@ -1,4 +1,4 @@
-~ title: Weekly Readings
+~ title: Topics, Assignments, and Readings
 
 There is a course reader at Copy Central, 48 Shattuck Square (that little
 island in the middle of Shattuck south of University). All assigned readings
@@ -42,7 +42,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 9/24 Ethics
 
-**Complete this [survey](http://goo.gl/gEv2e7) by Tuesday 9/23 at 11:59pm.**
+*Complete this [survey](http://goo.gl/gEv2e7) by Tuesday 9/23 at 11:59pm.*
 
 [Utilitarianism][utility] (or try section 1 of this [alternate reading on utilitarianism][stanford_utility])
 
@@ -67,6 +67,10 @@ work.
 
 ### 10/1 War
 
+**Complete this [essay assignment][essay1] by Thursday 10/2 at 11:59pm.**
+
+   [essay1]: http://www.crowdgrader.org/crowdgrader/venues/join/467/ninasu_pybyzy_dycary_befobi
+
 Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]"
 
 Dunlap, "[The Military-Industrial Complex][military]"
@@ -77,13 +81,7 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
    [military]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
 
-### 10/8 Economy
-
-### 10/15 Wealth & Finance
-
-### 10/22 Politics
-
-### 10/29 Education
+### 10/8 Education
 
 Papert, "Mathophobia ..." (reader)
 
@@ -91,13 +89,21 @@ Fish, "[The Two Cultures ...][cultures]"
 
    [cultures]: http://opinionator.blogs.nytimes.com/2013/08/26/the-two-cultures-of-educational-reform/?_r=0&pagewanted=print
 
+### 10/15 Finance
+
+### 10/22 Economics
+
+### 10/29 Politics
+
 ### 11/5 News
 
-### 11/12 TBD
-
-### 11/19 Professional Ethics
+### 11/12 Professional Risks
 
 Levenson and Turner, "[... Therac-25 ...][therac]"
+
+   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+
+### 11/19 Professional Ethics
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -107,7 +113,6 @@ Bok, "... Whistle-Blowing ..." (reaer)
 
 Hochheiser, "Workplace Database ..." (reader)
 
-   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
 
