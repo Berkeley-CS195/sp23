@@ -67,11 +67,13 @@ work.
 
 ### 10/1 War
 
+*Complete this [survey](http://goo.gl/IePM6M) by Tuesday 9/30 at 11:59pm.*
+
 **Complete this [essay assignment][essay1] by Thursday 10/2 at 11:59pm.**
 
    [essay1]: http://www.crowdgrader.org/crowdgrader/venues/join/467/ninasu_pybyzy_dycary_befobi
 
-Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]"
+Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (or read the [summary][weapons_summary])
 
 Dunlap, "[The Military-Industrial Complex][military]"
 
@@ -80,13 +82,18 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
    [weapons]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00097
    [military]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
+   [weapons_summary]: https://docs.google.com/document/d/1w7H6Oa6ZNe7bzhWrlQTg42Qv3pVGtIO_n4fWncqLqRg/edit?usp=sharing
 
 ### 10/8 Education
 
-Papert, "Mathophobia ..." (reader)
+Papert, "Mathophobia: The Fear of Learning" is Chapter 2 of Mindstorms and
+appears in your reader. (There is also an [online chapter
+summary][mathphobia_summary] with excerpts posted on an external site.)
 
-Fish, "[The Two Cultures ...][cultures]"
+Fish, "[The Two Cultures of Educational Reform][cultures]" (will be summarized
+by the class)
 
+   [mathphobia_summary]: https://tomkersten.com/book-reports/mindstorms/#chapter-2
    [cultures]: http://opinionator.blogs.nytimes.com/2013/08/26/the-two-cultures-of-educational-reform/?_r=0&pagewanted=print
 
 ### 10/15 Finance
