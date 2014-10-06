@@ -11,7 +11,7 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 9/10 Privacy
+### 9/10 Privacy ([slides](assets/slides/privacy.pptx))
 
 *Complete this [survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.*
 
@@ -25,7 +25,7 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 9/17 Intellectual Property
+### 9/17 Intellectual Property ([slides](assets/slides/ip.pptx))
 
 *Complete this [survey](http://goo.gl/oMRqkK) by Tuesday 9/16 at 11:59pm.*
 
@@ -40,7 +40,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 9/24 Ethics
+### 9/24 Ethics ([slides](assets/slides/ethics.pptx))
 
 *Complete this [survey](http://goo.gl/gEv2e7) by Tuesday 9/23 at 11:59pm.*
 
@@ -65,7 +65,7 @@ work.
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
    [macintyre_summary]: https://docs.google.com/a/berkeley.edu/document/d/184MFILYsz6OfvVO8WwMidxRiqtuSzM7ewIITDH5V5HQ/view
 
-### 10/1 War
+### 10/1 War ([slides](assets/slides/war.pptx))
 
 *Complete this [survey](http://goo.gl/IePM6M) by Tuesday 9/30 at 11:59pm.*
 
@@ -84,7 +84,7 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
    [weapons_summary]: https://docs.google.com/document/d/1w7H6Oa6ZNe7bzhWrlQTg42Qv3pVGtIO_n4fWncqLqRg/edit?usp=sharing
 
-### 10/8 Education
+### 10/8 Education ([slides](assets/slides/education.pptx))
 
 Papert, "Mathophobia: The Fear of Learning" is Chapter 2 of Mindstorms and
 appears in your reader. (There is also an [online chapter
@@ -104,13 +104,13 @@ by the class)
 
 ### 11/5 News
 
-### 11/12 Professional Risks
+### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
 
 Levenson and Turner, "[... Therac-25 ...][therac]"
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
 
-### 11/19 Professional Ethics
+### 11/19 Professional Ethics ([slides](assets/slides/prof-ethics.pptx))
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
