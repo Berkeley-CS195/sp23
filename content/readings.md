@@ -69,7 +69,7 @@ work.
 
 *Complete this [survey](http://goo.gl/IePM6M) by Tuesday 9/30 at 11:59pm.*
 
-**Complete this [essay assignment][essay1] by Thursday 10/2 at 11:59pm.**
+*Complete this [essay assignment][essay1] by Thursday 10/2 at 11:59pm.*
 
    [essay1]: http://www.crowdgrader.org/crowdgrader/venues/join/467/ninasu_pybyzy_dycary_befobi
 
@@ -86,19 +86,40 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
 ### 10/8 Education ([slides](assets/slides/education.pptx))
 
+*Complete this [survey](http://goo.gl/CfQnTr) by Tuesday 10/7 at 11:59pm.*
+
+**Complete your [peer reviews][essay1] by Friday 10/10 at 4:00pm.**
+
 Papert, "Mathophobia: The Fear of Learning" is Chapter 2 of Mindstorms and
 appears in your reader. (There is also an [online chapter
 summary][mathphobia_summary] with excerpts posted on an external site.)
 
-Fish, "[The Two Cultures of Educational Reform][cultures]" (will be summarized
-by the class)
+Fish, "[The Two Cultures of Educational Reform][cultures]" ([summary][cultures_summary])
 
    [mathphobia_summary]: https://tomkersten.com/book-reports/mindstorms/#chapter-2
    [cultures]: http://opinionator.blogs.nytimes.com/2013/08/26/the-two-cultures-of-educational-reform/?_r=0&pagewanted=print
+   [cultures_summary]: https://docs.google.com/document/d/1ib1SiFgBETXuUzDENxvit374m1lthBNkZUmroAvypBc/edit?usp=sharing
 
-### 10/15 Finance
+### 10/15 Finance ([slides](assets/slides/finance.pdf))
+
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
+
+Norvig, "[Economics Simulation][norvig_econ]"
+
+   [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
+   [norvig_econ]: http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb
 
 ### 10/22 Economics
+
+Simon, "[Public Administration in Today's World of Organizations and Markets][simon_last_lecture]"
+
+Varian, "[Beyond Big Data][transactions]"
+
+Freeland, "[Technology: Both Miracle and Burden][miracle]"
+
+   [simon_last_lecture]: assets/pdfs/simon_last_lecture.pdf
+   [transactions]: http://people.ischool.berkeley.edu/~hal/Papers/2013/BeyondBigDataPaperFINAL.pdf
+   [miracle]: http://www.nytimes.com/2012/09/21/world/europe/21iht-letter21.html
 
 ### 10/29 Politics
 
@@ -106,7 +127,7 @@ by the class)
 
 ### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
 
-Levenson and Turner, "[... Therac-25 ...][therac]"
+Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]"
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
 
@@ -114,9 +135,9 @@ Levenson and Turner, "[... Therac-25 ...][therac]"
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
-Anderson, "[Using...][using]"
+Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]"
 
-Bok, "... Whistle-Blowing ..." (reaer)
+Bok, "... Whistle-Blowing ..." (reader)
 
 Hochheiser, "Workplace Database ..." (reader)
 
