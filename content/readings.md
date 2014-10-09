@@ -102,7 +102,7 @@ Fish, "[The Two Cultures of Educational Reform][cultures]" ([summary][cultures_s
 
 ### 10/15 Finance ([slides](assets/slides/finance.pdf))
 
-Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (summary forthcoming)
 
 Norvig, "[Economics Simulation][norvig_econ]"
 
@@ -115,11 +115,14 @@ Simon, "[Public Administration in Today's World of Organizations and Markets][si
 
 Varian, "[Beyond Big Data][transactions]"
 
-Freeland, "[Technology: Both Miracle and Burden][miracle]"
+Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
+
+Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (summary forthcoming)
 
    [simon_last_lecture]: assets/pdfs/simon_last_lecture.pdf
    [transactions]: http://people.ischool.berkeley.edu/~hal/Papers/2013/BeyondBigDataPaperFINAL.pdf
-   [miracle]: http://www.nytimes.com/2012/09/21/world/europe/21iht-letter21.html
+   [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
+   [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
 
 ### 10/29 Politics
 
@@ -128,6 +131,8 @@ Freeland, "[Technology: Both Miracle and Burden][miracle]"
 ### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]"
+
+Hochheiser, "Workplace Database ..." (reader)
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
 
@@ -138,8 +143,6 @@ ACM, "[Professional Code of Conduct][acm_code]"
 Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]"
 
 Bok, "... Whistle-Blowing ..." (reader)
-
-Hochheiser, "Workplace Database ..." (reader)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
