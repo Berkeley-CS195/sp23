@@ -88,7 +88,7 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
 *Complete this [survey](http://goo.gl/CfQnTr) by Tuesday 10/7 at 11:59pm.*
 
-**Complete your [peer reviews][essay1] by Friday 10/10 at 4:00pm.**
+*Complete your [peer reviews][essay1] by Friday 10/10 at 4:00pm.*
 
 Papert, "Mathophobia: The Fear of Learning" is Chapter 2 of Mindstorms and
 appears in your reader. (There is also an [online chapter
@@ -102,12 +102,15 @@ Fish, "[The Two Cultures of Educational Reform][cultures]" ([summary][cultures_s
 
 ### 10/15 Finance ([slides](assets/slides/finance.pdf))
 
-Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (summary forthcoming)
+**Complete this [survey](http://goo.gl/bEpYGV) by Wednesday 10/15 at 4pm.**
+
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" ([summary][hft_summary])
 
 Norvig, "[Economics Simulation][norvig_econ]"
 
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
    [norvig_econ]: http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb
+   [hft_summary]: https://docs.google.com/document/d/1LaTomtu4qEvl2HNAQn573239bA46q7E9udy4kGqeWWw/edit?usp=sharing
 
 ### 10/22 Economics
 
