@@ -102,7 +102,7 @@ Fish, "[The Two Cultures of Educational Reform][cultures]" ([summary][cultures_s
 
 ### 10/15 Finance ([slides](assets/slides/finance.pdf))
 
-**Complete this [survey](http://goo.gl/bEpYGV) by Wednesday 10/15 at 4pm.**
+*Complete this [survey](http://goo.gl/bEpYGV) by Wednesday 10/15 at 4pm.*
 
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" ([summary][hft_summary])
 
@@ -112,7 +112,13 @@ Norvig, "[Economics Simulation][norvig_econ]"
    [norvig_econ]: http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb
    [hft_summary]: https://docs.google.com/document/d/1LaTomtu4qEvl2HNAQn573239bA46q7E9udy4kGqeWWw/edit?usp=sharing
 
-### 10/22 Economics
+### 10/22 Economics ([slides](assets/slides/economics.pdf))
+
+**Complete this [survey](http://goo.gl/uGt85h) by Wednesday 10/22 at 4pm.**
+
+**Complete [essay assignment 2][essay2] by Thursday 10/30 at 11:59pm.**
+
+   [essay2]: http://www.crowdgrader.org/crowdgrader/venues/join/534/zidyda_zubygi_dezaqe_zivudo
 
 Simon, "[Public Administration in Today's World of Organizations and Markets][simon_last_lecture]"
 
@@ -120,22 +126,41 @@ Varian, "[Beyond Big Data][transactions]"
 
 Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
 
-Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (summary forthcoming)
+Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" ([summary][ai_jobs_summary])
 
    [simon_last_lecture]: assets/pdfs/simon_last_lecture.pdf
    [transactions]: http://people.ischool.berkeley.edu/~hal/Papers/2013/BeyondBigDataPaperFINAL.pdf
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
+   [ai_jobs_summary]: https://docs.google.com/document/d/1Ntr9tHyPOsjJtQMlb-wsJ8uVYM78L2EB66rMNbMPCqg/edit?usp=sharing
 
-### 10/29 Politics
+### 10/29 Politics ([slides](assets/slides/politics.pdf))
 
-### 11/5 News
+Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]"
+
+Balz, "[How the Obama campaign won the race for voter data][obama]"
+
+   [revolution]: http://www.newyorker.com/magazine/2010/10/04/small-change-3
+   [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
+
+### 11/5 Games
+
+von Ahn and Dabbish, "[Designing Games with a Purpose][games_purpose]"
+
+Gentile et al., "[The effects of violent video game habits on adolescent hostility,
+aggressive behaviors, and school performance][violent_games]"
+
+Jenkins, "[Reality Bytes: Eight Myths About Video Games Debunked][games_myths]"
+
+   [games_purpose]: http://doi.acm.org/10.1145/1378704.1378719
+   [violent_games]: http://inst.eecs.berkeley.edu/~cs10/fa10/readings/videogames/gentile_violence.pdf
+   [games_myths]: http://www.pbs.org/kcts/videogamerevolution/impact/myths.html
 
 ### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]"
 
-Hochheiser, "Workplace Database ..." (reader)
+Hochheiser, "Workplace Database systems: Difficulties in ata collection & presentation" (reader)
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
 
@@ -145,7 +170,7 @@ ACM, "[Professional Code of Conduct][acm_code]"
 
 Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]"
 
-Bok, "... Whistle-Blowing ..." (reader)
+Bok, "The Morality of Whistle-Blowing" (reader)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
