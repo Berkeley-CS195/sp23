@@ -114,9 +114,9 @@ Norvig, "[Economics Simulation][norvig_econ]"
 
 ### 10/22 Economics ([slides](assets/slides/economics.pdf))
 
-**Complete this [survey](http://goo.gl/uGt85h) by Wednesday 10/22 at 4pm.**
+*Complete this [survey](http://goo.gl/uGt85h) by Wednesday 10/22 at 4pm.*
 
-**Complete [essay assignment 2][essay2] by Thursday 10/30 at 11:59pm.**
+*Complete [essay assignment 2][essay2] by Thursday 10/30 at 11:59pm.*
 
    [essay2]: http://www.crowdgrader.org/crowdgrader/venues/join/534/zidyda_zubygi_dezaqe_zivudo
 
@@ -136,16 +136,23 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" ([summary][ai_jobs
 
 ### 10/29 Politics ([slides](assets/slides/politics.pdf))
 
-Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]"
+*Complete this [survey](http://goo.gl/lVGV6o) by Wednesday 10/29 at 4pm.*
+
+Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" ([summary][revolution_summary])
 
 Balz, "[How the Obama campaign won the race for voter data][obama]"
 
    [revolution]: http://www.newyorker.com/magazine/2010/10/04/small-change-3
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
+   [revolution_summary]: https://docs.google.com/document/d/1UlMfadx8gcS0JNwdNZJk59VEIByhB-Pr5XiaQ1-V-UE/edit?usp=sharing
 
 ### 11/5 Games
 
-von Ahn and Dabbish, "[Designing Games with a Purpose][games_purpose]"
+**Complete this [survey](http://goo.gl/I2g4YV) by Wednesday 11/5 at 4pm.**
+
+**Complete [essay 2 peer reviewing][essay2] by Thursday 11/6 at 11:59pm.**
+
+von Ahn and Dabbish, "[Designing Games with a Purpose][games_purpose]" ([summary][games_purpose_summary])
 
 Gentile et al., "[The effects of violent video game habits on adolescent hostility,
 aggressive behaviors, and school performance][violent_games]"
@@ -155,6 +162,7 @@ Jenkins, "[Reality Bytes: Eight Myths About Video Games Debunked][games_myths]"
    [games_purpose]: http://doi.acm.org/10.1145/1378704.1378719
    [violent_games]: http://inst.eecs.berkeley.edu/~cs10/fa10/readings/videogames/gentile_violence.pdf
    [games_myths]: http://www.pbs.org/kcts/videogamerevolution/impact/myths.html
+   [games_purpose_summary]: https://docs.google.com/document/d/1OBFY_BBbItTA8zYIvtV4MHnF3myo0WyjktTL5mGZJKY/edit?usp=sharing
 
 ### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
 
@@ -174,6 +182,8 @@ Bok, "The Morality of Whistle-Blowing" (reader)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
+
+### 11/26 *No Class! Happy Thanksgiving*
 
 ### 12/3 Existential Risks
 
