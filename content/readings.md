@@ -146,11 +146,11 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
    [revolution_summary]: https://docs.google.com/document/d/1UlMfadx8gcS0JNwdNZJk59VEIByhB-Pr5XiaQ1-V-UE/edit?usp=sharing
 
-### 11/5 Games
+### 11/5 Games ([slides](assets/slides/games.pptx))
 
-**Complete this [survey](http://goo.gl/I2g4YV) by Wednesday 11/5 at 4pm.**
+*Complete this [survey](http://goo.gl/I2g4YV) by Wednesday 11/5 at 4pm.*
 
-**Complete [essay 2 peer reviewing][essay2] by Thursday 11/6 at 11:59pm.**
+*Complete [essay 2 peer reviewing][essay2] by Thursday 11/6 at 11:59pm.*
 
 von Ahn and Dabbish, "[Designing Games with a Purpose][games_purpose]" ([summary][games_purpose_summary])
 
@@ -164,13 +164,16 @@ Jenkins, "[Reality Bytes: Eight Myths About Video Games Debunked][games_myths]"
    [games_myths]: http://www.pbs.org/kcts/videogamerevolution/impact/myths.html
    [games_purpose_summary]: https://docs.google.com/document/d/1OBFY_BBbItTA8zYIvtV4MHnF3myo0WyjktTL5mGZJKY/edit?usp=sharing
 
-### 11/12 Software Risks ([slides](assets/slides/risks.pptx))
+### 11/12 Software Risks ([slides](assets/slides/risks.pdf))
 
-Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]"
+**Complete this [survey](http://goo.gl/NMeZ2G) by Wednesday 11/12 at 4pm.**
+
+Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" ([summary][therac_summary])
 
 Hochheiser, "Workplace Database systems: Difficulties in ata collection & presentation" (reader)
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+   [therac_summary]: https://docs.google.com/document/d/1P5gU56nJRmZZINUnGRu6Hn3NFRMhvErk_cB6Lqi4bVI/edit?usp=sharing
 
 ### 11/19 Professional Ethics ([slides](assets/slides/prof-ethics.pptx))
 
@@ -185,7 +188,7 @@ Bok, "The Morality of Whistle-Blowing" (reader)
 
 ### 11/26 *No Class! Happy Thanksgiving*
 
-### 12/3 Existential Risks
+### 12/3 Existential Threats
 
 Joy, "[Why...][tbd]"
 
