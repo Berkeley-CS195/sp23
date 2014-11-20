@@ -166,7 +166,7 @@ Jenkins, "[Reality Bytes: Eight Myths About Video Games Debunked][games_myths]"
 
 ### 11/12 Software Risks ([slides](assets/slides/risks.pdf))
 
-**Complete this [survey](http://goo.gl/NMeZ2G) by Wednesday 11/12 at 4pm.**
+*Complete this [survey](http://goo.gl/NMeZ2G) by Wednesday 11/12 at 4pm.*
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" ([summary][therac_summary])
 
@@ -177,19 +177,26 @@ Hochheiser, "Workplace Database systems: Difficulties in ata collection & presen
 
 ### 11/19 Professional Ethics ([slides](assets/slides/prof-ethics.pptx))
 
+**Complete this [survey](http://goo.gl/gEZ0J8) by Wednesday 11/12 at 4pm.**
+
+**Complete [essay 3][essay3] by Wednesday 11/26 at 11:59pm.**
+
+   [essay3]: http://www.crowdgrader.org/crowdgrader/venues/join/603/myduzo_serogu_nepysa_nutady
+
 ACM, "[Professional Code of Conduct][acm_code]"
 
-Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]"
+Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" ([summary][using_summary])
 
 Bok, "The Morality of Whistle-Blowing" (reader)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
+   [using_summary]: https://docs.google.com/document/d/1OzHvaG7UQoO4VC94nzsbbYJZNHZzEwAD5_duQFTa1P0/edit?usp=sharing
 
 ### 11/26 *No Class! Happy Thanksgiving*
 
-### 12/3 Existential Threats
+### 12/3 Existential Threats ([slides](assets/slides/existential-risks.pptx))
 
-Joy, "[Why...][tbd]"
+Joy, "[Why the Future Doesn't Need Us][future]"
 
-   [tbd]: http://TODO
+   [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
