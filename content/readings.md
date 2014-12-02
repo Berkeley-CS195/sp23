@@ -177,9 +177,9 @@ Hochheiser, "Workplace Database systems: Difficulties in ata collection & presen
 
 ### 11/19 Professional Ethics ([slides](assets/slides/prof-ethics.pptx))
 
-**Complete this [survey](http://goo.gl/gEZ0J8) by Wednesday 11/12 at 4pm.**
+*Complete this [survey](http://goo.gl/gEZ0J8) by Wednesday 11/12 at 4pm.*
 
-**Complete [essay 3][essay3] by Wednesday 11/26 at 11:59pm.**
+*Complete [essay 3][essay3] by Wednesday 11/26 at 11:59pm.*
 
    [essay3]: http://www.crowdgrader.org/crowdgrader/venues/join/603/myduzo_serogu_nepysa_nutady
 
@@ -197,6 +197,11 @@ Bok, "The Morality of Whistle-Blowing" (reader)
 
 ### 12/3 Existential Threats ([slides](assets/slides/existential-risks.pptx))
 
-Joy, "[Why the Future Doesn't Need Us][future]"
+**Complete this [survey](http://goo.gl/4mR0HY) by Wednesday 12/3 at 4pm.**
+
+**Complete [essay 3 peer reviewing][essay3] by Thursday 12/4 at 11:59pm.**
+
+Joy, "[Why the Future Doesn't Need Us][future]" ([summary][future_summary])
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
+   [future_summary]: https://docs.google.com/document/d/1Pv2iqCYSYGbdEtdeuwDecZgFFsRtrGRGtmEIgMKq8Tc/edit?usp=sharing
