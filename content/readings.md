@@ -1,8 +1,6 @@
 ~ title: Topics, Assignments, and Readings
 
-There is a course reader at Copy Central, 48 Shattuck Square (that little
-island in the middle of Shattuck south of University). All assigned readings
-will be in the course reader, linked below, or handed out in class.
+**>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<**
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -11,9 +9,11 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 9/10 Privacy ([slides](assets/slides/privacy.pptx))
+### 1/23 Free Speech
 
-*Complete this [survey](http://goo.gl/Nhr1Zl) by Tuesday 9/9 at 11:59pm.*
+### 1/30 Privacy
+
+**Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.**
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -25,9 +25,7 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 9/17 Intellectual Property ([slides](assets/slides/ip.pptx))
-
-*Complete this [survey](http://goo.gl/oMRqkK) by Tuesday 9/16 at 11:59pm.*
+### 2/6 Copyright
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
@@ -40,40 +38,9 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 9/24 Ethics ([slides](assets/slides/ethics.pptx))
+### 2/13 War
 
-*Complete this [survey](http://goo.gl/gEv2e7) by Tuesday 9/23 at 11:59pm.*
-
-[Utilitarianism][utility] (or try section 1 of this [alternate reading on utilitarianism][stanford_utility])
-
-[Kant's Morality][kant] (or try sections 2 & 3 of this [alternate reading on Kant][stanford_kant])
-
-[Virtue Ethics][virtue] (or try sections 1 & 2 of this [alternate reading on virtue ethics][stanford_virtue])
-
-Macintyre, Chapter 14 of After Virtue called "The Nature of the Virtues," (or
-read the [summary][macintyre_summary] written by your classmates). This reading
-appears in the course reader. Be careful: page 196 is out of order. A [Google
-search][macintyre] may lead you to an electronic version of this copyrighted
-work.
-
-   [utility]: http://www.newworldencyclopedia.org/entry/Utilitarianism
-   [kant]: http://philosophypages.com/hy/5i.htm#gdwl
-   [virtue]: http://www.iep.utm.edu/virtue/
-   [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
-   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
-   [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
-   [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
-   [macintyre_summary]: https://docs.google.com/a/berkeley.edu/document/d/184MFILYsz6OfvVO8WwMidxRiqtuSzM7ewIITDH5V5HQ/view
-
-### 10/1 War ([slides](assets/slides/war.pptx))
-
-*Complete this [survey](http://goo.gl/IePM6M) by Tuesday 9/30 at 11:59pm.*
-
-*Complete this [essay assignment][essay1] by Thursday 10/2 at 11:59pm.*
-
-   [essay1]: http://www.crowdgrader.org/crowdgrader/venues/join/467/ninasu_pybyzy_dycary_befobi
-
-Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (or read the [summary][weapons_summary])
+Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (commentaries)
 
 Dunlap, "[The Military-Industrial Complex][military]"
 
@@ -82,126 +49,66 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
    [weapons]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00097
    [military]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
-   [weapons_summary]: https://docs.google.com/document/d/1w7H6Oa6ZNe7bzhWrlQTg42Qv3pVGtIO_n4fWncqLqRg/edit?usp=sharing
 
-### 10/8 Education ([slides](assets/slides/education.pptx))
+### 2/20 Finance
 
-*Complete this [survey](http://goo.gl/CfQnTr) by Tuesday 10/7 at 11:59pm.*
-
-*Complete your [peer reviews][essay1] by Friday 10/10 at 4:00pm.*
-
-Papert, "Mathophobia: The Fear of Learning" is Chapter 2 of Mindstorms and
-appears in your reader. (There is also an [online chapter
-summary][mathphobia_summary] with excerpts posted on an external site.)
-
-Fish, "[The Two Cultures of Educational Reform][cultures]" ([summary][cultures_summary])
-
-   [mathphobia_summary]: https://tomkersten.com/book-reports/mindstorms/#chapter-2
-   [cultures]: http://opinionator.blogs.nytimes.com/2013/08/26/the-two-cultures-of-educational-reform/?_r=0&pagewanted=print
-   [cultures_summary]: https://docs.google.com/document/d/1ib1SiFgBETXuUzDENxvit374m1lthBNkZUmroAvypBc/edit?usp=sharing
-
-### 10/15 Finance ([slides](assets/slides/finance.pdf))
-
-*Complete this [survey](http://goo.gl/bEpYGV) by Wednesday 10/15 at 4pm.*
-
-Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" ([summary][hft_summary])
-
-Norvig, "[Economics Simulation][norvig_econ]"
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (commentaries)
 
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
-   [norvig_econ]: http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb
-   [hft_summary]: https://docs.google.com/document/d/1LaTomtu4qEvl2HNAQn573239bA46q7E9udy4kGqeWWw/edit?usp=sharing
 
-### 10/22 Economics ([slides](assets/slides/economics.pdf))
-
-*Complete this [survey](http://goo.gl/uGt85h) by Wednesday 10/22 at 4pm.*
-
-*Complete [essay assignment 2][essay2] by Thursday 10/30 at 11:59pm.*
-
-   [essay2]: http://www.crowdgrader.org/crowdgrader/venues/join/534/zidyda_zubygi_dezaqe_zivudo
-
-Simon, "[Public Administration in Today's World of Organizations and Markets][simon_last_lecture]"
-
-Varian, "[Beyond Big Data][transactions]"
+### 2/27 Jobs
 
 Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
 
-Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" ([summary][ai_jobs_summary])
+Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
 
-   [simon_last_lecture]: assets/pdfs/simon_last_lecture.pdf
-   [transactions]: http://people.ischool.berkeley.edu/~hal/Papers/2013/BeyondBigDataPaperFINAL.pdf
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
-   [ai_jobs_summary]: https://docs.google.com/document/d/1Ntr9tHyPOsjJtQMlb-wsJ8uVYM78L2EB66rMNbMPCqg/edit?usp=sharing
 
-### 10/29 Politics ([slides](assets/slides/politics.pdf))
+### 3/6 Currency
 
-*Complete this [survey](http://goo.gl/lVGV6o) by Wednesday 10/29 at 4pm.*
+TBD
 
-Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" ([summary][revolution_summary])
+### 3/13 Politics
+
+Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" (commentaries)
+
+Garrett and Resnick, "[Resisting Political Fragmentation on the Internet][fragmentation]"
 
 Balz, "[How the Obama campaign won the race for voter data][obama]"
 
    [revolution]: http://www.newyorker.com/magazine/2010/10/04/small-change-3
+   [fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118#.VM-8cWTF-AI
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
-   [revolution_summary]: https://docs.google.com/document/d/1UlMfadx8gcS0JNwdNZJk59VEIByhB-Pr5XiaQ1-V-UE/edit?usp=sharing
 
-### 11/5 Games ([slides](assets/slides/games.pptx))
+### 3/20 *No Lecture* (Enjoy Spring Break)
 
-*Complete this [survey](http://goo.gl/I2g4YV) by Wednesday 11/5 at 4pm.*
+### 4/3 Software
 
-*Complete [essay 2 peer reviewing][essay2] by Thursday 11/6 at 11:59pm.*
-
-von Ahn and Dabbish, "[Designing Games with a Purpose][games_purpose]" ([summary][games_purpose_summary])
-
-Gentile et al., "[The effects of violent video game habits on adolescent hostility,
-aggressive behaviors, and school performance][violent_games]"
-
-Jenkins, "[Reality Bytes: Eight Myths About Video Games Debunked][games_myths]"
-
-   [games_purpose]: http://doi.acm.org/10.1145/1378704.1378719
-   [violent_games]: http://inst.eecs.berkeley.edu/~cs10/fa10/readings/videogames/gentile_violence.pdf
-   [games_myths]: http://www.pbs.org/kcts/videogamerevolution/impact/myths.html
-   [games_purpose_summary]: https://docs.google.com/document/d/1OBFY_BBbItTA8zYIvtV4MHnF3myo0WyjktTL5mGZJKY/edit?usp=sharing
-
-### 11/12 Software Risks ([slides](assets/slides/risks.pdf))
-
-*Complete this [survey](http://goo.gl/NMeZ2G) by Wednesday 11/12 at 4pm.*
-
-Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" ([summary][therac_summary])
-
-Hochheiser, "Workplace Database systems: Difficulties in ata collection & presentation" (reader)
+Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
-   [therac_summary]: https://docs.google.com/document/d/1P5gU56nJRmZZINUnGRu6Hn3NFRMhvErk_cB6Lqi4bVI/edit?usp=sharing
 
-### 11/19 Professional Ethics ([slides](assets/slides/prof-ethics.pptx))
-
-*Complete this [survey](http://goo.gl/gEZ0J8) by Wednesday 11/12 at 4pm.*
-
-*Complete [essay 3][essay3] by Wednesday 11/26 at 11:59pm.*
-
-   [essay3]: http://www.crowdgrader.org/crowdgrader/venues/join/603/myduzo_serogu_nepysa_nutady
+### 4/10 Professional Ethics
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
-Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" ([summary][using_summary])
-
-Bok, "The Morality of Whistle-Blowing" (reader)
+Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commentaries)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
-   [using_summary]: https://docs.google.com/document/d/1OzHvaG7UQoO4VC94nzsbbYJZNHZzEwAD5_duQFTa1P0/edit?usp=sharing
 
-### 11/26 *No Class! Happy Thanksgiving*
+### 4/17 Extinction
 
-### 12/3 Existential Threats ([slides](assets/slides/existential-risks.pptx))
-
-**Complete this [survey](http://goo.gl/4mR0HY) by Wednesday 12/3 at 4pm.**
-
-**Complete [essay 3 peer reviewing][essay3] by Thursday 12/4 at 11:59pm.**
-
-Joy, "[Why the Future Doesn't Need Us][future]" ([summary][future_summary])
+Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
-   [future_summary]: https://docs.google.com/document/d/1Pv2iqCYSYGbdEtdeuwDecZgFFsRtrGRGtmEIgMKq8Tc/edit?usp=sharing
+
+### 4/24 Climate
+
+TBD
+
+### 5/1 Wealth
+
+TBD
+
