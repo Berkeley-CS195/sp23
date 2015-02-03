@@ -65,7 +65,7 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
 
-### 3/6 Currency
+### 3/6 Environment
 
 TBD
 
@@ -98,17 +98,18 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
 
-### 4/17 Extinction
+### 4/17 Currency
+
+TBD
+
+### 4/24 Poverty
+
+TBD
+
+### 5/1 Extinction
 
 Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
 
-### 4/24 Climate
-
-TBD
-
-### 5/1 Wealth
-
-TBD
 
