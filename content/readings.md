@@ -13,7 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 1/30 Privacy
 
-**Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.**
+*Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -26,6 +26,8 @@ Miller, "[Addicted to Apps][addicted]"
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
 ### 2/6 Copyright
+
+**Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.**
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
@@ -42,19 +44,22 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (commentaries)
 
-Dunlap, "[The Military-Industrial Complex][military]"
-
 Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
+[Utilitarianism][stanford_utility]
+
    [weapons]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00097
-   [military]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
+   [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
 
 ### 2/20 Finance
 
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (commentaries)
 
+[Kant's Morality][stanford_kant]
+
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
 ### 2/27 Jobs
 
@@ -65,7 +70,7 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
 
-### 3/6 Environment
+### 3/6 Climate
 
 TBD
 
@@ -87,9 +92,12 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
-   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+[Virtue Ethics][stanford_virtue]
 
-### 4/10 Professional Ethics
+   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+   [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
+
+### 4/10 Ethics
 
 ACM, "[Professional Code of Conduct][acm_code]"
 

@@ -33,7 +33,16 @@ small-group discussion section during the week before the topic is discussed in
 lecture, in order to clarify your commentary ideas. A schedule of discussions
 will be published each week.
 
-A survey will be released on Wednesday 2/4 in which you will select a topic.
+Monday 11am-12pm discussions will be held in 606 Soda.
+
+Wednesday 1pm-2pm and 2pm-3pm discussions will be held in the Goldman School of
+Public Policy's "Quiet Study Room".  To access the QSR enter GSPP from Hearst
+St.  There are two buildings on the GSPP campus - the QSR is on the second
+floor in the east building (the building furthest from the ocean).  Once you
+enter the east building immediately take a right - you'll walk through the
+living room to the far wall (south side of the building).  There you will find
+stairs to the second floor - once on the second floor walk past the desk and
+the only doors on that level provide access to the QSR. Ask if you're lost.
 
 Commentaries
 ------------
