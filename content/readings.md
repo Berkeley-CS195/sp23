@@ -27,7 +27,7 @@ Miller, "[Addicted to Apps][addicted]"
 
 ### 2/6 Copyright
 
-**Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.**
+*Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.*
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
@@ -41,6 +41,10 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 2/13 War
+
+**Please complete the [War Survey](http://goo.gl/k2do6V) before class.**
+
+**Choose a [commentary topic](http://goo.gl/UuRkqg) by Tuesday 2/10 (or now).**
 
 Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (commentaries)
 
