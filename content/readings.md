@@ -58,6 +58,8 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
 ### 2/20 Finance
 
+** Complete [essay 1](http://www.crowdgrader.org/crowdgrader/venues/join/824/bicupy_muquby_bowubi_panide) by Monday 2/23 **
+
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (commentaries)
 
 [Kant's Morality][stanford_kant]
