@@ -42,9 +42,9 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 2/13 War
 
-**Please complete the [War Survey](http://goo.gl/k2do6V) before class.**
+*Please complete the [War Survey](http://goo.gl/k2do6V) before class.*
 
-**Choose a [commentary topic](http://goo.gl/UuRkqg) by Tuesday 2/10 (or now).**
+*Choose a [commentary topic](http://goo.gl/UuRkqg) by Tuesday 2/10 (or now).*
 
 Mahnken, "[Weapons: The Growth & Spread of the Precision-Strike Regime][weapons]" (commentaries)
 
@@ -58,7 +58,9 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
 
 ### 2/20 Finance
 
-** Complete [essay 1](http://www.crowdgrader.org/crowdgrader/venues/join/824/bicupy_muquby_bowubi_panide) by Monday 2/23 **
+*Complete [essay 1](http://www.crowdgrader.org/crowdgrader/venues/join/824/bicupy_muquby_bowubi_panide) by Monday 2/23*
+
+*Please complete the [Finance Survey](http://goo.gl/kzw76u) before class.*
 
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (commentaries)
 
@@ -69,6 +71,10 @@ Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (c
 
 ### 2/27 Jobs
 
+**Complete [essay 1 peer reviews](https://www.crowdgrader.org/crowdgrader/venues/view_venue/824) by Monday 3/2**
+
+*Please complete the [Jobs Survey](http://goo.gl/hdkpqm) before class.*
+
 Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
 
 Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
@@ -78,9 +84,18 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
 
 ### 3/6 Climate
 
-TBD
+*Please complete the Climate Change Survey before class.*
+
+Canadell and Raupach, "[Global carbon report: emissions will hit new heights in 2014][climate]"
+
+Furman, Shadbegian and Stock, "[The cost of delaying action to stem climate change][delay]"
+
+   [climate]: http://theconversation.com/global-carbon-report-emissions-will-hit-new-heights-in-2014-31834
+   [delay]: http://www.voxeu.org/article/cost-delaying-action-stem-climate-change-meta-analysis
 
 ### 3/13 Politics
+
+Complete essay 2 by Monday 3/16
 
 Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" (commentaries)
 
@@ -92,7 +107,9 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
    [fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118#.VM-8cWTF-AI
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
 
-### 3/20 *No Lecture* (Enjoy Spring Break)
+### 3/20 Film Screening: The Man Who Saved the World
+
+Complete essay 2 peer reviews by Tuesday 3/31
 
 ### 4/3 Software
 
@@ -112,18 +129,19 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
 
-### 4/17 Currency
+### 4/17 Poverty
+
+Complete essay 3 by Monday 4/20
 
 TBD
 
-### 4/24 Poverty
+### 4/24 Extinction
 
-TBD
-
-### 5/1 Extinction
+Complete essay 3 peer reviews by Monday 4/27
 
 Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
 
 
+### 5/1 Ask DeNero Anything
