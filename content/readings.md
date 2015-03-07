@@ -71,7 +71,7 @@ Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (c
 
 ### 2/27 Jobs
 
-**Complete [essay 1 peer reviews](https://www.crowdgrader.org/crowdgrader/venues/view_venue/824) by Monday 3/2**
+*Complete [essay 1 peer reviews](https://www.crowdgrader.org/crowdgrader/venues/view_venue/824) by Monday 3/2*
 
 *Please complete the [Jobs Survey](http://goo.gl/hdkpqm) before class.*
 
@@ -84,18 +84,23 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
 
 ### 3/6 Climate
 
-*Please complete the Climate Change Survey before class.*
+*Please complete the [Climate Change Survey](goo.gl/BLNzq6) before class.*
 
 Canadell and Raupach, "[Global carbon report: emissions will hit new heights in 2014][climate]"
+
+Plumer, "[7 charts to help make sense of this week's UN climate talks][vox_climate]" (commentaries)
 
 Furman, Shadbegian and Stock, "[The cost of delaying action to stem climate change][delay]"
 
    [climate]: http://theconversation.com/global-carbon-report-emissions-will-hit-new-heights-in-2014-31834
+   [vox_climate]: http://www.vox.com/2014/12/1/7314727/un-climate-talks-lima
    [delay]: http://www.voxeu.org/article/cost-delaying-action-stem-climate-change-meta-analysis
 
 ### 3/13 Politics
 
-Complete essay 2 by Monday 3/16
+**Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16**
+
+*Please complete the Politics Survey before class.*
 
 Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" (commentaries)
 
