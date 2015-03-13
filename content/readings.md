@@ -100,7 +100,7 @@ Furman, Shadbegian and Stock, "[The cost of delaying action to stem climate chan
 
 **Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16**
 
-*Please complete the Politics Survey before class.*
+**Please complete the [Politics Survey](http://goo.gl/cmx0Fj) before class.**
 
 Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" (commentaries)
 
@@ -112,7 +112,7 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
    [fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118#.VM-8cWTF-AI
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
 
-### 3/20 Film Screening: The Man Who Saved the World
+### 3/20 No class: enjoy spring break
 
 Complete essay 2 peer reviews by Tuesday 3/31
 
