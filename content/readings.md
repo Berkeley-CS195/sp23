@@ -98,9 +98,9 @@ Furman, Shadbegian and Stock, "[The cost of delaying action to stem climate chan
 
 ### 3/13 Politics
 
-**Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16**
+*Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
 
-**Please complete the [Politics Survey](http://goo.gl/cmx0Fj) before class.**
+*Please complete the [Politics Survey](http://goo.gl/cmx0Fj) before class.*
 
 Gladwell, "[Small Change: Why the Revolution will not be Tweeted][revolution]" (commentaries)
 
@@ -114,9 +114,11 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
 
 ### 3/20 No class: enjoy spring break
 
-Complete essay 2 peer reviews by Tuesday 3/31
-
 ### 4/3 Software
+
+*Complete [essay 2 peer reviews](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Tuesday 3/31*
+
+**Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.**
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
@@ -131,8 +133,11 @@ ACM, "[Professional Code of Conduct][acm_code]"
 
 Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commentaries)
 
+(Optional) MacIntyre, Chapter 14 of [After Virtue][macintyre], "The Nature of the Virtues" (see first search result)
+
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
+   [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
 ### 4/17 Poverty
 
