@@ -118,7 +118,7 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
 
 *Complete [essay 2 peer reviews](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Tuesday 3/31*
 
-**Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.**
+*Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.*
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
@@ -128,6 +128,8 @@ Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (co
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
 
 ### 4/10 Ethics
+
+**Please complete the [Professional Ethics Survey](http://goo.gl/1uF2ze) before class.**
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
