@@ -129,7 +129,7 @@ Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (co
 
 ### 4/10 Ethics
 
-**Please complete the [Professional Ethics Survey](http://goo.gl/1uF2ze) before class.**
+*Please complete the [Professional Ethics Survey](http://goo.gl/1uF2ze) before class.*
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -143,17 +143,21 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
 
 ### 4/17 Poverty
 
-Complete essay 3 by Monday 4/20
+**Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21**
 
-TBD
+Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
+
+Rotman, "[Technology and Inequality][rotman]"
+
+   [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
+   [rotman]: http://www.technologyreview.com/featuredstory/531726/technology-and-inequality/
 
 ### 4/24 Extinction
 
-Complete essay 3 peer reviews by Monday 4/27
+*Complete essay 3 peer reviews by Tuesday 4/28*
 
 Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
-
 
 ### 5/1 Ask DeNero Anything
