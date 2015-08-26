@@ -11,9 +11,9 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 1/23 Free Speech
-<!--
-### 1/30 Privacy
 
+### 1/30 Privacy: Readings and Survey coming soon.
+<!--
 *Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
