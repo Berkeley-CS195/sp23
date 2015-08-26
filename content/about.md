@@ -10,19 +10,18 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Friday class meeting will be used to prepare for the
+The week before each Wednesday class meeting will be used to prepare for the
 upcoming discussion-oriented class section.
 
 * Over the weekend, any student who is attending discussion sections and
   writing commentary for the upcoming topic should complete the readings.
 
-* Small-group discussions will be held Monday through Wednesday to develop
+* Small-group discussions will be held on Monday develop
   commentary topics and assign students to commentaries.
 
-* Commentaries will be completed and shared with the class by Thursday at noon.
+* Commentaries will be completed and shared with the class by Tuesday at 6PM.
 
-* On Friday, class will consist of lecture and discussion on the weekly topic.
-  All students should complete the readings and weekly survey before class.
+* On Wednesday, class will consist of lecture and discussion on the weekly topic. All students should complete the readings and weekly survey before class.
 
 Discussions
 -----------
@@ -33,16 +32,7 @@ small-group discussion section during the week before the topic is discussed in
 lecture, in order to clarify your commentary ideas. A schedule of discussions
 will be published each week.
 
-Monday 11am-12pm discussions will be held in 606 Soda.
-
-Wednesday 1pm-2pm and 2pm-3pm discussions will be held in the Goldman School of
-Public Policy's "Quiet Study Room".  To access the QSR enter GSPP from Hearst
-St.  There are two buildings on the GSPP campus - the QSR is on the second
-floor in the east building (the building furthest from the ocean).  Once you
-enter the east building immediately take a right - you'll walk through the
-living room to the far wall (south side of the building).  There you will find
-stairs to the second floor - once on the second floor walk past the desk and
-the only doors on that level provide access to the QSR. Ask if you're lost.
+Discussion times will be announced after the first lecture.
 
 Commentaries
 ------------
@@ -64,7 +54,7 @@ contribute to a commentary (and thereby fulfill your course requirement), you
 must improve the Google Doc in some way and add your name to the bottom.
 
 The text of each commentary (without author names) will be posted to Piazza on
-Thursday at noon before class, so that other students can read it and discuss
+Tuesday at 6PM before class, so that other students can read it and discuss
 it. Some commentaries may be selected for a short in-class presentation. The
 instructor will contact authors via email about these optional presentations.
 
@@ -93,12 +83,21 @@ The course is graded P/NP. The reason for that policy is to ensure that you can
 feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
-In order to receive a passing grade in CS 195, you must:
+In order to receive a passing grade in CS 195, you must earn at least 68 points, in addition to participation in a collaborative comments and small group discussion section. 
 
- * Complete at least 10 surveys
+The expected way to pass the course is as follows:
+
+ * Complete at least 10 or more surveys (10 points).
+ * Attend 10 or more lectures.
+ * Submit 2 essays and receive a passing peer review (3/5) on all of them
+ * Provide peer reviews for 6 essays
  * Participate in 1 collaborative commentary and attend its small-group discussion section
- * Submit 3 essays and receive a passing peer review (3/5) on all of them
- * Provide peer reviews for 9 essays
+ 
+However, to give you some flexibility, you may design your own way to reach 68 points according to the following point values:
 
-Students who attend at least 10 class sessions and respond to discussion
-questions during class may skip/drop one of the essays and 3 peer reviews.
+ * Surveys, 1 point each, for a max of 10 points
+ * Lecture attendance, 2 points each, for a max of 20 points
+ * Writing essays, 10 points each, for a max of 30 points
+ * Peer grading, 3 points each, for a max of 30 points
+
+

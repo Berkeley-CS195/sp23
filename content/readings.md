@@ -1,6 +1,7 @@
 ~ title: Topics, Assignments, and Readings
 
-**>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<**
+<!-- **>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<** -->
+Lecture screencasts will be posted here after each lecture.
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -10,7 +11,7 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 1/23 Free Speech
-
+<!--
 ### 1/30 Privacy
 
 *Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.*
@@ -161,3 +162,4 @@ Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
 
 ### 5/1 Ask DeNero Anything
+-->
