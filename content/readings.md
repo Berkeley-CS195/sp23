@@ -13,8 +13,8 @@ VPN][vpn] on your computer (better privacy).
 ### 1/23 Free Speech
 
 ### 1/30 Privacy: Readings and Survey coming soon.
-<!--
-*Please complete the [Privacy Survey](http://goo.gl/hmGkem) before class.*
+
+*Please complete the [Privacy Survey](http://goo.gl/forms/VNK2ivzusm) before class.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -25,7 +25,7 @@ Miller, "[Addicted to Apps][addicted]"
    [why_privacy]: http://www.jstor.org/stable/2265077
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
-
+<!--
 ### 2/6 Copyright
 
 *Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.*
