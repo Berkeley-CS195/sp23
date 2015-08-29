@@ -1,7 +1,7 @@
 ~ title: Topics, Assignments, and Readings
 
 <!-- **>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<** -->
-Lecture screencasts will be posted here after each lecture.
+Lecture screencasts will be posted ...
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -10,11 +10,11 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 1/23 Free Speech
+### 8/26 Free Speech
 
-### 1/30 Privacy: Readings and Survey coming soon.
+### 9/2 Privacy: Readings and Survey coming soon.
 
-*Please complete the [Privacy Survey](http://goo.gl/forms/VNK2ivzusm) before class.*
+*Please complete the [Privacy Survey](https://goo.gl/vp6fcp) before class.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -25,9 +25,10 @@ Miller, "[Addicted to Apps][addicted]"
    [why_privacy]: http://www.jstor.org/stable/2265077
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
-<!--
-### 2/6 Copyright
 
+### 9/9 Copyright
+
+<!--
 *Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.*
 
 Stallman, "[Misinterpreting Copyright][copyright]"
@@ -41,8 +42,12 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 2/13 War
+-->
+### 9/16 Morality
 
+### 9/23 War
+
+<!--
 *Please complete the [War Survey](http://goo.gl/k2do6V) before class.*
 
 *Choose a [commentary topic](http://goo.gl/UuRkqg) by Tuesday 2/10 (or now).*
@@ -57,8 +62,10 @@ Shaffer "[Artificial Intelligence Outsmarts the Bomb][bomb]"
    [bomb]: http://engineering.berkeley.edu/sites/default/files/docs/2011Fall.pdf
    [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
 
-### 2/20 Finance
+-->
+### 9/30 Finance
 
+<!--
 *Complete [essay 1](http://www.crowdgrader.org/crowdgrader/venues/join/824/bicupy_muquby_bowubi_panide) by Monday 2/23*
 
 *Please complete the [Finance Survey](http://goo.gl/kzw76u) before class.*
@@ -70,8 +77,10 @@ Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (c
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
-### 2/27 Jobs
+-->
+### 10/7 Jobs
 
+<!--
 *Complete [essay 1 peer reviews](https://www.crowdgrader.org/crowdgrader/venues/view_venue/824) by Monday 3/2*
 
 *Please complete the [Jobs Survey](http://goo.gl/hdkpqm) before class.*
@@ -83,22 +92,10 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
 
-### 3/6 Climate
+-->
+### 10/14 Politics
 
-*Please complete the [Climate Change Survey](goo.gl/BLNzq6) before class.*
-
-Canadell and Raupach, "[Global carbon report: emissions will hit new heights in 2014][climate]"
-
-Plumer, "[7 charts to help make sense of this week's UN climate talks][vox_climate]" (commentaries)
-
-Furman, Shadbegian and Stock, "[The cost of delaying action to stem climate change][delay]"
-
-   [climate]: http://theconversation.com/global-carbon-report-emissions-will-hit-new-heights-in-2014-31834
-   [vox_climate]: http://www.vox.com/2014/12/1/7314727/un-climate-talks-lima
-   [delay]: http://www.voxeu.org/article/cost-delaying-action-stem-climate-change-meta-analysis
-
-### 3/13 Politics
-
+<!--
 *Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
 
 *Please complete the [Politics Survey](http://goo.gl/cmx0Fj) before class.*
@@ -113,10 +110,12 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
    [fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118#.VM-8cWTF-AI
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
 
-### 3/20 No class: enjoy spring break
+-->
+### 10/21 TBD
 
-### 4/3 Software
+### 10/28 Software
 
+<!--
 *Complete [essay 2 peer reviews](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Tuesday 3/31*
 
 *Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.*
@@ -128,8 +127,10 @@ Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (co
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
 
-### 4/10 Ethics
+-->
+### 11/4 Professional Ethics
 
+<!--
 *Please complete the [Professional Ethics Survey](http://goo.gl/1uF2ze) before class.*
 
 ACM, "[Professional Code of Conduct][acm_code]"
@@ -142,8 +143,10 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
    [using]: http://www.acm.org/about/p98-anderson.pdf
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
-### 4/17 Poverty
+-->
+### 11/18 Poverty
 
+<!--
 **Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21**
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
@@ -153,8 +156,10 @@ Rotman, "[Technology and Inequality][rotman]"
    [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
    [rotman]: http://www.technologyreview.com/featuredstory/531726/technology-and-inequality/
 
-### 4/24 Extinction
+-->
+### 12/2 Conclusion
 
+<!--
 *Complete essay 3 peer reviews by Tuesday 4/28*
 
 Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
