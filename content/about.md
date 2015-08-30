@@ -83,21 +83,21 @@ The course is graded P/NP. The reason for that policy is to ensure that you can
 feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
-In order to receive a passing grade in CS 195, you must earn at least 68 points, in addition to participation in a collaborative comments and small group discussion section. 
+In order to receive a passing grade in CS 195, you must earn at least 80 points, in addition to participation in a collaborative comments and small group discussion section. 
 
 The expected way to pass the course is as follows:
 
  * Complete at least 10 or more surveys (10 points).
  * Attend 10 or more lectures.
- * Submit 2 essays and receive a passing peer review (3/5) on all of them
- * Provide peer reviews for 6 essays
- * Participate in 1 collaborative commentary and attend its small-group discussion section
+ * Submit 3 essays and receive a passing peer review (3/5) on all of them.
+ * Provide peer reviews for 9 essays.
+ * Participate in 1 collaborative commentary and attend its small-group discussion section.
  
-However, to give you some flexibility, you may design your own way to reach 68 points according to the following point values:
+However, to give you a small degree of flexibility, you may design your own way to reach 80 points according to the following point values:
 
  * Surveys, 1 point each, for a max of 10 points
  * Lecture attendance, 2 points each, for a max of 20 points
  * Writing essays, 10 points each, for a max of 30 points
- * Peer grading, 3 points each, for a max of 30 points
+ * Peer grading, 3 points each, for a max of 29 points
 
 
