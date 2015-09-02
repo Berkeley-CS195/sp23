@@ -12,7 +12,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 8/26 Free Speech
 
-### 9/2 Privacy: Readings and Survey coming soon.
+### 9/2 Privacy
 
 *Please complete the [Privacy Survey](https://goo.gl/vp6fcp) before class.*
 
