@@ -93,7 +93,7 @@ Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
 
 -->
-### 10/14 Politics
+### 10/14 Government Censorship and Surveillance
 
 <!--
 *Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
@@ -111,7 +111,7 @@ Balz, "[How the Obama campaign won the race for voter data][obama]"
    [obama]: http://www.washingtonpost.com/politics/how-the-obama-campaign-won-the-race-for-voter-data/2013/07/28/ad32c7b4-ee4e-11e2-a1f9-ea873b7e0424_story.html
 
 -->
-### 10/21 TBD
+### 10/21 Education and Media
 
 ### 10/28 Software
 
