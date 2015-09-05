@@ -3,6 +3,8 @@
 <!-- **>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<** -->
 Lecture screencasts will be posted ...
 
+[Attendance form is here](https://goo.gl/vL5KNJ)
+
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
 VPN][vpn] on your computer (better privacy).
@@ -28,9 +30,6 @@ Miller, "[Addicted to Apps][addicted]"
 
 ### 9/9 Copyright
 
-<!--
-*Please complete the [Copyright Survey](http://goo.gl/BY920C) before class.*
-
 Stallman, "[Misinterpreting Copyright][copyright]"
 
 Stallman, "[The Dangers of Software Patents][no_patent]" ([Video][no_patent_video])
@@ -42,7 +41,6 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
--->
 ### 9/16 Morality
 
 ### 9/23 War
