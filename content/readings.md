@@ -30,6 +30,8 @@ Miller, "[Addicted to Apps][addicted]"
 
 ### 9/9 Copyright
 
+**Please complete the [Copyright Survey](https://goo.gl/OYmrnx) before class.**
+
 Stallman, "[Misinterpreting Copyright][copyright]"
 
 Stallman, "[The Dangers of Software Patents][no_patent]" ([Video][no_patent_video])
