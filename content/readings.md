@@ -43,7 +43,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 9/16 Morality
+### 9/16 No Class
 
 ### 9/23 War
 
