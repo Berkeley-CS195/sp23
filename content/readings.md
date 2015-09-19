@@ -50,7 +50,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 <!--*Please complete the [War Survey](http://goo.gl/k2do6V) before class.*-->
 
-*Choose a [discussion and commentary topic](http://goo.gl/UuRkqg) ASAP.*
+*Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
    - Monday, 4-5 PM discussions will be in Cory 299
    - Monday, 5-6 PM discussions will be in Soda 606
 
@@ -60,11 +60,14 @@ Drones (three short readings):
    - "[Our Drone War Burnout][drones3]" (heads up: first two paragraphs are a bit brutal)
 
 Automated Weapons Ban (three short readings): 
-   - "[We Should Not Ban ‘Killer Robots,’ and Here’s Why][killbot1]"
+   - "[We Should Not Ban 'Killer Robots,' and Here's Why][killbot1]"
    - "[Why We Really Should Ban Autonomous Weapons: A Response][killbot2]"
    - "[Ban or No Ban, Hard Questions Remain on Autonomous Weapons][killbot3]"
 
-<!-- [Utilitarianism][stanford_utility] -->
+Consequentialism (two short readings):
+   - "[Philosophy - Ethics: Consequentialism][consequentialism1]"
+   - "[The Status of Moral Emotions in Consequentialist Moral Reasoning, pages 1-7 only][consequentialism2]"
+   - For even more, see [Stanford's Encyclopedia of Philosophy][consequentialism3] or [The University of Tenneesse's Encyclopedia of Philosophy][consequentialism4]. These are not required readings and are fairly technical, dense reads.
 
    [drones1]: http://www.nytimes.com/2015/04/24/world/asia/drone-strikes-reveal-uncomfortable-truth-us-is-often-unsure-about-who-will-die.html?_r=0
    [drones2]: http://www.nytimes.com/2012/07/15/sunday-review/the-moral-case-for-drones.html
@@ -72,8 +75,10 @@ Automated Weapons Ban (three short readings):
    [killbot1]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/we-should-not-ban-killer-robots   
    [killbot2]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/why-we-really-should-ban-autonomous-weapons
    [killbot3]: http://spectrum.ieee.org/automaton/robotics/military-robots/ban-or-no-ban-hard-questions-remain-on-autonomous-weapons
-   [stanford_utility]: http://plato.stanford.edu/entries/consequentialism/#ClaUti
-
+   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
+   [consequentialism2]: http://www.law.yale.edu/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
+   [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
+   [consequentialism4]: http://www.iep.utm.edu/conseque/
 <!--
 ### 9/30 Finance
 
