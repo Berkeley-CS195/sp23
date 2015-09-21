@@ -18,6 +18,8 @@ upcoming discussion-oriented class section.
 
 * Small-group discussions will be held on Monday develop
   commentary topics and assign students to commentaries.
+    - Monday 4 PM discussions will be held in 299 Cory.
+    - Monday 5 PM discussions will be held in 606 Soda.
 
 * Commentaries will be completed and shared with the class by Tuesday at 6PM.
 

@@ -48,7 +48,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 ### 9/23 War
 
 
-<!--*Please complete the [War Survey](http://goo.gl/k2do6V) before class.*-->
+*Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.
 
 *Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
    - Monday, 4-5 PM discussions will be in Cory 299
@@ -66,7 +66,7 @@ Automated Weapons Ban (three short readings):
 
 Consequentialism (two short readings):
    - "[Philosophy - Ethics: Consequentialism][consequentialism1]"
-   - "[The Status of Moral Emotions in Consequentialist Moral Reasoning, pages 1-7 only][consequentialism2]"
+   - "[The Status of Moral Emotions in Consequentialist Moral Reasoning][consequentialism2]" - pages 1-7 only
    - For even more, see [Stanford's Encyclopedia of Philosophy][consequentialism3] or [The University of Tenneesse's Encyclopedia of Philosophy][consequentialism4]. These are not required readings and are fairly technical, dense reads.
 
    [drones1]: http://www.nytimes.com/2015/04/24/world/asia/drone-strikes-reveal-uncomfortable-truth-us-is-often-unsure-about-who-will-die.html?_r=0
