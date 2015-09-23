@@ -48,18 +48,20 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 ### 9/23 War
 
 
-*Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.
+*Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.*
+
+**Please complete [Essay 1](http://www.crowdgrader.org/crowdgrader/venues/view_venue/1416) by Monday 10/5 @ 11:59pm.**
 
 *Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
    - Monday, 4-5 PM discussions will be in Cory 299
    - Monday, 5-6 PM discussions will be in Soda 606
 
-Drones (three short readings): 
+Drones (three short readings):
    - "[Drone Strikes Reveal Uncomfortable Truth: U.S. Is Often Unsure About Who Will Die][drones1]"
    - "[The Moral Case for Drones][drones2]"
    - "[Our Drone War Burnout][drones3]" (heads up: first two paragraphs are a bit brutal)
 
-Automated Weapons Ban (three short readings): 
+Automated Weapons Ban (three short readings):
    - "[We Should Not Ban 'Killer Robots,' and Here's Why][killbot1]"
    - "[Why We Really Should Ban Autonomous Weapons: A Response][killbot2]"
    - "[Ban or No Ban, Hard Questions Remain on Autonomous Weapons][killbot3]"
@@ -72,7 +74,7 @@ Consequentialism (two short readings):
    [drones1]: http://www.nytimes.com/2015/04/24/world/asia/drone-strikes-reveal-uncomfortable-truth-us-is-often-unsure-about-who-will-die.html?_r=0
    [drones2]: http://www.nytimes.com/2012/07/15/sunday-review/the-moral-case-for-drones.html
    [drones3]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
-   [killbot1]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/we-should-not-ban-killer-robots   
+   [killbot1]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/we-should-not-ban-killer-robots
    [killbot2]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/why-we-really-should-ban-autonomous-weapons
    [killbot3]: http://spectrum.ieee.org/automaton/robotics/military-robots/ban-or-no-ban-hard-questions-remain-on-autonomous-weapons
    [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
