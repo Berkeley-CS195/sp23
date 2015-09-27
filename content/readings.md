@@ -81,22 +81,26 @@ Consequentialism (two short readings):
    [consequentialism2]: http://www.law.yale.edu/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
-<!--
+
 ### 9/30 Finance
 
-<!--
-*Complete [essay 1](http://www.crowdgrader.org/crowdgrader/venues/join/824/bicupy_muquby_bowubi_panide) by Monday 2/23*
+-
+*Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
 
-*Please complete the [Finance Survey](http://goo.gl/kzw76u) before class.*
+*Please complete the [Finance Survey](http://goo.gl/forms/aCY8j2NCYP) before class.*
 
-Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]" (commentaries)
+Hug, "[A Stock Market Primer (draft)][stock_market_primer]" 
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
+Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
+[Optional Enyclopedia Entry on Kant's Morality][stanford_kant]
 
-[Kant's Morality][stanford_kant]
-
+   [stock_market_primer]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
--->
+
 ### 10/7 Jobs
 
 <!--
