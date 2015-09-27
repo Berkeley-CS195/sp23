@@ -90,8 +90,11 @@ Consequentialism (two short readings):
 *Please complete the [Finance Survey](http://goo.gl/forms/aCY8j2NCYP) before class.*
 
 Hug, "[A Stock Market Primer (draft)][stock_market_primer]" 
+
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
+
 Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
+
 [Optional Enyclopedia Entry on Kant's Morality][stanford_kant]
 
    [stock_market_primer]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
