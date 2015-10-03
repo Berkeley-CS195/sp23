@@ -95,7 +95,7 @@ Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
 
 Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
 
-[Optional Enyclopedia Entry on Kant's Morality][stanford_kant]
+For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant]. This is not required.
 
    [stock_market_primer]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
    [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
@@ -106,19 +106,24 @@ Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's M
 
 ### 10/7 Jobs
 
-<!--
-*Complete [essay 1 peer reviews](https://www.crowdgrader.org/crowdgrader/venues/view_venue/824) by Monday 3/2*
+*Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
 
-*Please complete the [Jobs Survey](http://goo.gl/hdkpqm) before class.*
+*Please complete the [Jobs Survey](http://goo.gl/forms/Q0hWQ1GR1w) before class.*
+
+CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
 Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
 
-Pew Center, "[AI, Robotics, and the Future of Jobs][ai_jobs]" (commentaries)
+Pew Center, "[AI, Robotics, and the Future of Jobs (page one)][ai_jobs]" 
 
+Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you just want the key ideas, I'd recommend reading starting from "To paraphrase the science-fiction novelist William Gibson," and then reading sections 3, 4, 5 and 6. 
+
+   [humans_need_not_apply]: https://www.youtube.com/watch?v=7Pq-S557XQU
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
+   [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
--->
+
 ### 10/14 Government Censorship and Surveillance
 
 <!--
@@ -174,6 +179,8 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
 
 <!--
 **Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21**
+
+Peter Singer's essay.
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
 
