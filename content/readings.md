@@ -135,18 +135,17 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
-   - Xuecun, "[Scaling China’s Great Firewall][chinese_censorship]"
-   - Nisbet and Mikati, "[Russians don’t trust the Internet — and it’s making the country worse][russian_censorship]"
+   - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
+   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
 
 United States Government (four short readings):
    - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
-   - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]"
-   - Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
+   - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
    - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
 
 Optional extra readings:
-   Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
-   Zimmerman, ["Should This Woman Have Her Life Ruined Because She Posted a Stupid Photo on Her Own Facebook Page?"][mob_censorship]
+   - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
+   - Zimmerman, ["Should This Woman Have Her Life Ruined Because She Posted a Stupid Photo on Her Own Facebook Page?"][mob_censorship]
 
    [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
    [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
