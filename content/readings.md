@@ -89,7 +89,7 @@ Consequentialism (two short readings):
 
 *Please complete the [Finance Survey](http://goo.gl/forms/aCY8j2NCYP) before class.*
 
-Hug, "[A Stock Market Primer (draft)][stock_market_primer]" 
+Hug, "[A Stock Market Primer (draft)][stock_market_primer]"
 
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
 
@@ -114,9 +114,9 @@ CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
 Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
 
-Pew Center, "[AI, Robotics, and the Future of Jobs (page one)][ai_jobs]" 
+Pew Center, "[AI, Robotics, and the Future of Jobs (page one)][ai_jobs]"
 
-Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you just want the key ideas, I'd recommend reading starting from "To paraphrase the science-fiction novelist William Gibson," and then reading sections 3, 4, 5 and 6. 
+Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you just want the key ideas, I'd recommend reading starting from "To paraphrase the science-fiction novelist William Gibson," and then reading sections 3, 4, 5 and 6.
 
    [humans_need_not_apply]: https://www.youtube.com/watch?v=7Pq-S557XQU
    [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
@@ -143,9 +143,9 @@ United States Government (four short readings):
    - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
    - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
 
-Optional extra readings:
+Optional extra readings/watching:
    - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
-   - Zimmerman, ["Should This Woman Have Her Life Ruined Because She Posted a Stupid Photo on Her Own Facebook Page?"][mob_censorship]
+   - Snowden, ["I don't want to live in a society that does these sort of things"][snowden]
 
    [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
    [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
@@ -155,11 +155,7 @@ Optional extra readings:
    [xkeyscore]: http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
    [pew_surveillance]: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
-   [mob_censorship]: http://gawker.com/5962189/should-this-woman-have-her-life-ruined-because-she-posted-a-stupid-photo-on-her-own-facebook-page
-
-
-
-
+   [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
 ### 10/21 Education and Media
 
