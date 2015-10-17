@@ -159,6 +159,8 @@ Optional extra readings/watching:
 
 Complete essay 2 <!--[essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave)--> by Monday 10/26
 
+*Please complete the [Politics and Media Survey](http://goo.gl/forms/PyMB3rpKd2) before class.*
+
 Elections (video):
    - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
 
