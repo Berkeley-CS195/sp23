@@ -126,12 +126,10 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
 
 ### 10/14 Government Censorship and Surveillance
 
-(Survey link coming soon)
 <!--
 *Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
-
-*Please complete the [Politics Survey](http://goo.gl/cmx0Fj) before class.*
 -->
+Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/UZ2u8Q) before class.*
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
@@ -157,7 +155,41 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 10/21 Education and Media
+### 10/21 Politics and Media
+
+Complete essay 2 <!--[essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave)--> by Monday 10/26
+
+Elections (video):
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
+
+Political Polarization (two short pieces):
+   - Pariser, ["Filter Bubbles (9 minute video)"][filter_bubble_ted]
+   - Bartels, ["(Not Much) Political Polarization in Europe"][polarization_in_europe]
+
+Political Action (two short readings, one long one):
+   - Wasik, ["Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions"][gladwell_vs_shirky]
+   - Gladwell, ["Small Change"][small_change]: (long)
+   - Tufekci, ["After the Protests"][turkey_social_media]
+
+Optional Political Polarization Reading:
+   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
+
+Optional Political Action Readings:
+   - Shirky, ["The Political Power of Social Media"][shirky]: Introductory Paragraph, "The Theater of Collapse", and "The Convervative Dilemma"
+   - Tufekci, ["Social movements and govenrments in the digital age: Evaluating a complex landscape"][tufekci_long]
+
+Note: For lack of time, we will not discuss the social implications of computing on the process of governance, e.g. ["How Sandy Changed Social Media Strategies in New York City"][social_media_NYC].
+
+   [harvard_debate]: https://youtu.be/jITEfXNJ9I0
+   [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
+   [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
+   [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
+   [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
+   [social_media_NYC]: http://www.govtech.com/public-safety/How-Sandy-Changed-Social-Media-Strategies-in-New-York-City.html
+   [gladwell_vs_shirky]: http://www.wired.com/2011/12/gladwell-vs-shirky/
+   [polarization_in_europe]: http://themonkeycage.org/2013/08/not-much-political-polarization-in-europe/
+   [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+   [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
 
 ### 10/28 Software
 
