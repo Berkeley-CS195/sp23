@@ -157,7 +157,7 @@ Optional extra readings/watching:
 
 ### 10/21 Politics and Media
 
-Complete essay 2 <!--[essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave)--> by Monday 10/26
+Complete essay 2 [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29
 
 *Please complete the [Politics and Media Survey](http://goo.gl/forms/PyMB3rpKd2) before class.*
 
@@ -195,19 +195,25 @@ Note: For lack of time, we will not discuss the social implications of computing
 
 ### 10/28 Software
 
-<!--
-*Complete [essay 2 peer reviews](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Tuesday 3/31*
 
-*Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.*
+*Complete [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29*
+
+<!--*Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.*-->
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
-[Virtue Ethics][stanford_virtue]
+Dartington, [Virtue Ethics][virtue_ethics_dartington]
+
+[Virtue Ethics in More Detail (optional)][stanford_virtue]
+
+Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (optional)][anscombe]
 
    [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+   [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
+   [anscombe]: http://www.pitt.edu/~mthompso/readings/mmp.pdf
 
--->
+
 ### 11/4 Professional Ethics
 
 <!--
