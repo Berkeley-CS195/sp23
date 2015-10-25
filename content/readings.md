@@ -198,7 +198,7 @@ Note: For lack of time, we will not discuss the social implications of computing
 
 *Complete [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29*
 
-<!--*Please complete the [Software Survey](http://goo.gl/vhU8yG) before class.*-->
+*Please complete the [Software Survey](http://goo.gl/forms/Rge44H4EHU) before class.*
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
