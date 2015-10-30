@@ -216,20 +216,23 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
 
 ### 11/4 Professional Ethics
 
-<!--
-*Please complete the [Professional Ethics Survey](http://goo.gl/1uF2ze) before class.*
+--
+*Please complete the [Professional Ethics Survey](http://goo.gl/forms/kkshLHaqbP) before class.*
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
 Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commentaries)
 
+Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination of Existing Studies and the Development of an Integrated Research Model, pg. 111-117 (esp. 111-114)][ethical_code_efficacy]"
+
 (Optional) MacIntyre, Chapter 14 of [After Virtue][macintyre], "The Nature of the Virtues" (see first search result)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
+   [ethical_code_efficacy]: http://link.springer.com/article/10.1007/s10551-006-9305-0
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
--->
+
 ### 11/18 Poverty
 
 <!--
