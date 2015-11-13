@@ -12,9 +12,9 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 8/26 Free Speech
+### 8/26 [Free Speech](https://docs.google.com/presentation/d/1ZvidUfL-viMk7-IdXJ_UYu1jHpkpB6qIb5Z_ZKybK0s/pub?start=false&loop=false&delayms=3000)
 
-### 9/2 Privacy
+### 9/2 [Privacy](https://docs.google.com/presentation/d/1PrLkSjwmR_zdKSDZSJOzUzs_r0AoGVzcIR8IvKHY2MA/pub?start=false&loop=false&delayms=3000)
 
 *Please complete the [Privacy Survey](https://goo.gl/vp6fcp) before class.*
 
@@ -28,7 +28,7 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 9/9 Copyright
+### 9/9 [Copyright](https://docs.google.com/presentation/d/1ChCovzdAqNc2h6MOhlxcdUCpMeIbLgpSRlgxngoGLkU/pub?start=false&loop=false&delayms=3000)
 
 **Please complete the [Copyright Survey](https://goo.gl/OYmrnx) before class.**
 
@@ -45,7 +45,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 9/16 No Class
 
-### 9/23 War
+### 9/23 [War](https://docs.google.com/presentation/d/16z6sIrDV-blz5vNu3KF6e4SLwFutq4-8L2WoSz79Pbk/pub?start=false&loop=false&delayms=3000)
 
 
 *Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.*
@@ -82,7 +82,7 @@ Consequentialism (two short readings):
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 9/30 Finance
+### 9/30 [Finance](https://docs.google.com/presentation/d/1ZJfUbCG9nTujNtmDMwSFT_vR57DW716C8lx166LmvCE/pub?start=false&loop=false&delayms=3000)
 
 -
 *Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
@@ -104,7 +104,7 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
 
-### 10/7 Jobs
+### 10/7 [Jobs](https://docs.google.com/presentation/d/1IJ-fyLSKhz07gNHYDBUwePw3HGrumoQi-hN5z_bH5Ds/pub?start=false&loop=false&delayms=3000)
 
 *Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
 
@@ -124,7 +124,7 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
    [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
 
-### 10/14 Government Censorship and Surveillance
+### 10/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1OnWtvWp-zefxJwxtoqUS8_IouGigS3Ka2auyLkIM7PI/pub?start=false&loop=false&delayms=3000)
 
 <!--
 *Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
@@ -155,7 +155,7 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 10/21 Politics and Media
+### 10/21 [Politics and Media](https://docs.google.com/presentation/d/1QYY2h3FOVIzl7KbyTcSNkZu7C8u2ZDeWYNNW4ZO9s70/pub?start=false&loop=false&delayms=3000)
 
 Complete essay 2 [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29
 
@@ -193,7 +193,7 @@ Note: For lack of time, we will not discuss the social implications of computing
    [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
    [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
 
-### 10/28 Software
+### 10/28 [Software](https://docs.google.com/presentation/d/1yX1UXDNxtXUWn5s-jYfs3DMTEqRGWdQZxpeZ5fMgX5w/pub?start=false&loop=false&delayms=3000)
 
 
 *Complete [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29*
@@ -235,19 +235,22 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
 
 ### 11/18 Poverty
 
-<!--
-**Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21**
 
-Peter Singer's essay.
+<!-- **Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21** -->
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
 
 Rotman, "[Technology and Inequality][rotman]"
 
+Singer, "[The Singer Solution to World Poverty][singer]"
+
+Packer, "[Change The World (optional)][packer]""
+
    [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
    [rotman]: http://www.technologyreview.com/featuredstory/531726/technology-and-inequality/
+   [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+   [packer]: http://www.newyorker.com/magazine/2013/05/27/change-the-world
 
--->
 ### 12/2 Conclusion
 
 <!--
