@@ -237,6 +237,7 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
 
 
 <!-- **Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21** -->
+*Please complete the [Poverty Survey](http://goo.gl/forms/bRDyNn8wvD) before class.*
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
 
@@ -244,7 +245,7 @@ Rotman, "[Technology and Inequality][rotman]"
 
 Singer, "[The Singer Solution to World Poverty][singer]"
 
-Packer, "[Change The World (optional)][packer]""
+Packer, "[Change The World (optional)][packer]"
 
    [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
    [rotman]: http://www.technologyreview.com/featuredstory/531726/technology-and-inequality/
