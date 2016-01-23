@@ -10,55 +10,21 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Wednesday class meeting will be used to prepare for the
+The week before each Monday class meeting will be used to prepare for the
 upcoming discussion-oriented class section.
 
-* Over the weekend, any student who is attending discussion sections and
-  writing commentary for the upcoming topic should complete the readings.
+* Small-group discussions will be held on Friday: 1pm-2pm in 540AB Cory (Josh)
+  and 2pm-3pm in 504 Cory (John)
 
-* Small-group discussions will be held on Monday develop
-  commentary topics and assign students to commentaries.
-    - Monday 4 PM discussions will be held in 299 Cory.
-    - Monday 5 PM discussions will be held in 606 Soda.
-
-* Commentaries will be completed and shared with the class by Tuesday at 6PM.
-
-* On Wednesday, class will consist of lecture and discussion on the weekly topic. All students should complete the readings and weekly survey before class.
+* On Monday, class will consist of lecture and discussion on the weekly topic.
+  All students should complete the readings and weekly survey before class.
 
 Discussions
 -----------
 
-Each student will select *one* weekly topic that interests them the most and
-contribute commentary on a reading for that topic. You are required to attend a
-small-group discussion section during the week before the topic is discussed in
-lecture, in order to clarify your commentary ideas. A schedule of discussions
-will be published each week.
-
-Discussion times will be announced after the first lecture.
-
-Commentaries
-------------
-
-For the topic of interest you select, you will collaboratively author a
-commentary document about the topic & chosen reading. A commentary is a short
-(~300 word) analysis or opinion statement related to a reading. Each commentary
-should begin with a thesis or topic sentence that clearly states which reading
-is being addressed. For example, a commentary related to the privacy reading
-"Addicted to Apps" could critique the article's statement that, "Inside tech
-companies, engineers would rather set aside pesky impediments like government
-regulations, social mores and people's fear of change."
-
-Topics of commentaries will be chosen during small-group discussion, which you
-need to attend during the week that you choose to write a commentary. Each
-commentary will be edited collaboratively as a Google Doc by a subset of the
-students who have selected to attend discussion that week. In order to
-contribute to a commentary (and thereby fulfill your course requirement), you
-must improve the Google Doc in some way and add your name to the bottom.
-
-The text of each commentary (without author names) will be posted to Piazza on
-Tuesday at 6PM before class, so that other students can read it and discuss
-it. Some commentaries may be selected for a short in-class presentation. The
-instructor will contact authors via email about these optional presentations.
+Each student will select *one* weekly topic that interests them the most. You
+are required to attend a small-group discussion section during the week before
+your topic is discussed in lecture.
 
 Surveys
 -------
@@ -85,7 +51,8 @@ The course is graded P/NP. The reason for that policy is to ensure that you can
 feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
-In order to receive a passing grade in CS 195, you must earn at least 80 points, in addition to participation in a collaborative comments and small group discussion section. 
+In order to receive a passing grade in CS 195, you must earn at least 80
+points, in addition to attending one small-group discussion.
 
 The expected way to pass the course is as follows:
 
@@ -93,9 +60,10 @@ The expected way to pass the course is as follows:
  * Attend 10 or more lectures.
  * Submit 3 essays and receive a passing peer review (3/5) on all of them.
  * Provide peer reviews for 9 essays.
- * Participate in 1 collaborative commentary and attend its small-group discussion section.
- 
-However, to give you a small degree of flexibility, you may design your own way to reach 80 points according to the following point values:
+ * Participate in a small-group discussion section.
+
+However, to give you a small degree of flexibility, you may design your own way
+to reach 80 points according to the following point values:
 
  * Surveys, 1 point each, for a max of 10 points
  * Lecture attendance, 2 points each, for a max of 20 points

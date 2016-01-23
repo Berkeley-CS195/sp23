@@ -1,9 +1,9 @@
 ~ title: Topics, Assignments, and Readings
 
-<!-- **>> [Lecture screencasts are on Youtube here](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e) <<** -->
+<!-- **>> [Lecture screencasts are on Youtube here] <<** -->
 Lecture screencasts will be posted ...
 
-[Attendance form is here](https://goo.gl/vL5KNJ)
+[Attendance form is here](http://goo.gl/forms/FRRPoYpwP9)
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -12,11 +12,11 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 8/26 [Free Speech](https://docs.google.com/presentation/d/1ZvidUfL-viMk7-IdXJ_UYu1jHpkpB6qIb5Z_ZKybK0s/pub?start=false&loop=false&delayms=3000)
+### 1/25 [Free Speech]
 
-### 9/2 [Privacy](https://docs.google.com/presentation/d/1PrLkSjwmR_zdKSDZSJOzUzs_r0AoGVzcIR8IvKHY2MA/pub?start=false&loop=false&delayms=3000)
+### 2/8 [Privacy]
 
-*Please complete the [Privacy Survey](https://goo.gl/vp6fcp) before class.*
+*Please complete the [Privacy Survey] before class.*
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -28,9 +28,11 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 9/9 [Copyright](https://docs.google.com/presentation/d/1ChCovzdAqNc2h6MOhlxcdUCpMeIbLgpSRlgxngoGLkU/pub?start=false&loop=false&delayms=3000)
+### 2/15 No Class
 
-**Please complete the [Copyright Survey](https://goo.gl/OYmrnx) before class.**
+### 2/22 [Copyright]
+
+<!-- *Please complete the [Copyright Survey] before class.* -->
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
@@ -43,14 +45,11 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 9/16 No Class
+### 2/29 [War]
 
-### 9/23 [War](https://docs.google.com/presentation/d/16z6sIrDV-blz5vNu3KF6e4SLwFutq4-8L2WoSz79Pbk/pub?start=false&loop=false&delayms=3000)
+<!-- *Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.* -->
 
-
-*Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.*
-
-**Please complete [Essay 1](http://www.crowdgrader.org/crowdgrader/venues/view_venue/1416) by Monday 10/5 @ 11:59pm.**
+<!-- *Please complete [Essay 1](http://www.crowdgrader.org/crowdgrader/venues/view_venue/1416) by Monday 10/5 @ 11:59pm.* -->
 
 *Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
    - Monday, 4-5 PM discussions will be in Cory 299
@@ -82,33 +81,11 @@ Consequentialism (two short readings):
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 9/30 [Finance](https://docs.google.com/presentation/d/1ZJfUbCG9nTujNtmDMwSFT_vR57DW716C8lx166LmvCE/pub?start=false&loop=false&delayms=3000)
+### 3/7 [Jobs]
 
--
-*Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
+<!-- *Complete [essay 1] by Monday 10/5* -->
 
-*Please complete the [Finance Survey](http://goo.gl/forms/aCY8j2NCYP) before class.*
-
-Hug, "[A Stock Market Primer (draft)][stock_market_primer]"
-
-Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
-
-Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
-
-For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant]. This is not required.
-
-   [stock_market_primer]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
-   [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
-   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
-   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
-   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
-
-
-### 10/7 [Jobs](https://docs.google.com/presentation/d/1IJ-fyLSKhz07gNHYDBUwePw3HGrumoQi-hN5z_bH5Ds/pub?start=false&loop=false&delayms=3000)
-
-*Complete [essay 1](https://piazza.com/class/idx8ovsts81tc?cid=29) by Monday 10/5*
-
-*Please complete the [Jobs Survey](http://goo.gl/forms/Q0hWQ1GR1w) before class.*
+<!-- *Please complete the [Jobs Survey](http://goo.gl/forms/Q0hWQ1GR1w) before class.* -->
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
@@ -123,13 +100,7 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
    [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
-
-### 10/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1OnWtvWp-zefxJwxtoqUS8_IouGigS3Ka2auyLkIM7PI/pub?start=false&loop=false&delayms=3000)
-
-<!--
-*Complete [essay 2](http://www.crowdgrader.org/crowdgrader/venues/join/880/wonewu_sivaty_bobucy_cafave) by Monday 3/16*
--->
-Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/UZ2u8Q) before class.*
+### 3/14 [Government Censorship and Surveillance]
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
@@ -155,11 +126,9 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 10/21 [Politics and Media](https://docs.google.com/presentation/d/1QYY2h3FOVIzl7KbyTcSNkZu7C8u2ZDeWYNNW4ZO9s70/pub?start=false&loop=false&delayms=3000)
+### 3/21 No Class
 
-Complete essay 2 [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29
-
-*Please complete the [Politics and Media Survey](http://goo.gl/forms/PyMB3rpKd2) before class.*
+### 3/28 [Politics and Media]
 
 Elections (video):
    - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
@@ -193,12 +162,11 @@ Note: For lack of time, we will not discuss the social implications of computing
    [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
    [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
 
-### 10/28 [Software](https://docs.google.com/presentation/d/1yX1UXDNxtXUWn5s-jYfs3DMTEqRGWdQZxpeZ5fMgX5w/pub?start=false&loop=false&delayms=3000)
+### 4/4 [Software]
 
+<!-- *Complete [essay 2] by Thursday 10/29* -->
 
-*Complete [essay 2](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1536) by Thursday 10/29*
-
-*Please complete the [Software Survey](http://goo.gl/forms/Rge44H4EHU) before class.*
+<!-- *Please complete the [Software Survey](http://goo.gl/forms/Rge44H4EHU) before class.* -->
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
@@ -214,10 +182,9 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
    [anscombe]: http://www.pitt.edu/~mthompso/readings/mmp.pdf
 
 
-### 11/4 Professional Ethics
+### 4/11 Professional Ethics
 
---
-*Please complete the [Professional Ethics Survey](http://goo.gl/forms/kkshLHaqbP) before class.*
+<!-- *Please complete the [Professional Ethics Survey](http://goo.gl/forms/kkshLHaqbP) before class.* -->
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -232,12 +199,9 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
    [ethical_code_efficacy]: http://link.springer.com/article/10.1007/s10551-006-9305-0
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
+### 4/18 Poverty
 
-### 11/18 Poverty
-
-
-<!-- **Complete [essay 3](http://www.crowdgrader.org/crowdgrader/venues/join/988/mimiri_vicece_bipipe_papezo) by Tuesday 4/21** -->
-*Please complete the [Poverty Survey](http://goo.gl/forms/bRDyNn8wvD) before class.*
+<!-- *Please complete the [Poverty Survey](http://goo.gl/forms/bRDyNn8wvD) before class.* -->
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
 
@@ -252,14 +216,14 @@ Packer, "[Change The World (optional)][packer]"
    [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
    [packer]: http://www.newyorker.com/magazine/2013/05/27/change-the-world
 
-### 12/2 Conclusion
+### 4/25 Conclusion
 
-<!--
-*Complete essay 3 peer reviews by Tuesday 4/28*
+<!-- *Complete essay 3 peer reviews by Thursday 12/3* -->
 
-Joy, "[Why the Future Doesn't Need Us][future]" (commentaries)
+Joy, "[Why the Future Doesn't Need Us][future]"
+
+Khatchadourian, "[The Doomsday Invention][doom]"
 
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
+   [doom]: http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
 
-### 5/1 Ask DeNero Anything
--->
