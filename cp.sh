@@ -1,1 +1,1 @@
-rsync -rtvu published/* cs195@cory.eecs.berkeley.edu:public_html/fa15/
+rsync -rtvu published/* cs195@cory.eecs.berkeley.edu:public_html/sp16/
