@@ -14,9 +14,9 @@ VPN][vpn] on your computer (better privacy).
 
 ### 1/25 [Free Speech]
 
-### 2/8 [Privacy]
+### 2/1 [Privacy]
 
-*Please complete the [Privacy Survey] before class.*
+**Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.**
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -28,9 +28,7 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 2/15 No Class
-
-### 2/22 [Copyright]
+### 2/8 [Copyright]
 
 <!-- *Please complete the [Copyright Survey] before class.* -->
 
@@ -45,7 +43,9 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 2/29 [War]
+### 2/15 No Class
+
+### 2/22 [War]
 
 <!-- *Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.* -->
 
@@ -81,7 +81,7 @@ Consequentialism (two short readings):
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 3/7 [Jobs]
+### 2/29 [Jobs]
 
 <!-- *Complete [essay 1] by Monday 10/5* -->
 
@@ -100,7 +100,7 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
    [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
-### 3/14 [Government Censorship and Surveillance]
+### 3/7 [Government Censorship and Surveillance]
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
@@ -125,6 +125,8 @@ Optional extra readings/watching:
    [pew_surveillance]: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
+
+### 3/14 TBD
 
 ### 3/21 No Class
 
@@ -180,7 +182,6 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
    [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
    [anscombe]: http://www.pitt.edu/~mthompso/readings/mmp.pdf
-
 
 ### 4/11 Professional Ethics
 
