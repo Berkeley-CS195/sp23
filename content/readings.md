@@ -12,7 +12,7 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 1/25 [Free Speech]
+### 1/25 [Free Speech](https://docs.google.com/presentation/d/1Tb34OswEi8KCkc7j45zoXKBo-b6emtXvNrtBJe48VyE/edit?usp=sharing)
 
 ### 2/1 [Privacy]
 
@@ -126,7 +126,7 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 3/14 TBD
+### 3/14 [Philosophy]
 
 ### 3/21 No Class
 
