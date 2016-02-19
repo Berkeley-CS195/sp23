@@ -51,10 +51,6 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 <!-- *Please complete [Essay 1](http://www.crowdgrader.org/crowdgrader/venues/view_venue/1416) by Monday 10/5 @ 11:59pm.* -->
 
-*Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
-   - Monday, 4-5 PM discussions will be in Cory 299
-   - Monday, 5-6 PM discussions will be in Soda 606
-
 Drones (three short readings):
    - "[Drone Strikes Reveal Uncomfortable Truth: U.S. Is Often Unsure About Who Will Die][drones1]"
    - "[The Moral Case for Drones][drones2]"
