@@ -12,11 +12,11 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 1/25 [Free Speech](https://docs.google.com/presentation/d/1Tb34OswEi8KCkc7j45zoXKBo-b6emtXvNrtBJe48VyE/edit?usp=sharing)
+### 1/25 [Free Speech](https://docs.google.com/presentation/d/1Tb34OswEi8KCkc7j45zoXKBo-b6emtXvNrtBJe48VyE)
 
-### 2/1 [Privacy]
+### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
 
-**Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.**
+<!-- **Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.** -->
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -47,13 +47,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 2/22 [War]
 
-<!-- *Please complete the [War Survey](http://goo.gl/forms/DSRn7jfWLg) before class.* -->
-
-<!-- *Please complete [Essay 1](http://www.crowdgrader.org/crowdgrader/venues/view_venue/1416) by Monday 10/5 @ 11:59pm.* -->
-
-*Choose a discussion and commentary topic ASAP. Due to the data center fire, the Google doc for signups is currently unavailable.*
-   - Monday, 4-5 PM discussions will be in Cory 299
-   - Monday, 5-6 PM discussions will be in Soda 606
+**Please complete the [War Survey](https://goo.gl/Cg0w19) before class.**
 
 Drones (three short readings):
    - "[Drone Strikes Reveal Uncomfortable Truth: U.S. Is Often Unsure About Who Will Die][drones1]"
@@ -82,10 +76,6 @@ Consequentialism (two short readings):
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
 ### 2/29 [Jobs]
-
-<!-- *Complete [essay 1] by Monday 10/5* -->
-
-<!-- *Please complete the [Jobs Survey](http://goo.gl/forms/Q0hWQ1GR1w) before class.* -->
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
