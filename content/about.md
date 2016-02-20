@@ -13,7 +13,7 @@ Weekly Schedule
 The week before each Monday class meeting will be used to prepare for the
 upcoming discussion-oriented class section.
 
-* Small-group discussions will be held on Friday: 1pm-2pm in 540AB Cory (Josh)
+* Small-group discussions will be held on Friday: 1pm-2pm in 531 Cory (Josh)
   and 2pm-3pm in 504 Cory (John)
 
 * On Monday, class will consist of lecture and discussion on the weekly topic.
