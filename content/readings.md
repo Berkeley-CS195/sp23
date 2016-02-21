@@ -71,7 +71,7 @@ Consequentialism (two short readings):
    [killbot2]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/why-we-really-should-ban-autonomous-weapons
    [killbot3]: http://spectrum.ieee.org/automaton/robotics/military-robots/ban-or-no-ban-hard-questions-remain-on-autonomous-weapons
    [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
-   [consequentialism2]: http://www.law.yale.edu/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
+   [consequentialism2]: https://www.law.yale.edu/system/files/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
