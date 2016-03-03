@@ -28,7 +28,7 @@ Miller, "[Addicted to Apps][addicted]"
    [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
 
-### 2/8 [Copyright]
+### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
 <!-- *Please complete the [Copyright Survey] before class.* -->
 
@@ -45,7 +45,7 @@ Heckel, "[Debunking the Software Patent Myths][yes_patent]"
 
 ### 2/15 No Class
 
-### 2/22 [War]
+### 2/22 [War](https://docs.google.com/presentation/d/1HCja_CWeD8lbf9O38IUiBZLcAZsLqViKGOVoZnQZQMM/edit?usp=sharing)
 
 **Please complete the [War Survey](https://goo.gl/Cg0w19) before class.**
 
@@ -75,7 +75,7 @@ Consequentialism (two short readings):
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 2/29 [Jobs]
+### 2/29 [Jobs](https://docs.google.com/presentation/d/1fojzKq-5q5fKLSc2xr0d6AAoKUOP6uCtbYRv3nlaUGU/edit?usp=sharing)
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
