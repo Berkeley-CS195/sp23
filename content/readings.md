@@ -90,7 +90,7 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
    [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
-### 3/7 [Government Censorship and Surveillance]
+### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
