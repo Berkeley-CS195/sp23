@@ -116,7 +116,26 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 3/14 [Philosophy]
+### 3/14 [Finance]
+
+Hug, "[A Stock Market Primer (draft)][stock_market_primer]"
+
+<!--Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"-->
+Wigglesworth, "[Treasury market's bogeymen are here to stay][bogeymen]"
+
+First Round Capital, "[Quarterly Report, Q1 2016][first_round]"
+
+Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
+
+For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant]. This is not required.
+
+   [stock_market_primer]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
+   [hft]: http://www.businessweek.com/articles/2013-06-06/how-the-robots-lost-high-frequency-tradings-rise-and-fall
+   [bogeymen]: http://www.ft.com/cms/s/0/4ca1d2a4-2683-11e5-9c4e-a775d2b173ca.html#axzz42QBVNtfd
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
+   [first_round]: http://www.scribd.com/doc/302198774/First-Round-Capital-Q4-2015-LP-Letter
 
 ### 3/21 No Class
 
