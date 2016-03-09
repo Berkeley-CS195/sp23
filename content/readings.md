@@ -120,10 +120,9 @@ Optional extra readings/watching:
 
 Hug, "[A Stock Market Primer (draft)][stock_market_primer]"
 
-<!--Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"-->
-Wigglesworth, "[Treasury market's bogeymen are here to stay][bogeymen]"
+Wigglesworth, "[Treasury market's bogeymen are here to stay][bogeymen]" 
 
-First Round Capital, "[Quarterly Report, Q1 2016][first_round]"
+First Round Capital, "[Quarterly Report, Q1 2016][first_round]" 
 
 Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
 
@@ -137,6 +136,7 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
    [first_round]: http://www.scribd.com/doc/302198774/First-Round-Capital-Q4-2015-LP-Letter
 
+<!--Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"-->
 ### 3/21 No Class
 
 ### 3/28 [Politics and Media]
