@@ -116,13 +116,13 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 3/14 [Finance]
+### 3/14 [Finance](https://docs.google.com/presentation/d/1T3dkdITrDdwJq2pxhjGjbDX0JEPXaGCjdwCBZZT2xwY/edit?usp=sharing)
 
 Hug, "[A Stock Market Primer (draft)][stock_market_primer]"
 
-Wigglesworth, "[Treasury market's bogeymen are here to stay][bogeymen]" 
+Wigglesworth, "[Treasury market's bogeymen are here to stay][bogeymen]"
 
-First Round Capital, "[Quarterly Report, Q1 2016][first_round]" 
+First Round Capital, "[Quarterly Report, Q1 2016][first_round]"
 
 Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
 
