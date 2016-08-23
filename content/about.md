@@ -10,21 +10,14 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Monday class meeting will be used to prepare for the
+The week before each Wednesday class meeting will be used to prepare for the
 upcoming discussion-oriented class section.
 
-* Small-group discussions will be held on Friday: 1pm-2pm in 531 Cory (Josh)
-  and 2pm-3pm in 504 Cory (John)
+* On Tuesday, interested students may drop by Josh's office (779 Soda) at time (TBA) 
+  for ideally what will be a lively discussion about the week's topic.
 
-* On Monday, class will consist of lecture and discussion on the weekly topic.
+* On Wednesday, class will consist of lecture and discussion on the weekly topic.
   All students should complete the readings and weekly survey before class.
-
-Discussions
------------
-
-Each student will select *one* weekly topic that interests them the most. You
-are required to attend a small-group discussion section during the week before
-your topic is discussed in lecture.
 
 Surveys
 -------
@@ -52,16 +45,16 @@ feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
 In order to receive a passing grade in CS 195, you must earn at least 80
-points, in addition to attending one small-group discussion.
+points.
 
 The expected way to pass the course is as follows:
 
  * Complete at least 10 or more surveys (10 points).
  * Attend 10 or more lectures.
- * Submit 3 essays and receive a passing peer review (3/5) on all of them.
+ * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
  * Participate in a small-group discussion section.
-
+ 
 However, to give you a small degree of flexibility, you may design your own way
 to reach 80 points according to the following point values:
 
@@ -69,5 +62,3 @@ to reach 80 points according to the following point values:
  * Lecture attendance, 2 points each, for a max of 20 points
  * Writing essays, 10 points each, for a max of 30 points
  * Peer grading, 3 points each, for a max of 29 points
-
-

@@ -1,9 +1,6 @@
 ~ title: Topics, Assignments, and Readings
 
-<!-- **>> [Lecture screencasts are on Youtube here] <<** -->
-Lecture screencasts will be posted ...
-
-[Attendance form is here](http://goo.gl/forms/FRRPoYpwP9)
+<!--[Attendance form is here](http://goo.gl/forms/FRRPoYpwP9)-->
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -12,11 +9,16 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 1/25 [Free Speech](https://docs.google.com/presentation/d/1Tb34OswEi8KCkc7j45zoXKBo-b6emtXvNrtBJe48VyE)
+### 8/24 Free Speech
 
+Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
+
+Extra Bonus Optional Reading [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
+
+<!-- 
 ### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
 
-<!-- **Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.** -->
+**Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.**
 
 Rachels, "[Why Privacy Is Important][why_privacy]"
 
@@ -30,7 +32,7 @@ Miller, "[Addicted to Apps][addicted]"
 
 ### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
-<!-- *Please complete the [Copyright Survey] before class.* -->
+*Please complete the [Copyright Survey] before class.*
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
@@ -136,7 +138,7 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
    [first_round]: http://www.scribd.com/doc/302198774/First-Round-Capital-Q4-2015-LP-Letter
 
-<!--Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"-->
+Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
 ### 3/21 No Class
 
 ### 3/28 [Politics and Media]
@@ -175,9 +177,9 @@ Note: For lack of time, we will not discuss the social implications of computing
 
 ### 4/4 [Software]
 
-<!-- *Complete [essay 2] by Thursday 10/29* -->
+*Complete [essay 2] by Thursday 10/29*
 
-<!-- *Please complete the [Software Survey](http://goo.gl/forms/Rge44H4EHU) before class.* -->
+*Please complete the [Software Survey](http://goo.gl/forms/Rge44H4EHU) before class.*
 
 Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" (commentaries)
 
@@ -194,7 +196,7 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
 
 ### 4/11 Professional Ethics
 
-<!-- *Please complete the [Professional Ethics Survey](http://goo.gl/forms/kkshLHaqbP) before class.* -->
+*Please complete the [Professional Ethics Survey](http://goo.gl/forms/kkshLHaqbP) before class.*
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -211,7 +213,7 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
 
 ### 4/18 Poverty
 
-<!-- *Please complete the [Poverty Survey](http://goo.gl/forms/bRDyNn8wvD) before class.* -->
+*Please complete the [Poverty Survey](http://goo.gl/forms/bRDyNn8wvD) before class.*
 
 Gates, "[Mobile Banking Will Help the Poor Transform Their Lives][gates]"
 
@@ -228,8 +230,6 @@ Packer, "[Change The World (optional)][packer]"
 
 ### 4/25 Conclusion
 
-<!-- *Complete essay 3 peer reviews by Thursday 12/3* -->
-
 Joy, "[Why the Future Doesn't Need Us][future]"
 
 Khatchadourian, "[The Doomsday Invention][doom]"
@@ -237,3 +237,4 @@ Khatchadourian, "[The Doomsday Invention][doom]"
    [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
    [doom]: http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
 
+-->
