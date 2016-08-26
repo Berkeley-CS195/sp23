@@ -13,7 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
 
-Extra Bonus Optional Reading [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
+Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
 
 <!-- 
 ### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
