@@ -15,21 +15,25 @@ Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/
 
 Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
 
-<!-- 
+
 ### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
 
-**Please complete the [Privacy Survey](https://goo.gl/u2XUa0) before class.**
-
-Rachels, "[Why Privacy Is Important][why_privacy]"
-
-Boyd, "[Facebook's Privacy Trainwreck][facebook]"
+**Please complete the Privacy Survey before class (link coming Monday).**
 
 Miller, "[Addicted to Apps][addicted]"
 
-   [why_privacy]: http://www.jstor.org/stable/2265077
-   [facebook]: http://con.sagepub.com/content/14/1/13.full.pdf+html
-   [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
+Popken, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][ad_spying]"
 
+Powazek, "[I’m Not The Product, But I Play One On The Internet][not_the_product]"
+
+Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
+
+   [why_privacy]: http://www.jstor.org/stable/2265077   
+   [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
+   [ad_spying]: http://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
+   [not_the_product]: http://powazek.com/posts/3229
+
+<!--
 ### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
 *Please complete the [Copyright Survey] before class.*
