@@ -18,7 +18,7 @@ Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Thei
 
 ### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
 
-**Please complete the Privacy Survey before class (link coming Monday).**
+**Please complete the [Privacy Survey](https://goo.gl/forms/LmQrq4qhdTT5ery33) before class.**
 
 Miller, "[Addicted to Apps][addicted]"
 
