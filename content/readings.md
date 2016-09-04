@@ -24,7 +24,7 @@ Miller, "[Addicted to Apps][addicted]"
 
 Popken, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][ad_spying]"
 
-Powazek, "[I’m Not The Product, But I Play One On The Internet][not_the_product]"
+Powazek, "[I'm Not The Product, But I Play One On The Internet][not_the_product]"
 
 Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
 
@@ -33,22 +33,31 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
    [ad_spying]: http://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
    [not_the_product]: http://powazek.com/posts/3229
 
-<!--
+
 ### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
-*Please complete the [Copyright Survey] before class.*
+**Please complete the Copyright Survey before class (link soon).**
+
+Note on readings for this week: This topic is highly complex and we'd really need a few weeks to get up to speed. I've provided a perhaps too-thorough set of readings on the topic that exceed the expected 1.5 hrs/wk workload. Read what feels most interesting.
+
+Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
 
 Stallman, "[Misinterpreting Copyright][copyright]"
 
-Stallman, "[The Dangers of Software Patents][no_patent]" ([Video][no_patent_video])
+Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Video][no_patent_video])
 
-Heckel, "[Debunking the Software Patent Myths][yes_patent]"
+Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
 
+Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 20 years in][meta_patent]" (meta-piece on Richard Stallman)
+
+   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
    [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
-   [no_patent]: assets/pdfs/patents.pdf
+   [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
+<!--
 ### 2/15 No Class
 
 ### 2/22 [War](https://docs.google.com/presentation/d/1HCja_CWeD8lbf9O38IUiBZLcAZsLqViKGOVoZnQZQMM/edit?usp=sharing)
