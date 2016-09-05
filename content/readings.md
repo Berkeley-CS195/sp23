@@ -36,7 +36,7 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
 
 ### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
-**Please complete the Copyright Survey before class (link soon).**
+**Please complete the [Copyright Survey](https://goo.gl/forms/HO4LNBOYqm5lrfKl2) before class**
 
 Note on readings for this week: This topic is highly complex and we'd really need a few weeks to get up to speed. I've provided a perhaps too-thorough set of readings on the topic that exceed the expected 1.5 hrs/wk workload. Read what feels most interesting.
 
