@@ -34,7 +34,7 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
    [not_the_product]: http://powazek.com/posts/3229
 
 
-### 2/8 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
+### 7/7 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
 **Please complete the [Copyright Survey](https://goo.gl/forms/HO4LNBOYqm5lrfKl2) before class**
 
@@ -56,6 +56,36 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
    [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+
+<!-- 
+### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
+ -->
+### 7/14 Government Censorship and Surveillance 
+**(Survey and Lecture link coming soon)**
+
+Foreign Governments (three short readings):
+   - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
+   - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
+   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
+
+United States Government (four short readings):
+   - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
+   - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
+   - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
+
+Optional extra readings/watching:
+   - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
+   - Snowden, ["I don't want to live in a society that does these sort of things"][snowden]
+
+   [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
+   [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
+   [russian_censorship]: https://www.washingtonpost.com/posteverything/wp/2015/02/18/russians-dont-trust-the-internet-and-its-making-the-country-worse/
+   [mlk1]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+   [mlk2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+   [xkeyscore]: http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
+   [pew_surveillance]: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
+   [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
+   [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
 <!--
 ### 2/15 No Class
@@ -105,31 +135,7 @@ Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you 
    [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
    [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
-### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
 
-Foreign Governments (three short readings):
-   - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
-   - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
-   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
-
-United States Government (four short readings):
-   - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
-   - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
-   - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
-
-Optional extra readings/watching:
-   - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
-   - Snowden, ["I don't want to live in a society that does these sort of things"][snowden]
-
-   [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
-   [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
-   [russian_censorship]: https://www.washingtonpost.com/posteverything/wp/2015/02/18/russians-dont-trust-the-internet-and-its-making-the-country-worse/
-   [mlk1]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
-   [mlk2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
-   [xkeyscore]: http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
-   [pew_surveillance]: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
-   [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
-   [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
 ### 3/14 [Finance](https://docs.google.com/presentation/d/1T3dkdITrDdwJq2pxhjGjbDX0JEPXaGCjdwCBZZT2xwY/edit?usp=sharing)
 
