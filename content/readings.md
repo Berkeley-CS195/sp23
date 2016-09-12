@@ -60,8 +60,8 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
 <!-- 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
  -->
-### 7/14 Government Censorship and Surveillance 
-**(Survey and Lecture link coming soon)**
+### 7/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
+**(Survey coming soon)**
 
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
