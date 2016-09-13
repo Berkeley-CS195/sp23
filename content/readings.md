@@ -9,14 +9,14 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 8/26 [Free Speech](https://docs.google.com/presentation/d/1ZvidUfL-viMk7-IdXJ_UYu1jHpkpB6qIb5Z_ZKybK0s/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
+### 8/24 [Free Speech](https://docs.google.com/presentation/d/1ZvidUfL-viMk7-IdXJ_UYu1jHpkpB6qIb5Z_ZKybK0s/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
 
 Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
 
 Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
 
 
-### 2/1 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
+### 8/31 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
 
 **Please complete the [Privacy Survey](https://goo.gl/forms/LmQrq4qhdTT5ery33) before class.**
 
@@ -34,7 +34,7 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
    [not_the_product]: http://powazek.com/posts/3229
 
 
-### 7/7 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
+### 9/7 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
 
 **Please complete the [Copyright Survey](https://goo.gl/forms/HO4LNBOYqm5lrfKl2) before class**
 
@@ -60,7 +60,7 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
 <!-- 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
  -->
-### 7/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
+### 9/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
 **(Survey coming soon)**
 
 Foreign Governments (three short readings):
