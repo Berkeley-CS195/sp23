@@ -64,8 +64,6 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
 
 **Please complete the [Government Censorip and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
 
-**(Survey coming soon)**
-
 Foreign Governments (three short readings):
    - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
    - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
