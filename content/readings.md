@@ -9,14 +9,14 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 8/24 [Free Speech](https://docs.google.com/presentation/d/1ZvidUfL-viMk7-IdXJ_UYu1jHpkpB6qIb5Z_ZKybK0s/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
+### 8/24 [Free Speech](https://docs.google.com/presentation/d/1-sFpp4PLjJFCfT_-gdLi0DUYbRjZY6SjZ8tvIfjxY_A/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
 
 Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
 
 Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
 
 
-### 8/31 [Privacy](https://docs.google.com/presentation/d/1Z0SxxZLKRpEIV3D-nTwR0TMftHD5F31qoR6quAgLzPo)
+### 8/31 [Privacy](https://docs.google.com/presentation/d/14qby_BZHDsgyEQLsGsZVMOQ_6pbfIsG34otOxjfmi8s/pub?start=false&loop=false&delayms=3000)
 
 **Please complete the [Privacy Survey](https://goo.gl/forms/LmQrq4qhdTT5ery33) before class.**
 
@@ -34,9 +34,9 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
    [not_the_product]: http://powazek.com/posts/3229
 
 
-### 9/7 [Copyright](https://docs.google.com/presentation/d/17alNunJZeTiMEQTXBtXTsildyzC6yMBjrN4idSg0Aqk/edit?usp=sharing)
+### 9/7 [Copyright and Patents](https://docs.google.com/presentation/d/16Qq0s71UMOedS29hPdiZkEZQhVallJ_KtV_NaHQ1tsU/pub?start=false&loop=false&delayms=3000)
 
-**Please complete the [Copyright Survey](https://goo.gl/forms/HO4LNBOYqm5lrfKl2) before class**
+**Please complete the [Copyright and Patents Survey](https://goo.gl/forms/HO4LNBOYqm5lrfKl2) before class**
 
 Note on readings for this week: This topic is highly complex and we'd really need a few weeks to get up to speed. I've provided a perhaps too-thorough set of readings on the topic that exceed the expected 1.5 hrs/wk workload. Read what feels most interesting.
 
