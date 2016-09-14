@@ -61,6 +61,9 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
  -->
 ### 9/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
+
+**Please complete the [Government Censorip and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
+
 **(Survey coming soon)**
 
 Foreign Governments (three short readings):
