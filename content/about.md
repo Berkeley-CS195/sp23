@@ -13,7 +13,7 @@ Weekly Schedule
 The week before each Wednesday class meeting will be used to prepare for the
 upcoming discussion-oriented class section.
 
-* On Tuesday, interested students may drop by Josh's office (779 Soda) at time (TBA) 
+* On Tuesday, interested students may drop by Josh's office (779 Soda) at 1-2 PM 
   for ideally what will be a lively discussion about the week's topic.
 
 * On Wednesday, class will consist of lecture and discussion on the weekly topic.
