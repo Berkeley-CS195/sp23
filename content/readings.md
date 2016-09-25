@@ -88,6 +88,60 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
+### 9/21 Jobs
+
+CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
+
+Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+Consequentialism (two short readings):
+   - "[Philosophy - Ethics: Consequentialism][consequentialism1]"
+   - "[The Status of Moral Emotions in Consequentialist Moral Reasoning][consequentialism2]" - pages 1-7 only
+   - For even more, see [Stanford's Encyclopedia of Philosophy][consequentialism3] or [The University of Tenneesse's Encyclopedia of Philosophy][consequentialism4]. These are not required readings and are fairly technical, dense reads.
+
+Pew Center, "[AI, Robotics, and the Future of Jobs (page one, optional)][ai_jobs]"
+
+   [humans_need_not_apply]: https://www.youtube.com/watch?v=7Pq-S557XQU
+   [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+   [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
+   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
+   [consequentialism2]: https://www.law.yale.edu/system/files/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
+   [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
+   [consequentialism4]: http://www.iep.utm.edu/conseque/
+
+### 9/28 [Politics and Media]
+
+Elections (video):
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
+
+Political Polarization:
+   - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
+
+Political Action (two short readings, one long one):
+   - Wasik, ["Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions"][gladwell_vs_shirky]
+   - Gladwell, ["Small Change"][small_change]: (long)
+   - Tufekci, ["After the Protests"][turkey_social_media]
+
+Optional Political Polarization Reading:
+   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
+
+Optional Political Action Readings:
+   - Shirky, ["The Political Power of Social Media"][shirky]: Introductory Paragraph, "The Theater of Collapse", and "The Convervative Dilemma"
+   - Tufekci, ["Social movements and govenrments in the digital age: Evaluating a complex landscape"][tufekci_long]
+
+Note: For lack of time, we will not discuss the social implications of computing on the process of governance, e.g. ["How Sandy Changed Social Media Strategies in New York City"][social_media_NYC].
+
+   [harvard_debate]: https://youtu.be/jITEfXNJ9I0
+   [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
+   [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
+   [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
+   [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
+   [social_media_NYC]: http://www.govtech.com/public-safety/How-Sandy-Changed-Social-Media-Strategies-in-New-York-City.html
+   [gladwell_vs_shirky]: http://www.wired.com/2011/12/gladwell-vs-shirky/
+   [polarization_in_europe]: http://themonkeycage.org/2013/08/not-much-political-polarization-in-europe/
+   [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+   [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
+   [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 <!--
 ### 2/15 No Class
 
@@ -105,10 +159,7 @@ Automated Weapons Ban (three short readings):
    - "[Why We Really Should Ban Autonomous Weapons: A Response][killbot2]"
    - "[Ban or No Ban, Hard Questions Remain on Autonomous Weapons][killbot3]"
 
-Consequentialism (two short readings):
-   - "[Philosophy - Ethics: Consequentialism][consequentialism1]"
-   - "[The Status of Moral Emotions in Consequentialist Moral Reasoning][consequentialism2]" - pages 1-7 only
-   - For even more, see [Stanford's Encyclopedia of Philosophy][consequentialism3] or [The University of Tenneesse's Encyclopedia of Philosophy][consequentialism4]. These are not required readings and are fairly technical, dense reads.
+
 
    [drones1]: http://www.nytimes.com/2015/04/24/world/asia/drone-strikes-reveal-uncomfortable-truth-us-is-often-unsure-about-who-will-die.html?_r=0
    [drones2]: http://www.nytimes.com/2012/07/15/sunday-review/the-moral-case-for-drones.html
@@ -116,25 +167,9 @@ Consequentialism (two short readings):
    [killbot1]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/we-should-not-ban-killer-robots
    [killbot2]: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/why-we-really-should-ban-autonomous-weapons
    [killbot3]: http://spectrum.ieee.org/automaton/robotics/military-robots/ban-or-no-ban-hard-questions-remain-on-autonomous-weapons
-   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
-   [consequentialism2]: https://www.law.yale.edu/system/files/documents/pdf/Intellectual_Life/Frank_Status_of_Moral_Reasoning.pdf
-   [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
-   [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 2/29 [Jobs](https://docs.google.com/presentation/d/1fojzKq-5q5fKLSc2xr0d6AAoKUOP6uCtbYRv3nlaUGU/edit?usp=sharing)
 
-CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
-Brynjolfsson and McAfee, "[Jobs, Productivity and the Great Decoupling][decoupling]"
-
-Pew Center, "[AI, Robotics, and the Future of Jobs (page one)][ai_jobs]"
-
-Derek Thompson, "[A World Without Work (optional)][world_without_work]". If you just want the key ideas, I'd recommend reading starting from "To paraphrase the science-fiction novelist William Gibson," and then reading sections 3, 4, 5 and 6.
-
-   [humans_need_not_apply]: https://www.youtube.com/watch?v=7Pq-S557XQU
-   [decoupling]: http://www.nytimes.com/2012/12/12/opinion/global/jobs-productivity-and-the-great-decoupling.html
-   [ai_jobs]: http://www.pewinternet.org/2014/08/06/future-of-jobs/
-   [world_without_work]: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
 
 
@@ -161,39 +196,7 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
 Philips, "[How the Robots Lost: High-Frequency Trading's Rise and Fall][hft]"
 ### 3/21 No Class
 
-### 3/28 [Politics and Media]
 
-Elections (video):
-   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
-
-Political Polarization (two short pieces):
-   - Pariser, ["Filter Bubbles (9 minute video)"][filter_bubble_ted]
-   - Bartels, ["(Not Much) Political Polarization in Europe"][polarization_in_europe]
-
-Political Action (two short readings, one long one):
-   - Wasik, ["Gladwell vs. Shirky: A Year Later, Scoring the Debate Over Social-Media Revolutions"][gladwell_vs_shirky]
-   - Gladwell, ["Small Change"][small_change]: (long)
-   - Tufekci, ["After the Protests"][turkey_social_media]
-
-Optional Political Polarization Reading:
-   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
-
-Optional Political Action Readings:
-   - Shirky, ["The Political Power of Social Media"][shirky]: Introductory Paragraph, "The Theater of Collapse", and "The Convervative Dilemma"
-   - Tufekci, ["Social movements and govenrments in the digital age: Evaluating a complex landscape"][tufekci_long]
-
-Note: For lack of time, we will not discuss the social implications of computing on the process of governance, e.g. ["How Sandy Changed Social Media Strategies in New York City"][social_media_NYC].
-
-   [harvard_debate]: https://youtu.be/jITEfXNJ9I0
-   [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
-   [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
-   [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
-   [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
-   [social_media_NYC]: http://www.govtech.com/public-safety/How-Sandy-Changed-Social-Media-Strategies-in-New-York-City.html
-   [gladwell_vs_shirky]: http://www.wired.com/2011/12/gladwell-vs-shirky/
-   [polarization_in_europe]: http://themonkeycage.org/2013/08/not-much-political-polarization-in-europe/
-   [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
-   [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
 
 ### 4/4 [Software]
 
