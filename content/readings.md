@@ -109,7 +109,9 @@ Pew Center, "[AI, Robotics, and the Future of Jobs (page one, optional)][ai_jobs
    [consequentialism3]: http://plato.stanford.edu/entries/consequentialism/
    [consequentialism4]: http://www.iep.utm.edu/conseque/
 
-### 9/28 [Politics and Media]
+### 9/28 [Politics and Media](https://docs.google.com/a/berkeley.edu/presentation/d/1bUGZQhweO6aZKHkYey0St9wzJtibMEgqESymg7BRqwU/edit?usp=sharing)
+**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**
+
 
 Elections (video):
    - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
