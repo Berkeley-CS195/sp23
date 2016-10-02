@@ -144,6 +144,23 @@ Note: For lack of time, we will not discuss the social implications of computing
    [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
    [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
+
+### 4/4 [Software]
+
+*Complete [essay 1] by Tuesday 10/4*
+
+Levenson and Turner, "[An Investigation of the Therac-25 Accidents][therac]" 
+
+Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2][stearns_kant2]
+
+For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant]. This is not required.
+
+   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
+
+
 <!--
 ### 2/15 No Class
 
@@ -214,7 +231,6 @@ Dartington, [Virtue Ethics][virtue_ethics_dartington]
 
 Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (optional)][anscombe]
 
-   [therac]: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
    [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
    [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
    [anscombe]: http://www.pitt.edu/~mthompso/readings/mmp.pdf
