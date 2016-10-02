@@ -145,7 +145,7 @@ Note: For lack of time, we will not discuss the social implications of computing
    [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
-### 4/4 [Software]
+### 10/2 [Software]
 
 *Complete [essay 1] by Tuesday 10/4*
 
