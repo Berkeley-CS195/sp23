@@ -146,6 +146,8 @@ Note: For lack of time, we will not discuss the social implications of computing
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
 ### 10/2 [Software]
+**Please complete the [Software Survey](https://goo.gl/forms/rBooDyehzeoWvCDt1) before class, ideally before 2 PM.**
+
 
 *Complete [essay 1] by Tuesday 10/4*
 
