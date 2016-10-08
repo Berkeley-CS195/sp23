@@ -1,5 +1,5 @@
 Name,Student ID,User ID,Role,Email Address,Sections,Majors,Terms in Attendance
-"Rezaian, Reza",11575739,81138,Student,rrezaian@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,‰ÛÓ
+"Rezaian, Reza",11575739,81138,Student,rrezaian@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
 "Ramirez, Earl",15468699,181368,Student,eororo@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,2
 "Mitchell, James",20459672,514071,Student,james.m@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
 "Lee, Chae",21924667,873234,Student,chaeyoonlee@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
@@ -219,6 +219,6 @@ Name,Student ID,User ID,Role,Email Address,Sections,Majors,Terms in Attendance
 "Mekete, Nehemia",3032250404,1522940,Student,n.mekete@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
 "Kieu, Khang",3032260999,1523055,Student,ankhangkieu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
 "De Place, Florent",3032452112,1525933,Student,florent.deplace@berkeley.edu,COMPSCI 195 LEC 001,Non-UC Campus Visitor L&S UG,2
-"Luo, Jieyu",3032526680,1531723,Student,luojy28@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,‰ÛÓ
-"Wang, Tong",3032527642,1531797,Student,wangt237@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,‰ÛÓ
+"Luo, Jieyu",3032526680,1531723,Student,luojy28@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
+"Wang, Tong",3032527642,1531797,Student,wangt237@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
 "Black, Alexandra",3032550301,1538839,Student,alexandrab@berkeley.edu,COMPSCI 195 LEC 001,Non-UC Campus Visitor L&S UG,2

@@ -17,7 +17,7 @@ class StudentGrades(object):
         return self.name
 
     def __repr__(self):
-        return str(len(self.grades))+' grades for ' + self.name + " : " + self.code_words
+        return str(len(self.attendances) + len(self.surveys))+' grades for ' + self.name + " : " + self.code_words
 
 
 ############### Process Surveys and Attendance #############
@@ -27,6 +27,16 @@ from csv import DictReader
 surveys = glob('surveys/*.csv')
 attendances = glob('attendance/*.csv')
 
+email_file = open('emailToSid.csv')
+email_reader = DictReader(email_file)
+emails = {row['Email Address'].strip():row['Student ID'].strip() for row in email_reader}
+email_file.close()
+
+
+
+def get_sid_from_email(email):
+    return emails[email]
+
 def get_student(sid, name):
     if sid not in students:
         try:
@@ -34,13 +44,9 @@ def get_student(sid, name):
             student = StudentGrades(name, sid)
         except Exception as e:
             print('Error on student name = {} sid = {}'.format(name, sid))
-            print e
             return
     else:
         student = students[sid]
-
-    # if student.name.strip() != name.strip():
-    #     print 'Name mismatch: {} != {}'.format(student.name, name)
 
     return student
 
@@ -51,11 +57,18 @@ def process_attendance_entry(attendance_response, attendance_name):
         return
     student.attendances[attendance_name] = True
 
-def process_survey_entry(survey_reader, survey_name):
-    sid, name = attendance_response['What is your SID?'], attendance_response['What is your name?']
-    student = get_student(sid, name)
-    if not student: return
-    student.grades[survey_name] = True
+def process_survey_entry(survey_response, survey_name):
+    email = survey_response['Username'].strip()
+    
+    if email not in emails:
+        print('{} not in emails to sid mapping for survey {}'.format(email, survey_name))
+        return None
+    sid = emails[email]
+    student = get_student(sid, email)
+    if not student:
+        return
+    student.surveys[survey_name] = True
+
 
 for attendance in attendances:
     with open(attendance) as attendance_file:
@@ -67,8 +80,8 @@ for survey in surveys:
     with open(survey) as survey_file:
         reader = DictReader(survey_file)
         for row in reader:
-            # process_survey_entry(row, attendance)
-            pass
+            process_survey_entry(row, survey)
+
 
 table_entry = """
             <tr>
@@ -82,7 +95,9 @@ def print_row(student_obj):
         code_words= student_obj.code_words,
         attendance_count= len(student_obj.attendances),
         survey_count= len(student_obj.surveys))
-
+with open('grades_table.html', 'w') as grades_table:
+    for student in students.values():
+        grades_table.write(print_row(student))
 
 
 # //print students
