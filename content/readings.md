@@ -162,6 +162,17 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
    [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
+### 10/9 [Education]
+
+Maria Konnikova, "[Will MOOCs be Flukes?][MOOcs]"
+
+Kevin Carey, "[An Online Education Breakthrough? A Master’s Degree for a Mere $7,000][georgia_tech]"
+
+Cathy O'Neil, "[How Big Data Transformed Applying to College][big_data_college]"
+
+   [MOOCs]: http://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+   [georgia_tech]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+   [big_data_college]: http://www.slate.com/articles/business/moneybox/2016/09/how_big_data_made_applying_to_college_tougher_crueler_and_more_expensive.html
 
 <!--
 ### 2/15 No Class
