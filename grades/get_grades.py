@@ -1,6 +1,7 @@
 from sid_mapping import get_sid_name
 
 students = {}
+students_not_found = set()
 
 class StudentGrades(object):
     def __init__(self, name, sid):
@@ -20,7 +21,7 @@ class StudentGrades(object):
         return str(len(self.attendances) + len(self.surveys))+' grades for ' + self.name + " : " + self.code_words
 
 
-############### Process Surveys and Attendance #############
+############### Setup for processing Surveys and Attendance #############
 from glob import glob # find all mah surveys
 from csv import DictReader
 
@@ -60,16 +61,20 @@ def process_attendance_entry(attendance_response, attendance_name):
 def process_survey_entry(survey_response, survey_name):
     email = survey_response['Username'].strip()
     
+    if not email:
+        return
+    
     if email not in emails:
-        print('{} not in emails to sid mapping for survey {}'.format(email, survey_name))
-        return None
+        students_not_found.add(email)
+        return
+
     sid = emails[email]
     student = get_student(sid, email)
     if not student:
         return
     student.surveys[survey_name] = True
 
-
+#### Process surveys & attendances ####
 for attendance in attendances:
     with open(attendance) as attendance_file:
         reader = DictReader(attendance_file)
@@ -82,7 +87,7 @@ for survey in surveys:
         for row in reader:
             process_survey_entry(row, survey)
 
-
+#### Print resulting data into grades_table.html
 table_entry = """
             <tr>
                 <td> <b>{code_words}: </b> </td>
@@ -95,9 +100,12 @@ def print_row(student_obj):
         code_words= student_obj.code_words,
         attendance_count= len(student_obj.attendances),
         survey_count= len(student_obj.surveys))
+
 with open('grades_table.html', 'w') as grades_table:
     for student in students.values():
         grades_table.write(print_row(student))
 
+print('Following emails not found:')
+print("\n\t".join(students_not_found))
 
 # //print students
