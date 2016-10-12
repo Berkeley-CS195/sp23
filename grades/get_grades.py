@@ -106,6 +106,5 @@ with open('grades_table.html', 'w') as grades_table:
         grades_table.write(print_row(student))
 
 print('Following emails not found:')
-print("\n\t".join(students_not_found))
+print("\n".join(students_not_found))
 
-# //print students
