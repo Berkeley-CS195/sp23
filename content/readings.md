@@ -145,7 +145,7 @@ Note: For lack of time, we will not discuss the social implications of computing
    [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
-### 10/2 [Software]
+### 10/2 [Software](https://docs.google.com/presentation/d/1tlQWn7dEFWkUX1i9efGYYQAxloPtwiZBJdn3NUzxpUU/edit?usp=sharing)
 **Please complete the [Software Survey](https://goo.gl/forms/rBooDyehzeoWvCDt1) before class, ideally before 2 PM.**
 
 
@@ -163,6 +163,8 @@ For even more, see [Optional Enyclopedia Entry on Kant's Morality][stanford_kant
    [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
 
 ### 10/9 [Education]
+**Please complete the [Education Survey](https://goo.gl/forms/FdrHdeJuq3R9RfmE2) before class, ideally before 2 PM.**
+
 
 Maria Konnikova, "[Will MOOCs be Flukes?][MOOcs]"
 
