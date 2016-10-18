@@ -176,6 +176,18 @@ Cathy O'Neil, "[How Big Data Transformed Applying to College][big_data_college]"
    [georgia_tech]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
    [big_data_college]: http://www.slate.com/articles/business/moneybox/2016/09/how_big_data_made_applying_to_college_tougher_crueler_and_more_expensive.html
 
+### 10/16 [War]
+
+Michael Hayden,  "[To Keep America Safe, Embrace Drone Warfare][embrace_drones]"
+
+Matt Peterson, "[Is Obama's Drone War Moral?][are_drones_moral]"
+
+Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two paragraphs are a bit brutal)
+
+   [embrace_drones]: http://www.nytimes.com/2016/02/21/opinion/sunday/drone-warfare-precise-effective-imperfect.html
+   [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
+   [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
+
 <!--
 ### 2/15 No Class
 
