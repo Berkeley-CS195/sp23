@@ -176,7 +176,8 @@ Cathy O'Neil, "[How Big Data Transformed Applying to College][big_data_college]"
    [georgia_tech]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
    [big_data_college]: http://www.slate.com/articles/business/moneybox/2016/09/how_big_data_made_applying_to_college_tougher_crueler_and_more_expensive.html
 
-### 10/16 [War]
+### 10/16 [War](https://docs.google.com/presentation/d/1q-EWjBlKZtfZSjm7v4_1usm5oVadRgBDqVpPhWc8Qlg/edit?usp=sharing)
+**Please complete the [War](https://goo.gl/forms/awSxg5hoVK5ewVVS2) before class, ideally before 2 PM.**
 
 Michael Hayden,  "[To Keep America Safe, Embrace Drone Warfare][embrace_drones]"
 
