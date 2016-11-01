@@ -189,6 +189,23 @@ Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
 
+### 11/2 Professional Ethics
+
+**Please complete the [Professional Ethics Survey](https://goo.gl/forms/6Txou0wTuxXBBI483) before class.**
+
+ACM, "[Professional Code of Conduct][acm_code]"
+
+Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commentaries)
+
+Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination of Existing Studies and the Development of an Integrated Research Model, pg. 111-117 (esp. 111-114)][ethical_code_efficacy]"
+
+(Optional) MacIntyre, Chapter 14 of [After Virtue][macintyre], "The Nature of the Virtues" (see first search result)
+
+   [acm_code]: http://www.acm.org/about/code-of-ethics
+   [using]: http://www.acm.org/about/p98-anderson.pdf
+   [ethical_code_efficacy]: http://link.springer.com/article/10.1007/s10551-006-9305-0
+   [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
+
 <!--
 ### 2/15 No Class
 
