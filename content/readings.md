@@ -189,7 +189,7 @@ Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
 
-### 11/2 Professional Ethics
+### 11/2 [Professional Ethics](https://docs.google.com/presentation/d/1zJldfTvecKoh1FRYR-vugaRZ2XWlxO29wz37PlVb3Vo/edit)
 
 **Please complete the [Professional Ethics Survey](https://goo.gl/forms/6Txou0wTuxXBBI483) before class.**
 
