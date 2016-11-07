@@ -199,12 +199,33 @@ Anderson, "[Using the new ACM Code of Ethics in Decision Making][using]" (commen
 
 Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination of Existing Studies and the Development of an Integrated Research Model, pg. 111-117 (esp. 111-114)][ethical_code_efficacy]"
 
-(Optional) MacIntyre, Chapter 14 of [After Virtue][macintyre], "The Nature of the Virtues" (see first search result)
 
    [acm_code]: http://www.acm.org/about/code-of-ethics
    [using]: http://www.acm.org/about/p98-anderson.pdf
    [ethical_code_efficacy]: http://link.springer.com/article/10.1007/s10551-006-9305-0
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
+
+### 11/9 Post-Election Debrief
+
+Lehmann, Chris, "[Con Air][con_air]"
+
+Davies, William, "[The Age of Post-Truth Politics][post_truth]"
+
+Dartington, [Virtue Ethics][virtue_ethics_dartington]
+
+Mansour, Rebecca, [Alex Jones Melts Globalists Over Terror (optional)][alex_jones]
+
+[Virtue Ethics in More Detail (optional)][stanford_virtue]
+
+Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (optional)][anscombe]
+
+   [con_air]: http://thebaffler.com/blog/con-air-lehmann
+   [post_truth]: http://www.nytimes.com/2016/08/24/opinion/campaign-stops/the-age-of-post-truth-politics.html?_r=0
+   [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
+   [stanford_virtue]: http://plato.stanford.edu/entries/ethics-virtue/
+   [anscombe]: http://www.pitt.edu/~mthompso/readings/mmp.pdf
+   [alex_jones]: http://www.breitbart.com/big-government/2016/09/21/alex-jones-melts-globalists-terror-mind-controlled-media-sacrificing-west-islam/
+
 
 <!--
 ### 2/15 No Class
