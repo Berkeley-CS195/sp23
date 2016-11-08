@@ -206,6 +206,8 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
 ### 11/9 Post-Election Debrief
+**Please complete the [Election Survey](https://goo.gl/forms/AFrHJxCXTNwi0R313) before class.**
+
 
 Lehmann, Chris, "[Con Air][con_air]"
 
