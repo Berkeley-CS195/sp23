@@ -229,7 +229,38 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
    [alex_jones]: http://www.breitbart.com/big-government/2016/09/21/alex-jones-melts-globalists-terror-mind-controlled-media-sacrificing-west-islam/
 
 
+### 11/14 Income Inequality and the Bay Area
+
+
+Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][bay_area_inequality]"
+
+Dougherty, Conor, "[In Cramped and Costly Bay Area, Cries to Build, Baby, Build][yimby]"
+
+Singer, "[The Singer Solution to World Poverty][singer]"
+
+Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][unneeded]"
+
+Boyce, Christopher, "[However you spend it, money isn't the key to happiness (optional)][money_and_happiness]"
+
+Rotman, "[Technology and Inequality (optional)][rotman]"
+
+Cutler, Kim_Mai, "[How Burrowing Owls Lead To Vomiting Anarchists (Or SF’s Housing Crisis Explained) (optional)][burrow_owls]"
+
+   [bay_area_inequality]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+   [yimby]: http://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
+   [money_and_happiness]: http://theconversation.com/however-you-spend-it-money-isnt-the-key-to-happiness-25289
+   [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+   [unneeded]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+   [burrow_owls]: https://techcrunch.com/2014/04/14/sf-housing/
+   [rotman]: https://www.technologyreview.com/s/531726/technology-and-inequality/
+
 <!--
+
+   [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
+
+   [packer]: http://www.newyorker.com/magazine/2013/05/27/change-the-world
+
+
 ### 2/15 No Class
 
 ### 2/22 [War](https://docs.google.com/presentation/d/1HCja_CWeD8lbf9O38IUiBZLcAZsLqViKGOVoZnQZQMM/edit?usp=sharing)
