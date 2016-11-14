@@ -205,7 +205,7 @@ Kaptein, Schwarz "[The Effectiveness of Business Codes: A Critical Examination o
    [ethical_code_efficacy]: http://link.springer.com/article/10.1007/s10551-006-9305-0
    [macintyre]: https://www.google.com/search?q=after%20virtue%20macintyre%20pdf
 
-### 11/9 Post-Election Debrief
+### 11/9 [Post-Election Debrief](https://docs.google.com/presentation/d/1IRJm-Q9wIcoaEkSmJUI0ysEQ2E_GVmw3lugg-b_kaMc/edit?usp=sharing)
 **Please complete the [Election Survey](https://goo.gl/forms/AFrHJxCXTNwi0R313) before class.**
 
 
@@ -230,6 +230,7 @@ Anscombe, [Modern Moral Philosophy (The Paper That Brought Back Virtue Ethics) (
 
 
 ### 11/14 Income Inequality and the Bay Area
+**Please complete the [Income Inequality Survey](https://goo.gl/forms/Du70HlGfxdh2W42m1) before class.**
 
 
 Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][bay_area_inequality]"
