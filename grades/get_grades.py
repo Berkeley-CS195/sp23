@@ -1,7 +1,10 @@
-from sid_mapping import get_sid_name
+from .sid_mapping import get_sid_name
+import os
 
-students = {}
+GRADES = 'grades'
+students = {} # holds Student objectss. Will be used by publish.py to write out the grades
 students_not_found = set()
+
 
 class StudentGrades(object):
     def __init__(self, name, sid):
@@ -13,30 +16,41 @@ class StudentGrades(object):
 
         self.attendances = {}
         self.surveys = {}
+        self.essays = {}
+        self.peer_reviews = {}
 
     def __str__(self):
         return self.name
 
     def __repr__(self):
-        return str(len(self.attendances) + len(self.surveys))+' grades for ' + self.name + " : " + self.code_words
+        return str(len(self.attendances) + len(self.surveys)) + \
+               ' grades for ' + self.name + " : " + self.code_words
+
+    def serialize(self):
+        """Return the json obj/dict obj for writing to a the grades.csv file eventually"""
+        d = {
+            'Surveys': len(self.surveys),
+            'Attendances': len(self.attendances),
+            'Codeword': self.code_words,
+            'Essays': len(self.essays),
+            'Peer Reviews': len(self.peer_reviews),
+        }
+        return d
 
 
 ############### Setup for processing Surveys and Attendance #############
-from glob import glob # find all mah surveys
+from glob import glob
 from csv import DictReader
 
-surveys = glob('surveys/*.csv')
-attendances = glob('attendance/*.csv')
-
-email_file = open('emailToSid.csv')
+email_file = open(os.path.join(GRADES, 'emailToSid.csv'))
 email_reader = DictReader(email_file)
-emails = {row['Email Address'].strip():row['Student ID'].strip() for row in email_reader}
+emails = {row['Email Address'].strip(): row['Student ID'].strip() for row in email_reader}
 email_file.close()
-
 
 
 def get_sid_from_email(email):
     return emails[email]
+
 
 def get_student(sid, name):
     if sid not in students:
@@ -51,6 +65,7 @@ def get_student(sid, name):
 
     return student
 
+
 def process_attendance_entry(attendance_response, attendance_name):
     sid, name = attendance_response['What is your SID?'], attendance_response['What is your name?']
     student = get_student(sid, name)
@@ -58,12 +73,13 @@ def process_attendance_entry(attendance_response, attendance_name):
         return
     student.attendances[attendance_name] = True
 
+
 def process_survey_entry(survey_response, survey_name):
     email = survey_response['Username'].strip()
-    
+
     if not email:
         return
-    
+
     if email not in emails:
         students_not_found.add(email)
         return
@@ -74,7 +90,11 @@ def process_survey_entry(survey_response, survey_name):
         return
     student.surveys[survey_name] = True
 
+
 #### Process surveys & attendances ####
+surveys = glob(os.path.join(GRADES, 'surveys/*.csv'))
+attendances = glob(os.path.join(GRADES, 'attendance/*.csv'))
+
 for attendance in attendances:
     with open(attendance) as attendance_file:
         reader = DictReader(attendance_file)
@@ -95,16 +115,18 @@ table_entry = """
                 <td>{survey_count}/6</td>
             </tr>
             """
-def print_row(student_obj):
-    return table_entry.format(
-        code_words= student_obj.code_words,
-        attendance_count= len(student_obj.attendances),
-        survey_count= len(student_obj.surveys))
 
-with open('grades_table.html', 'w') as grades_table:
-    for student in students.values():
-        grades_table.write(print_row(student))
+#
+# def print_row(student_obj):
+#     return table_entry.format(
+#         code_words=student_obj.code_words,
+#         attendance_count=len(student_obj.attendances),
+#         survey_count=len(student_obj.surveys))
+#
+#
+# with open('grades_table.html', 'w') as grades_table:
+#     for student in students.values():
+#         grades_table.write(print_row(student))
 
 print('Following emails not found:')
-print("\n".join(students_not_found))
-
+print("\r\n".join(students_not_found))

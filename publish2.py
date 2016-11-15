@@ -3,6 +3,7 @@ import shutil
 import subprocess
 import sys
 
+
 PUB = 'published'
 
 def shell(*args):
@@ -18,11 +19,25 @@ def templar(html, md, out):
     out = os.path.join(PUB, out)
     shell('templar', '-t', html, '-s', md, '-d', out, '-c', 'config2.py')
 
+def compute_grades():
+    from grades.get_grades import students
+    from csv import DictWriter
+
+    fieldnames = ['Codeword', 'Attendances', 'Surveys', 'Essays', 'Peer Reviews']
+
+    with open(os.path.join(PUB, 'grades.csv'), 'w') as gradesfile:
+        writer = DictWriter(gradesfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for student in students.values():
+            writer.writerow(student.serialize())
+
 def main():
     if not os.path.exists(PUB):
         os.mkdir(PUB)
     templar('page2.html', 'content/about.md', 'about.html')
     templar('page2.html', 'content/readings.md', 'index.html')
+
+    compute_grades()
 
     pub_assets = os.path.join(PUB, 'assets')
     if os.path.exists(pub_assets):
