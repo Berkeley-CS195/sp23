@@ -244,7 +244,7 @@ Boyce, Christopher, "[However you spend it, money isn't the key to happiness (op
 
 Rotman, "[Technology and Inequality (optional)][rotman]"
 
-Cutler, Kim_Mai, "[How Burrowing Owls Lead To Vomiting Anarchists (Or SF’s Housing Crisis Explained) (optional)][burrow_owls]"
+Cutler, Kim_Mai, "[How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housing Crisis Explained) (optional)][burrow_owls]"
 
    [bay_area_inequality]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
    [yimby]: http://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
