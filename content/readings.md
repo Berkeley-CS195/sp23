@@ -255,6 +255,15 @@ Cutler, Kim_Mai, "[How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housi
    [burrow_owls]: https://techcrunch.com/2014/04/14/sf-housing/
    [rotman]: https://www.technologyreview.com/s/531726/technology-and-inequality/
 
+### 11/30 Conclusion
+
+Khatchadourian, "[The Doomsday Invention][doom]"
+
+Joy, "[Why the Future Doesn't Need Us (optional)][future]"
+
+   [future]: http://www.wired.com/wired/archive/8.04/joy_pr.html
+   [doom]: http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
+
 <!--
 
    [gates]: http://www.gatesnotes.com/2015-annual-letter?page=3&lang=en
