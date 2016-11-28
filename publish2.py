@@ -3,8 +3,8 @@ import shutil
 import subprocess
 import sys
 
-
 PUB = 'published'
+
 
 def shell(*args):
     """Call shell command and return its stdout. args are space-separated."""
@@ -15,21 +15,26 @@ def shell(*args):
     print(stdout_str)
     return stdout_str
 
+
 def templar(html, md, out):
     out = os.path.join(PUB, out)
     shell('templar', '-t', html, '-s', md, '-d', out, '-c', 'config2.py')
+
 
 def compute_grades():
     from grades.get_grades import students
     from csv import DictWriter
 
-    fieldnames = ['Codeword', 'Attendances', 'Surveys', 'Essays', 'Peer Reviews']
+    fieldnames = ['Codeword', 'Attendances', 'Surveys',
+                  'Essay 1 Score', 'Essay 1 Peer Reviews',
+                  'Essay 2 Score', 'Essay 2 Peer Reviews', ]
 
     with open(os.path.join(PUB, 'grades.csv'), 'w') as gradesfile:
         writer = DictWriter(gradesfile, fieldnames=fieldnames)
         writer.writeheader()
         for student in students.values():
             writer.writerow(student.serialize())
+
 
 def main():
     if not os.path.exists(PUB):
@@ -43,6 +48,7 @@ def main():
     if os.path.exists(pub_assets):
         shutil.rmtree(pub_assets)
     shutil.copytree('assets', pub_assets)
+
 
 if __name__ == '__main__':
     main()
