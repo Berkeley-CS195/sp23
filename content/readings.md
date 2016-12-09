@@ -256,6 +256,8 @@ Cutler, Kim_Mai, "[How Burrowing Owls Lead To Vomiting Anarchists (Or SF's Housi
    [rotman]: https://www.technologyreview.com/s/531726/technology-and-inequality/
 
 ### 11/30 Conclusion
+**Please complete the [Conclusion Survey](https://goo.gl/forms/DmacIBn3w7siY7tj1) before the end of the week.**
+
 
 Khatchadourian, "[The Doomsday Invention][doom]"
 

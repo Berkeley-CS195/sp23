@@ -25,9 +25,10 @@ def compute_grades():
     from grades.get_grades import students
     from csv import DictWriter
 
-    fieldnames = ['Codeword', 'Attendances', 'Surveys',
+    fieldnames = ['Codeword', 'Total Points', 'Attendances', 'Surveys',
                   'Essay 1 Score', 'Essay 1 Peer Reviews',
-                  'Essay 2 Score', 'Essay 2 Peer Reviews', ]
+                  'Essay 2 Score', 'Essay 2 Peer Reviews',
+                  'Essay 3 Score', 'Essay 3 Peer Reviews',]
 
     with open(os.path.join(PUB, 'grades.csv'), 'w') as gradesfile:
         writer = DictWriter(gradesfile, fieldnames=fieldnames)

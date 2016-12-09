@@ -10,6 +10,11 @@ GRADES = 'grades'
 students = {}  # holds Student objectss. Will be used by publish.py to write out the grades
 students_not_found = set()
 
+MAX_ATTENDANCE_PTS = 20
+MAX_SURVEY_PTS = 10
+MAX_ESSAY_PTS = 30
+MAX_PEER_REVIEW_PTS = 29
+
 
 class StudentGrades(object):
     def __init__(self, name, sid):
@@ -26,8 +31,11 @@ class StudentGrades(object):
 
         self.essay1_score = None
         self.essay2_score = None
-        self.essay1_peer_reviews = None
-        self.essay2_peer_reviews = None
+        self.essay3_score = None
+
+        self.essay1_peer_reviews = 0
+        self.essay2_peer_reviews = 0
+        self.essay3_peer_reviews = 0
 
     def __str__(self):
         return self.name
@@ -38,27 +46,47 @@ class StudentGrades(object):
 
     def serialize(self):
         """Return the json obj/dict obj for writing to a the grades.csv file eventually"""
+        passed_essays = 0
         for essay_name, essay_grade in self.essays.items():
             # print(essay_name)
             if 'Assignment_1' in essay_name:
                 # Giving everyone in essay 1 a 'Passing' score
-                self.essay1_score = 'Passed' #if essay_grade['Grade'] > 1.29 else 'Not Passed'
+                self.essay1_score = 'Passed'  # if essay_grade['Grade'] > 1.29 else 'Not Passed'
                 self.essay1_peer_reviews = essay_grade['Review Count']
+                passed_essays += 1
+
             elif 'Assignment_2' in essay_name:
-                self.essay2_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed' # borderline grades
+                self.essay2_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
                 self.essay2_peer_reviews = essay_grade['Review Count']
+                passed_essays += 1 if essay_grade['Grade'] > 1.2 else 0
+
+            elif 'Assignment_3' in essay_name:
+                self.essay3_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
+                self.essay3_peer_reviews = essay_grade['Review Count']
+                passed_essays += 1 if essay_grade['Grade'] > 1.3 else 0
+
+        total_reviews = self.essay1_peer_reviews + self.essay2_peer_reviews + self.essay3_peer_reviews
+
+        total = min(MAX_ATTENDANCE_PTS, 2 * len(self.attendances))
+        total += min(MAX_SURVEY_PTS, 1 * len(self.surveys))
+        total += min(MAX_PEER_REVIEW_PTS, 3 * total_reviews)
+        total += min(MAX_ESSAY_PTS, 10 * passed_essays)
 
         return {
             'Codeword': self.code_words,
+            'Total Points': total,
 
             'Surveys': len(self.surveys),
-            'Attendances': len(self.attendances) + 1, # Free attendance!
+            'Attendances': len(self.attendances) + 1,  # Free attendance!
 
             'Essay 1 Score': self.essay1_score,
             'Essay 1 Peer Reviews': self.essay1_peer_reviews,
 
             'Essay 2 Score': self.essay2_score,
             'Essay 2 Peer Reviews': self.essay2_peer_reviews,
+
+            'Essay 3 Score': self.essay3_score,
+            'Essay 3 Peer Reviews': self.essay3_peer_reviews,
 
         }
 
@@ -123,6 +151,7 @@ def process_essay_entry(essay_grade_info, essay_name):
     email = essay_grade_info['Student'].strip().lower()
 
     if email not in emails:
+        # if float(essay_grade_info['Submission Grade']) > .1 or float(essay_grade_info['Reviews Completed']) > 1:
         missing_essay_emails.add(email)
         return
 
@@ -131,13 +160,12 @@ def process_essay_entry(essay_grade_info, essay_name):
 
     essay_grade_dict = {
         'Grade': float(essay_grade_info['Submission Grade']),
-        'Review Count': essay_grade_info['Reviews Completed']
+        'Review Count': int(essay_grade_info['Reviews Completed'] or 0)
     }
-
 
     if essay_name in student_obj.essays and student_obj.essays[essay_name] != essay_grade_dict:
         if student_obj.essays[essay_name]['Grade'] > essay_grade_dict['Grade']:
-            return # Otherwise, just let it overwrite below
+            return  # Otherwise, just let it overwrite below
 
     student_obj.essays[essay_name] = essay_grade_dict
 
@@ -166,8 +194,6 @@ for essay in essays:
         for row in reader:
             process_essay_entry(row, essay)
 
-# lost_souls = set()
-
 """
 for essaygradefilename in ['essay1grades.json', 'essay2grades.json']:
     with open(os.path.join(GRADES, 'essays', essaygradefilename), 'r') as essay_grades_json:
@@ -186,17 +212,3 @@ for essaygradefilename in ['essay1grades.json', 'essay2grades.json']:
 print('For essay we cant match the following emails to a SID')
 print('\n'.join(missing_essay_emails))
 
-#
-# def print_row(student_obj):
-#     return table_entry.format(
-#         code_words=student_obj.code_words,
-#         attendance_count=len(student_obj.attendances),
-#         survey_count=len(student_obj.surveys))
-#
-#
-# with open('grades_table.html', 'w') as grades_table:
-#     for student in students.values():
-#         grades_table.write(print_row(student))
-
-# print('Following emails not found:')
-# print("\r\n".join(students_not_found))
