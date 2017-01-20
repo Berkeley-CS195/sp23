@@ -10,14 +10,10 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Wednesday class meeting will be used to prepare for the
-upcoming discussion-oriented class section.
+The week before each Monday class meeting will be used to prepare for the upcoming discussion-oriented class section.
 
-* On Tuesday, interested students may drop by Josh's office (779 Soda) at 1-2 PM 
-  for ideally what will be a lively discussion about the week's topic.
-
-* On Wednesday, class will consist of lecture and discussion on the weekly topic.
-  All students should complete the readings and weekly survey before class.
+* On Monday, class will consist of lecture and discussion on the weekly topic. All students should complete the readings and weekly survey before class.
+* There will also be a weekly informal small group discussion led by Daniel Feldman at a time TBA.
 
 Surveys
 -------

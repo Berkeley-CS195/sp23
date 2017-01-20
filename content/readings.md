@@ -9,6 +9,35 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 1/23 [Politics and Media]
+<!--**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**-->
+
+Political Polarization:
+   - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
+
+Elections (video):
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
+   - Bertoni ["How Jared Kushner Won Trump The White House"][kushner]
+
+Optional Political Polarization Reading:
+   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
+
+Note: For lack of time, we will not discuss the social implications of computing on the process of governance, e.g. ["How Sandy Changed Social Media Strategies in New York City"][social_media_NYC].
+
+   [kushner]: http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#5e2ad2492f50
+   [harvard_debate]: https://youtu.be/jITEfXNJ9I0
+   [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
+   [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
+   [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
+   [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
+   [social_media_NYC]: http://www.govtech.com/public-safety/How-Sandy-Changed-Social-Media-Strategies-in-New-York-City.html
+   [gladwell_vs_shirky]: http://www.wired.com/2011/12/gladwell-vs-shirky/
+   [polarization_in_europe]: http://themonkeycage.org/2013/08/not-much-political-polarization-in-europe/
+   [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
+   [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
+   [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
+
+<!-- 
 ### 8/24 [Free Speech](https://docs.google.com/presentation/d/1-sFpp4PLjJFCfT_-gdLi0DUYbRjZY6SjZ8tvIfjxY_A/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
 
 Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
@@ -57,9 +86,8 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
    [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
-<!-- 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
- -->
+
 ### 9/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
 
 **Please complete the [Government Censorship and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
