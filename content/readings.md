@@ -13,12 +13,12 @@ VPN][vpn] on your computer (better privacy).
 <!--**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**-->
 
 Political Polarization:
-   - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
    - CGP Grey, ["This Video Will Make You Angry"][video_angry]
+   - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
 
 Elections:
    - Bertoni ["How Jared Kushner Won Trump The White House"][kushner]
-   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes) (if you have time)"][harvard_debate]
 
 Optional Political Polarization Reading:
    - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
