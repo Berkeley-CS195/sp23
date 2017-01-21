@@ -23,8 +23,6 @@ Elections (video):
 Optional Political Polarization Reading:
    - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
 
-Note: For lack of time, we will not discuss the social implications of computing on the process of governance, e.g. ["How Sandy Changed Social Media Strategies in New York City"][social_media_NYC].
-
    [kushner]: http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#5e2ad2492f50
    [harvard_debate]: https://youtu.be/jITEfXNJ9I0
    [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
