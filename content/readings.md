@@ -16,9 +16,9 @@ Political Polarization:
    - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
    - CGP Grey, ["This Video Will Make You Angry"][video_angry]
 
-Elections (video):
-   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
+Elections:
    - Bertoni ["How Jared Kushner Won Trump The White House"][kushner]
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
 
 Optional Political Polarization Reading:
    - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
