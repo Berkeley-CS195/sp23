@@ -14,6 +14,7 @@ VPN][vpn] on your computer (better privacy).
 
 Political Polarization:
    - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
+   - CGP Grey, ["This Video Will Make You Angry"][video_angry]
 
 Elections (video):
    - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes)"][harvard_debate]
@@ -27,6 +28,7 @@ Note: For lack of time, we will not discuss the social implications of computing
    [kushner]: http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#5e2ad2492f50
    [harvard_debate]: https://youtu.be/jITEfXNJ9I0
    [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
+   [video_angry]: https://www.youtube.com/watch?v=rE3j_RHkqJc&feature=youtu.be
    [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
    [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
    [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
