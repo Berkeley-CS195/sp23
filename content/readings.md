@@ -9,13 +9,44 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 8/24 [Free Speech](https://docs.google.com/presentation/d/1-sFpp4PLjJFCfT_-gdLi0DUYbRjZY6SjZ8tvIfjxY_A/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
+### 1/30 [Free Speech]
 
-Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
+[How Trolls Are Ruining the Internet][trolls]
 
-Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
+[The History of Twitter's Rules][twitter]
 
+[Chancellor's message on campus appearance by Milo Yiannopoulos][milo]
 
+Optional: ["This Is the Site Redditors Are Migrating to Now That r/FatPeopleHate Is Banned"][voat]
+
+   [trolls]: http://time.com/4457110/internet-trolls/?xid=fbshare
+   [twitter]: http://motherboard.vice.com/read/the-history-of-twitters-rules
+   [voat]: http://motherboard.vice.com/read/this-is-the-site-redditors-are-migrating-to-now-that-rfatpeoplehate-is-banned
+   [milo]: http://news.berkeley.edu/2017/01/26/chancellor-statement-on-yiannopoulos/
+
+### 1/23 [Politics and Media]
+<!--**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**-->
+
+Political Polarization:
+   - CGP Grey, ["This Video Will Make You Angry"][video_angry]
+   - Alexander, ["The Toxoplasma of Rage"][toxoplasma]
+
+Elections:
+   - Bertoni ["How Jared Kushner Won Trump The White House"][kushner]
+   - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes) (if you have time)"][harvard_debate]
+
+Optional Political Polarization Reading:
+   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][fragmentation]
+
+   [kushner]: http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#5e2ad2492f50
+   [harvard_debate]: https://youtu.be/jITEfXNJ9I0
+   [video_angry]: https://www.youtube.com/watch?v=rE3j_RHkqJc&feature=youtu.be
+   [fragmentation]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
+   [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
+
+ 
+
+<!--
 ### 8/31 [Privacy](https://docs.google.com/presentation/d/14qby_BZHDsgyEQLsGsZVMOQ_6pbfIsG34otOxjfmi8s/pub?start=false&loop=false&delayms=3000)
 
 **Please complete the [Privacy Survey](https://goo.gl/forms/LmQrq4qhdTT5ery33) before class.**
@@ -57,9 +88,8 @@ Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
    [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
-<!-- 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
- -->
+
 ### 9/14 [Government Censorship and Surveillance](https://docs.google.com/presentation/d/1b2RTRxNw4b0ywgU4Zj5K42VAip75hx2D0vYzrjzJTfs/edit?usp=sharing)
 
 **Please complete the [Government Censorship and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
