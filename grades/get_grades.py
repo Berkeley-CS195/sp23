@@ -63,7 +63,7 @@ class StudentGrades(object):
             elif 'Assignment_3' in essay_name:
                 self.essay3_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
                 self.essay3_peer_reviews = essay_grade['Review Count']
-                passed_essays += 1 if essay_grade['Grade'] > 1.3 else 0
+                passed_essays += 1 if essay_grade['Grade'] >= 1.3 else 0
 
         total_reviews = self.essay1_peer_reviews + self.essay2_peer_reviews + self.essay3_peer_reviews
 
