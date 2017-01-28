@@ -9,6 +9,21 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 1/30 [Free Speech]
+
+[How Trolls Are Ruining the Internet][trolls]
+
+[The History of Twitter's Rules][twitter]
+
+[Chancellor's message on campus appearance by Milo Yiannopoulos][milo]
+
+Optional: ["This Is the Site Redditors Are Migrating to Now That r/FatPeopleHate Is Banned"][voat]
+
+   [trolls]: http://time.com/4457110/internet-trolls/?xid=fbshare
+   [twitter]: http://motherboard.vice.com/read/the-history-of-twitters-rules
+   [voat]: http://motherboard.vice.com/read/this-is-the-site-redditors-are-migrating-to-now-that-rfatpeoplehate-is-banned
+   [milo]: http://news.berkeley.edu/2017/01/26/chancellor-statement-on-yiannopoulos/
+
 ### 1/23 [Politics and Media]
 <!--**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**-->
 
@@ -21,30 +36,17 @@ Elections:
    - Center, Carr, Finn, Volpe ["Is Social Media Ruining Politics (excerpts) (25 minutes) (if you have time)"][harvard_debate]
 
 Optional Political Polarization Reading:
-   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][resnick]
+   - Garrett, Resnick ["Resisting Political Fragmentation on the Internet"][fragmentation]
 
    [kushner]: http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#5e2ad2492f50
    [harvard_debate]: https://youtu.be/jITEfXNJ9I0
-   [tufekci_long]: http://jia.sipa.columbia.edu/files/2014/12/xvii-18_Tufekci_Article.pdf
    [video_angry]: https://www.youtube.com/watch?v=rE3j_RHkqJc&feature=youtu.be
-   [turkey_social_media]: http://www.nytimes.com/2014/03/20/opinion/after-the-protests.html
-   [small_change]: http://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell
-   [shirky]: https://www.foreignaffairs.com/articles/2010-12-20/political-power-social-media
-   [social_media_NYC]: http://www.govtech.com/public-safety/How-Sandy-Changed-Social-Media-Strategies-in-New-York-City.html
-   [gladwell_vs_shirky]: http://www.wired.com/2011/12/gladwell-vs-shirky/
-   [polarization_in_europe]: http://themonkeycage.org/2013/08/not-much-political-polarization-in-europe/
-   [filter_bubble_ted]: https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles
-   [resnick]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
+   [fragmentation]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
-<!-- 
-### 8/24 [Free Speech](https://docs.google.com/presentation/d/1-sFpp4PLjJFCfT_-gdLi0DUYbRjZY6SjZ8tvIfjxY_A/pub?start=false&loop=false&delayms=3000) ([Webcast](https://www.youtube.com/watch?v=97ZlpknJ8Ew))
+ 
 
-Optional reading: [How Trolls Are Ruining the Internet](http://time.com/4457110/internet-trolls/?xid=fbshare)
-
-Extra Bonus Optional Reading: [Clint and Scott Eastwood: No Holds Barred in Their First Interview Together](http://www.esquire.com/entertainment/a46893/double-trouble-clint-and-scott-eastwood/)
-
-
+<!--
 ### 8/31 [Privacy](https://docs.google.com/presentation/d/14qby_BZHDsgyEQLsGsZVMOQ_6pbfIsG34otOxjfmi8s/pub?start=false&loop=false&delayms=3000)
 
 **Please complete the [Privacy Survey](https://goo.gl/forms/LmQrq4qhdTT5ery33) before class.**
