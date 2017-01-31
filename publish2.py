@@ -43,7 +43,7 @@ def main():
     templar('page2.html', 'content/about.md', 'about.html')
     templar('page2.html', 'content/readings.md', 'index.html')
 
-    compute_grades()
+    # compute_grades()
 
     pub_assets = os.path.join(PUB, 'assets')
     if os.path.exists(pub_assets):
