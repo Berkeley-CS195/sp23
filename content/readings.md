@@ -9,7 +9,7 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 1/30 [Free Speech]
+### 1/30 [Free Speech](https://docs.google.com/presentation/d/1tYFCcOmr6OFhS58Ygg26uUQYZaFnYgpBfB_GhbjhNUk/edit#slide=id.g1bab050d4b_0_116)
 **Please complete the [Free Speech Survey](https://goo.gl/forms/yd5x1muSjbz0rOZv1) before class.**
 
 [How Trolls Are Ruining the Internet][trolls]
