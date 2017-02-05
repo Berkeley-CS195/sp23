@@ -10,6 +10,8 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 2/8 Jobs and Automation
+**Please complete the [Jobs Survey](https://goo.gl/forms/rJFE6JL2lPIOF02Y2) before class.**
+
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
