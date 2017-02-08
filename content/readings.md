@@ -9,6 +9,36 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 2/15 Government Censorship and Surveillance
+
+<!--
+**Please complete the [Government Censorship and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
+-->
+
+Foreign Governments (three short readings):
+   - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
+   - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
+   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
+
+United States Government (four short readings):
+   - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
+   - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
+   - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
+
+Optional extra readings/watching:
+   - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
+   - Snowden, ["I don't want to live in a society that does these sort of things"][snowden]
+
+   [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
+   [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
+   [russian_censorship]: https://www.washingtonpost.com/posteverything/wp/2015/02/18/russians-dont-trust-the-internet-and-its-making-the-country-worse/
+   [mlk1]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+   [mlk2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+   [xkeyscore]: http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data
+   [pew_surveillance]: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
+   [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
+   [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
+
 ### 2/8 Jobs and Automation
 **Please complete the [Jobs Survey](https://goo.gl/forms/rJFE6JL2lPIOF02Y2) before class.**
 
@@ -24,7 +54,7 @@ McKinsey Global Institute, "[Harnessing automation for a future that works][mcki
    [mckinsey1]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
    [mckinsey2]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
 
-### 1/30 [Free Speech](https://docs.google.com/presentation/d/1tYFCcOmr6OFhS58Ygg26uUQYZaFnYgpBfB_GhbjhNUk/edit#slide=id.g1bab050d4b_0_116)
+### 1/30 Free Speech
 **Please complete the [Free Speech Survey](https://goo.gl/forms/yd5x1muSjbz0rOZv1) before class.**
 
 [How Trolls Are Ruining the Internet][trolls]
@@ -40,7 +70,7 @@ Optional: ["This Is the Site Redditors Are Migrating to Now That r/FatPeopleHate
    [voat]: http://motherboard.vice.com/read/this-is-the-site-redditors-are-migrating-to-now-that-rfatpeoplehate-is-banned
    [milo]: http://news.berkeley.edu/2017/01/26/chancellor-statement-on-yiannopoulos/
 
-### 1/23 [Politics and Media]
+### 1/23 Politics and Media
 <!--**Please complete the [Politics and Media Survey](https://goo.gl/forms/fO89PpBVqIWVESxd2) before class, ideally before 2 PM.**-->
 
 Political Polarization:
