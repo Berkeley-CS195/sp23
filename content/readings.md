@@ -15,22 +15,20 @@ VPN][vpn] on your computer (better privacy).
 **Please complete the [Government Censorship and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
 -->
 
-Foreign Governments (three short readings):
-   - Vara, "[The World Cracks Down on the Internet][world_internet_crackdown]"
-   - Xuecun, "[Scaling China's Great Firewall][chinese_censorship]"
-   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
+Governments Around the World:
+   - Kelly, Truong, Shahbaz, Earp, "[Freedom on the Net 2016][freedom_house_2016]"
 
-United States Government (four short readings):
-   - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
+United States Government (three short readings):
+   - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]"
    - Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
-   - Gao, "[What Americans think about NSA surveillance, national security and privacy][pew_surveillance]""
 
 Optional extra readings/watching:
    - Der Spiegel, ["Inside TAO: Documents Reveal Top NSA Hacking Unit"][nsa_tao]
    - Snowden, ["I don't want to live in a society that does these sort of things"][snowden]
+   - Nisbet and Mikati, "[Russians don't trust the Internet - and it's making the country worse][russian_censorship]"
+   - Greenwald, ["XKeyscore: NSA tool collects 'nearly everything a user does on the internet'"][xkeyscore]
 
-   [world_internet_crackdown]: http://www.newyorker.com/tech/elements/world-cracks-internet
-   [chinese_censorship]: http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html?_r=0
+   [freedom_house_2016]: https://freedomhouse.org/report/freedom-net/freedom-net-2016
    [russian_censorship]: https://www.washingtonpost.com/posteverything/wp/2015/02/18/russians-dont-trust-the-internet-and-its-making-the-country-worse/
    [mlk1]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
    [mlk2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
