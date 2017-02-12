@@ -11,9 +11,9 @@ VPN][vpn] on your computer (better privacy).
 
 ### 2/15 Government Censorship and Surveillance
 
-<!--
-**Please complete the [Government Censorship and Surveillance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSc2y5tLZIMd4ZvK2Qbyan-YloNPqkuYRnSJJjOsqNL-jwdMtA/viewform) before class, ideally before 2 PM.**
--->
+
+**Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/RznOLJYjCV4uQqHE2) before class.**
+
 
 Governments Around the World:
    - Kelly, Truong, Shahbaz, Earp, "[Freedom on the Net 2016][freedom_house_2016]"
