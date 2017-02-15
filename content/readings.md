@@ -9,7 +9,21 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 2/15 Government Censorship and Surveillance
+### 2/27 War
+<!-- **Please complete the [War Survey](https://goo.gl/forms/awSxg5hoVK5ewVVS2) before class, ideally before 2 PM.** -->
+
+Michael Hayden,  "[To Keep America Safe, Embrace Drone Warfare][embrace_drones]"
+
+Matt Peterson, "[Is Obama's Drone War Moral?][are_drones_moral]"
+
+Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two paragraphs are a bit brutal)
+
+   [embrace_drones]: http://www.nytimes.com/2016/02/21/opinion/sunday/drone-warfare-precise-effective-imperfect.html
+   [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
+   [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
+
+
+### 2/13 Government Censorship and Surveillance
 
 
 **Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/RznOLJYjCV4uQqHE2) before class.**
@@ -37,7 +51,7 @@ Optional extra readings/watching:
    [nsa_tao]: http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
-### 2/8 Jobs and Automation
+### 2/6 Jobs and Automation
 **Please complete the [Jobs Survey](https://goo.gl/forms/rJFE6JL2lPIOF02Y2) before class.**
 
 
