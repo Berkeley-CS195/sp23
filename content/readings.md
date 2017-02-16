@@ -12,12 +12,15 @@ VPN][vpn] on your computer (better privacy).
 ### 2/27 War
 <!-- **Please complete the [War Survey](https://goo.gl/forms/awSxg5hoVK5ewVVS2) before class, ideally before 2 PM.** -->
 
+PBS Newshour, "[Is America completely unprepared for a power grid cyberattack?][cybergridattack]" (read the comments too!)
+
 Michael Hayden,  "[To Keep America Safe, Embrace Drone Warfare][embrace_drones]"
 
 Matt Peterson, "[Is Obama's Drone War Moral?][are_drones_moral]"
 
 Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two paragraphs are a bit brutal)
 
+   [cybergridattack]: http://www.pbs.org/newshour/bb/america-completely-unprepared-power-grid-cyberattack/
    [embrace_drones]: http://www.nytimes.com/2016/02/21/opinion/sunday/drone-warfare-precise-effective-imperfect.html
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
