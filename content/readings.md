@@ -27,6 +27,8 @@ Drones:
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
 
+[Putin's Response to Russia Election Hacking][http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html]
+
 
 ### 2/13 Government Censorship and Surveillance
 
