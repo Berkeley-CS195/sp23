@@ -23,7 +23,7 @@ Drones:
    - Pratap Chatterjee, "[Our Drone War Burnout][drone_burnout]" (heads up: first two paragraphs are a bit brutal)
 
 Election:
-   - [Putin's Response to Russia Election Hacking](http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html)
+   - [Putin's Response to Russia Election Hacking][putin2]
 
    [openletter]: https://futureoflife.org/open-letter-autonomous-weapons/
    [cybergridattack]: http://www.pbs.org/newshour/bb/america-completely-unprepared-power-grid-cyberattack/
@@ -31,7 +31,7 @@ Election:
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
    [putin]: http://www.newyorker.com/magazine/2017/03/06/trump-putin-and-the-new-cold-war
-
+   [putin2]: http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html
 
 
 
