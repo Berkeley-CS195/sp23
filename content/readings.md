@@ -10,7 +10,7 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 2/27 War
-<!-- **Please complete the [War Survey](https://goo.gl/forms/awSxg5hoVK5ewVVS2) before class, ideally before 2 PM.** -->
+**Please complete the [War Survey](https://goo.gl/forms/5suAk9iRPF8J4AHf1) before class, ideally before 4 PM.**
 
 Future of warfare:
    - PBS Newshour, "[Is America completely unprepared for a power grid cyberattack?][cybergridattack]" (read the comments too!)
