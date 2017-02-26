@@ -29,7 +29,7 @@ Drones:
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
    [putin]: http://www.newyorker.com/magazine/2017/03/06/trump-putin-and-the-new-cold-war
 
-[Putin's Response to Russia Election Hacking][http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html]
+[Putin's Response to Russia Election Hacking](http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html)
 
 
 
