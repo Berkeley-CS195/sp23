@@ -15,6 +15,7 @@ VPN][vpn] on your computer (better privacy).
 Future of warfare:
    - PBS Newshour, "[Is America completely unprepared for a power grid cyberattack?][cybergridattack]" (read the comments too!)
    - "[Autonomous Weapons: An open letter from AI & Robotics Researchers][openletter]"
+   - Optional, also we haven't read this but it seemed topical: "[Trump, Putin, and the new cold war][putin]"
 
 Drones:
    - Michael Hayden,  "[To Keep America Safe, Embrace Drone Warfare][embrace_drones]"
@@ -26,8 +27,11 @@ Drones:
    [embrace_drones]: http://www.nytimes.com/2016/02/21/opinion/sunday/drone-warfare-precise-effective-imperfect.html
    [are_drones_moral]: http://www.theatlantic.com/international/archive/2016/08/obama-drone-morality/496433/c
    [drone_burnout]: http://www.nytimes.com/2015/07/14/opinion/our-drone-war-burnout.html
+   [putin]: http://www.newyorker.com/magazine/2017/03/06/trump-putin-and-the-new-cold-war
 
 [Putin's Response to Russia Election Hacking][http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html]
+
+
 
 
 ### 2/13 Government Censorship and Surveillance
