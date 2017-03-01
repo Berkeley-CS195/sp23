@@ -9,6 +9,20 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 4/24 Conclusion
+
+### 4/17 Income Inequality and the Bay Area
+
+### 4/10 Copyright and IP
+
+### 4/3 Education
+
+### 3/20 Privacy
+
+### 3/13 Professional Ethics
+
+### 3/6 Software Risks and Algorithmic Bias
+
 ### 2/27 War
 **Please complete the [War Survey](https://goo.gl/forms/5suAk9iRPF8J4AHf1) before class, ideally before 4 PM.**
 
