@@ -9,19 +9,13 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 4/24 Conclusion
-
-### 4/17 Income Inequality and the Bay Area
-
-### 4/10 Copyright and IP
-
-### 4/3 Education
-
-### 3/20 Privacy
-
-### 3/13 Professional Ethics
-
 ### 3/6 Software Risks and Algorithmic Bias
+Algorithmic Bias:
+   - Angwin, "[Make Algorithms Accountable.][accountability]"
+   - Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.][sentencing]"
+
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
 
 ### 2/27 War
 **Please complete the [War Survey](https://goo.gl/forms/5suAk9iRPF8J4AHf1) before class, ideally before 4 PM.**
@@ -129,6 +123,18 @@ Optional Political Polarization Reading:
    [fragmentation]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
+ 
+### 4/24 Conclusion
+
+### 4/17 Income Inequality and the Bay Area
+
+### 4/10 Copyright and IP
+
+### 4/3 Education
+
+### 3/20 Privacy
+
+### 3/13 Professional Ethics
  
 
 <!--
