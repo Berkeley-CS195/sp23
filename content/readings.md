@@ -11,7 +11,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 3/6 Software Risks and Algorithmic Bias
 Software Risks:
-   - Fabio, "[Killed by a Machine: Therac-25][hackadaytherac]"
+   - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
 
 Algorithmic Bias:
    - Angwin, "[Make Algorithms Accountable.][accountability]"
