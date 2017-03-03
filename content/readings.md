@@ -12,11 +12,13 @@ VPN][vpn] on your computer (better privacy).
 ### 3/6 Software Risks and Algorithmic Bias
 Software Risks:
    - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+   - Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]"
 
 Algorithmic Bias:
    - Angwin, "[Make Algorithms Accountable.][accountability]"
    - Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It’s actually not that clear.][sentencing]"
 
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
    [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
    [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
    [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
