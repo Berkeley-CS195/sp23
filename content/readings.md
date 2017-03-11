@@ -12,7 +12,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 3/13 Professional Ethics
 
-<!-- **Please complete the [Professional Ethics Survey](https://goo.gl/forms/6Txou0wTuxXBBI483) before class.** -->
+**Please complete the [Professional Ethics Survey](https://goo.gl/forms/8OBAy7TTYMqzHitN2) before class.**
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
