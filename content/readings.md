@@ -13,6 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 Required:
    - Abelson, Ledeen, Lewis, "[Blown to Bits, chapter 2][btbch2]"
+   
 Optional, but interesting:
    - Powazek, "[I'm Not The Product, But I Play One On The Internet][not_the_product]"
    - Rachels, "[Why Privacy Is Important][why_privacy]"
