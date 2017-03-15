@@ -9,6 +9,17 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 3/20 Privacy
+
+Required:
+   - Abelson, Ledeen, Lewis, "[Blown to Bits, chapter 2][btbch2]"
+Optional, but interesting:
+   - Powazek, "[I'm Not The Product, But I Play One On The Internet][not_the_product]"
+   - Rachels, "[Why Privacy Is Important][why_privacy]"
+
+   [why_privacy]: http://www.jstor.org/stable/2265077   
+   [not_the_product]: http://powazek.com/posts/3229
+   [btbch2]: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf
 
 ### 3/13 Professional Ethics
 
@@ -161,8 +172,6 @@ Optional Political Polarization Reading:
 
 ### 4/3 Education
 
-### 3/20 Privacy
-
 ### 3/13 Professional Ethics
  
 
@@ -174,10 +183,6 @@ Optional Political Polarization Reading:
 Miller, "[Addicted to Apps][addicted]"
 
 Popken, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][ad_spying]"
-
-Powazek, "[I'm Not The Product, But I Play One On The Internet][not_the_product]"
-
-Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
 
    [why_privacy]: http://www.jstor.org/stable/2265077   
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
