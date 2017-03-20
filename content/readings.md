@@ -10,6 +10,8 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 3/20 Privacy
+**Please complete the [Privacy Survey](https://goo.gl/forms/fcyqBFDF7wE7r8p42) before Tuesday.**
+
 
 Required:
    - Abelson, Ledeen, Lewis, "[Blown to Bits, chapter 2][btbch2]"
