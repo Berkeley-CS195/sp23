@@ -8,9 +8,21 @@ VPN][vpn] on your computer (better privacy).
 
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+### 4/3 Education
+**Please complete the [Education Survey](https://goo.gl/forms/oo9ZS9rIkKqimNgo1) before Tuesday Night**
+
+
+Maria Konnikova, "[Will MOOCs be Flukes?][MOOcs]"
+
+Kevin Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][georgia_tech]"
+
+
+   [MOOCs]: http://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+   [georgia_tech]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+
 
 ### 3/20 Privacy
-**Please complete the [Privacy Survey](https://goo.gl/forms/fcyqBFDF7wE7r8p42) before Tuesday.**
+<!-- **Please complete the [Privacy Survey](https://goo.gl/forms/fcyqBFDF7wE7r8p42) before Tuesday.** -->
 
 
 Required:
@@ -26,7 +38,7 @@ Optional, but interesting:
 
 ### 3/13 Professional Ethics
 
-**Please complete the [Professional Ethics Survey](https://goo.gl/forms/8OBAy7TTYMqzHitN2) before class.**
+<!-- **Please complete the [Professional Ethics Survey](https://goo.gl/forms/8OBAy7TTYMqzHitN2) before class.** -->
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -45,7 +57,7 @@ Systems of Ethics (Videos):
 
 
 ### 3/6 Software Risks and Algorithmic Bias
-**Please complete the [Software Risks Survey](https://goo.gl/forms/jQdWrbCmaBQ3fW9f1) before class, ideally before 4 PM.**
+<!-- **Please complete the [Software Risks Survey](https://goo.gl/forms/jQdWrbCmaBQ3fW9f1) before class, ideally before 4 PM.** -->
 
 Software Risks:
    - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
@@ -61,7 +73,7 @@ Algorithmic Bias:
    [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
 
 ### 2/27 War
-**Please complete the [War Survey](https://goo.gl/forms/5suAk9iRPF8J4AHf1) before class, ideally before 4 PM.**
+<!-- **Please complete the [War Survey](https://goo.gl/forms/5suAk9iRPF8J4AHf1) before class, ideally before 4 PM.** -->
 
 Future of warfare:
    - PBS Newshour, "[Is America completely unprepared for a power grid cyberattack?][cybergridattack]" (read the comments too!)
@@ -90,7 +102,7 @@ Election:
 ### 2/13 Government Censorship and Surveillance
 
 
-**Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/RznOLJYjCV4uQqHE2) before class.**
+<!-- **Please complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/RznOLJYjCV4uQqHE2) before class.** -->
 
 
 Governments Around the World:
@@ -116,7 +128,7 @@ Optional extra readings/watching:
    [snowden]: https://www.youtube.com/watch?v=5yB3n9fu-rM
 
 ### 2/6 Jobs and Automation
-**Please complete the [Jobs Survey](https://goo.gl/forms/rJFE6JL2lPIOF02Y2) before class.**
+<!-- **Please complete the [Jobs Survey](https://goo.gl/forms/rJFE6JL2lPIOF02Y2) before class.** -->
 
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
@@ -131,7 +143,7 @@ McKinsey Global Institute, "[Harnessing automation for a future that works][mcki
    [mckinsey2]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
 
 ### 1/30 Free Speech
-**Please complete the [Free Speech Survey](https://goo.gl/forms/yd5x1muSjbz0rOZv1) before class.**
+<!-- **Please complete the [Free Speech Survey](https://goo.gl/forms/yd5x1muSjbz0rOZv1) before class.** -->
 
 [How Trolls Are Ruining the Internet][trolls]
 
