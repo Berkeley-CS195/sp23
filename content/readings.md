@@ -8,11 +8,33 @@ VPN][vpn] on your computer (better privacy).
 
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+
+### 4/10 Copyright and IP
+
+
+Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
+
+Stallman, "[Misinterpreting Copyright][copyright]"
+
+Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 20 years in][meta_patent]"
+
+Optional: Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Video][no_patent_video])
+
+Optional: Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
+
+   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
+   [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
+   [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+
+
 ### 4/3 Education
 **Please complete the [Education Survey](https://goo.gl/forms/oo9ZS9rIkKqimNgo1) before Tuesday Night**
 
 
-Maria Konnikova, "[Will MOOCs be Flukes?][MOOcs]"
+Maria Konnikova, "[Will MOOCs be Flukes?][MOOCs]"
 
 Kevin Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][georgia_tech]"
 
@@ -182,12 +204,6 @@ Optional Political Polarization Reading:
 ### 4/24 Conclusion
 
 ### 4/17 Income Inequality and the Bay Area
-
-### 4/10 Copyright and IP
-
-### 4/3 Education
-
-### 3/13 Professional Ethics
  
 
 <!--
@@ -211,22 +227,6 @@ Popken, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][ad_spy
 
 Note on readings for this week: This topic is highly complex and we'd really need a few weeks to get up to speed. I've provided a perhaps too-thorough set of readings on the topic that exceed the expected 1.5 hrs/wk workload. Read what feels most interesting.
 
-Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
-
-Stallman, "[Misinterpreting Copyright][copyright]"
-
-Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Video][no_patent_video])
-
-Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
-
-Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 20 years in][meta_patent]" (meta-piece on Richard Stallman)
-
-   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
-   [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
-   [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
-   [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
-   [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
-   [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
 ### 3/7 [Government Censorship and Surveillance](https://docs.google.com/a/berkeley.edu/presentation/d/17Aleq1DvWlM-X7-bBi_pkVkeVuJjg67Dw_uIqjjkmAk/edit?usp=sharing)
 
