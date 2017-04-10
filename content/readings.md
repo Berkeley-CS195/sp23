@@ -10,7 +10,7 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 4/10 Copyright and IP
-
+**Please complete the [Copyright Survey](https://goo.gl/forms/8Yjl1NrUwK8lSm163) before Tuesday Night**
 
 Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
 
