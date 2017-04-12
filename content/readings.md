@@ -9,6 +9,40 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 4/17 Income Inequality and the Bay Area
+<!--**Please complete the [Income Inequality Survey](https://goo.gl/forms/Du70HlGfxdh2W42m1) before class.**-->
+
+
+   - Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][bay_area_inequality]"
+
+   - Dougherty, Conor, "[In Cramped and Costly Bay Area, Cries to Build, Baby, Build][yimby]"
+
+   - Singer, "[The Singer Solution to World Poverty][singer]"
+
+   - Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][unneeded]"
+
+Optional readings:
+
+
+   - Spencer, Keith, "[The Three Bay Areas][3bay]" (satire, short) 
+
+   - Boyce, Christopher, "[However you spend it, money isn't the key to happiness (optional)][money_and_happiness]"
+
+   - Rotman, "[Technology and Inequality (optional)][rotman]"
+   
+   - Cutler, Kim-Mai, "[East of Palo Alto's Eden][east-of-palo]"
+
+
+   [bay_area_inequality]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+   [yimby]: http://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
+   [money_and_happiness]: http://theconversation.com/however-you-spend-it-money-isnt-the-key-to-happiness-25289
+   [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+   [unneeded]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+   [rotman]: https://www.technologyreview.com/s/531726/technology-and-inequality/
+   [3bay]: https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727
+   [east-of-palo]: https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/
+
+
 ### 4/10 Copyright and IP
 **Please complete the [Copyright Survey](https://goo.gl/forms/8Yjl1NrUwK8lSm163) before Tuesday Night**
 
@@ -203,7 +237,6 @@ Optional Political Polarization Reading:
  
 ### 4/24 Conclusion
 
-### 4/17 Income Inequality and the Bay Area
  
 
 <!--
