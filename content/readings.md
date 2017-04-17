@@ -10,7 +10,7 @@ VPN][vpn] on your computer (better privacy).
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 4/17 Income Inequality and the Bay Area
-<!--**Please complete the [Income Inequality Survey](https://goo.gl/forms/Du70HlGfxdh2W42m1) before class.**-->
+**Please complete the [Income Inequality Survey](https://goo.gl/forms/ovGtVkqMrEsQPDs43) by Monday night.**
 
 
    - Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][bay_area_inequality]"
