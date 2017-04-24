@@ -9,6 +9,10 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 4/24 Conclusion
+
+We'll discuss the course as a whole, as well as the future of humanity. No survey this week (free survey points).
+
 ### 4/17 Income Inequality and the Bay Area
 **Please complete the [Income Inequality Survey](https://goo.gl/forms/ovGtVkqMrEsQPDs43) by Monday night.**
 
@@ -233,11 +237,6 @@ Optional Political Polarization Reading:
    [video_angry]: https://www.youtube.com/watch?v=rE3j_RHkqJc&feature=youtu.be
    [fragmentation]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00118
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
-
- 
-### 4/24 Conclusion
-
- 
 
 <!--
 ### 8/31 [Privacy](https://docs.google.com/presentation/d/14qby_BZHDsgyEQLsGsZVMOQ_6pbfIsG34otOxjfmi8s/pub?start=false&loop=false&delayms=3000)
