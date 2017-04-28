@@ -8,7 +8,7 @@ import os
 
 GRADES = 'grades'
 students = {}  # holds Student objectss. Will be used by publish.py to write out the grades
-surveys_not_matched = set()
+students_not_found = set()
 
 MAX_ATTENDANCE_PTS = 20
 MAX_SURVEY_PTS = 10
@@ -49,48 +49,35 @@ class StudentGrades(object):
         passed_essays = 0
         for essay_name, essay_grade in self.essays.items():
             # print(essay_name)
-            if 'Essay_1' in essay_name:
+            if 'Assignment_1' in essay_name:
                 # Giving everyone in essay 1 a 'Passing' score
-                self.essay1_score = 'Passed' if essay_grade['Grade'] > 1.29 else 'Not Passed'
+                self.essay1_score = 'Passed'  # if essay_grade['Grade'] > 1.29 else 'Not Passed'
                 self.essay1_peer_reviews = essay_grade['Review Count']
-                passed_essays += 1 if essay_grade['Grade'] > 1.29 else 0
+                passed_essays += 1
 
-
-            elif 'Essay_2' in essay_name:
+            elif 'Assignment_2' in essay_name:
                 self.essay2_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
                 self.essay2_peer_reviews = essay_grade['Review Count']
                 passed_essays += 1 if essay_grade['Grade'] > 1.2 else 0
 
-            elif 'Assignment_fdfd3' in essay_name:
+            elif 'Assignment_3' in essay_name:
                 self.essay3_score = 'Passed' if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
                 self.essay3_peer_reviews = essay_grade['Review Count']
                 passed_essays += 1 if essay_grade['Grade'] >= 1.3 else 0
 
         total_reviews = self.essay1_peer_reviews + self.essay2_peer_reviews + self.essay3_peer_reviews
 
-        # remove after
-        # total_reviews += 4
-        # passed_essays += 1
-        self.essay3_score = 'Passed' #if essay_grade['Grade'] > 1.2 else 'Not Passed'  # borderline grades
-        self.essay3_peer_reviews = 4 #essay_grade['Review Count']
-        passed_essays += 1 #if essay_grade['Grade'] >= 1.3 else 0
-        # remove after
-
-        total =  min(MAX_ATTENDANCE_PTS, 2 * len(self.attendances))
+        total = min(MAX_ATTENDANCE_PTS, 2 * len(self.attendances))
         total += min(MAX_SURVEY_PTS, 1 * len(self.surveys))
         total += min(MAX_PEER_REVIEW_PTS, 3 * total_reviews)
         total += min(MAX_ESSAY_PTS, 10 * passed_essays)
-        #
-        # if self.name == 'Aseem Keyal':
-        #     import ipdb;ipdb.set_trace()
-
 
         return {
             'Codeword': self.code_words,
             'Total Points': total,
 
             'Surveys': len(self.surveys),
-            'Attendances': len(self.attendances),  # Free attendance!
+            'Attendances': len(self.attendances) + 1,  # Free attendance!
 
             'Essay 1 Score': self.essay1_score,
             'Essay 1 Peer Reviews': self.essay1_peer_reviews,
@@ -100,7 +87,6 @@ class StudentGrades(object):
 
             'Essay 3 Score': self.essay3_score,
             'Essay 3 Peer Reviews': self.essay3_peer_reviews,
-            'Name':self.name
 
         }
 
@@ -142,13 +128,13 @@ def process_attendance_entry(attendance_response, attendance_name):
 
 
 def process_survey_entry(survey_response, survey_name):
-    email = survey_response['Email Address'].strip()
+    email = survey_response['Username'].strip()
 
     if not email:
         return
 
     if email not in emails:
-        surveys_not_matched.add(email)
+        students_not_found.add(email)
         return
 
     sid = emails[email]
@@ -226,15 +212,3 @@ for essaygradefilename in ['essay1grades.json', 'essay2grades.json']:
 print('For essay we cant match the following emails to a SID')
 print('\n'.join(missing_essay_emails))
 
-print('For surveys we cant match the following emails to a SID')
-print('\n'.join(surveys_not_matched))
-
-student_list = students.values()
-passing_students = [s for s in student_list if s.serialize()['Total Points'] >= 75]
-
-do_essay_4 = [s for s in student_list if 35 < s.serialize()['Total Points'] < 75]
-
-import ipdb;ipdb.set_trace()
-sid_to_email = {v:k for k,v in emails.items()}
-print(",".join(sid_to_email[str(s.sid)] for s in passing_students))
-print(",".join(sid_to_email[str(s.sid)] for s in do_essay_4))

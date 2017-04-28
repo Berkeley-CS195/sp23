@@ -1,266 +1,270 @@
-Name,Student ID,User ID,Role,Email Address,Sections,Majors,Terms in Attendance
-"Rezaian, Reza",11575739,81138,Student,rrezaian@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
-"Ramirez, Earl",15468699,181368,Student,eororo@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,2
-"Mitchell, James",20459672,514071,Student,james.m@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Lee, Chae",21924667,873234,Student,chaeyoonlee@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Zhu, Michael",23464871,990695,Student,michael.jx.zhu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Park, Seong",23681888,991307,Student,spark19@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Huffman, Nicholas",23850603,991646,Student,nicholas.huffman@berkeley.edu,COMPSCI 195 LEC 001,"Environ Econ & Policy BS, Letters & Sci Undeclared UG",6
-"Hamisu, Ibrahim",23855894,991653,Student,ibrahim.hamisu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Kim, Gun Soo",23368572,993307,Student,gunsoo02@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,8
-"Borchardt, Matthew",23461184,994125,Student,mattcb@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,8
-"Asselstine, Claire",23628013,997644,Student,claire.asselstine@berkeley.edu,COMPSCI 195 LEC 001,"Applied Mathematics BA, Computer Science BA",8
-"SONG, GAVIN",23636623,997675,Student,gavinksong@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"RHA, DIANA",23758222,999480,Student,diana.yeji@berkeley.edu,COMPSCI 195 LEC 001,"Electrical Eng & Comp Sci BS, Mathematics BA",8
-"Allen, Jonathan",23812483,1000141,Student,jonathan_allen@berkeley.edu,COMPSCI 195 LEC 001,"Cognitive Science BA, Electrical Eng & Comp Sci BS",8
-"Pasha, Imad",24292858,1021187,Student,ipasha@berkeley.edu,COMPSCI 195 LEC 001,"Astrophysics BA, Physics BA",7
-"Rainton, Maiki",24365336,1021360,Student,maikir@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Feldman, Daniel",24523076,1021717,Student,d.feldman@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,6
-"Ajay, Anurag",23703876,1023780,Student,anuragajay@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Howland, Joshua",24137206,1023917,Student,jhowland@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Zhang, Max",24147650,1024112,Student,maxzhang000@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Gande, Aditya",24205340,1025212,Student,agande@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Guha, Sudip",24208839,1025268,Student,sudipguha29@gmail.com,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Chapman, Ryan",24222055,1025519,Student,ryanchapman@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Nizam, Syed",24237652,1025813,Student,snizam@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Sun, Andy",24243362,1025872,Student,andy.sun@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Sung, Alexander",24244079,1025891,Student,sungalexander3@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Mitra, Subhodeep",24261753,1026242,Student,smitra1@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Kumar, Shourya",24269259,1026392,Student,shouryakumar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Makhni Alag, Pratham",24277852,1026544,Student,prathamalag@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Lin, Albert",24281186,1026609,Student,albertlin123@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Liu, Stephan",24304621,1027044,Student,stephan.x.liu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"Wan, Jeremy",24322241,1027384,Student,jeremyjwan@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Sharma, Shivani",24328972,1027521,Student,shiv2017@berkeley.edu,COMPSCI 195 LEC 001,"Bioengineering BS, Electrical Eng & Comp Sci BS",7
-"Sukamtoh, Tiffany",24357122,1027967,Student,tsukamtoh@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Kalsi, Shaurya",24384538,1028365,Student,shaurya.kalsi@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Isaac, Serah",24386365,1028397,Student,serah.isaactho@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Laprade, Rudolph",24394000,1028528,Student,DESTROYERPENGUIN2@GMAIL.COM,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Levis, Luke",24427159,1029067,Student,luke.levis@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Yudin, Artem",24456552,1029492,Student,artemyudin@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Jin, Yoojong",24459985,1029539,Student,jinjyoo@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Chen, Tony",24460237,1029544,Student,sirtony@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Mehta, Arjun",24488999,1029937,Student,arjunmehta94@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Garg, Gaurav",24508921,1030251,Student,garggaurav@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Park, Grace",24520396,1030436,Student,gpark@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Andres, Erick",24527147,1030534,Student,eandres1@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Mcknight, Robert",24575808,1031203,Student,rmcknight@berkeley.edu,COMPSCI 195 LEC 001,"Electrical Eng & Comp Sci BS, Mechanical Engineering BS",6
-"Gao, Eric",24579851,1031253,Student,ericgao@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"SHARIF, MICKY USMAN",24595526,1031478,Student,micky@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,7
-"Greco, Braxton",24603117,1031590,Student,bgreco12@berkeley.edu,COMPSCI 195 LEC 001,"Environ Econ & Policy BA, Environ Econ & Policy BS",7
-"Asokan, Gokulkrishna",24605208,1031627,Student,gokul@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Goyal, Manu",24633654,1032067,Student,mgoyal@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"ZHANG, HARRY",24635530,1032104,Student,haoranzhang@berkeley.edu,COMPSCI 195 LEC 001,"Computer Science BA, Statistics BA",7
-"Agarwal, Eeshan",24733395,1033090,Student,eeshanagarwal@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Patil, Pranay",24742209,1033209,Student,patilpranay@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"Luu, Dorthy",24758044,1033448,Student,dluu@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Vidyasagar, Rashmi",24819983,1034298,Student,rashmi.vidyasagar@berkeley.edu,COMPSCI 195 LEC 001,"Electrical Eng & Comp Sci BS, Mechanical Engineering BS",7
-"Lerner, Stephen",24839656,1034600,Student,s_lerner@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"Edison, Dejae",24868462,1034982,Student,d.edison@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,7
-"Deng, Michael",24892858,1035043,Student,mdeng@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Holman, Steven",24402875,1035502,Student,sholman@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Chen, Victor",24699314,1035762,Student,vc1042@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Sun, Julia",24157177,1036084,Student,julia.sun@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Huang, David",24547143,1044239,Student,ymcagodme@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Lim, Angel",25903194,1054769,Student,lima@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"MANDRELL, SCOTT",25073089,1056373,Student,sdmandrell@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Farooqui, Ebrahem",25114397,1056509,Student,ebe.farooqui@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Birouty, Nadia",25185418,1056738,Student,nadiabirouty@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Lam, Stefan",25675823,1058004,Student,stefanlam@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Au, Destini",25841208,1058335,Student,deau1@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Hong, Kelly",25032196,1058602,Student,kellyhong@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Rucker, Ethan",25033261,1060589,Student,rucker95@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"CHEN, YI",25082177,1061272,Student,chen.yi@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"WEINBERG, ZACK",25101725,1061568,Student,zweinberg@berkeley.edu,COMPSCI 195 LEC 001,Cognitive Science BA,5
-"Shen, Susan",25162305,1062413,Student,susanshen96@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Lee, Yu-Chieh",25167763,1062501,Student,14leeyuchieh@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Schellenger, Mitchell",25202739,1063057,Student,schellenger96@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Nalluri, Anuraag",25209535,1063170,Student,analluri@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"KINSER, NICOLE",25271578,1063914,Student,nkinser@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Stone, Victor",25276738,1064004,Student,victorstone@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"AHN, MICHELLE",25295843,1064297,Student,michelleahn@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,4
-"Weinstein, Austin",25338544,1064786,Student,aweinstein@berkeley.edu,COMPSCI 195 LEC 001,History BA,5
-"YOUNG, JAMES E",25365412,1065166,Student,jyoung96@berkeley.edu,COMPSCI 195 LEC 001,Cognitive Science BA,5
-"Yu, Alexander",25371646,1065226,Student,xandery@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Brennan, Connor",25380192,1065337,Student,ctbrennan@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Autio, Chloe",25380543,1065340,Student,chloe.autio@berkeley.edu,COMPSCI 195 LEC 001,Economics BA,5
-"Rosen, Anna",25391222,1065473,Student,annarosen16@berkeley.edu,COMPSCI 195 LEC 001,Mathematics BA,5
-"GHODOOSIAN, KIMIA",25475132,1066480,Student,kimia@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Guy, Aurelia",25514397,1066551,Student,lia@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Wang, Edward",25529536,1066772,Student,edwardw@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"LIMANTO, EVAN PUTRA",25557086,1067098,Student,evanlimanto@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Gerber, Maxwell",25561938,1067163,Student,mgerber@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Al-Alusi, Nada",25571146,1067280,Student,nada118@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Basu, Riyana",25604924,1067718,Student,riyana.b@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Fang, Andrew",25624871,1067949,Student,arfang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Mackay, Lachlan",25631743,1068025,Student,lachie_mackay@berkeley.edu,COMPSCI 195 LEC 001,Applied Mathematics BA,5
-"Ou, Jeremy",25671658,1068346,Student,jeremyou@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Zhu, Megan",25706572,1068772,Student,meganz@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Ryu, Seokhyeon",25716506,1068872,Student,sryus@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Singal, Tushar",25721634,1068933,Student,tusharsingal@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Schoen, Colin",25794068,1069527,Student,cschoen@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,5
-"Lee, Alexander",25818494,1069848,Student,alexlee1996@berkeley.edu,COMPSCI 195 LEC 001,Bioengineering BS,4
-"Singh, Aviraj",25831354,1070027,Student,avi.s1996@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Wang, Yueyi",25278169,1070581,Student,annieyueyiwang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Au, Melodi",25446420,1070708,Student,mjau@berkeley.edu,COMPSCI 195 LEC 001,Economics BA,5
-"Nguyen, Brittney",25844402,1070966,Student,brit116299@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,4
-"Gold, Vera",25167336,1071140,Student,veragold@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Kaunda, Haggai",25557968,1071169,Student,haggaikaunda@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Sivakumar, Shrinivas",23614314,1074688,Student,shrinu.sivakumar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"Rudy, Benjamin",23956051,1074818,Student,benrudy@berkeley.edu,COMPSCI 195 LEC 001,Applied Mathematics BA,6
-"Cahyadi, Joshua",25483433,1075804,Student,jcahyadi@berkeley.edu,COMPSCI 195 LEC 001,EECS/NE Joint Major BS,8
-"Row, Ryan",25772346,1076699,Student,ryanrow@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Zimmerman, Simon",25775137,1076755,Student,sezimmerman@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Gu, Yufeng",25858083,1077224,Student,yufeng@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Hein, Jeffrey",25867157,1077389,Student,jeffhein@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,8
-"Avelar Mercado, Elizabeth",25954462,1077640,Student,eli.avelar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,2
-"TRINH, JOHN",25957000,1078140,Student,mathmanic@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Yang, Larry",25987405,1090907,Student,larrywyang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Huang, Brandon",25989225,1090928,Student,brandonhuang68@berkeley.edu,COMPSCI 195 LEC 001,"Electrical Eng & Comp Sci BS, Mechanical Engineering BS",3
-"KOSHY, VINAY",26000182,1091029,Student,vkoshy@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Chavez, Leah",26019381,1091195,Student,lmchavez4@berkeley.edu,COMPSCI 195 LEC 001,Chemical Engineering BS,3
-"Kao, Keming",26058492,1091616,Student,keming.kao@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Jain, Archita",26085297,1091867,Student,archita@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Low, Andrew",26096865,1091954,Student,andrew.low@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Guo, Tianrui",26109449,1092059,Student,tianrui@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Shi, Daniel",26117608,1092150,Student,daniel.shi@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Samra, Amanjot",26125374,1092224,Student,amanjotksamra@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Rameshbabu, Shyamkarthik",26136546,1092343,Student,karthikrbabu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Shan, Amy",26137562,1092356,Student,amyshan@berkeley.edu,COMPSCI 195 LEC 001,Engineering Undeclared UG,3
-"Li, Benjamin",26190837,1092833,Student,benjaminli@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Escolero, Ruben",26231270,1093223,Student,rescolero@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Wang, Bernie",26241131,1093319,Student,berniewang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"CHIANG, KEVIN",26247515,1093357,Student,kchiang6997@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"MITCHELL, CHRIS",26251801,1093390,Student,chrismitchell@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Shah, Maadhav",26255316,1093419,Student,maadhav.shah@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"ARIAS RAMIREZ, EVA JACKELINE",26275534,1093589,Student,eariasr@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Chin, Sarah",26277194,1093609,Student,sarahechin@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Basu, Shirsha",26281331,1093640,Student,sbasu@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Lobo, Sean",26293845,1093763,Student,sean.lobo@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Aprea, Alexander",26325690,1094034,Student,aaprea@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Ma, Kevin",26328172,1094057,Student,kevinma.sd@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Numamoto, Scott",26342027,1094160,Student,scott.numamoto@berkeley.edu,COMPSCI 195 LEC 001,Environmental Eng Science BS,3
-"Ni, Michelle",26356813,1094288,Student,michelleni@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Pang, Boyu",26364805,1094381,Student,boyu.pang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"ZHOU, SAM",26378726,1094480,Student,jhgzhou@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Li, Jeffrey",26576833,1095784,Student,lijw@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Estes, Luke",26692916,1096481,Student,lestes@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Liaw, Tiffany",26701016,1096544,Student,tliaw512@berkeley.edu,COMPSCI 195 LEC 001,Bioengineering BS,3
-"Lin, Ashley",26768174,1096873,Student,ashleyjl@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Zhu, Joan",26301127,1098581,Student,joanszhu@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"LAUX, JOSEPH",26648708,1098955,Student,jlaux19@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Garcia, Anthony",26733731,1099063,Student,antg02@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"MANEPALLI, ASHRAY",26397508,1099551,Student,ashray.manepalli@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Patel, Nikhil",26596193,1099707,Student,n.patel@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Lokhandwala, Abizer",26269282,1100135,Student,abizer@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"ZHOU, BILL",26550248,1100271,Student,billzhou@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Ganesh, Prashanth",26020428,1100682,Student,prashanthcganesh108@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Pao, Debbie",26027571,1100701,Student,dpao@berkeley.edu,COMPSCI 195 LEC 001,Bioengineering BS,3
-"Van Engelen, Lisanne",26028702,1100705,Student,lvanengelen@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Weymouth, Michael",26034665,1100711,Student,wey@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Gosar, Kunal",26074334,1100768,Student,kunal.gosar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Aggarwal, Sankalp",26137517,1100844,Student,sunnya97@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"PATEL, MALHAR",26142898,1100849,Student,malhar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Jonnalagadda, Udaya",26173108,1100881,Student,udaya@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Reese, James",26238250,1100955,Student,jsr45@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"He, Andre",26291247,1101002,Student,he.andre@berkeley.edu,COMPSCI 195 LEC 001,Engineering Physics BS,3
-"Sharma, Divij",26379384,1101103,Student,divij.sharma@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Killion, Connor",26387296,1101111,Student,ckillion@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Appel, Shaan",26461786,1101198,Student,shaan.appel@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Padron, Andrea",26470138,1101204,Student,apadron7@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Du, Lear",26476703,1101209,Student,lxd20@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Werwath, Scott",26532517,1101262,Student,swerwath@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Ho, Jun-Kit",26665357,1101378,Student,jkalexho@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Zhao, Hankun",26678509,1101398,Student,jerryz123@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Kuznetsov, Phillip",26705083,1101431,Student,philkuz@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Saran, Vedant",26759291,1101476,Student,vedantsaran@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Sheikh, Bilal",26786558,1101505,Student,bilal26@berkeley.edu,COMPSCI 195 LEC 001,Materials Science & Eng BS,3
-"LEVIS, BRIAN",26786676,1101506,Student,blevis@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Johansen, Maxwell",26800540,1101521,Student,maxjohansen@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Oliva, Gregory",26804642,1101528,Student,gloliva@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Ringeard, Victor",26837123,1101573,Student,vringeard@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Schager, Natalea",26848357,1102649,Student,natalea@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Chouldjian, Armen",23572028,1108176,Student,armenc@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"GALLARDO, MARCO",23768065,1108205,Student,mrcogllrdo@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Aragon, Samuel",24200468,1108259,Student,saragon@berkeley.edu,COMPSCI 195 LEC 001,Economics BA,7
-"Chang, Ji",24412625,1108361,Student,jiwonchang@berkeley.edu,COMPSCI 195 LEC 001,Applied Mathematics BA,7
-"Bueno, Dominic",26352742,1109465,Student,dominicbueno@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Keats, Emily",26614763,1110069,Student,e.keats@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,2
-"Gaskin, James",26752100,1110627,Student,jamiegaskin@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,7
-"Purvis, Liam",26878467,1110927,Student,purvis.liam@berkeley.edu,COMPSCI 195 LEC 001,Statistics BA,7
-"Medina, Hector",26889306,1111095,Student,hmedina@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"KAZORIAN, ALEX",26206486,1112956,Student,akazorian@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,2
-"Lee, George",26324278,1113191,Student,gleeb@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,2
-"Jiang, Lawrence",26379568,1113284,Student,lawrencejiang@berkeley.edu,COMPSCI 195 LEC 001,Computer Science BA,3
-"Mihlar, Mohammed",26792497,1113697,Student,mihlar@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"HO, HARRY",26795844,1113701,Student,harryh0@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,3
-"Chen, Justin",26808282,1113724,Student,justin.chen@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,3
-"Lee, Richard",26995900,1122833,Student,richlee@berkeley.edu,COMPSCI 195 LEC 001,Forestry & Natural Res BS,5
-"Jayakar, Stephen",3031791647,1501687,Student,sajayakar56@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Liu, Ryan",3031836419,1502419,Student,rliu4439@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Lin-He, Maxwell",3031842568,1502512,Student,maxwell.linhe@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Stockwell, Austin",3032019615,1508776,Student,hawkstin398@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,1
-"Gong, Jonathan",3031783860,1511721,Student,jgong617@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Tillman, Henk",3031790711,1511805,Student,henk@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Sheng, Eric",3031823211,1512166,Student,ericsheng@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Rampure, Suraj",3031829334,1512246,Student,suraj.rampure@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,1
-"Gastelum Diarte, Omar",3031923116,1513129,Student,omr1998@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,1
-"Fong, Timothy",3031944046,1515312,Student,tdfong@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,1
-"Maule, Laura",3031936480,1516890,Student,lauramaule@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,1
-"Kim, Kyung Geun",3032222194,1519697,Student,kyung4952@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Karapetov, Andrey",3032261519,1520263,Student,andreykar@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Finnigan, Evan",3032263599,1520289,Student,evanf@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Hung Liang, Denny",3032280512,1520491,Student,dennyhl@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Fair, David",3032335892,1521155,Student,airmanfair@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Chau, Elvis",3032349191,1521296,Student,elviskschau@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Chavez, Mauricio",3032353273,1521333,Student,mauricioachavez@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Levitov, Eilam",3032395458,1521690,Student,eilam@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Finnigan, Forest",3032435212,1521936,Student,forestfinnigan@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"Mekete, Nehemia",3032250404,1522940,Student,n.mekete@berkeley.edu,COMPSCI 195 LEC 001,Letters & Sci Undeclared UG,5
-"Kieu, Khang",3032260999,1523055,Student,ankhangkieu@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-"De Place, Florent",3032452112,1525933,Student,florent.deplace@berkeley.edu,COMPSCI 195 LEC 001,Non-UC Campus Visitor L&S UG,2
-"Luo, Jieyu",3032526680,1531723,Student,luojy28@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
-"Wang, Tong",3032527642,1531797,Student,wangt237@berkeley.edu,COMPSCI 195 LEC 001,UCBX Concurrent Enrollment,
-"Black, Alexandra",3032550301,1538839,Student,alexandrab@berkeley.edu,COMPSCI 195 LEC 001,Non-UC Campus Visitor L&S UG,2
-"Guha, Sudip",24208839,1025268,Student,sudipguha@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Laprade, Rudolph",24394000,1028528,Student,rlaprade@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"SONG, GAVIN",23636623,997675,Student,gavinsong93@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,7
-"Fang, Andrew",25624871,1067949,Student,arfang@berkeley.edu,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,5
-,26117608,,,bob7479@gmail.com,,,
-,24157177,,,Jubear.sun@gmail.com,,,
-,25987405,,,larrywyang@gmail.com,,,
-,26173108,,,udaya@berkeley.edu,,,
-,26000182,,,vinyoshy2@gmail.com,,,
-,24547143,,,ymcagodme@gmail.com,,,
-,25557968,,,haggaikaunda@berkeley.edu,,,
-,26364805,,,boyu.pang@berkeley.edu,,,
-,26255316,,,mkshah98@gmail.com,,,
-,26364805,,,boyu.pang@gmail.com,,,
-,23768065,,,mrcogllrdo@berkeley.edu,,,
-,26238250,,,scott.reese45@gmail.com,,,
-,3032550301,,,ancientundergrad@hotmail.com,,,
-,25380543,,,chloe.autio@gmail.com,,,
-,26804642,,,bigredgregg@gmail.com,,,
-,24491245,,,elin95@berkeley.edu,,,
-,24488999,,,arjunmehta94@gmail.com,,,
-,26020428,,,prashanthcganesh108@berkeley.edu,,,
-,25278169,,,annieyueyiwang@gmail.com,,,
-,24892858,,,michaeldeng18@gmail.com,,,
-,26596193,,,npatelaz@gmail.com,,,
-,24603117,,,bgreco12@berkeley.edu,,,
-,23614314,,,shrinu.sivakumar@gmail.com,,,
-,20459672,,,tehgeek@gmail.com,,,
-,25867157,,,jeffhein4@gmail.com,,,
-,24322241,,,jeremyjwan@gmail.com,,,
-,25721634,,,tusharsingal@gmail.com,,,
-,23461184,,,mattcb.mml@gmail.com,,,
-,23956051,,,benrudy@berkeley.edu,,,
-,26356813,,,michelle.panni@gmail.com,,,
-,25818494,,,alexlee1996@berkeley.edu,,,
-,26364805,,,boyu.pang@gmail.com,,,
-,24304621,,,stephan.x.liu@berkeley.edu,,,
-,3032526680,,,luojy28@berkeley.edu,,,
-,26125374,,,amanjotksamra@berkeley.edu,,,
-,25271578,,,nicolekinser21@gmail.com,,,
-"Patil, Pranay",24742209,1033209,Student,patilpranay@gmail.com,COMPSCI 195 LEC 001,Electrical Eng & Comp Sci BS,6
-"Asselstine, Claire",23628013,997644,Student,claire.asselstine@gmail.com,COMPSCI 195 LEC 001,"Applied Mathematics BA, Computer Science BA",8
+Name,Student ID,User ID,,Email Address,,,Terms in Attendance
+"Sternberg, Jacobo",24641288,,,j.sternberg@berkeley.edu,,,
+"McIntyre, Loren",22372362,,,lorenpmc@berkeley.edu,,,
+"Kim, Minho",22820493,,,GASTMANIA933@GMAIL.COM,,,
+"Massoudi, Parham",23267891,,,parham_1987@berkeley.edu,,,
+"Calderon, Valentino",24061197,,,t.cal@berkeley.edu,,,
+"Holcomb, Tobin",23343250,,,tobinsarah@berkeley.edu,,,
+"Li, Zixin",23398724,,,zxl-12@berkeley.edu,,,
+"Traganza, Mark",23597104,,,mtraganza@berkeley.edu,,,
+"MORGAN, ANDREW",23877078,,,andrewmorgan@berkeley.edu,,,
+"Puri, Raul",24129332,,,raulpuric@berkeley.edu,,,
+"Bugni, Andrea",24162687,,,abugni@berkeley.edu,,,
+"Palmer, Michaela",24167712,,,mcpalmer@berkeley.edu,,,
+"Gunel, Beliz",24203242,,,BELIZGUNEL@GMAIL.COM,,,
+"Zhong, Sining",24215072,,,zhongsn@berkeley.edu,,,
+"Huang, Yujie",24225513,,,huangyujiebill@gmail.com,,,
+"Pierce, Derek",24227420,,,dap92@berkeley.edu,,,
+"Gan, Patrick",24232312,,,patrickgan@berkeley.edu,,,
+"Chandrasekher, Kabir",24233807,,,kabirc@berkeley.edu,,,
+"Nelson, Eric",24271503,,,ericn@berkeley.edu,,,
+"Scheele, Claire",24272449,,,cscheele@berkeley.edu,,,
+"Tolani, Varun",24274554,,,vtolani@berkeley.edu,,,
+"Wu, Kevin",24298770,,,kevintxwu@berkeley.edu,,,
+"Wettstein, Jeffrey",24303865,,,jwettstein@berkeley.edu,,,
+"Parke, Nathaniel",24319617,,,nathaniel.parke@berkeley.edu,,,
+"Jipsen, Zana",24325650,,,zjipsen@berkeley.edu,,,
+"Mahesh, Viraj",24349376,,,virajmahesh@berkeley.edu,,,
+"Jin, Siyan",24357764,,,nataliejin@berkeley.edu,,,
+"Patel, Saavan",24417229,,,saavan@berkeley.edu,,,
+"Shi, Cynthia",24450703,,,cynthiashi@berkeley.edu,,,
+"ZHANG, CHARLES",24596122,,,charles2299@berkeley.edu,,,
+"Wen, Robert",24618301,,,wenb@berkeley.edu,,,
+"Willits, Giorgia",24675698,,,gwillits@berkeley.edu,,,
+"Macias, Luis",24738968,,,david.macias@berkeley.edu,,,
+"Chuck, Caleb",24742650,,,calebchuck@berkeley.edu,,,
+"ZHANG, HENRY",24863080,,,huadianz@berkeley.edu,,,
+"Kim, Juchan",24320698,,,yj1877@berkeley.edu,,,
+"Prasad, Devang",24557306,,,d.prasad@berkeley.edu,,,
+"Mackin, Casey",24999708,,,cmackin520@berkeley.edu,,,
+"Warnock, John",24245811,,,jwarnock@berkeley.edu,,,
+"Nguyen, Megan",25285031,,,nguyenmegan@berkeley.edu,,,
+"Choi, David",25814392,,,dkchoi21@berkeley.edu,,,
+"Sy, Aaron",25142694,,,raaronsy@berkeley.edu,,,
+"YAN, CRYSTAL",25163463,,,crystalzyan@berkeley.edu,,,
+"Chou, Ethan",25166438,,,echou35@berkeley.edu,,,
+"Chen, Christine",25215825,,,chen.christine17@berkeley.edu,,,
+"Lo, Eugene",25229715,,,genelo33@berkeley.edu,,,
+"LIU, SOPHIA BIYING",25233063,,,bliu67@berkeley.edu,,,
+"Choi, Seunghwan",25261044,,,danielchoi119@berkeley.edu,,,
+"Kwon, Jessica",25292069,,,jskwon@berkeley.edu,,,
+"Grubb, Daniel",25302081,,,dpgrubb@berkeley.edu,,,
+"Chen, Steven",25312157,,,scchen@berkeley.edu,,,
+"Baharav, Tavor",25316693,,,tavorb@berkeley.edu,,,
+"Chan, Andrew",25333995,,,andrew.p.k.chan@berkeley.edu,,,
+"Early, Julian",25335906,,,jearly@berkeley.edu,,,
+"Ramirez, Chrystabelle",25356251,,,crramirez@berkeley.edu,,,
+"Escueta, Vincent",25357840,,,vincent.escueta22@berkeley.edu,,,
+"LEE, CRYSTAL",25362010,,,c.lee0504@berkeley.edu,,,
+"Yan, Zhongxia",25368758,,,zxyan@berkeley.edu,,,
+"Karapetov, Bar",25373713,,,barchen@berkeley.edu,,,
+"Murphy, Ben",25398795,,,ben_murphy@berkeley.edu,,,
+"Jayaweera, Ruvan",25399617,,,ruvan@berkeley.edu,,,
+"Bregasi, Eranda",25432498,,,erandabregasi@berkeley.edu,,,
+"Gee, Benjamin",25435265,,,ben.gee@berkeley.edu,,,
+"Ortiz, Karla",25460271,,,karlaortiz@berkeley.edu,,,
+"Albert, Ryan",25545558,,,ryantimalbert@berkeley.edu,,,
+"Herrera, Ricardo",25545701,,,rherrera@berkeley.edu,,,
+"Surumpudi, Anirudh",25546314,,,a.surumpudi@berkeley.edu,,,
+"Kumar, Pranay",25564316,,,prankum2100@berkeley.edu,,,
+"Wang, Michael",25584454,,,mmwang@berkeley.edu,,,
+"LU, JENNY",25586989,,,j.lu@berkeley.edu,,,
+"LI, TAK",25605742,,,jiahang_li@berkeley.edu,,,
+"Millman, Andrew",25617725,,,amillman@berkeley.edu,,,
+"Keyal, Aseem",25619187,,,akeyal@berkeley.edu,,,
+"Wang, Gongjian",25668708,,,g.wang@berkeley.edu,,,
+"Yang, Patrick",25672858,,,patyang@berkeley.edu,,,
+"Dea, Irene",25691210,,,irenedea@berkeley.edu,,,
+"Martinez, Cindy",25701107,,,ca.martinez@berkeley.edu,,,
+"Doshi, Sahil",25705827,,,sahildoshi@berkeley.edu,,,
+"Jung, Hubert",25727143,,,hubertj@berkeley.edu,,,
+"Liu, Daiwei",25789850,,,daiwei.liu@berkeley.edu,,,
+"Wang, Colin",25812836,,,colinwang@berkeley.edu,,,
+"XIONG, ERIK",25829819,,,karmax@berkeley.edu,,,
+"Ji, Kevin",25838921,,,kevinji@berkeley.edu,,,
+"Kang, Kevin",25839909,,,kkang@berkeley.edu,,,
+"Goy, Ryan",25217954,,,rgoy@berkeley.edu,,,
+"Bai, Kevin",25469359,,,kbai77t@berkeley.edu,,,
+"KIPKOECH, LINUS",25896883,,,kipkoechlinuss@berkeley.edu,,,
+"Dongallo, Ricardo",25498141,,,rdongallo@berkeley.edu,,,
+"Francis, Fadi",25859696,,,fadifrancis@berkeley.edu,,,
+"Dickinson, Michael",25881255,,,mdickinson@berkeley.edu,,,
+"JEON, HONG JUN",25969101,,,hongjun1202@berkeley.edu,,,
+"Venkatakrishnan, Gita",26381770,,,gitav@berkeley.edu,,,
+"Cui, Andrew",26032185,,,andycui97@berkeley.edu,,,
+"Harrison, David",26060284,,,dharrison@berkeley.edu,,,
+"Joshi, Ruta",26122656,,,rjoshi@berkeley.edu,,,
+"YUAN, PETER",26125492,,,peterzyuan@berkeley.edu,,,
+"Guo, Young",26132166,,,young.guo@berkeley.edu,,,
+"Hasan, Sahil",26139684,,,sahilhasan@berkeley.edu,,,
+"Sheu, William",26158282,,,willsheu@berkeley.edu,,,
+"Mao, Robert",26195313,,,robertmao97@berkeley.edu,,,
+"Vural, Timur",26313020,,,tvural@berkeley.edu,,,
+"Zhang, Thomas",26313631,,,thomaszhang@berkeley.edu,,,
+"Girkar, Siddharth",26325485,,,smgirkar@berkeley.edu,,,
+"Pandya, Ravi",26346865,,,rpandya922@berkeley.edu,,,
+"Kant, Neel",26375140,,,kantneel@berkeley.edu,,,
+"Chen, Jerry",26505378,,,jchen0022@berkeley.edu,,,
+"Tran, Jacob",26536053,,,iakopatran@berkeley.edu,,,
+"Sanghvi, Hersh",26639127,,,hersh@berkeley.edu,,,
+"Ng, Clement",26802006,,,clementng@berkeley.edu,,,
+"Schwab, Lukas",26838229,,,lukas@berkeley.edu,,,
+"Deatrick, Joseph",26444366,,,einzelganger@berkeley.edu,,,
+"Chen, Brian",26683644,,,bkevch@berkeley.edu,,,
+"Jiang, Zhiyao",26063926,,,sjzy@berkeley.edu,,,
+"Sahiner, Arda",26400200,,,sahinera@berkeley.edu,,,
+"Hsu, Olivia",26472989,,,ohsu2019@berkeley.edu,,,
+"Zheng, Harrison",26582512,,,hazheng@berkeley.edu,,,
+"Raga, Nicolas",26590448,,,nraga@berkeley.edu,,,
+"Chang, Kevin",26645028,,,kchang96@berkeley.edu,,,
+"Lin, Mitch",26660475,,,mitchlin@berkeley.edu,,,
+"Ge, Gary",26677618,,,garyliangge@berkeley.edu,,,
+"Jasso, Jose",26685759,,,josej123@berkeley.edu,,,
+"Hsieh, Cody",26719911,,,cohsieh@berkeley.edu,,,
+"Hou, Eric",26856627,,,ericzhonghou@berkeley.edu,,,
+"Lu, Justin",26306214,,,justinlu@berkeley.edu,,,
+"Zhou, Barak",26503669,,,zhoubw@berkeley.edu,,,
+"Hong, Justin",26675701,,,jjhong922@berkeley.edu,,,
+"Gonzalez, Xiomara",26346976,,,xiomarag@berkeley.edu,,,
+"Davar, Neel",26397077,,,neeldavar@berkeley.edu,,,
+"Duprat, Pauline",24400666,,,paulineduprat@berkeley.edu,,,
+"Sim, Pei",25771219,,,peijiesim@berkeley.edu,,,
+"Ng, Andy",26018018,,,ang616@berkeley.edu,,,
+"Gurung, Jhalak",26118846,,,jkgurung@berkeley.edu,,,
+"Demooei, Soroosh",26119126,,,sdoerm@berkeley.edu,,,
+"Berhanu, Tesfahun",26146872,,,tberhanu@berkeley.edu,,,
+"Li, Tong",26263520,,,sasrwas@berkeley.edu,,,
+"Wang, Shengxian",26316880,,,shengxianwang@berkeley.edu,,,
+"Dang, Lance",26334306,,,ldang@berkeley.edu,,,
+"Han, Yuyang",26368230,,,yhan@berkeley.edu,,,
+"YU, CALVIN",26370077,,,calvinyu@berkeley.edu,,,
+"Junek, Gregory",26479754,,,gregjunek@berkeley.edu,,,
+"Sim, Pei",26482444,,,peiyong.sim@berkeley.edu,,,
+"Rodriguez, Juan",26489511,,,juanmrq95@berkeley.edu,,,
+"Halim, Samuel",26495301,,,samuel.halim@berkeley.edu,,,
+"Bo, Bing",26495825,,,bbo@berkeley.edu,,,
+"Shanmuga Sundaram, Siddarth",26622279,,,siddshanmuga26@berkeley.edu,,,
+"Levin, Joseph",26739917,,,jlevin@berkeley.edu,,,
+"Linn, Nay",26741518,,,nlinn@berkeley.edu,,,
+"Yataco, Luis",26890085,,,luisyataco@berkeley.edu,,,
+"Nguyen, Robert",26979742,,,ROB0726@GMAIL.COM,,,
+"Ao, Henry",26156757,,,hao1@berkeley.edu,,,
+"Zhou, Eric",26376586,,,ericfzhou@berkeley.edu,,,
+"Dong, Ziou",26510920,,,oliverdong@berkeley.edu,,,
+"Liu, Jenny",26665659,,,jenliu1300@berkeley.edu,,,
+"Jamil, Shoumik",26806535,,,sjamil@berkeley.edu,,,
+"Divyashish, Divi",24404171,,,dkumar11@berkeley.edu,,,
+"Hughes, Graham",3031782573,,,graham_hughes@berkeley.edu,,,
+"Veys, Celine",3031783262,,,cjveys@berkeley.edu,,,
+"Rodney, Ian",3031785316,,,ian.rodney@gmail.com,,,
+"Kwak, Leon",3031788917,,,leonk7@berkeley.edu,,,
+"Kedia, Rishab",3031791127,,,rkedia@berkeley.edu,,,
+"Yang, Sera",3031794806,,,sera4415@berkeley.edu,,,
+"Ramakrishnan, Varsha",3031797029,,,vio@berkeley.edu,,,
+"Ng, Arvin",3031812031,,,arvinng@berkeley.edu,,,
+"Darling, Milo",3031814384,,,milodarling@berkeley.edu,,,
+"Lee, Darren",3031826604,,,darrenlee@berkeley.edu,,,
+"Mandava, Meghna",3031834534,,,meghnamandava@berkeley.edu,,,
+"Chu, Victoria",3031838460,,,victoria.p.chu@berkeley.edu,,,
+"Periyakoil, Divya",3031848509,,,divyap@berkeley.edu,,,
+"Zhao, Yi",3031855074,,,yi@berkeley.edu,,,
+"Fung, Jonathan",3031859910,,,jonfung@berkeley.edu,,,
+"Brewer, Anna",3031870635,,,annabrewer@berkeley.edu,,,
+"deRecat, Spencer",3031921387,,,sd181879@berkeley.edu,,,
+"de Vrieze, Colin",3032062203,,,colin.de.vrieze@eecs.berkeley.edu,,,
+"Smith, Itai",3032111785,,,ismith93@berkeley.edu,,,
+"Kranen, Kyle",3031788176,,,kkranen@berkeley.edu,,,
+"Liu, Kevin",3031791881,,,kevinliu743@berkeley.edu,,,
+"Huynh, Jason",3031802216,,,jasonhuynh73@berkeley.edu,,,
+"Lohn, Evan",3031802229,,,evan.lohn@berkeley.edu,,,
+"Kandala, Averal",3031828138,,,avekan33@berkeley.edu,,,
+"Mattegunta, Yajushi",3031833390,,,ymattegunta@berkeley.edu,,,
+"Yang, Ryan",3031840787,,,angryan@berkeley.edu,,,
+"Howard, Logan",3031842165,,,logan@berkeley.edu,,,
+"Cegarra, Alejandro",3031867801,,,cegarraa@berkeley.edu,,,
+"Veerapaneni, Rishi",3031881802,,,rishiv@berkeley.edu,,,
+"Godbole, Neha",3031908387,,,nehagodbole@berkeley.edu,,,
+"Shaikh, Mohammed",3032088307,,,afmdnf@berkeley.edu,,,
+"Yang, Harrison",3032168543,,,harrisonyang@berkeley.edu,,,
+"Abdeshahian, Sarah",3032065648,,,sarahabdeshahian@berkeley.edu,,,
+"Gill, Arjun",3031938157,,,arjun.gill@berkeley.edu,,,
+"Kurniawan, Andrew",3031975454,,,andrew.kurniawan@berkeley.edu,,,
+"Werblun, Nick",3032195882,,,nwerblun@berkeley.edu,,,
+"Ghotbi, Roham",3032229942,,,rohamghotbi@berkeley.edu,,,
+"Yen, Tiffany",3032233010,,,tyen10@berkeley.edu,,,
+"Elbarmawi, Omar",3032281539,,,oelbarmawi@berkeley.edu,,,
+"Meinecke, Dustin",3032285738,,,dustin.meinecke@berkeley.edu,,,
+"Fereydouni, Parsa",3032309112,,,parsaf@berkeley.edu,,,
+"Rostamiasrabadi, Aria",3032326961,,,aria.rostami@berkeley.edu,,,
+"Qureshi, Shabaan",3032329301,,,shabaanqureshi11@berkeley.edu,,,
+"Naser, Anika",3032330731,,,naseranika@berkeley.edu,,,
+"Mohtashami, Amin",3032340715,,,amin12307@berkeley.edu,,,
+"Olson, Sean",3032343848,,,so412360@berkeley.edu,,,
+"Jimenez, Aaron",3032352766,,,ajjimenez@berkeley.edu,,,
+"Jaimes Flores, Carisa",3032365116,,,carisa_linettejaimes@berkeley.edu,,,
+"Nguyen, Sam",3032371616,,,samnguyen1212@berkeley.edu,,,
+"Bajaj, Nick",3032418221,,,nick.bajaj@berkeley.edu,,,
+"Martini, Lauren",3032194036,,,lauren_martini@berkeley.edu,,,
+"Adhikari, Manoj",3032215083,,,manoj.adhikari@berkeley.edu,,,
+"Huang, Luyi (Louis)",3032236923,,,446995155@qq.com,,,
+"Ahmed, Osama",3032257567,,,osamaahmed@berkeley.edu,,,
+"Strack, Wolfgang C",3032262013,,,wolfgangcstrack@berkeley.edu,,,
+"Askarian Namaghi, Shayan",3032332252,,,shayan.askarian@berkeley.edu,,,
+"Dang, Khanh",3032332343,,,khanhdang1012@berkeley.edu,,,
+"Chen, Muying",3032352142,,,muyingchen@berkeley.edu,,,
+"Lizarraga, Silvia",3032364986,,,silvsilva@berkeley.edu,,,
+"Kapsch, Patrick Heiberg",3032576847,,,patrick.kapsch@berkeley.edu,,,
+,26375140,,,kantneel@berkeley.edu,,,
+,26838229,,,lukas.schwab@gmail.com,,,
+,25564316,,,prankum2100@berkeley.edu,,,
+,25564316,,,pkr2100@gmail.com,,,
+,26132166,,,young.guo@berkeley.edu,,,
+,25233063,,,sophia.by.liu@gmail.com,,,
+,26195313,,,robertmao97@berkeley.edu,,,
+,26195313,,,robertmao97@gmail.com,,,
+,26739917,,,jlevin@berkeley.edu,,,
+,26063926,,,sjzy@berkeley.edu,,,
+,26739917,,,joemlevin@gmail.com,,,
+,25814392,,,dkchoi21@berkeley.edu,,,
+,25292069,,,jskwon@berkeley.edu,,,
+,25292069,,,jaaykwon@gmail.com,,,
+,25217954,,,ryangoy@gmail.com,,,
+,3031791881,,,kevinliu743@berkeley.edu,,,
+,26683644,,,bkevch@berkeley.edu,,,
+,25166438,,,echou35@berkeley.edu,,,
+,3031782573,,,graham_hughes@berkeley.edu,,,
+,26675701,,,jjhong922@berkeley.edu,,,
+,26018018,,,ang616@berkeley.edu,,,
+,22820493,,,gastmania933@gmail.com,,,
+,22820493,,,g4u55l4w@berkeley.edu,,,
+,3032236923,,,luyih@bluegoji.com,,,
+,3032343848,,,so412360@berkeley.edu,,,
+,26444366,,,jldeatrick@gmail.com,,,
+,26146872,,,tesfahunt@gmail.com,,,
+,24233807,,,kabir.chandrasekher@gmail.com,,,
+,24233807,,,kabirc@stanford.edu,,,
+,25357840,,,vincent.escueta22@gmail.com,,,
+,24404171,,,dkumar11@berkeley.edu,,,
+,23398724,,,zxl-12@berkeley.edu,,,
+,24742650,,,calebchuck@berkeley.edu,,,
+,25691210,,,deaairene@gmail.com,,,
+,25356251,,,crramirez@berkeley.edu,,,
+,26122656,,,rjoshi@berkeley.edu,,,
+,3031814384,,,milodarling98@gmail.com,,,
+,24298770,,,kevintxwu@gmail.com,,,
+,247339703,,,bbo@berkeley.edu,,,
+,247339703,,,bobing0924@gmail.com,,,
+,25789850,,,davidamazingliu@gmail.com,,,
+,3031814384,,,milodarling@berkeley.edu,,,
+,23343250,,,tobinsarah12@gmail.com,,,
+,25469359,,,kbai77t@berkeley.edu,,,
+,26397077,,,neeldavar@berkeley.edu,,,
+,25619187,,,aseem.keyal@gmail.com,,,
+,25142694,,,raaronsy@gmail.com,,,
+,25302081,,,dpgrubb13@gmail.com,,,
+,25701107,,,martinez.cindy790@gmail.com,,,
+,25701107,,,ca.martinez37@yahoo.com,,,
+,26660475,,,mitchlin@berkeley.edu,,,
+,25399617,,,diyndingo@gmail.com,,,
+,25399617,,,ruvan.jayaweera@gmail.com,,,
+,25617725,,,andrewmillman35@gmail.com,,,
