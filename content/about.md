@@ -14,7 +14,7 @@ The week before each Friday class meeting will be used to prepare for the upcomi
 
 * On Saturday, readings for the following week will be posted.
 * On Thursday, you should complete the weekly survey by 2 PM.
-* on Fridays, from 3 - 4 PM, class will be held. 
+* On Fridays, from 3 - 4 PM, class will be held. 
 
 Surveys
 -------
