@@ -10,10 +10,11 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Monday class meeting will be used to prepare for the upcoming discussion-oriented class section.
+The week before each Friday class meeting will be used to prepare for the upcoming discussion-oriented class section.
 
-* On Monday, class will consist of lecture and discussion on the weekly topic. All students should complete the readings and weekly survey before class.
-* There will also be a weekly informal small group discussion led by Daniel Feldman at a time TBA.
+* On Saturday, readings for the following week will be posted.
+* On Thursday, you should complete the weekly survey by 2 PM.
+* on Fridays, from 3 - 4 PM, class will be held. 
 
 Surveys
 -------
@@ -29,8 +30,8 @@ Essays
 ------
 
 In addition, you will write three short essays (500-1000 words) that contain
-your original thoughts about issues from the class. All students will write
-about the same topics, and your work will be reviewed by your peers. Essay
+your original thoughts about issues from the class. Students will choose their own
+essay topics, and your work will be reviewed by your peers. Essay
 assignments will appear in the reading list and be announced in class.
 
 Grading
@@ -58,3 +59,6 @@ to reach 80 points according to the following point values:
  * Lecture attendance, 2 points each, for a max of 20 points
  * Writing essays, 10 points each, for a max of 30 points
  * Peer grading, 3 points each, for a max of 29 points
+
+In the event that you do not earn the required number of points, we will provide
+an opportunity to make up extra work, though you should not count on this.
