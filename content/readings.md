@@ -13,7 +13,7 @@ VPN][vpn] on your computer (better privacy).
 
 I can't make it 9/8, so we'll have a guest lecturer talking about finance and then we'll pick up where we left off on Government Censorship and Surveillance.
 
-**Please complete the Finance Survey before Thursday at 5 PM (coming Sunday night).**
+**Please complete the [Finance Survey](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLScB-sbivD9YYiubBPcx9s50RVUt1RokAV1ZCMobWYCJIYehCw/viewform) before Thursday at 5 PM.**
 
 Hug, "[A Stock Market Primer (draft)][stock_market]"
 
