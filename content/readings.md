@@ -23,7 +23,7 @@ Grabmeier, "[Why many Russians have gladly agreed to online censorship][russians
 
 Gladwell, "[The Outside Man][outside_man]" (Optional)
 
-Foucault, "[Discipline and Punish: The Birth of the Prison][panopticism]" (Ultra optional, recommended by Itai)
+Foucault, "[Discipline and Punish: The Birth of the Prison][panopticism]" (Ultra optional, recommended by Lukas)
 
    [secrecy_local_law_enforcement]: http://www.latimes.com/opinion/editorials/la-ed-surveillance-bill-sb21-20170901-story.html
 
