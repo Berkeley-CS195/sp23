@@ -9,6 +9,33 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 9/15 Government Censorship and Surveillance
+
+Times Editorial Board, "[No more secret surveillance technology in local law enforcement][secrecy_local_law_enforcement]"
+
+Rainie, Maniam "[Americans feel the tensions between privacy and security concerns][americans_views_surveillance]"
+
+Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][mlk1]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][mlk2]"
+
+Grabmeier, "[Why many Russians have gladly agreed to online censorship][russians_internet_censorship]"
+
+Gladwell, "[The Outside Man][outside_man]" (Optional)
+
+Foucault, "[Discipline and Punish: The Birth of the Prison][panopticism]" (Ultra optional, recommended by Itai)
+
+   [secrecy_local_law_enforcement]: http://www.latimes.com/opinion/editorials/la-ed-surveillance-bill-sb21-20170901-story.html
+
+   [russians_internet_censorship]: https://news.osu.edu/news/2017/09/06/psychological-firewall/
+
+   [americans_views_surveillance]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
+
+   [mlk1]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+   [mlk2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+ 
+   [outside_man]: https://www.newyorker.com/magazine/2016/12/19/daniel-ellsberg-edward-snowden-and-the-modern-whistle-blower/amp
+
+   [panopticism]: http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf
+
 ### 9/8 Finance (Guest Lecture)
 
 I can't make it 9/8, so we'll have a guest lecturer talking about finance and then we'll pick up where we left off on Government Censorship and Surveillance.
