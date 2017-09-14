@@ -11,6 +11,8 @@ VPN][vpn] on your computer (better privacy).
 
 ### 9/15 Government Censorship and Surveillance
 
+**Please complete the [Censorship and Surveillance Survey](https://docs.google.com/forms/d/e/1FAIpQLScYimbTX6jlgWcsPha8HATP_a5IHRwfSVYAcYHduINrq7R6Vw/viewform) before Thursday at 5 PM.**
+
 Times Editorial Board, "[No more secret surveillance technology in local law enforcement][secrecy_local_law_enforcement]"
 
 Rainie, Maniam "[Americans feel the tensions between privacy and security concerns][americans_views_surveillance]"
