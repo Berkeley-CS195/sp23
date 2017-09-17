@@ -11,7 +11,9 @@ VPN][vpn] on your computer (better privacy).
 
 ## 9/22 Professional Ethics and Moral Philosophy
 
-This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. I'll go over the three major schools of ethics in class, but you might find it helpful to 
+**Please complete the [Professional Ethics and Moral Philosophy](https://goo.gl/forms/DOCUjxfVgRwU6gaq1) survey before Thursday at 5 PM.**
+
+This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. I'll go over the three major schools of ethics in class, but you might find it helpful to watch these videos in advance so my overview is easier to follow.
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
