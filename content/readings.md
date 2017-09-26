@@ -9,6 +9,27 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+## 9/29 Copyright and Intellectual Property
+
+**Please complete the [Copyright Survey](https://goo.gl/forms/yJsZz38uVwnnwzYA2) survey before Thursday at 5 PM.**
+
+Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
+
+Stallman, "[Misinterpreting Copyright][copyright]"
+
+Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 20 years in][meta_patent]"
+
+Optional: Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Video][no_patent_video])
+
+Optional: Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
+
+   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
+   [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
+   [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+
 ## 9/22 Professional Ethics and Moral Philosophy
 
 **Please complete the [Professional Ethics and Moral Philosophy](https://goo.gl/forms/DOCUjxfVgRwU6gaq1) survey before Thursday at 5 PM.**
