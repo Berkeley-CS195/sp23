@@ -9,6 +9,23 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+## 10/6 Jobs and Automation
+
+CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
+
+Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+Optional but recommended: "[Our Automated Future][automated_future]"
+
+Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][mckinsey1]" and the "[Appendix][mckinsey2]"
+
+   [humans_need_not_apply]: https://www.youtube.com/watch?v=7Pq-S557XQU
+   [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+   [automated_future]: https://www.newyorker.com/magazine/2016/12/19/our-automated-future
+   [mckinsey1]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
+   [mckinsey2]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
+
+
 ## 9/29 Copyright and Intellectual Property
 
 **Please complete the [Copyright Survey](https://goo.gl/forms/yJsZz38uVwnnwzYA2) survey before Thursday at 5 PM.**
