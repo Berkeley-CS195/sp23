@@ -11,8 +11,11 @@ VPN][vpn] on your computer (better privacy).
 
 ### Essay 1
 Proposal due: Thursday, 9/21.
+
 Proposal approvals: Saturday, 9/23.
+
 Essay due: Sunday, October 1st.
+
 Peer reviews due: Sunday, October 8th. 
 
 ## 10/6 Jobs and Automation
