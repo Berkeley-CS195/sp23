@@ -20,6 +20,8 @@ Peer reviews due: Sunday, October 8th.
 
 ## 10/13 War
 
+**Please complete the [War](https://docs.google.com/forms/d/e/1FAIpQLSdLeTZ4Z7jPAT2ZLyK40hPX7hQqKaUrGRPV2HDUdIEQHTYvKQ/viewform?usp=sf_link) survey before Thursday at 5 PM.**
+
 Bershidskey, Leonid "[Scariest Thing About Cyberwarfare: No Rules of Engagement][cyberwar_rules]"
 
 Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
