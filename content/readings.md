@@ -11,6 +11,8 @@ VPN][vpn] on your computer (better privacy).
 
 ## 10/6 Jobs and Automation
 
+**Please complete the [Jobs and Automation](https://goo.gl/forms/8laJtk8i5P2dODu23) survey before Thursday at 5 PM.**
+
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
 
 Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
