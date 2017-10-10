@@ -18,6 +18,21 @@ Essay due: Sunday, October 1st.
 
 Peer reviews due: Sunday, October 8th. 
 
+## 10/13 War
+
+Bershidskey, Leonid "[Scariest Thing About Cyberwarfare: No Rules of Engagement][cyberwar_rules]"
+
+Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+
+Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
+
+Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][military_industrial]" (requires being on campus or Berkeley VPN)
+
+   [cyberwar_rules]: https://www.bloomberg.com/view/articles/2017-07-07/scariest-thing-about-cyberwarfare-no-rules-of-engagement
+   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+   [military_industrial]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
+
 ## 10/6 Jobs and Automation
 
 CGP Grey, "[Humans Need Not Apply][humans_need_not_apply]"
