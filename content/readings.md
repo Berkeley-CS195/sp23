@@ -9,6 +9,16 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### Essay 2
+Proposal due: Thursday, October 19th.
+
+Proposal approvals: Saturday, October 21st.
+
+Essay due: Sunday, October 29th.
+
+Peer reviews due: Sunday, November 5th. 
+
+
 ### Essay 1
 Proposal due: Thursday, 9/21.
 
