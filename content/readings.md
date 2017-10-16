@@ -32,7 +32,7 @@ Peer reviews due: Sunday, October 8th.
 
 CGP Grey, "[This Video Will Make You Angry][angry_video]"
 
-Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_selection]"
+Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_selection]" (required VPN or being on campus)
 
 Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel’s French Connection][mimetic_violence]" (very weird read, but interesting)
 
