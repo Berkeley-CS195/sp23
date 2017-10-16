@@ -28,6 +28,21 @@ Essay due: Sunday, October 1st.
 
 Peer reviews due: Sunday, October 8th. 
 
+## 10/20 Memes
+
+CGP Grey, "[This Video Will Make You Angry][angry_video]"
+
+Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_selection]"
+
+Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel’s French Connection][mimetic_violence]" (very weird read, but interesting)
+
+Alexander, "[The Toxoplasma of Rage][toxoplasma]" (optional, somewhat redundant with CGP Grey video above, but some students really liked it last year)
+
+   [angry_video]: https://www.youtube.com/watch?v=rE3j_RHkqJc
+   [emotional_selection]: http://psycnet.apa.org/journals/psp/81/6/1028/
+   [mimetic_violence]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+   [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
+
 ## 10/13 War
 
 **Please complete the [War](https://docs.google.com/forms/d/e/1FAIpQLSdLeTZ4Z7jPAT2ZLyK40hPX7hQqKaUrGRPV2HDUdIEQHTYvKQ/viewform?usp=sf_link) survey before Thursday at 5 PM.**
