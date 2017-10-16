@@ -9,6 +9,8 @@ VPN][vpn] on your computer (better privacy).
 
 ### 10/20 Memes
 
+**Please complete the [Memes](https://docs.google.com/forms/d/e/1FAIpQLSfVvqObfyr57NAI30RXBvShg84pMrD28R3WfhBIOXFjz7VZkg/viewform?usp=sf_link) survey before Thursday at 5 PM.**
+
 CGP Grey, "[This Video Will Make You Angry][angry_video]"
 
 Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_selection]" (required VPN or being on campus)
