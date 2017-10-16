@@ -1,6 +1,4 @@
-~ title: Topics, Assignments, and Readings
-
-<!--[Attendance form is here](http://goo.gl/forms/FRRPoYpwP9)-->
+~ title: Topics, Readings, and Assignments
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
@@ -9,26 +7,7 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### Essay 2
-Proposal due: Thursday, October 19th.
-
-Proposal approvals: Saturday, October 21st.
-
-Essay due: Sunday, October 29th.
-
-Peer reviews due: Sunday, November 5th. 
-
-
-### Essay 1
-Proposal due: Thursday, 9/21.
-
-Proposal approvals: Saturday, 9/23.
-
-Essay due: Sunday, October 1st.
-
-Peer reviews due: Sunday, October 8th. 
-
-## 10/20 Memes
+### 10/20 Memes
 
 CGP Grey, "[This Video Will Make You Angry][angry_video]"
 
@@ -43,7 +22,7 @@ Alexander, "[The Toxoplasma of Rage][toxoplasma]" (optional, somewhat redundant 
    [mimetic_violence]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
    [toxoplasma]: http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/
 
-## 10/13 War
+### 10/13 War
 
 **Please complete the [War](https://docs.google.com/forms/d/e/1FAIpQLSdLeTZ4Z7jPAT2ZLyK40hPX7hQqKaUrGRPV2HDUdIEQHTYvKQ/viewform?usp=sf_link) survey before Thursday at 5 PM.**
 
@@ -60,7 +39,7 @@ Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][military_indust
    [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
    [military_industrial]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
-## 10/6 Jobs and Automation
+### 10/6 Jobs and Automation
 
 **Please complete the [Jobs and Automation](https://goo.gl/forms/8laJtk8i5P2dODu23) survey before Thursday at 5 PM.**
 
@@ -79,7 +58,7 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
    [mckinsey2]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
 
 
-## 9/29 Copyright and Intellectual Property
+### 9/29 Copyright and Intellectual Property
 
 **Please complete the [Copyright Survey](https://goo.gl/forms/yJsZz38uVwnnwzYA2) survey before Thursday at 5 PM.**
 
@@ -100,7 +79,7 @@ Optional: Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-paten
    [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
    [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
-## 9/22 Professional Ethics and Moral Philosophy
+### 9/22 Professional Ethics and Moral Philosophy
 
 **Please complete the [Professional Ethics and Moral Philosophy](https://goo.gl/forms/DOCUjxfVgRwU6gaq1) survey before Thursday at 5 PM.**
 
@@ -210,4 +189,24 @@ Optional: [The History of Twitter's Rules][twitter]
 
    [effnazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
    [twitter]: http://motherboard.vice.com/read/the-history-of-twitters-rules
+
+## Assignments
+
+### Essay 2
+Proposal due: Thursday, October 19th.
+
+Proposal approvals: Saturday, October 21st.
+
+Essay due: Sunday, October 29th.
+
+Peer reviews due: Sunday, November 5th. 
+
+### Essay 1
+Proposal due: Thursday, 9/21.
+
+Proposal approvals: Saturday, 9/23.
+
+Essay due: Sunday, October 1st.
+
+Peer reviews due: Sunday, October 8th. 
    
