@@ -1,5 +1,11 @@
 ~ title: Topics, Readings, and Assignments
 
+<!-- ASSIGNMENTS -->
+| Essay | Proposal Due    | Proposal Approvals | Essay Due     | Peer Reviews Due |
+|-------|-----------------|--------------------|---------------|------------------|
+| 1     | Thursday, 9/21  | Saturday, 9/23     | Sunday, 10/1  | Sunday, 10/8     |
+| 2     | Thursday, 10/19 | Saturday, 10/21    | Sunday, 10/29 | Sunday, 11/5     |
+
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
 VPN][vpn] on your computer (better privacy).
@@ -191,24 +197,3 @@ Optional: [The History of Twitter's Rules][twitter]
 
    [effnazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
    [twitter]: http://motherboard.vice.com/read/the-history-of-twitters-rules
-
-## Assignments
-
-### Essay 2
-Proposal due: Thursday, October 19th.
-
-Proposal approvals: Saturday, October 21st.
-
-Essay due: Sunday, October 29th.
-
-Peer reviews due: Sunday, November 5th. 
-
-### Essay 1
-Proposal due: Thursday, 9/21.
-
-Proposal approvals: Saturday, 9/23.
-
-Essay due: Sunday, October 1st.
-
-Peer reviews due: Sunday, October 8th. 
-   
