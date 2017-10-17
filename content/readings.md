@@ -21,7 +21,7 @@ CGP Grey, "[This Video Will Make You Angry][angry_video]"
 
 Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_selection]" (required VPN or being on campus)
 
-Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel’s French Connection][mimetic_violence]" (very weird read, but interesting)
+Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][mimetic_violence]" (very weird read, but interesting)
 
 Alexander, "[The Toxoplasma of Rage][toxoplasma]" (optional, somewhat redundant with CGP Grey video above, but some students really liked it last year)
 
