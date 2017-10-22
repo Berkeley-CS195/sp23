@@ -21,7 +21,7 @@ Kolbert, "[Why Facts Don't Change Our Minds][facts]"
 
 Bertoni, "[How Jared Kushner Won Trump The White House][kushner]"
 
-Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][resisting_fragmentation]"
+Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][resisting_fragmentation]" (optional)
 
    [facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
    [kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
