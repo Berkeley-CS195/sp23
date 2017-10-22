@@ -15,9 +15,9 @@ VPN][vpn] on your computer (better privacy).
 
 ### 10/27 Politics and Media
 
-Tufekci, "[Zuckerberg’s Preposterous Defense of Facebook][facebook_fake_news]"
+Tufekci, "[Zuckerberg's Preposterous Defense of Facebook][facebook_fake_news]"
 
-Kolbert, "[Why Facts Don’t Change Our Minds][facts]"
+Kolbert, "[Why Facts Don't Change Our Minds][facts]"
 
 Bertoni, "[How Jared Kushner Won Trump The White House][kushner]"
 
