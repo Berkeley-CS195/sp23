@@ -13,6 +13,22 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 10/27 Politics and Media
+
+Tufekci, "[Zuckerberg’s Preposterous Defense of Facebook][facebook_fake_news]"
+
+Kolbert, "[Why Facts Don’t Change Our Minds][facts]"
+
+Bertoni, "[How Jared Kushner Won Trump The White House][kushner]"
+
+Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][resisting_fragmentation]"
+
+   [facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+   [kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
+   [facebook_fake_news]: https://www.nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
+   [resisting_fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+
+
 ### 10/20 Memes
 
 **Please complete the [Memes](https://docs.google.com/forms/d/e/1FAIpQLSfVvqObfyr57NAI30RXBvShg84pMrD28R3WfhBIOXFjz7VZkg/viewform?usp=sf_link) survey before Thursday at 5 PM.**
