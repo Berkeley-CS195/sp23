@@ -15,6 +15,8 @@ VPN][vpn] on your computer (better privacy).
 
 ### 10/27 Politics and Media
 
+**Please complete the [Politics and Media](https://docs.google.com/forms/d/e/1FAIpQLScUY3Oe_SxDb2FifxAzBYwLTyac_CHlZeJXxLX0Q57DCRVPwA/viewform?usp=sf_link) survey before Thursday at 5 PM.**
+
 Tufekci, "[Zuckerberg's Preposterous Defense of Facebook][facebook_fake_news]"
 
 Kolbert, "[Why Facts Don't Change Our Minds][facts]"
