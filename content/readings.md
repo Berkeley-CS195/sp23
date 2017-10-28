@@ -13,6 +13,23 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 11/3 Software Risks and Algorithmic Bias
+
+<!-- **Please complete the [Software Risks Survey](https://goo.gl/forms/jQdWrbCmaBQ3fW9f1): let's make sure we have like 4 choices or so before publishing this time, feel free to nag me! -->
+
+Software Risks:
+   - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+   - Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+
+Algorithmic Bias:
+   - Angwin, "[Make Algorithms Accountable.][accountability]"
+   - Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
+
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+
 ### 10/27 Politics and Media
 
 **Please complete the [Politics and Media](https://docs.google.com/forms/d/e/1FAIpQLScUY3Oe_SxDb2FifxAzBYwLTyac_CHlZeJXxLX0Q57DCRVPwA/viewform?usp=sf_link) survey before Thursday at 5 PM.**
