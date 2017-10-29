@@ -20,6 +20,7 @@ VPN][vpn] on your computer (better privacy).
 Software Risks:
    - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
    - Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+   - Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopian_ads]"
 
 Algorithmic Bias:
    - Angwin, "[Make Algorithms Accountable.][accountability]"
@@ -31,6 +32,7 @@ Algorithmic Bias:
    [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
    [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
    [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
 
 ### 10/27 Politics and Media
 
