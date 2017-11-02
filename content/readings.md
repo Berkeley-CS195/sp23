@@ -15,7 +15,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### 11/3 Software Risks and Algorithmic Bias
 
-<!-- **Please complete the [Software Risks Survey](https://goo.gl/forms/jQdWrbCmaBQ3fW9f1): let's make sure we have like 4 choices or so before publishing this time, feel free to nag me! -->
+**Please complete the [Software Risks Survey](https://docs.google.com/forms/d/e/1FAIpQLSeMJyoeNtDL-jOAWdXHtcEmDXsK8aT-hmYRvsCcG6u4ofj6eg/viewform?usp=sf_link) before Thursday at 5 PM.**
 
 Software Risks:
    - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
