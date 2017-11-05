@@ -36,6 +36,8 @@ Algorithmic Bias:
 
 ### 10/27 Politics and Media
 
+<!-- Never hard core enough for Youtube video. How algorithms slowly lure you into more extreme beliefs. -->
+
 **Please complete the [Politics and Media](https://docs.google.com/forms/d/e/1FAIpQLScUY3Oe_SxDb2FifxAzBYwLTyac_CHlZeJXxLX0Q57DCRVPwA/viewform?usp=sf_link) survey before Thursday at 5 PM.**
 
 Tufekci, "[Zuckerberg's Preposterous Defense of Facebook][facebook_fake_news]"
@@ -202,6 +204,8 @@ Maney, "[Goldman Sacked: How artificial intelligence will transform wall street]
    [robots_beat_man]: http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html
 
 ### 9/1 Privacy
+
+<!-- NEXT TIME: Replyall episode 109 or so (facebook creepy life) -->
 
 **Please complete the [Privacy Survey](https://goo.gl/forms/ZmPNnqdUIgSwGszZ2) before Thursday at 5 PM.**
 
