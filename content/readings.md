@@ -13,6 +13,31 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 11/17 Millenials and Free Time
+
+<!-- 
+video games and leisure
+dating, tinder
+Seven Cups of Tea / Wikipedia / the missing something.
+Instagram Museum: photo vs. actually enjoying thing
+-->
+
+Twenge, "[Has Smartphones Destroyed a Generation?][smartphones]"
+
+Brooks, Dalai Lama, "[Behind Our Anxiety, the Fear of Being Unneeded][anxiety_lama]"
+
+Becker, Rachel, "[Why calling screen time 'digital heroin' is digital garbage][digital_heroin]"
+
+Optional: Alter, "[Do the Poor Have More Meaningful Lives?][poor_meaning]"
+
+Optional: Lil B, "[The Age of Information][lilb]"
+
+   [smartphones]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
+   [anxiety_lama]: https://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html?_r=0
+   [poor_meaning]: https://www.newyorker.com/business/currency/do-the-poor-have-more-meaningful-lives
+   [lilb]: https://www.youtube.com/watch?v=corY-FZAZog
+   [digital_heroin]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
+
 ### 11/3 Software Risks and Algorithmic Bias
 
 **Please complete the [Software Risks Survey](https://docs.google.com/forms/d/e/1FAIpQLSeMJyoeNtDL-jOAWdXHtcEmDXsK8aT-hmYRvsCcG6u4ofj6eg/viewform?usp=sf_link) before Thursday at 5 PM.**
@@ -89,6 +114,8 @@ Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][military_indust
    [military_industrial]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 ### 10/6 Jobs and Automation
+
+<!-- consider https://www.vox.com/a/new-economy-future/technology-productivity and https://www.vox.com/2015/7/27/9038829/automation-myth for next time. -->
 
 **Please complete the [Jobs and Automation](https://goo.gl/forms/8laJtk8i5P2dODu23) survey before Thursday at 5 PM.**
 
