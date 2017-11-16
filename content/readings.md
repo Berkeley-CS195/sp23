@@ -13,16 +13,12 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-### 11/17 Millenials and Free Time
+### 11/17 Millennials and Free Time
 
-<!-- 
-video games and leisure
-dating, tinder
-Seven Cups of Tea / Wikipedia / the missing something.
-Instagram Museum: photo vs. actually enjoying thing
--->
+**Please complete the [Millennials and Free Time](https://docs.google.com/forms/d/e/1FAIpQLSeXbez2nHgqrYsuA3vgHDSp9QQN7MEusy_KYpwfUnLjt9T9XA/viewform?usp=sf_link) before Thursday at 5 PM.**
 
-Twenge, "[Has Smartphones Destroyed a Generation?][smartphones]"
+
+Twenge, "[Have Smartphones Destroyed a Generation?][smartphones]"
 
 Brooks, Dalai Lama, "[Behind Our Anxiety, the Fear of Being Unneeded][anxiety_lama]"
 
