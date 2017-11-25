@@ -19,14 +19,14 @@ VPN][vpn] on your computer (better privacy).
 Kind, Amy, "[Qualia][qualia]", section 1 (The Hard Problem of Consciousness)
 
 Watch either of these (they are similar):
-    - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]" 
-    - Bostrom, Nick, "[What happens when our computers get smarter than we are?][ai_smarter]"
+   - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]" 
+   - Bostrom, Nick, "[What happens when our computers get smarter than we are?][ai_smarter]"
 
 Brooks, Rodney, "[The Seven Deadly Sins of Predicting the Future of AI][seven_deadly]"
 
-Optional:
-    - Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"    
-    - Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
+Optional: Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"    
+
+Optional: Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
 
    [qualia]: http://www.iep.utm.edu/qualia/#H1
    [ai_control]: https://www.youtube.com/watch?v=8nt3edWLgIg
