@@ -16,7 +16,7 @@ VPN][vpn] on your computer (better privacy).
 
 ### The Distant Future
 
-Kind, Amy, "[Qualia][qualia]", section 1 (The Hard Problem of Consciousness)
+Kind, Amy, "[Qualia][qualia]", up to the end of section 1 (The Hard Problem of Consciousness)
 
 Watch either of these (they are similar):
    - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]" 
@@ -28,7 +28,7 @@ Optional: Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"
 
 Optional: Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
 
-   [qualia]: http://www.iep.utm.edu/qualia/#H1
+   [qualia]: http://www.iep.utm.edu/qualia
    [ai_control]: https://www.youtube.com/watch?v=8nt3edWLgIg
    [ai_smarter]: https://www.youtube.com/watch?v=MnT1xgZgkpk
    [seven_deadly]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
