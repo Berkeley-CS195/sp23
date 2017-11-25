@@ -14,6 +14,27 @@ VPN][vpn] on your computer (better privacy).
    [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### The Distant Future
+
+Kind, Amy, "[Qualia][qualia]", section 1 (The Hard Problem of Consciousness)
+
+Watch either of these (they are similar):
+    - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]" 
+    - Bostrom, Nick, "[What happens when our computers get smarter than we are?][ai_smarter]"
+
+Brooks, Rodney, "[The Seven Deadly Sins of Predicting the Future of AI][seven_deadly]"
+
+Optional:
+    - Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"    
+    - Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
+
+   [qualia]: http://www.iep.utm.edu/qualia/#H1
+   [ai_control]: https://www.youtube.com/watch?v=8nt3edWLgIg
+   [ai_smarter]: https://www.youtube.com/watch?v=MnT1xgZgkpk
+   [seven_deadly]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
+   [be_a_robot]: https://rodneybrooks.com/what-is-it-like-to-be-a-robot/
+   [ai_church]: https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/
+
 ### 11/17 Millennials and Free Time
 
 **Please complete the [Millennials and Free Time](https://docs.google.com/forms/d/e/1FAIpQLSeXbez2nHgqrYsuA3vgHDSp9QQN7MEusy_KYpwfUnLjt9T9XA/viewform?usp=sf_link) before Thursday at 5 PM.**
