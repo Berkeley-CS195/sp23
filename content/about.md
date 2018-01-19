@@ -10,11 +10,7 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-The week before each Friday class meeting will be used to prepare for the upcoming discussion-oriented class section.
-
-* On Saturday, readings for the following week will be posted.
-* On Thursday, you should complete the weekly survey by 2 PM.
-* On Fridays, from 3 - 4 PM, class will be held. 
+TBA
 
 Surveys
 -------
