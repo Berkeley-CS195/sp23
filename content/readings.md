@@ -1,12 +1,6 @@
 ~ title: Topics, Readings, and Assignments
 
 <!-- ASSIGNMENTS -->
-<!-- | Essay | Proposal Due     | Proposal Approvals | Essay Due     | Peer Reviews Due |
-|-------|------------------|--------------------|---------------|------------------|
-| 1     | Thursday, 9/21   | Saturday, 9/23     | Sunday, 10/1  | Sunday, 10/8     |
-| 2     | Thursday, 10/19  | Saturday, 10/21    | Sunday, 10/29 | Sunday, 11/5     |
-| 3     | Wednesday, 11/22 | Friday, 11/24      | Friday, 12/1  | Wednesday, 12/6  | 
--->
 
 For many of the linked readings you need to have your [UC Berkeley library
 proxy server enabled][proxy] on your web browser, or install the [Berkeley
