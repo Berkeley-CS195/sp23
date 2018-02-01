@@ -2,28 +2,63 @@
 
 <!-- ASSIGNMENTS -->
 
-For many of the linked readings you need to have your [UC Berkeley library
-proxy server enabled][proxy] on your web browser, or install the [Berkeley
-VPN][vpn] on your computer (better privacy).
+**Sign up for [Piazza](piazza.com/berkeley/spring2018/cs195).**
 
-   [proxy]: http://www.lib.berkeley.edu/Help/proxy.html
+For some of the linked readings you need to install the [Berkeley VPN][vpn] on
+your computer.
+
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+   
+### 2/12 Finance
+
+Hug, "[A Stock Market Primer (draft)][stock_market]"
+
+Uzzi, "[How AI Machines Could Save Wall Street Brokers' Jobs][man_machine_teams]"
+
+Economist, "[Machine learning promises to shake up large swathes of finance][machine_learning_finance]" (optional)
+
+Maney, "[Goldman Sacked: How artificial intelligence will transform wall street][robots_beat_man]" (optional)
+
+   [stock_market]: https://docs.google.com/document/d/14vnPi9LodKX2cpgLltBi9uekFysNCHkJ3WDiOqM7sr4/edit?usp=drive_web
+
+   [man_machine_teams]: https://www.entrepreneur.com/article/295309
+
+   [machine_learning_finance]: https://www.economist.com/news/finance-and-economics/21722685-fields-trading-credit-assessment-fraud-prevention-machine-learning
+
+   [robots_beat_man]: http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html
+
+### 2/5 Copyright
+
+Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
+
+Stallman, "[Misinterpreting Copyright][copyright]"
+
+Mullin, "["Your criticisms are completely wrong": Stallman on software patents, 20 years in][meta_patent]"
+
+Optional: Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Video][no_patent_video])
+
+Optional: Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
+
+   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
+   [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
+   [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [yes_patent]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [meta_patent]: http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
 
 ### 1/29 Privacy
 
-<!-- **Please complete the [Privacy Survey](https://goo.gl/forms/ZmPNnqdUIgSwGszZ2) before Thursday at 5 PM.** -->
+**Complete the [Privacy Survey](https://goo.gl/forms/tMxxCjYB4XqSY0xj1) by 2pm Monday (@berkeley.edu login required).**
 
 Homayoun, "[The Secret Social Media Lives of Teenagers][secret_lives]"
 
-Moody, "[Can an employee be fired for activities outside the workplace?][personal_professional]"
+Moody, "[Can an Employee be Fired for Activities Outside the Workplace?][personal_professional]"
 
 Popken, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][ad_spying]"
 
-Powazek, "[I'm Not The Product, But I Play One On The Internet][not_the_product]"
+Powazek, "[I'm Not Tte Product, But I Play One on the Internet][not_the_product]"
 
-Various Authors, "[Various stories about people getting fired for social media posts][various_firings]" (optional)
-
-Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
+Rachels, "[Why Privacy is Important][why_privacy]" (optional, but interesting; [VPN][vpn] required)
 
    [why_privacy]: http://www.jstor.org/stable/2265077   
    [personal_professional]: http://www.hrdive.com/news/can-an-employee-be-fired-for-activities-outside-the-workplace/449603/
@@ -31,7 +66,6 @@ Rachels, "[Why Privacy Is Important][why_privacy]" (optional, but interesting)
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
    [ad_spying]: http://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
    [not_the_product]: http://powazek.com/posts/3229
-   [various_firings]: https://www.google.com/search?biw=1259&bih=669&tbm=nws&q=fired+posting&oq=fired+posting&gs_l=psy-ab.3...17925.19141.0.19245.13.11.0.0.0.0.110.753.9j1.10.0....0...1.1.64.psy-ab..3.7.462...0.y1UP_eo0Tho
 
 
 ### 1/22 Free Speech
