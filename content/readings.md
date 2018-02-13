@@ -2,13 +2,13 @@
 
 <!-- ASSIGNMENTS -->
 
-**Sign up for [Piazza](piazza.com/berkeley/spring2018/cs195).**
+**Sign up for [Piazza](https://www.piazza.com/berkeley/spring2018/cs195).**
 
 For some of the linked readings you need to install the [Berkeley VPN][vpn] on
 your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
-   
+
 ### 2/12 Finance
 
 Hug, "[A Stock Market Primer (draft)][stock_market]"
