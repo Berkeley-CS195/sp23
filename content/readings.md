@@ -13,7 +13,7 @@ your computer.
 
 ### 2/19 Moral Philosophy (No class)
 
-**There is no survey and no class this week.***
+**There is no survey and no class this week.**
 
 Video on [Consequentialism][consequentialism1].
 
