@@ -1,15 +1,41 @@
 ~ title: Topics, Readings, and Assignments
 
-<!-- ASSIGNMENTS -->
+**[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.**
 
-**Sign up for [Piazza](https://www.piazza.com/berkeley/spring2018/cs195).**
+   [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3664
+
+Sign up for [Piazza](https://www.piazza.com/berkeley/spring2018/cs195).
 
 For some of the linked readings you need to install the [Berkeley VPN][vpn] on
 your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 2/19 Moral Philosophy (No class)
+
+**There is no survey and no class this week.***
+
+Video on [Consequentialism][consequentialism1].
+
+Video on [Virtue Ethics][virtue_ethics_dartington].
+
+Videos by Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2 (optional)][stearns_kant2].
+
+Systems of Ethics Game (optional): [Socrates Jones, Pro Philosopher][socrates_jones]
+
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
+
+   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
+
+   [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
+
+   [socrates_jones]: http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher
+
 ### 2/12 Finance
+
+**Complete the [Finance Survey](https://goo.gl/forms/p4KPT183MnEYai8A3) by 2pm Monday (@berkeley.edu login required).**
 
 Hug, "[A Stock Market Primer (draft)][stock_market]"
 
@@ -28,6 +54,8 @@ Maney, "[Goldman Sacked: How artificial intelligence will transform wall street]
    [robots_beat_man]: http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html
 
 ### 2/5 Copyright
+
+**Complete the [Copyright Survey](https://goo.gl/forms/4nvyHFZn4r4yBkVA2) by 2pm Monday (@berkeley.edu login required).**
 
 Cardenas, "[Patent vs. Copyright Protection for Computer Software][copyright_vs_patent]" (very short, read first)
 
