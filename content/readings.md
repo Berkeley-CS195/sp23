@@ -11,6 +11,15 @@ your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+
+### 2/26 Memes
+
+CGP Grey, "[This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)"
+
+Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends](http://psycnet.apa.org/journals/psp/81/6/1028/)" (required VPN or being on campus) - [alternative link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.1473&rep=rep1&type=pdf)
+
+Additional readings will be posted later
+
 ### 2/19 Moral Philosophy (No class)
 
 **There is no survey and no class this week.**
