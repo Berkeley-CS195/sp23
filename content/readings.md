@@ -18,7 +18,15 @@ CGP Grey, "[This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j
 
 Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends](http://psycnet.apa.org/journals/psp/81/6/1028/)" (required VPN or being on campus) - [alternative link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.1473&rep=rep1&type=pdf)
 
-Additional readings will be posted later
+Haddow, "[Meme warfare: how the power of mass replication has poisoned the US election][meme_warfare]"
+
+Optional: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][girard]" (very weird/questionable read, but interesting)
+
+   [meme_warfare]: https://www.theguardian.com/us-news/2016/nov/04/political-memes-2016-election-hillary-clinton-donald-trump
+
+   [girard]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+
+
 
 ### 2/19 Moral Philosophy (No class)
 
