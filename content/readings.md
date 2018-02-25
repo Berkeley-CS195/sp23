@@ -14,6 +14,8 @@ your computer.
 
 ### 2/26 Memes
 
+**Complete the [Memes Survey](https://goo.gl/forms/zU2kzdJBu4SODSFI2) by 2pm Monday (@berkeley.edu login required).**
+
 CGP Grey, "[This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)"
 
 Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends](http://psycnet.apa.org/journals/psp/81/6/1028/)" (required VPN or being on campus) - [alternative link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.1473&rep=rep1&type=pdf)
@@ -84,7 +86,7 @@ Optional: Stallman, "[The Dangers of Software Patents][no_patent]" (or watch [Vi
 
 Optional: Heckel, "[Debunking the Software Patent Myths][yes_patent]" (pro-patent piece)
 
-   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba  
+   [copyright_vs_patent]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
    [copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
    [no_patent]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
    [no_patent_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
@@ -105,7 +107,7 @@ Powazek, "[I'm Not Tte Product, But I Play One on the Internet][not_the_product]
 
 Rachels, "[Why Privacy is Important][why_privacy]" (optional, but interesting; [VPN][vpn] required)
 
-   [why_privacy]: http://www.jstor.org/stable/2265077   
+   [why_privacy]: http://www.jstor.org/stable/2265077
    [personal_professional]: http://www.hrdive.com/news/can-an-employee-be-fired-for-activities-outside-the-workplace/449603/
    [secret_lives]: https://www.nytimes.com/2017/06/07/well/family/the-secret-social-media-lives-of-teenagers.html?mcubz=1
    [addicted]: http://www.nytimes.com/2013/08/25/sunday-review/addicted-to-apps.html
