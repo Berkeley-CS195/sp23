@@ -11,6 +11,27 @@ your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 3/5 Politics & Media
+
+**Complete the [Politics & Media Survey](https://goo.gl/forms/3qbFhsqFtlESHc9X2) by 2pm Monday (@berkeley.edu login required).**
+
+Tufekci, ["Zuckerberg's Preposterous Defense of Facebook"][zuckerberg]
+
+Kolbert, ["Why Facts Don't Change Our Minds"][why_facts]
+
+Bertoni, ["How Jared Kushner Won Trump The White House"][jared_kushner]
+
+Garrett, Resnick, ["Resisting Political Fragmentation on the Internet"][political_fragmentation] (optional)
+
+  [zuckerberg]: https://www.nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
+
+  [why_facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+
+  [jared_kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
+
+  [political_fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+
+
 
 ### 2/26 Memes
 
