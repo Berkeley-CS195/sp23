@@ -23,6 +23,8 @@ Bertoni, ["How Jared Kushner Won Trump The White House"][jared_kushner]
 
 Garrett, Resnick, ["Resisting Political Fragmentation on the Internet"][political_fragmentation] (optional)
 
+Smiley, Lauren ["The College Kids Doing What Twitter Won't"][twitter_bots] (optional)
+
   [zuckerberg]: https://www.nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
 
   [why_facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
@@ -30,6 +32,8 @@ Garrett, Resnick, ["Resisting Political Fragmentation on the Internet"][politica
   [jared_kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
 
   [political_fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+
+  [twitter_bots]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 
 
 
