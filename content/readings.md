@@ -21,9 +21,9 @@ Kolbert, ["Why Facts Don't Change Our Minds"][why_facts]
 
 Bertoni, ["How Jared Kushner Won Trump The White House"][jared_kushner]
 
-Garrett, Resnick, ["Resisting Political Fragmentation on the Internet"][political_fragmentation] (optional)
+Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]" (optional)
 
-Smiley, Lauren ["The College Kids Doing What Twitter Won't"][twitter_bots] (optional)
+Smiley, "[The College Kids Doing What Twitter Won't][twitter_bots]" (optional)
 
   [zuckerberg]: https://www.nytimes.com/2017/09/29/opinion/mark-zuckerberg-facebook.html
 
