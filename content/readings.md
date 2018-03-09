@@ -12,6 +12,7 @@ your computer.
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 3/12 Government Censorship and Surveillance
+**Complete the [Government Censorship and Surveillance](https://goo.gl/forms/4hFavDuLGjG7V06u2) by 2pm Monday (@berkeley.edu login required).**
 
 Times Editorial Board, "[No more secret surveillance technology in local law enforcement][secret_surveillance]"
 
