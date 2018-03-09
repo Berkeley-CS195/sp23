@@ -1,7 +1,9 @@
 ~ title: Topics, Readings, and Assignments
 
-**[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.**
+*[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.*
 
+**The review period for [Essay 1][essay1] has been extended.
+ Reviews are due 11:59pm Friday, 3/9.**
    [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3664
 
 Sign up for [Piazza](https://www.piazza.com/berkeley/spring2018/cs195).
@@ -26,13 +28,19 @@ Gladwell, "[The Outside Man][outside_man]" (Optional)
 
 Foucault, "[Discipline and Punish: The Birth of the Prison][discipline]" (Ultra optional)
 
-[secret_surveillance]: (http://www.latimes.com/opinion/editorials/la-ed-surveillance-bill-sb21-20170901-story.html)
-[americans_tensions]: (http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/)
-[fbi_letter]: (https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance)
-[fbi_letter_2]: (http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)
-[russian_censorship]: (https://news.osu.edu/news/2017/09/06/psychological-firewall/)
-[outside_man]: (https://www.newyorker.com/magazine/2016/12/19/daniel-ellsberg-edward-snowden-and-the-modern-whistle-blower/amp)
-[discipline]: (http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf)
+  [secret_surveillance]: http://www.latimes.com/opinion/editorials/la-ed-surveillance-bill-sb21-20170901-story.html
+
+  [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
+
+  [fbi_letter]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+
+  [fbi_letter_2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+
+  [russian_censorship]: https://news.osu.edu/news/2017/09/06/psychological-firewall/
+
+  [outside_man]: https://www.newyorker.com/magazine/2016/12/19/daniel-ellsberg-edward-snowden-and-the-modern-whistle-blower/amp
+
+  [discipline]: http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf
 
 ### 3/5 Politics & Media
 
