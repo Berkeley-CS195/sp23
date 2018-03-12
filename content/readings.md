@@ -13,6 +13,8 @@ your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+<!-- https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html -->
+
 ### 3/12 Government Censorship and Surveillance
 **Complete the [Government Censorship and Surveillance](https://goo.gl/forms/4hFavDuLGjG7V06u2) by 2pm Monday (@berkeley.edu login required).**
 
