@@ -13,7 +13,26 @@ your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-<!-- https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html -->
+### 3/19 Free Time and Attention
+
+Twenge, "[Have Smartphones Destroyed a Generation?][smartphones]"
+
+Becker, Rachel, "[Why calling screen time 'digital heroin' is digital garbage][digital_heroin]"
+
+Tufecki, "[Youtube, the Great Radicalizer][youtube_radical]"
+
+Optional: Tufecki, "[We're building a dystopia just to make people click on ads][dystopia]"
+
+Optional: Harris, "[How better tech could protects us from distraction][tech_distraction]"
+
+Optional: Lil B, "[The Age of Information][lilb]"
+
+   [smartphones]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
+   [lilb]: https://www.youtube.com/watch?v=corY-FZAZog
+   [digital_heroin]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
+   [youtube_radical]:  https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html 
+   [tech_distraction]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/transcript
+   [dystopia]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript
 
 ### 3/12 Government Censorship and Surveillance
 **Complete the [Government Censorship and Surveillance](https://goo.gl/forms/4hFavDuLGjG7V06u2) by 2pm Monday (@berkeley.edu login required).**
