@@ -14,6 +14,7 @@ your computer.
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 ### 3/19 Free Time and Attention
+**Complete the [Free Time and Attention](https://goo.gl/forms/L1uPmX0CVX8uzKr82) by 2pm Monday (@berkeley.edu login required).**
 
 Twenge, "[Have Smartphones Destroyed a Generation?][smartphones]"
 
@@ -30,7 +31,7 @@ Optional: Lil B, "[The Age of Information][lilb]"
    [smartphones]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
    [lilb]: https://www.youtube.com/watch?v=corY-FZAZog
    [digital_heroin]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
-   [youtube_radical]:  https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html 
+   [youtube_radical]:  https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
    [tech_distraction]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/transcript
    [dystopia]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript
 
