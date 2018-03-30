@@ -53,7 +53,7 @@ The expected way to pass the course is as follows:
  * Attend 10 or more lectures.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
- * Participate in a small-group discussion section.
+ * Participate in a small-group discussion section (10 points).
 
 However, to give you a small degree of flexibility, you may design your own way
 to reach 80 points according to the following point values:

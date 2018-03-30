@@ -13,8 +13,20 @@ your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 4/2 Education
+**Complete the [Education Survey](https://goo.gl/forms/F70VND7EHWZxGkR32) by 2pm Monday (@berkeley.edu login required).**
+
+Maria Konnikova, "[Will MOOCs be Flukes?][moocs]"
+
+KevinCarey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][online_degree]"
+
+  [moocs]: http://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+  [online_degree]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+
+
+
 ### 3/19 Free Time and Attention
-**Complete the [Free Time and Attention](https://goo.gl/forms/L1uPmX0CVX8uzKr82) by 2pm Monday (@berkeley.edu login required).**
+**Complete the [Free Time and Attention Survey](https://goo.gl/forms/L1uPmX0CVX8uzKr82) by 2pm Monday (@berkeley.edu login required).**
 
 Twenge, "[Have Smartphones Destroyed a Generation?][smartphones]"
 
@@ -36,7 +48,7 @@ Optional: Lil B, "[The Age of Information][lilb]"
    [dystopia]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript
 
 ### 3/12 Government Censorship and Surveillance
-**Complete the [Government Censorship and Surveillance](https://goo.gl/forms/4hFavDuLGjG7V06u2) by 2pm Monday (@berkeley.edu login required).**
+**Complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/4hFavDuLGjG7V06u2) by 2pm Monday (@berkeley.edu login required).**
 
 Times Editorial Board, "[No more secret surveillance technology in local law enforcement][secret_surveillance]"
 
