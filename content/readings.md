@@ -28,10 +28,10 @@ Optional: Valentino, Benjamin "[Moral Character or Character of War? American Pu
 
 Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN)
 
-  [cyber]:https://www.bloomberg.com/view/articles/2017-07-07/scariest-thing-about-cyberwarfare-no-rules-of-engagement
-  [drones]:http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
-  [civilians]:http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
-  [milind]:http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
+  [cyber]: https://www.bloomberg.com/view/articles/2017-07-07/scariest-thing-about-cyberwarfare-no-rules-of-engagement
+  [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+  [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+  [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 ### 4/2 Education
 **Complete the [Education Survey](https://goo.gl/forms/F70VND7EHWZxGkR32) by 2pm Monday (@berkeley.edu login required).**
