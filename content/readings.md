@@ -1,11 +1,12 @@
 ~ title: Topics, Readings, and Assignments
 
-*[Essay 2][essay2] is due 11:59pm Wednesday, 4/11.*
+*[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.*
 
-[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.
+*The review period for [Essay 1][essay1] has been extended.
+ Reviews are due 11:59pm Friday, 3/9.*
 
-**The review period for [Essay 1][essay1] has been extended.
- Reviews are due 11:59pm Friday, 3/9.**
+**[Essay 2][essay2] is due 11:59pm Wednesday, 4/11.**
+
    [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3664
 
    [essay2]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3715
