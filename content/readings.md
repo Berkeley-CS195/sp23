@@ -1,10 +1,14 @@
 ~ title: Topics, Readings, and Assignments
 
-*[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.*
+*[Essay 2][essay2] is due 11:59pm Wednesday, 4/11.*
+
+[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.
 
 **The review period for [Essay 1][essay1] has been extended.
  Reviews are due 11:59pm Friday, 3/9.**
    [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3664
+
+   [essay2]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3715
 
 Sign up for [Piazza](https://www.piazza.com/berkeley/spring2018/cs195).
 
@@ -12,6 +16,22 @@ For some of the linked readings you need to install the [Berkeley VPN][vpn] on
 your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+
+### 4/9 War
+**Complete the [War Survey](https://goo.gl/forms/n67HO8NqqprPyBPC2) by 2pm Monday (@berkeley.edu login required).**
+
+Bershidskey, Leonid "[Scariest Thing About Cyberwarfare: No Rules of Engagement][cyber]"
+
+Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+
+Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
+
+Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN)
+
+  [cyber]:https://www.bloomberg.com/view/articles/2017-07-07/scariest-thing-about-cyberwarfare-no-rules-of-engagement
+  [drones]:http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+  [civilians]:http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+  [milind]:http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 ### 4/2 Education
 **Complete the [Education Survey](https://goo.gl/forms/F70VND7EHWZxGkR32) by 2pm Monday (@berkeley.edu login required).**
