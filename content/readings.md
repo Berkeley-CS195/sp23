@@ -1,11 +1,16 @@
 ~ title: Topics, Readings, and Assignments
 
-*[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.*
+**The review period for [Essay 2][essay2] has started.
+ Reviews are due 11:59pm Thursday, 4/19.**
+
+*[Essay 2][essay2] is due 11:59pm Wednesday, 4/11.*
 
 *The review period for [Essay 1][essay1] has been extended.
- Reviews are due 11:59pm Friday, 3/9.*
+  Reviews are due 11:59pm Friday, 3/9.*
 
-**[Essay 2][essay2] is due 11:59pm Wednesday, 4/11.**
+*[Essay 1][essay1] is due 11:59pm Wednesday, 2/28.*
+
+
 
    [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/3664
 
@@ -17,6 +22,48 @@ For some of the linked readings you need to install the [Berkeley VPN][vpn] on
 your computer.
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+
+### 4/23 Income Inequality and the Bay Area
+**Complete the [Income Inequality and the Bay Area](https://goo.gl/forms/s0FXAb5fqxiumqJ72) by 2pm Monday (@berkeley.edu login required).**
+
+Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
+
+Dougherty, Conor, "[In Cramped and Costly Bay Area, Cries to Build, Baby, Build][build]"
+
+Singer, "[The Singer Solution to World Poverty][singer]"
+
+Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+Optional: Spencer, Keith, "[The Three Bay Areas][three_bay]" (satire, short)
+
+Optional: Boyce, Christopher, "[However you spend it, money isn't the key to happiness][spend]"
+
+Optional: Rotman, "[Technology and Inequality][tech_ineq]"
+
+Optional: Cutler, Kim-Mai, "[East of Palo Alto's Eden][eden]"
+
+  [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+  [build]: http://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
+  [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+  [three_bay]: https://thebolditalic.com/the-three-bay-areas-b09aa2c4d727
+  [spend]: http://theconversation.com/however-you-spend-it-money-isnt-the-key-to-happiness-25289
+  [tech_ineq]: http://www.technologyreview.com/featuredstory/531726/technology-and-inequality/
+  [eden]: https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/
+
+### 4/16 Jobs and Automation
+**Complete the [Jobs and Automation](https://goo.gl/forms/zO0jzT6jd2j8l2ve2) by 2pm Monday (@berkeley.edu login required).**
+
+CGP Grey, "[Humans Need Not Apply][humans]"
+
+Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
+
+  [humans]: https://www.youtube.com/watch?v=7Pq-S557XQU
+  [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+  [harnessing]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
+  [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
 
 ### 4/9 War
 **Complete the [War Survey](https://goo.gl/forms/n67HO8NqqprPyBPC2) by 2pm Monday (@berkeley.edu login required).**
