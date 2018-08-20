@@ -18,7 +18,7 @@ def shell(*args):
 
 def templar(html, md, out):
     out = os.path.join(PUB, out)
-    shell('templar', '-t', html, '-s', md, '-d', out, '-c', 'config2.py')
+    shell('templar', 'compile', html, '-s', md, '-d', out, '-c', 'config2.py')
 
 
 def compute_grades():
