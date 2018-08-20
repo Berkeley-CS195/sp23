@@ -1,7 +1,5 @@
 ~ title: Course description and policies
 
-Test
-
 CS 195 is a discussion-intensive course about the social implications of
 computing. The purpose of this course is to help computer science students make
 informed and thoughtful choices about their careers, participation in society,
