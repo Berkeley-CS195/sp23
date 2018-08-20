@@ -10,7 +10,7 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Class on Monday 4pm-5:30pm. Finish the weekly survey by Monday 2pm so that we
+Class on Monday 3:40pm-5:00pm. Finish the weekly survey by Monday 12pm so that we
 know what to discuss. The survey will be released Friday night and emailed to
 the class via Piazza. Do the readings before class!
 
@@ -44,24 +44,29 @@ The course is graded P/NP. The reason for that policy is to ensure that you can
 feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
-In order to receive a passing grade in CS 195, you must earn at least 80
-points.
+In order to receive a passing grade in CS 195, you must complete all four objectives,
+listed below:
 
-The expected way to pass the course is as follows:
-
- * Complete at least 10 or more surveys (10 points).
- * Attend 10 or more lectures.
+ * Complete 8 or more surveys (out of 12).
+ * Attend 8 or more lectures (out of 12).
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
- * Participate in a small-group discussion section (10 points).
-
-However, to give you a small degree of flexibility, you may design your own way
-to reach 80 points according to the following point values:
-
- * Surveys, 1 point each, for a max of 10 points
- * Lecture attendance, 2 points each, for a max of 20 points
- * Writing essays, 10 points each, for a max of 30 points
-  * Peer grading, 3 points each, for a max of 29 points
 
 In the event that you do not earn the required number of points, we will provide
 an opportunity to make up extra work, though you should not count on this.
+
+Lecture and Attendance
+---------------
+
+Lecture is going to be a mix of me talking, me playing video clips, you guys
+answering questions that I ask out loud, small group discussions, and class-wide debriefing.
+
+This semester, we're not going to allow electronic device use for the bulk of lecture
+time, except by special permission. Those of you who request special permission will
+be able to use devices, but only if you're sitting in the front row. 
+
+This semester, I'm also going to call on people randomly
+for responses to questions. You're welcome to pass if you don't want to answer, but I'd
+like to at least try this out to try and get more voices talking in the room. If 
+you do the math, we have 250 students and 12 lectures, so most likely you won't get called
+on.
