@@ -1,5 +1,8 @@
 ~ title: Topics, Readings, and Assignments
 
+   [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
+
+
 ### 9/10 Privacy
 
 **Complete the Privacy Survey by 2pm Monday (@berkeley.edu login required). (link coming soon)**
