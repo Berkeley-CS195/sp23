@@ -2,6 +2,21 @@
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 9/17 Government Censorship and Surveillance
+
+Manaugh, "[Drone Cops Take Flight in Los Angeles][police_drones]"
+
+Rainie, Maniam "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
+
+Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][dragonfly]"
+
+Optional but really interesting: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_letter]" and Gage, "[What an Uncensored Letter to M.L.K. Reveals][fbi_letter_2]"
+
+  [dragonfly]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
+  [fbi_letter]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+  [fbi_letter_2]: http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+  [police_drones]: https://www.theatlantic.com/technology/archive/2018/06/drone-cops-take-flight-in-los-angeles/562214/
+  [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
 
 ### 9/10 Privacy
 
