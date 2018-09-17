@@ -4,6 +4,8 @@
 
 ### 9/17 Government Censorship and Surveillance
 
+Complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/ZfKpPG3ZDQ71jSUl1) by 2pm Monday (@berkeley.edu login required).
+
 Manaugh, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 
 Rainie, Maniam "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
@@ -20,7 +22,7 @@ Optional but really interesting: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin
 
 ### 9/10 Privacy
 
-**Complete the Privacy Survey by 2pm Monday (@berkeley.edu login required). (link coming soon)**
+**Complete the Privacy Survey by 2pm Monday (@berkeley.edu login required).**
 
 Menand, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
 
