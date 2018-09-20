@@ -4,11 +4,11 @@
 
 ### 9/24 War
 
-Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]""
+Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
 
-Wakabayashi, Shane "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
+Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
 
-Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic ["Why Did You Wait?": Moral Emptiness and Drone Strikes][trump_drones]
+Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic, ["Why Did You Wait?": Moral Emptiness and Drone Strikes][trump_drones]
 
 Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
 
