@@ -2,6 +2,27 @@
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 9/24 War
+
+Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]""
+
+Wakabayashi, Shane "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
+
+Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic ["Why Did You Wait?": Moral Emptiness and Drone Strikes][trump_drones]
+
+Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+
+Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
+
+Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN) 
+
+   [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+   [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+   [trump_drones]: https://motherboard.vice.com/en_us/article/7xmadd/trump-escalating-americas-drone-war
+   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+   [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
+
 ### 9/17 Government Censorship and Surveillance
 
 Complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/ZfKpPG3ZDQ71jSUl1) by 2pm Monday (@berkeley.edu login required).
