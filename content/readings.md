@@ -18,7 +18,7 @@ Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requi
 
    [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
    [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
-   [trump_drones]: https://motherboard.vice.com/en_us/article/7xmadd/trump-escalating-americas-drone-war
+   [trump_drones]: https://www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
    [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
    [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
    [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
