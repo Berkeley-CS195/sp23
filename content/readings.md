@@ -2,6 +2,28 @@
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+### 10/1 Professional Ethics and Moral Philosophy
+
+This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. I'll go over the three major schools of ethics in class, but you might find it helpful to watch these videos in advance so my overview is easier to follow.
+
+ACM, "[Professional Code of Conduct][acm_code]"
+
+Systems of Ethics (Videos) (optional but recommended!):
+   - [Consequentialism][consequentialism1]
+   - [Virtue Ethics][virtue_ethics_dartington]
+   - Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2 (optional)][stearns_kant2]
+
+Systems of Ethics (Game) (optional):
+   - [Socrates Jones, Pro Philosopher][socrates_jones]
+
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
+   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
+   [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
+   [acm_code]: http://www.acm.org/about/code-of-ethics
+   [socrates_jones]: http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher
+
 ### 9/24 War
 
 Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
