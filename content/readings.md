@@ -2,9 +2,19 @@
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
+| Essay | Proposal Due    | Proposal Approvals | Essay Due     | Peer Reviews Due |
+|-------|-----------------|--------------------|---------------|------------------|
+| 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Sunday, 10/15    |
+| 2     | TBA             | TBA                | TBA           | TBA              |
+| 3     | TBA             | TBA                | TBA           | TBA              |
+
+
 ### 10/1 Professional Ethics and Moral Philosophy
 
 This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. I'll go over the three major schools of ethics in class, but you might find it helpful to watch these videos in advance so my overview is easier to follow.
+
+**Complete the [Professional Ethics and Moral Philosophy Survey](https://goo.gl/forms/q3xtuQJOyJ1MPVHI2) by 2pm Monday (@berkeley.edu login required).**
+
 
 ACM, "[Professional Code of Conduct][acm_code]"
 
@@ -25,6 +35,9 @@ Systems of Ethics (Game) (optional):
    [socrates_jones]: http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher
 
 ### 9/24 War
+
+**Complete the [War Survey](https://goo.gl/forms/xN3Zcm2PRUghIEht2) by 2pm Monday (@berkeley.edu login required).**
+
 
 Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
 
@@ -47,7 +60,7 @@ Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requi
 
 ### 9/17 Government Censorship and Surveillance
 
-Complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/ZfKpPG3ZDQ71jSUl1) by 2pm Monday (@berkeley.edu login required).
+**Complete the [Government Censorship and Surveillance Survey](https://goo.gl/forms/ZfKpPG3ZDQ71jSUl1) by 2pm Monday (@berkeley.edu login required).**
 
 Manaugh, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 
@@ -65,7 +78,7 @@ Optional but really interesting: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin
 
 ### 9/10 Privacy
 
-**Complete the Privacy Survey by 2pm Monday (@berkeley.edu login required).**
+**Complete the [Privacy Survey](https://goo.gl/forms/C7aOVLj7S7Wa4cTE2) by 2pm Monday (@berkeley.edu login required).**
 
 Menand, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
 
