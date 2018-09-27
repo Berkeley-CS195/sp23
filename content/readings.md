@@ -4,7 +4,7 @@
 
 | Essay | Proposal Due    | Proposal Approvals | Essay Due     | Peer Reviews Due |
 |-------|-----------------|--------------------|---------------|------------------|
-| 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Sunday, 10/15    |
+| 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Monday, 10/15    |
 | 2     | TBA             | TBA                | TBA           | TBA              |
 | 3     | TBA             | TBA                | TBA           | TBA              |
 
