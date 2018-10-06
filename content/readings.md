@@ -16,7 +16,7 @@
 
 Twenge, "[Have Smartphones Destroyed a Generation?][millennials]"
 
-Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
+Becker, Rachel, "[Why calling screen time "digital heroin" is digital garbage][digital_drugs]"
 
 Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic, ["Why Did You Wait?": Moral Emptiness and Drone Strikes][trump_drones]
 
@@ -26,7 +26,7 @@ Optional: Valentino, Benjamin "[Moral Character or Character of War? American Pu
 
 Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN) 
 
-   [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+   [digital_drugs]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
    [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
    [trump_drones]: https://www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
    [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
