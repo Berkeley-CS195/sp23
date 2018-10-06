@@ -14,7 +14,7 @@
 **Complete the [Free Time and Attention Survey](https://goo.gl/forms/XRLIvrOuEalBJXN62) by 2pm Monday (@berkeley.edu login required).**
 
 
-Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
+Twenge, "[Have Smartphones Destroyed a Generation?][millennials]"
 
 Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
 
@@ -27,7 +27,7 @@ Optional: Valentino, Benjamin "[Moral Character or Character of War? American Pu
 Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN) 
 
    [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
-   [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+   [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
    [trump_drones]: https://www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
    [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
    [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
