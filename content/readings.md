@@ -20,7 +20,7 @@ Becker, Rachel, "[Why calling screen time "digital heroin" is digital garbage][d
 
 Tufecki, "[Youtube, the Great Radicalizer][youtube]"
 
-Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+Optional: Schwartz, "[Finding It Hard to Focus? Maybe It’s Not Your Fault][attention_economy]"
 
 Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
 
@@ -29,7 +29,7 @@ Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requi
    [digital_drugs]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
    [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
    [youtube]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
-   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [attention_economy]: https://www.nytimes.com/2018/08/14/style/how-can-i-focus-better.html
    [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
    [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
