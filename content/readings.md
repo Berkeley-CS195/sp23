@@ -14,24 +14,24 @@
 **Complete the [Free Time and Attention Survey](https://goo.gl/forms/XRLIvrOuEalBJXN62) by 2pm Monday (@berkeley.edu login required).**
 
 
-Twenge, "[Have Smartphones Destroyed a Generation?][millennials]"
+Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
 
-Becker, Rachel, "[Why calling screen time 'digital heroin' is digital garbage][digital_drugs]"
+Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
 
-Tufecki, "[Youtube, the Great Radicalizer][youtube]"
+Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic, ["Why Did You Wait?": Moral Emptiness and Drone Strikes][trump_drones]
 
-Optional: Schwartz, "[Finding It Hard to Focus? Maybe It’s Not Your Fault][attention_economy]"
+Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
 
-Optional: Harris, "[How better tech could protects us from distraction][ted_talk]"
+Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
 
-Optional: Lil B, "[The Age of Information][info_age_music_video]"
+Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN) 
 
-    [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
-    [digital_drugs]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
-    [youtube]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
-    [attention_economy]: https://www.nytimes.com/2018/08/14/style/how-can-i-focus-better.html
-    [ted_talk]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction
-    [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
+   [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+   [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+   [trump_drones]: https://www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
+   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+   [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 ### 10/01 Professional Ethics and Moral Philosophy
 
