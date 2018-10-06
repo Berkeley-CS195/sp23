@@ -20,7 +20,7 @@ Becker, Rachel, "[Why calling screen time "digital heroin" is digital garbage][d
 
 Tufecki, "[Youtube, the Great Radicalizer][youtube]"
 
-Optional: Schwartz, "[Finding It Hard to Focus? Maybe It’s Not Your Fault][attention_economy]"
+Optional: Schwartz, "[Finding It Hard to Focus? Maybe It's Not Your Fault][attention_economy]"
 
 Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
 
