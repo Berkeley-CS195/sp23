@@ -9,6 +9,20 @@
 | 3     | TBA             | TBA                | TBA           | TBA              |
 
 
+### 10/15 Memes
+
+Ellis, "[Online Conspiracy Theories: The Wired Guide][online_conspiracy]"
+
+CGP Grey, "[This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)"
+
+Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends](http://psycnet.apa.org/journals/psp/81/6/1028/)" (required VPN or being on campus) - [alternative link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.1473&rep=rep1&type=pdf)
+
+Optional: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][girard]" (very weird/questionable read, but interesting)
+
+   [online_conspiracy]: https://www.wired.com/story/wired-guide-to-conspiracy-theories/
+   [girard]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+
+
 ### 10/08 Free Time and Attention
 
 **Complete the [Free Time and Attention Survey](https://goo.gl/forms/XRLIvrOuEalBJXN62) by 2pm Monday (@berkeley.edu login required).**
