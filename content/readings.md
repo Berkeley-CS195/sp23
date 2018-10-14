@@ -11,6 +11,8 @@
 
 ### 10/15 Memes
 
+**Complete the [Memes Survey](https://goo.gl/forms/MoX3jm0qTaLcsHqJ2) by 2pm Monday (@berkeley.edu login required).**
+
 Ellis, "[Online Conspiracy Theories: The Wired Guide][online_conspiracy]"
 
 CGP Grey, "[This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)"
