@@ -10,6 +10,8 @@
 
 ### 10/22 Politics and Media
 
+**Complete the [Politics and Media Survey](https://goo.gl/forms/ufbFEaYfMIM6XXHN2) by 2pm Monday (@berkeley.edu login required).**
+
 Tufekci, ["Russian Meddling Is a Symptom, Not the Disease"][meddling_disease]
 
 Kolbert, ["Why Facts Don't Change Our Minds"][why_facts]
