@@ -10,7 +10,7 @@
 
 ### 10/29 Jobs and Automation
 
-**Complete the [Politics and Media Survey](https://goo.gl/forms/N4TBQke7B1wugnEC3) by 2pm Monday (@berkeley.edu login required).**
+**Complete the [Jobs and Automation](https://goo.gl/forms/N4TBQke7B1wugnEC3) by 2pm Monday (@berkeley.edu login required).**
 
 CGP Grey, "[Humans Need Not Apply][humans]"
 
