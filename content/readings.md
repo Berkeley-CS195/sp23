@@ -10,7 +10,7 @@
 
 ### 10/29 Jobs and Automation
 
-Optional: CGP Grey, "[Humans Need Not Apply][humans]"
+CGP Grey, "[Humans Need Not Apply][humans]"
 
 Williams, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
 
