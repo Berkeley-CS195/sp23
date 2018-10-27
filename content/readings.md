@@ -14,7 +14,7 @@ Optional: CGP Grey, "[Humans Need Not Apply][humans]"
 
 Williams, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
 
-Surowiecki, "[The Great Tech Panic: Robots Won’t Take All Our Jobs][noproblem]"
+Surowiecki, "[The Great Tech Panic: Robots Won't Take All Our Jobs][noproblem]"
 
 Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
 
