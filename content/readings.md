@@ -5,10 +5,12 @@
 | Essay | Proposal Due    | Proposal Approvals | Essay Due     | Peer Reviews Due |
 |-------|-----------------|--------------------|---------------|------------------|
 | 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Monday, 10/15    |
-| 2     | TBA             | TBA                | TBA           | TBA              |
+| 2     | Monday, 10/29   | Wednesday, 10/31   | Monday, 11/05 | Monday, 11/12    |
 | 3     | TBA             | TBA                | TBA           | TBA              |
 
 ### 10/29 Jobs and Automation
+
+**Complete the [Politics and Media Survey](https://goo.gl/forms/N4TBQke7B1wugnEC3) by 2pm Monday (@berkeley.edu login required).**
 
 CGP Grey, "[Humans Need Not Apply][humans]"
 
