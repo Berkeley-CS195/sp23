@@ -8,6 +8,25 @@
 | 2     | TBA             | TBA                | TBA           | TBA              |
 | 3     | TBA             | TBA                | TBA           | TBA              |
 
+### 10/29 Jobs and Automation
+
+Optional: CGP Grey, "[Humans Need Not Apply][humans]"
+
+Williams, ["Will Robots Take Our Children's Jobs?"][childrens_jobs]
+
+Surowiecki, ["The Great Tech Panic: Robots Won’t Take All Our Jobs"][noproblem]
+
+Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
+
+  [no_problem]: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+  [childrens_jobs]: https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html
+  [humans]: https://www.youtube.com/watch?v=7Pq-S557XQU
+  [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+  [harnessing]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
+  [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
+
 ### 10/22 Politics and Media
 
 **Complete the [Politics and Media Survey](https://goo.gl/forms/ufbFEaYfMIM6XXHN2) by 2pm Monday (@berkeley.edu login required).**
