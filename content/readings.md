@@ -8,6 +8,25 @@
 | 2     | Monday, 10/29   | Wednesday, 10/31   | Monday, 11/05 | Monday, 11/12    |
 | 3     | TBA             | TBA                | TBA           | TBA              |
 
+### 11/5 Software Risks and Algorithmic Bias
+
+Software Risks:
+   - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+   - Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+   - Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopian_ads]"
+
+Algorithmic Bias:
+   - Angwin, "[Make Algorithms Accountable.][accountability]"
+   - Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
+   - Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
+
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+
 ### 10/29 Jobs and Automation
 
 **Complete the [Jobs and Automation](https://goo.gl/forms/S7M2i0JIGakTFzHg2) by 2pm Monday (@berkeley.edu login required).**
