@@ -10,6 +10,8 @@
 
 ### 11/5 Software Risks and Algorithmic Bias
 
+**Complete the [Software Risks and Algorithmic Bias](https://goo.gl/forms/1MP6mkM0N30OqS5n2) by 2pm Monday (@berkeley.edu login required).**
+
 Software Risks:
    - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
    - Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
