@@ -10,7 +10,7 @@
 
 ## 11/26 The Distant Future
 
-Aronoff, Kate, "[Inside Geoengineers’ Risky Plan To Block Out the Sun][geoengineering]"
+Aronoff, Kate, "[Inside Geoengineers' Risky Plan To Block Out the Sun][geoengineering]"
 
 Kind, Amy, "[Qualia][qualia]", up to the end of section 1 (The Hard Problem of Consciousness)
 
