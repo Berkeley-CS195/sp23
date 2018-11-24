@@ -24,6 +24,8 @@ Optional: Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"
 
 Optional: Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
 
+Optional: Wikipedia, "[Climate change opinion by country][climate_change_opinion]"
+
    [qualia]: http://www.iep.utm.edu/qualia
    [ai_control]: https://www.youtube.com/watch?v=8nt3edWLgIg
    [ai_smarter]: https://www.youtube.com/watch?v=MnT1xgZgkpk
@@ -31,6 +33,7 @@ Optional: Harris, Mark, "[Inside the first church of artificial intelligence][ai
    [be_a_robot]: https://rodneybrooks.com/what-is-it-like-to-be-a-robot/
    [ai_church]: https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/
    [geoengineering]: http://inthesetimes.com/features/geoengineering-climate-change-fossil-fuel-industry-srm-indigenous-activism.html
+   [climate_change_opinion]: https://en.wikipedia.org/wiki/Climate_change_opinion_by_country
 
 ### 11/5 Software Risks and Algorithmic Bias
 
