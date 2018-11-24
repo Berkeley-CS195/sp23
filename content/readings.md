@@ -10,7 +10,7 @@
 
 ## 11/26 The Distant Future
 
-Survey will be posted after class this week.
+**Complete the [Last Lecture](https://goo.gl/forms/dme3PibWHNXtTQUx2) survey by 2 PM Monday (@berkeley.edu login required).**
 
 Aronoff, Kate, "[Inside Geoengineers' Risky Plan To Block Out the Sun][geoengineering]"
 
