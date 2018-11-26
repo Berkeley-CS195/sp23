@@ -6,7 +6,7 @@
 |-------|-----------------|--------------------|---------------|------------------|
 | 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Monday, 10/15    |
 | 2     | Monday, 10/29   | Wednesday, 10/31   | Monday, 11/05 | Monday, 11/12    |
-| 3     | TBA             | TBA                | TBA           | TBA              |
+| 3     | Thursday, 11/29 | Friday, 11/30      | Monday, 12/03 | Friday, 12/07    |
 
 ## 11/26 The Distant Future
 
