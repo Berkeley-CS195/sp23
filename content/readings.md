@@ -8,6 +8,26 @@
 | 2     | Monday, 10/29   | Wednesday, 10/31   | Monday, 11/05 | Monday, 11/12    |
 | 3     | Thursday, 11/29 | Friday, 11/30      | Monday, 12/03 | Friday, 12/07    |
 
+### 12/?? Income Inequality and the Bay Area, Education
+No survey.
+
+Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
+
+Singer, "[The Singer Solution to World Poverty][singer]"
+
+Maria Konnikova, "[Will MOOCs be Flukes?][moocs]"
+
+KevinCarey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][online_degree]"
+
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+  [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+  [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+  [moocs]: http://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+  [online_degree]: http://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+
+
 ## 11/26 The Distant Future
 
 **Complete the [Last Lecture](https://goo.gl/forms/dme3PibWHNXtTQUx2) survey by 2 PM Monday (@berkeley.edu login required).**
