@@ -4,7 +4,7 @@
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
-| 1     | Monday, Feb 4   | Tuesday, Feb 12   | Tuesday, Feb 19  |
+| 1     | Monday, Feb 11  | Tuesday, Feb 19   | Tuesday, Feb 26  |
 | 2     | Monday, Mar 4   | Tuesday, Mar 12   | Tuesday, Mar 19  |
 | 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
@@ -13,6 +13,8 @@
 ### 2/4 Privacy
 
 ### 2/11 Copyright
+
+<!-- Essay 1: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185 -->
 
 ### 2/18 No Class
 
