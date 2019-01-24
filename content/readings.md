@@ -2,12 +2,42 @@
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
-| Essay | Proposal Due    | Proposal Approvals | Essay Due     | Peer Reviews Due |
-|-------|-----------------|--------------------|---------------|------------------|
-| 1     | Saturday, 09/29 | Monday, 10/01      | Monday, 10/08 | Monday, 10/15    |
-| 2     | Monday, 10/29   | Wednesday, 10/31   | Monday, 11/05 | Monday, 11/12    |
-| 3     | Thursday, 11/29 | Friday, 11/30      | Monday, 12/03 | Friday, 12/07    |
+| Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
+|-------|-----------------|-------------------|------------------|
+| 1     | Monday, Feb 4   | Tuesday, Feb 12   | Tuesday, Feb 19  |
+| 2     | Monday, Mar 4   | Tuesday, Mar 12   | Tuesday, Mar 19  |
+| 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
+### 1/28 Wealth
+
+### 2/4 Privacy
+
+### 2/11 Copyright
+
+### 2/18 No Class
+
+### 2/25 Jobs
+
+### 3/4 Free Speech
+
+### 3/11 News & Politics
+
+### 3/18 Government Censorship and Surveillance
+
+### 3/25 No Class
+
+### 4/1 Software Risks and Algorithmic Bias
+
+### 4/8 Professional Ethics
+
+### 4/15 Finance
+
+### 4/22 War
+
+### 4/29 Poverty
+
+
+<!--
 ### 12/?? Income Inequality and the Bay Area, Education
 No survey.
 
@@ -37,12 +67,12 @@ Aronoff, Kate, "[Inside Geoengineers' Risky Plan To Block Out the Sun][geoengine
 Kind, Amy, "[Qualia][qualia]", up to the end of section 1 (The Hard Problem of Consciousness)
 
 Watch either of these (they are similar):
-   - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]" 
+   - Harris, Sam, "[Can we build AI without losing control over it?][ai_control]"
    - Bostrom, Nick, "[What happens when our computers get smarter than we are?][ai_smarter]"
 
 Optional: Brooks, Rodney, "[The Seven Deadly Sins of Predicting the Future of AI][seven_deadly]"
 
-Optional: Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"    
+Optional: Brooks, Rodney, "[What is it like to be a robot?][be_a_robot]"
 
 Optional: Harris, Mark, "[Inside the first church of artificial intelligence][ai_church]"
 
@@ -203,7 +233,7 @@ Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][dron
 
 Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
 
-Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN) 
+Optional: Dunlap Jr., Charles "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN)
 
    [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
    [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
@@ -259,3 +289,4 @@ Optional: Kang, Conger, [Inside Twitter's Struggle Over What Gets Banned][twitte
    [twitterbans]: https://www.nytimes.com/2018/08/10/technology/twitter-free-speech-infowars.html
 
 
+-->
