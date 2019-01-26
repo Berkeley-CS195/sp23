@@ -9,6 +9,12 @@
 | 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
 ### 1/28 Wealth
+Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
+
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+  [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 2/4 Privacy
 
