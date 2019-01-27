@@ -39,14 +39,15 @@ Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being U
 ### 4/8 Professional Ethics
 
 ### 4/15 Finance
+
 <!--
 Hern, Alex, "[Energy cost of 'mining' bitcoin more than twice that of copper or gold][bitcoin_energy_waste]"
 
 Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoin_energy_overexaggerated]"
 
-[bitcoin_energy_waste]: https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold
+   [bitcoin_energy_waste]: https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold
+   [bitcoin_energy_overexaggerated]: https://theconversation.com/stop-worrying-about-how-much-energy-bitcoin-uses-97591
 
-[bitcoin_energy_overexaggerated]: https://theconversation.com/stop-worrying-about-how-much-energy-bitcoin-uses-97591
 -->
 
 ### 4/22 War
