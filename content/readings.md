@@ -11,10 +11,9 @@
 ### 1/28 Wealth
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
 
-Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
 
   [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
-  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+
 
 ### 2/4 Privacy
 
@@ -26,11 +25,18 @@ Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being U
 
 ### 2/25 Jobs
 
+<!--
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+
+-->
+
 ### 3/4 Free Speech
 
 ### 3/11 News & Politics
 
-### 3/18 Government Censorship and Surveillance
+### 3/18 Governments
 
 ### 3/25 No Class
 
@@ -50,9 +56,10 @@ Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoi
 
 -->
 
-### 4/22 War
+### 4/22 Corporations
 
-### 4/29 Poverty
+### 4/29 War
+
 
 
 <!--
