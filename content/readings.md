@@ -142,13 +142,6 @@ Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoi
 ### 4/22 Corporations
 
 ### 4/29 War
-<<<<<<< HEAD
-<!--
-Singer, Peter, "[The Singer Solution to World Poverty][singer]"
-
-  [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
-
--->
 
 
 <!--
