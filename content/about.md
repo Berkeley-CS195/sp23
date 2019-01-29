@@ -1,7 +1,7 @@
 ~ title: Course description and policies
 
 CS 195 is a discussion-intensive course about the social implications of
-computing. The purpose of this course is to help computer science students make
+computer technology. The purpose of this course is to help students make 
 informed and thoughtful choices about their careers, participation in society,
 and future development activities. Readings and lecture topics are drawn from a
 range of fields that together seek to describe our contemporary global society:
@@ -10,32 +10,43 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Class on Monday 3:40pm-5:00pm. Finish the weekly survey by Monday 12pm so that we
-know what to discuss. The survey will be released Friday night and emailed to
-the class via Piazza. Do the readings before class!
+Class: Monday 5:00 to 6:30 PM
 
-Surveys
--------
+Small-group discussion sections: Thursday afternoons TBA
+
+Readings for each week will be released on the Tuesday before class.  
+**Finish the readings before class!**
+
+Small-group discussion sections will cover topics to be discussed in the following lecture.
+You are only required to attend one discussion section (total, not per week).  
+Sign-up information for discussion sections will be released shortly.  
+**Finish the readings for the section you choose to attend before you come to section!**
 
 Lecture topics will not be determined only by the wisdom of your instructor.
-Instead, you will collectively choose your own adventure through the material.
-A brief survey about each upcoming topic will be emailed to the class each
-week (probably Friday night).
-
-Before class begins, please complete the survey, in which you can vote on the
-issues or questions most interesting to you. The results of these surveys will
-guide our discussions.
+Instead, you will collectively choose your own adventure through the material.  To
+guide discussion topics, a weekly survey will be announced on Piazza.  
+**Finish the weekly survey by Monday 2 PM!**
 
 Essays
 ------
 
-In addition, you will write three short essays (500-1000 words) that contain
-your original thoughts about issues from the class. Students will choose their own
-essay topics, and your work will be reviewed by your peers. Essay
-assignments will appear in the reading list and be announced in class.
+You will write three short essays (500-1000 words) that contain
+your original thoughts about issues from the class.  You can choose from the
+prompts we provide or choose your own essay topic subject to approval by the
+course instructors.  Essays will be announced on the website, in class, and
+on Piazza.
 
-This semester, you will have the option of posting and reacting to essays
-publicly. Those who do so will be eligible for prizes.
+Essays are peer reviewed, which means you will review nine essays and have each 
+of your essays reviewed by three of your peers.  You will also have the option 
+of posting your essays publicly. Those who do so will be eligible for prizes.
+
+Peer Conversations
+-------
+
+We would like to encourage you to explore a range of perspectives on the issues we
+will be discussing in this course.  This semester, you will be required to have 
+one one-on-one conversation with a random peer for at least half an hour, at a time 
+and place of your choice.  Further details TBA.
 
 Grading
 -------
@@ -47,10 +58,12 @@ class meetings and in written work.
 In order to receive a passing grade in CS 195, you must complete all four objectives,
 listed below:
 
- * Complete 8 or more surveys (out of 12).
- * Attend 8 or more lectures (out of 12).
+ * Attend at least 10 out of 12 lectures.
+ * Complete at least 9 out of 11 pre-lecture surveys.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
+ * Attend 1 small-group discussion.
+ * Complete 1 peer conversation.
 
 In the event that you do not earn the required number of points, we will provide
 an opportunity to make up extra work, though you should not count on this.
@@ -58,15 +71,13 @@ an opportunity to make up extra work, though you should not count on this.
 Lecture and Attendance
 ---------------
 
-Lecture is going to be a mix of me talking, me playing video clips, you guys
-answering questions that I ask out loud, small group discussions, and class-wide debriefing.
+Lecture is going to be a mix of discussion, video clips, students asking questions,
+small group discussion, and class-wide debriefing.  Attendance will be taken in
+class as well as in small-gropu discussion.
 
+<!--
 This semester, we're not going to allow electronic device use for the bulk of lecture
 time, except by special permission. Those of you who request special permission will
 be able to use devices, but only if you're sitting in the front row. 
+-->
 
-This semester, I'm also going to call on people randomly
-for responses to questions. You're welcome to pass if you don't want to answer, but I'd
-like to at least try this out to try and get more voices talking in the room. If 
-you do the math, we have 250 students and 12 lectures, so most likely you won't get called
-on.
