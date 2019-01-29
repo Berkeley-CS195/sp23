@@ -11,26 +11,114 @@
 ### 1/28 Wealth
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
 
-Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
-
   [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
-  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 2/4 Privacy
+<!--
+Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
+
+Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
+
+Homayoun, Ana, "[The Secret Social Media Lives of Teenagers][secret_lives]"
+
+Optional: Rachels, James, "[Why Privacy is Important][why_privacy]" ([VPN][vpn] required)
+
+Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet][not_the_product]"
+
+   [why_privacy]: http://www.jstor.org/stable/2265077
+   [secret_lives]: https://www.nytimes.com/2017/06/07/well/family/the-secret-social-media-lives-of-teenagers.html?mcubz=1
+   [not_the_product]: http://powazek.com/posts/3229
+   [why_care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
+   [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
+
+-->
 
 ### 2/11 Copyright
+<!--
+
+de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
+
+Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
+
+Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
+
+Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
+
+   [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
+   [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+   [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html]
+   [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+
+-->
 
 <!-- Essay 1: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185 -->
 
 ### 2/18 No Class
 
 ### 2/25 Jobs
+<!--
+CGP Grey, "[Humans Need Not Apply][humans]"
+
+Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
+
+Surowiecki, James, "[The Great Tech Panic: Robots Won't Take All Our Jobs][no_problem]"
+
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
+
+  [no_problem]: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+  [childrens_jobs]: https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html
+  [humans]: https://www.youtube.com/watch?v=7Pq-S557XQU
+  [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+  [harnessing]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
+  [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+-->
 
 ### 3/4 Free Speech
 
 ### 3/11 News & Politics
+<!--
+Tufekci, Zeynep ["Russian Meddling Is a Symptom, Not the Disease"][meddling_disease]
 
-### 3/18 Government Censorship and Surveillance
+Kolbert, Elizabeth, ["Why Facts Don't Change Our Minds"][why_facts]
+
+Bertoni, Steven, ["How Jared Kushner Won Trump The White House"][jared_kushner]
+
+Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]" (optional)
+
+Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_bots]"
+
+  [meddling_disease]: https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html
+  [why_facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+  [jared_kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
+  [political_fragmentation]: http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+  [twitter_bots]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
+-->
+
+### 3/18 Governments
+<!--
+Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
+
+Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
+
+Maniam, Shiva "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
+
+Optional: Gallagher, Ryan, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][dragonfly]"
+
+Optional: Kayyali, Dia, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_letter]"
+
+  [china_surveillance]: https://www.vanityfair.com/news/2018/07/china-surveillance-state-artificial-intelligence
+  [dragonfly]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
+  [fbi_letter]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+  [police_drones]: https://www.theatlantic.com/technology/archive/2018/06/drone-cops-take-flight-in-los-angeles/562214/
+  [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
+
+-->
 
 ### 3/25 No Class
 
@@ -50,9 +138,18 @@ Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoi
 
 -->
 
-### 4/22 War
+### 4/22 Corporations
 
-### 4/29 Poverty
+### 4/29 War
+<!--
+Singer, Peter, "[The Singer Solution to World Poverty][singer]"
+
+  [singer]: http://www.nytimes.com/1999/09/05/magazine/the-singer-solution-to-world-poverty.html?pagewanted=all
+
+-->
+
+
+
 
 
 <!--
