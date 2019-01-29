@@ -11,7 +11,13 @@
 ### 1/28 Wealth
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
 
+<<<<<<< HEAD
   [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+=======
+
+  [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
+
+>>>>>>> 32486f12cf1a5f9f1ac1edf73983e80f299cf088
 
 ### 2/4 Privacy
 <!--
@@ -79,6 +85,13 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 -->
 
+<!--
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
+
+-->
+
 ### 3/4 Free Speech
 
 ### 3/11 News & Politics
@@ -104,6 +117,7 @@ Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_b
 <!--
 Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 
+<<<<<<< HEAD
 Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
 
 Maniam, Shiva "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
@@ -119,6 +133,9 @@ Optional: Kayyali, Dia, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr.,
   [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
 
 -->
+=======
+### 3/18 Governments
+>>>>>>> 32486f12cf1a5f9f1ac1edf73983e80f299cf088
 
 ### 3/25 No Class
 
@@ -141,6 +158,7 @@ Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoi
 ### 4/22 Corporations
 
 ### 4/29 War
+<<<<<<< HEAD
 <!--
 Singer, Peter, "[The Singer Solution to World Poverty][singer]"
 
@@ -149,6 +167,8 @@ Singer, Peter, "[The Singer Solution to World Poverty][singer]"
 -->
 
 
+=======
+>>>>>>> 32486f12cf1a5f9f1ac1edf73983e80f299cf088
 
 
 
