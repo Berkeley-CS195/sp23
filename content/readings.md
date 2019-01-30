@@ -15,7 +15,6 @@ Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers 
 
 
 ### 2/4 Privacy
-<!--
 Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
 
 Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
@@ -31,8 +30,6 @@ Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet]
    [not_the_product]: http://powazek.com/posts/3229
    [why_care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
    [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
-
--->
 
 ### 2/11 Copyright
 <!--
