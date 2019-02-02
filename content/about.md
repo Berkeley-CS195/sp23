@@ -55,7 +55,7 @@ The course is graded P/NP. The reason for that policy is to ensure that you can
 feel free to express opinions different from those of the instructors, both in
 class meetings and in written work.
 
-In order to receive a passing grade in CS 195, you must complete all four objectives,
+In order to receive a passing grade in CS 195, you must complete the objectives
 listed below:
 
  * Attend at least 10 out of 12 lectures.
