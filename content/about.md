@@ -1,7 +1,7 @@
 ~ title: Course description and policies
 
 CS 195 is a discussion-intensive course about the social implications of
-computer technology. The purpose of this course is to help students make 
+computer technology. The purpose of this course is to help students make
 informed and thoughtful choices about their careers, participation in society,
 and future development activities. Readings and lecture topics are drawn from a
 range of fields that together seek to describe our contemporary global society:
@@ -14,17 +14,17 @@ Class: Monday 5:00 to 6:30 PM
 
 Small-group discussion sections: Thursday afternoons TBA
 
-Readings for each week will be released on the Tuesday before class.  
+Readings for each week will be released on the Tuesday before class.
 **Finish the readings before class!**
 
 Small-group discussion sections will cover topics to be discussed in the following lecture.
-You are only required to attend one discussion section (total, not per week).  
-Sign-up information for discussion sections will be released shortly.  
+You are only required to attend one discussion section (total, not per week).
+Sign-up information for discussion sections will be released shortly.
 **Finish the readings for the section you choose to attend before you come to section!**
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To
-guide discussion topics, a weekly survey will be announced on Piazza.  
+guide discussion topics, a weekly survey will be announced on Piazza.
 **Finish the weekly survey by Monday 2 PM!**
 
 Essays
@@ -36,17 +36,17 @@ prompts we provide or choose your own essay topic subject to approval by the
 course instructors.  Essays will be announced on the website, in class, and
 on Piazza.
 
-Essays are peer reviewed, which means you will review nine essays and have each 
-of your essays reviewed by three of your peers.  You will also have the option 
+Essays are peer reviewed, which means you will review nine essays and have each
+of your essays reviewed by three of your peers.  You will also have the option
 of posting your essays publicly. Those who do so will be eligible for prizes.
 
 Peer Conversations
 -------
 
-We would like to encourage you to explore a range of perspectives on the issues we
-will be discussing in this course.  This semester, you will be required to have 
-one one-on-one conversation with a random peer for at least half an hour, at a time 
-and place of your choice.  Further details TBA.
+We would like to encourage you to explore a range of perspectives on the issues
+we will be discussing in this course.  This semester, you will be required to
+have one one-on-one conversation with an assigned peer for at least half an
+hour, at a time and place of your choice.  Further details TBA.
 
 Grading
 -------
@@ -73,11 +73,4 @@ Lecture and Attendance
 
 Lecture is going to be a mix of discussion, video clips, students asking questions,
 small group discussion, and class-wide debriefing.  Attendance will be taken in
-class as well as in small-gropu discussion.
-
-<!--
-This semester, we're not going to allow electronic device use for the bulk of lecture
-time, except by special permission. Those of you who request special permission will
-be able to use devices, but only if you're sitting in the front row. 
--->
-
+class as well as in small-group discussion.
