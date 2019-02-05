@@ -34,8 +34,6 @@ Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet]
    [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
 
 ### 2/11 Copyright
-<!--
-
 de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
 
 Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
@@ -50,7 +48,6 @@ Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript
    [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html]
    [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
 
--->
 
 <!-- Essay 1: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185 -->
 
