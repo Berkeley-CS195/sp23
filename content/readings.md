@@ -8,13 +8,15 @@
 | 2     | Monday, Mar 4   | Tuesday, Mar 12   | Tuesday, Mar 19  |
 | 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
-### 1/28 Wealth
+### 1/28 Wealth ([Slides](https://docs.google.com/presentation/d/1yNdWmn98FZCMLRCIFC0zfaJpBSlobrP1KtQPIJ4TskU/edit?usp=sharing))
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
 
   [commute]: https://ww2.kqed.org/news/2016/04/07/in-search-of-cheaper-housing-silicon-valley-workers-face-long-commutes/
 
 
-### 2/4 Privacy
+### 2/4 Privacy ([Slides](https://docs.google.com/presentation/d/1tTEA3fH5dnJlKzkGCtsGMdgC63FEpIiqeqYsOhBO4Rg/edit?usp=sharing))
+
+
 Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
 
 Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
