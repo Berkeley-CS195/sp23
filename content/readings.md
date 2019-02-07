@@ -42,11 +42,14 @@ Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software pate
 
 Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
 
+Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
+
    [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
    [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
    [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
    [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html]
    [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 
 <!-- Essay 1: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185 -->
