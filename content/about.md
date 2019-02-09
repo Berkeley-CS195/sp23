@@ -10,21 +10,18 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Class: Monday 5:00 to 6:30 PM
+Class: Monday 5:00 to 6:30 PM in VLSB 2050
 
-Small-group discussion sections: Thursday afternoons TBA
+Small-group discussion sections: Thursday 4:00 to 5:00 and 5:00 to 6:00 PM in Soda Hall 405
 
 Readings for each week will be released on the Tuesday before class.
 **Finish the readings before class!**
 
 Small-group discussion sections will cover topics to be discussed in the following lecture.
 You are only required to attend one discussion section (total, not per week).
-Sign-up information for discussion sections will be released shortly.
-**Finish the readings for the section you choose to attend before you come to section!**
 
 Lecture topics will not be determined only by the wisdom of your instructor.
-Instead, you will collectively choose your own adventure through the material.  To
-guide discussion topics, a weekly survey will be announced on Piazza.
+Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
 **Finish the weekly survey by Monday 2 PM!**
 
 Essays
