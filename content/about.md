@@ -12,7 +12,8 @@ Weekly Schedule
 
 Class: Monday 5:00 to 6:30 PM in VLSB 2050
 
-Small-group discussion sections: Thursday 4:00 to 5:00 and 5:00 to 6:00 PM in Soda Hall 405
+Small-group discussion sections: Thursday 4:00 to 5:00 and 5:00 to 6:00 PM in Soda Hall 405 **Sign up [here][discussion_signup] by Wednesday 02/21 at 5:00 PM.*
+   [discussion_signup]: https://docs.google.com/forms/d/e/1FAIpQLSekBpgA0xgpRXCvi7HTTxy61jByg1bqJYk5oIami6HP4_YNGw/viewform?usp=sf_link
 
 Readings for each week will be released on the Tuesday before class.
 **Finish the readings before class!**
