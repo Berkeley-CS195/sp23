@@ -4,7 +4,7 @@
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
-| 1     | Monday, Feb 11  | Tuesday, Feb 19   | Tuesday, Feb 26  |
+| 1     | Tuesday, Feb 12 | Wednesday, Feb 20 | Tuesday, Feb 26  |
 | 2     | Monday, Mar 4   | Tuesday, Mar 12   | Tuesday, Mar 19  |
 | 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
@@ -52,7 +52,8 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 
-<!-- Essay 1: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185 -->
+**Essay 1: Instructions and submission information can be found [here][essay1].**
+   [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185
 
 ### 2/18 No Class
 
