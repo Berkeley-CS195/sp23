@@ -58,7 +58,6 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
 ### 2/18 No Class
 
 ### 2/25 Jobs
-<!--
 CGP Grey, "[Humans Need Not Apply][humans]"
 
 Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
@@ -78,7 +77,6 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [harnessing]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
   [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
--->
 
 ### 3/4 Free Speech
 
