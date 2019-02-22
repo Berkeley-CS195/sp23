@@ -58,6 +58,9 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
 ### 2/18 No Class
 
 ### 2/25 Jobs
+** Please complete [this survey][jobs_survey] by 2 PM before lecture! **
+   [jobs_survey]: https://docs.google.com/forms/d/e/1FAIpQLSdhRKSzL9FlXSajg-hZLB0gHSqBtOOKIlo7PTXHLWAavGI1Iw/viewform?usp=sf_link
+
 CGP Grey, "[Humans Need Not Apply][humans]"
 
 Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
