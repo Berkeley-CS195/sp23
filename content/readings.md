@@ -82,6 +82,21 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 3/4 Free Speech
+Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
+
+Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
+
+Fisher, Max, "[Inside Facebook's Secret Rulebook for Global Political Speech][facebook_rulebook]"
+
+Optional: Stone, Geoffrey R. and Volokh, Eugene, "[Interactive Constitution: The meaning of free speech][interactive_constitution]"
+
+Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
+
+  [alex_jones_lawsuit]: https://www.wired.com/story/alex-jones-lawsuit-will-help-redefine-free-speech/
+  [fighting_neonazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
+  [facebook_rulebook]: https://www.nytimes.com/2018/12/27/world/facebook-moderators.html
+  [twitter_rules]: https://motherboard.vice.com/en_us/article/z43xw3/the-history-of-twitters-rules
+  [interactive_constitution]: https://constitutioncenter.org/blog/interactive-constitution-the-meaning-of-free-speech
 
 ### 3/11 News & Politics
 <!--
