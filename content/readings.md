@@ -82,6 +82,9 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 3/4 Free Speech
+**Please complete [this survey][speech_survey] by 2 PM before lecture!**
+   [speech_survey]: https://docs.google.com/forms/d/e/1FAIpQLSdAqNAmhTmRN68Ifk38vgKnYzDRPldSPGdXn4LK7uoGN3MEuA/viewform?usp=sf_link
+
 Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
 
 Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
