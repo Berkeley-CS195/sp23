@@ -73,6 +73,3 @@ Lecture is going to be a mix of discussion, video clips, students asking questio
 small group discussion, and class-wide debriefing.  Attendance will be taken in
 class as well as in small-group discussion.
 
-TEMPORARY LINK FOR ATTENDANCE FORM FOR SESSIONS WITH PROF. LEE FLEMING: [here][attendance]
-
-  [attendance]: https://goo.gl/forms/8oI8GffFFgrtQK203
