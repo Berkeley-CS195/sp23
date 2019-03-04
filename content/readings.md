@@ -5,7 +5,7 @@
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
 | 1     | Tuesday, Feb 12 | Wednesday, Feb 20 | Tuesday, Feb 26  |
-| 2     | Monday, Mar 4   | Tuesday, Mar 12   | Tuesday, Mar 19  |
+| 2     | Tuesday, Mar 5  | Wednesday, Mar 13 | Tuesday, Mar 19  |
 | 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
 
 ### 1/28 Wealth ([Slides](https://docs.google.com/presentation/d/1yNdWmn98FZCMLRCIFC0zfaJpBSlobrP1KtQPIJ4TskU/edit?usp=sharing))
