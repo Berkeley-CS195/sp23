@@ -52,8 +52,7 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 
-**Essay 1: Instructions and submission information can be found [here][essay1].**
-   [essay1]: https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185
+**Essay 1: Instructions and submission information can be found [here][https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185].**
 
 ### 2/18 No Class
 
