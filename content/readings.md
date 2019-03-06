@@ -80,7 +80,7 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
-### 3/4 Free Speech
+### 3/4 Free Speech ([Slides](https://docs.google.com/presentation/d/1r09IxmL-F9b46NSFk8YFnZb7gRXkE79NwhTQ0hafFag/edit?usp=sharing))
 **Please complete [this survey][speech_survey] by 2 PM before lecture!**
    [speech_survey]: https://docs.google.com/forms/d/e/1FAIpQLSdAqNAmhTmRN68Ifk38vgKnYzDRPldSPGdXn4LK7uoGN3MEuA/viewform?usp=sf_link
 
