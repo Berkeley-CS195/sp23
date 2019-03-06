@@ -103,13 +103,13 @@ Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
 **Essay 2: Instructions and submission information can be found [here][ 	https://www.crowdgrader.org/crowdgrader/venues/view_venue/4247].**
 
 ### 3/11 News & Politics
-Tufekci, Zeynep ["Russian Meddling Is a Symptom, Not the Disease"][meddling_disease]
+Tufekci, Zeynep "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
 
-Kolbert, Elizabeth, ["Why Facts Don't Change Our Minds"][why_facts]
+Kolbert, Elizabeth, "[Why Facts Don't Change Our Minds][why_facts]"
 
-Bertoni, Steven, ["How Jared Kushner Won Trump The White House"][jared_kushner]
+Bertoni, Steven, "[How Jared Kushner Won Trump The White House][jared_kushner]"
 
-Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]" (optional)
+Optional: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
 
 Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_bots]"
 
