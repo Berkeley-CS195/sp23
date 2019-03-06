@@ -33,7 +33,7 @@ Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet]
    [why_care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
    [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
 
-### 2/11 Copyright ([Slides][https://docs.google.com/presentation/d/1G5o8mqG3hl1doVNIVrHjAD460xZFhAyBGl7TLOfxd5Y/edit?usp=sharing])
+### 2/11 Copyright ([Slides](https://docs.google.com/presentation/d/1G5o8mqG3hl1doVNIVrHjAD460xZFhAyBGl7TLOfxd5Y/edit?usp=sharing))
 de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
 
 Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
@@ -52,11 +52,11 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 
-**Essay 1: Instructions and submission information can be found [here][https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185].**
+**Essay 1: Instructions and submission information can be found [here](https://www.crowdgrader.org/crowdgrader/venues/view_venue/4185).**
 
 ### 2/18 No Class
 
-### 2/25 Jobs ([Slides][https://docs.google.com/presentation/d/1SpXic36yU1DGYsBs6h71x4qRHX7NVbNpIeUvot2TYz8/edit?usp=sharing])
+### 2/25 Jobs ([Slides](https://docs.google.com/presentation/d/1SpXic36yU1DGYsBs6h71x4qRHX7NVbNpIeUvot2TYz8/edit?usp=sharing))
 **Please complete [this survey][jobs_survey] by 2 PM before lecture!**
    [jobs_survey]: https://docs.google.com/forms/d/e/1FAIpQLSdhRKSzL9FlXSajg-hZLB0gHSqBtOOKIlo7PTXHLWAavGI1Iw/viewform?usp=sf_link
 
@@ -100,7 +100,7 @@ Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
   [twitter_rules]: https://motherboard.vice.com/en_us/article/z43xw3/the-history-of-twitters-rules
   [interactive_constitution]: https://constitutioncenter.org/blog/interactive-constitution-the-meaning-of-free-speech
 
-**Essay 2: Instructions and submission information can be found [here][ 	https://www.crowdgrader.org/crowdgrader/venues/view_venue/4247].**
+**Essay 2: Instructions and submission information can be found [here](https://www.crowdgrader.org/crowdgrader/venues/view_venue/4247).**
 
 ### 3/11 News & Politics
 Tufekci, Zeynep "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
