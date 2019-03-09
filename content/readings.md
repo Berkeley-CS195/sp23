@@ -103,7 +103,9 @@ Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
 **Essay 2: Instructions and submission information can be found [here](https://www.crowdgrader.org/crowdgrader/venues/view_venue/4247).**
 
 ### 3/11 News & Politics
-Tufekci, Zeynep "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSexe8KggiTxZ92IATEvnOWjJwWahCN2zZslhSgOwAgLRPRaFg/viewform?usp=sf_link) by 2 PM before lecture!**
+
+Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
 
 Kolbert, Elizabeth, "[Why Facts Don't Change Our Minds][why_facts]"
 
