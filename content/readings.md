@@ -102,7 +102,7 @@ Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
 
 **Essay 2: Instructions and submission information can be found [here](https://www.crowdgrader.org/crowdgrader/venues/view_venue/4247).**
 
-### 3/11 News & Politics
+### 3/11 News & Politics ([Slides](https://docs.google.com/presentation/d/1YGAETpIs3lFwNmDZShXa-HN8zorWb788ueqWvqAfHW4/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSexe8KggiTxZ92IATEvnOWjJwWahCN2zZslhSgOwAgLRPRaFg/viewform?usp=sf_link) by 2 PM before lecture!**
 
 Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
@@ -122,7 +122,6 @@ Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_b
   [twitter_bots]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 
 ### 3/18 Governments
-<!--
 Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 
 Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
@@ -139,11 +138,29 @@ Optional: Kayyali, Dia, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr.,
   [police_drones]: https://www.theatlantic.com/technology/archive/2018/06/drone-cops-take-flight-in-los-angeles/562214/
   [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
 
--->
 
 ### 3/25 No Class
 
 ### 4/1 Software Risks and Algorithmic Bias
+<!--
+Software Risks:
+   - Fabio, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+   - Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+   - Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopian_ads]"
+
+Algorithmic Bias:
+   - Angwin, "[Make Algorithms Accountable.][accountability]"
+   - Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
+   - Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
+
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+
+-->
 
 ### 4/8 Professional Ethics
 
