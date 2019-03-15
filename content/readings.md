@@ -124,12 +124,13 @@ Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_b
 
 
 ### 3/18 Governments
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScWkr7VuKmjwxPgylUyBoRRqV8D9eewNEJKDMNajPeTa7pM-Q/viewform?usp=sf_link) by 2 PM before lecture!**
 
 Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 
 Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
 
-Maniam, Shiva "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
+Maniam, Shiva, "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
 
 Optional: Gallagher, Ryan, "[Senior Google Scientist Resigns Over 'Forfeiture of Our Values' in China][dragonfly]"
 
