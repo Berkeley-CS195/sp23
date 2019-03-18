@@ -123,7 +123,8 @@ Optional: Smiley, Lauren, "[The College Kids Doing What Twitter Won't][twitter_b
   [twitter_bots]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 
 
-### 3/18 Governments
+### 3/18 Governments ([Slides](https://docs.google.com/presentation/d/15WHxGBY7ULNu74foBZqkYoUE9TUy3QeRVe7I_J5exKw/edit?usp=sharing))
+
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScWkr7VuKmjwxPgylUyBoRRqV8D9eewNEJKDMNajPeTa7pM-Q/viewform?usp=sf_link) by 2 PM before lecture!**
 
 Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
