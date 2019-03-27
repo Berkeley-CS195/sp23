@@ -146,6 +146,25 @@ Optional: Kayyali, Dia, "[FBI's 'Suicide Letter' to Dr. Martin Luther King, Jr.,
 ### 3/25 No Class
 
 ### 4/1 Software Risks and Algorithmic Bias
+Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
+
+Software Risks:
+- Fabio, Adam, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+- Optional: Neumann, Peter G., "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+- Optional: Tufekci, Zeynep, "[We're building a dystopia just to make people click on ads][dystopian_ads]" (video)
+
+Algorithmic Bias:
+- Angwin, Julia, "[Make Algorithms Accountable.][accountability]"
+- Davies, Sam, and Pierson, Emma, and Feller, Avi and  Goel, Sharad, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
+- Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
+
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+  [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
 ### 4/8 Professional Ethics
 
