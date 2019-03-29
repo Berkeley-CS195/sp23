@@ -148,7 +148,7 @@ Optional: Kayyali, Dia, "[FBI's 'Suicide Letter' to Dr. Martin Luther King, Jr.,
 
 ### 4/1 Software Risks and Algorithmic Bias
 
-**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfww8tNJaGTIqwHhYnUHc9Z2tSSSSTZfMxFvm--Dd-g3DD4sg/viewform?usp=sf_link) by 2 PM before lecture!**
+**Please complete [this survey](https://forms.gle/zpbQ8JP3vpFb17BSA) by 2 PM before lecture!**
 
 Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
 
