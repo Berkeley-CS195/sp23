@@ -146,7 +146,7 @@ Optional: Kayyali, Dia, "[FBI's 'Suicide Letter' to Dr. Martin Luther King, Jr.,
 
 ### 3/25 No Class
 
-### 4/1 Software Risks and Algorithmic Bias
+### 4/1 Software Risks and Algorithmic Bias ([Slides](https://docs.google.com/presentation/d/1SPvoFb75FTEKdBxyBTWdL4c67SllYiFb-0o38ipCMpM/edit?usp=sharing))
 
 **Please complete [this survey](https://forms.gle/zpbQ8JP3vpFb17BSA) by 2 PM before lecture!**
 
@@ -171,6 +171,22 @@ Algorithmic Bias:
   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
 ### 4/8 Professional Ethics
+
+This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. We'll go over two of the three major schools of ethics in class (consequentialism and virtue ethics), but watch these videos in advance so that the overview is easier to follow.
+
+ACM, "[Professional Code of Conduct][acm_code]"
+
+Systems of Ethics (Videos) (optional but recommended!):
+   - [Consequentialism][consequentialism1]
+   - [Virtue Ethics][virtue_ethics_dartington]
+   - Paul Stearns (Blinn College), [Kant's Morality part 1][stearns_kant1], [Kant's Morality part 2 (optional)][stearns_kant2]
+
+   [stearns_kant1]: https://www.youtube.com/watch?v=W_Q8cNzjTv0
+   [stearns_kant2]: https://www.youtube.com/watch?v=KQqcD3_3_Y8
+   [stanford_kant]: http://plato.stanford.edu/entries/kant-moral/#GooWilMorWorDut
+   [consequentialism1]: https://www.youtube.com/watch?v=hACdhD_kes8
+   [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
+   [acm_code]: http://www.acm.org/about/code-of-ethics
 
 ### 4/15 Finance
 
