@@ -42,9 +42,10 @@ Peer Conversations
 -------
 
 We would like to encourage you to explore a range of perspectives on the issues
-we will be discussing in this course.  This semester, you will be required to
-have one one-on-one conversation with an assigned peer for at least half an
-hour, at a time and place of your choice.  Further details TBA.
+we will be discussing in this course.  This semester, we will put you in 
+contact with one of your peers and suggest a prompt for you to discuss in 
+one-on-one conversation with an assigned peer for at least half an
+hour, at a time and place of your choice.  If you decide to go through with the conversation, you will be entered in a drawing for a prize. 
 
 Grading
 -------
@@ -61,7 +62,6 @@ listed below:
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
  * Attend 1 small-group discussion.
- * Complete 1 peer conversation.
 
 In the event that you do not earn the required number of points, we will provide
 an opportunity to make up extra work, though you should not count on this.
