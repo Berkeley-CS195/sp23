@@ -44,8 +44,10 @@ Peer Conversations
 We would like to encourage you to explore a range of perspectives on the issues
 we will be discussing in this course.  This semester, we will put you in 
 contact with one of your peers and suggest a prompt for you to discuss in 
-one-on-one conversation with an assigned peer for at least half an
-hour, at a time and place of your choice.  If you decide to go through with the conversation, you will be entered in a drawing for a prize. 
+one-on-one conversation for at least half an hour, at a time and place of 
+your choice.  If you decide to go through with the conversation, fill out [this 
+form](https://docs.google.com/forms/d/e/1FAIpQLSccLxaxZk2eVVmrMrmAQcFJmls1uE5NHrxeCdhtV5QUEW-iaw/viewform?usp=sf_link) to be entered in a drawing for a prize. 
+(The link will be made live once peers are assigned.)
 
 Grading
 -------
