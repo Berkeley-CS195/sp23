@@ -172,6 +172,8 @@ Algorithmic Bias:
 
 ### 4/8 Professional Ethics
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeLvTJN1e3KSDXH6GvXnP_8ccGohjWOQ7BHwJEhocz3XL1RWA/viewform?usp=sf_link) by 2 PM before lecture!**
+
 This coming week, we'll do something a little different and discuss systems of ethics as taxonomized by the field of moral philosophers. We'll go over two of the three major schools of ethics in class (consequentialism and virtue ethics), but watch these videos in advance so that the overview is easier to follow.
 
 ACM, "[Professional Code of Conduct][acm_code]"
