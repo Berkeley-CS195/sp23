@@ -192,15 +192,18 @@ Systems of Ethics (Videos) (optional but recommended!):
 
 ### 4/15 Finance
 
-<!--
+Faggella, Daniel, "[Machine Learning in Finance - Present and Future Applications][ml_finance]"
+
 Hern, Alex, "[Energy cost of 'mining' bitcoin more than twice that of copper or gold][bitcoin_energy_waste]"
 
 Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoin_energy_overexaggerated]"
 
+Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][wsbrokers]"
+
    [bitcoin_energy_waste]: https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold
    [bitcoin_energy_overexaggerated]: https://theconversation.com/stop-worrying-about-how-much-energy-bitcoin-uses-97591
-
--->
+   [wsbrokers]: https://www.entrepreneur.com/article/295309
+   [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 4/22 Corporations
 
