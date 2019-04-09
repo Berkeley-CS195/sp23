@@ -170,7 +170,7 @@ Algorithmic Bias:
    [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
-### 4/8 Professional Ethics
+### 4/8 Professional Ethics ([Slides](https://docs.google.com/presentation/d/11OoAfN-W8mnjIJrjr3yZ8sBW8k91dmwsIE4OAl9PlIk/edit?usp=sharing))
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeLvTJN1e3KSDXH6GvXnP_8ccGohjWOQ7BHwJEhocz3XL1RWA/viewform?usp=sf_link) by 2 PM before lecture!**
 
