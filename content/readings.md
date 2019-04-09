@@ -6,7 +6,7 @@
 |-------|-----------------|-------------------|------------------|
 | 1     | Tuesday, Feb 12 | Wednesday, Feb 20 | Tuesday, Feb 26  |
 | 2     | Tuesday, Mar 5  | Wednesday, Mar 13 | Tuesday, Mar 19  |
-| 3     | Monday, Apr 8   | Tuesday, Apr 16   | Tuesday, Apr 23  |
+| 3     | Tuesday, Apr 8  | Wednesday, Apr 16 | Tuesday, Apr 23  |
 
 ### 1/28 Wealth ([Slides](https://docs.google.com/presentation/d/1yNdWmn98FZCMLRCIFC0zfaJpBSlobrP1KtQPIJ4TskU/edit?usp=sharing))
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
