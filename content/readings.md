@@ -192,6 +192,8 @@ Systems of Ethics (Videos) (optional but recommended!):
 
 ### 4/15 Finance
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd-V2-bvJe_WY71UpypGg1JzTHcRDWkBBasXGqyzFALuAZgLw/viewform?usp=sf_link) by 2 PM before lecture!**
+
 Faggella, Daniel, "[Machine Learning in Finance - Present and Future Applications][ml_finance]"
 
 Hern, Alex, "[Energy cost of 'mining' bitcoin more than twice that of copper or gold][bitcoin_energy_waste]"
