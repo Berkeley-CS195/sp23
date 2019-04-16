@@ -190,7 +190,7 @@ Systems of Ethics (Videos) (optional but recommended!):
    [virtue_ethics_dartington]: https://www.youtube.com/watch?v=PHVuzec6s0c
    [acm_code]: http://www.acm.org/about/code-of-ethics
 
-### 4/15 Finance
+### 4/15 Finance ([Slides](https://docs.google.com/presentation/d/1Ba3ooCmcImyuh2Sv6D_WJdlZVYZHhTKJYnKpFEosK_U/edit?usp=sharing))
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd-V2-bvJe_WY71UpypGg1JzTHcRDWkBBasXGqyzFALuAZgLw/viewform?usp=sf_link) by 2 PM before lecture!**
 
