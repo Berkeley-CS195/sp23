@@ -208,6 +208,14 @@ Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][w
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 4/22 Corporations
+Readings this week are all **optional** but encouraged.
+
+Optional: Reiss, Robert, "[Top CEOs Place High Value on Corporate Ethics and Social Responsibility to Drive Business](https://www.forbes.com/sites/robertreiss/2017/09/11/top-ceos-place-high-value-on-corporate-ethics-and-social-responsibility-to-drive-business/#571750e54473)"
+
+Optional: Google AI, "[Responsible AI Practices](https://ai.google/education/responsible-ai-practices)"
+
+Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)" (touches on many issues discussed in this course--most relevant part for this week is the last section, "Recommendations for Going Forward")
+
 
 ### 4/29 War
 
