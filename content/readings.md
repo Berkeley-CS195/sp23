@@ -208,6 +208,8 @@ Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][w
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 4/22 Corporations
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScxbkprIG_pfdNcfR_RNXaiabMmBoA-2jQHycYKR6TlweHoUw/viewform?usp=sf_link) by 2 PM before lecture!**
+
 Readings this week are all **optional** but encouraged.
 
 Optional: Reiss, Robert, "[Top CEOs Place High Value on Corporate Ethics and Social Responsibility to Drive Business](https://www.forbes.com/sites/robertreiss/2017/09/11/top-ceos-place-high-value-on-corporate-ethics-and-social-responsibility-to-drive-business/#571750e54473)"
