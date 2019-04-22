@@ -207,7 +207,8 @@ Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][w
    [wsbrokers]: https://www.entrepreneur.com/article/295309
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
-### 4/22 Corporations
+### 4/22 Corporations ([Slides](https://docs.google.com/presentation/d/1cmruGsB_Tz2vKmo0DKJFZjtDVHK8wAUOKotVyKK5Mj0/edit?usp=sharing))
+
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScxbkprIG_pfdNcfR_RNXaiabMmBoA-2jQHycYKR6TlweHoUw/viewform?usp=sf_link) by 2 PM before lecture!**
 
 Readings this week are all **optional** but encouraged.
