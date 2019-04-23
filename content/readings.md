@@ -221,6 +221,23 @@ Optional: West, Darrell M., "[The role of corporations in addressing AI's ethica
 
 
 ### 4/29 War
+Greenberg, Andy, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
+
+Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
+
+Haselton, Todd, "[How the Army plans to use Microsoft's high-tech HoloLens goggles on the battlefield](https://www.cnbc.com/2019/04/06/microsoft-hololens-2-army-plans-to-customize-as-ivas.html)"
+
+Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
+
+Optional: Walzer, Michael, "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+
+Optional: Dunlap Jr., Charles, "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN)
+
+   [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+   [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+   [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 
 <!--
