@@ -8,6 +8,8 @@
 | 2     | Tuesday, Mar 5  | Wednesday, Mar 13 | Tuesday, Mar 19  |
 | 3     | Tuesday, Apr 9  | Wednesday, Apr 17 | Tuesday, Apr 23  |
 
+**Thanks for a great semester!  Have a minute to help us improve CS 195 for next year?  Fill out the [exit survey](https://docs.google.com/forms/d/e/1FAIpQLSfdgZFN4U4uJtPlHZrB1VX9Cz-JFDo98leAU_8-EKC6iv1g2Q/viewform?usp=sf_link) to share your thoughts!**
+
 ### 1/28 Wealth ([Slides](https://docs.google.com/presentation/d/1yNdWmn98FZCMLRCIFC0zfaJpBSlobrP1KtQPIJ4TskU/edit?usp=sharing))
 Optional: Barrera, Jeff, "[In Search of Cheaper Housing, Silicon Valley Workers Face Long Commutes][commute]"
 
@@ -220,7 +222,7 @@ Optional: Google AI, "[Responsible AI Practices](https://ai.google/education/res
 Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)" (touches on many issues discussed in this course--most relevant part for this week is the last section, "Recommendations for Going Forward")
 
 
-### 4/29 War
+### 4/29 War ([Slides](https://docs.google.com/presentation/d/1bVM8FNPLLl4eSBDMPsNHrEPdp-hwen1W7l40jR3U-ns/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScN0Rx2JBTArOfuAyek3gm7qfOW_PVPG_FiIRXcKylkv3oybw/viewform?usp=sf_link) by 2 PM before lecture!**
 
 Greenberg, Andy, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
