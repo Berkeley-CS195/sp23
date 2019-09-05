@@ -1,4 +1,15 @@
-~ title: Topics, Readings, and Assignments
+~ title: Topics, Readings, and Assignments 
+
+**IMPORTANT ANNOUNCEMENT FOR FALL 2019 STUDENTS: While we get the Fall 2019 website up and working, please find updated content immediately below this message (but above the essay table).** 
+
+If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
+
+[Slides for lecture on 09/03 (Free Speech)](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing)
+
+Readings for lecture on 09/10 (Privacy) are as for the equivalent lecture in spring (02/04 below), with the additional optional reading:
+Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information](https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information/#279d0039753d)"
+
+**END FALL 2019 ANNOUNCEMENTS**
 
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
