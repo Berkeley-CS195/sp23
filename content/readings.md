@@ -3,11 +3,6 @@
 
 If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
 
-
-
-Readings for lecture on 09/10 (Privacy) are as for the equivalent lecture in spring (02/04 below), with the additional optional reading:
-Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information](https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information/#279d0039753d)"
-
 ### 9/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
 
 ### 9/10 Privacy

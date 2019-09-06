@@ -10,20 +10,19 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Class: Monday 5:00 to 6:30 PM in VLSB 2050
+Lecture: Tuesday 11:00 to 12:30 PM in 105 Stanley
 
-Small-group discussion sections: Thursday 4:00 to 5:00 and 5:00 to 6:00 PM in Soda Hall 405 **Sign up [here][discussion_signup] by Wednesday 02/21 at 5:00 PM.**
-   [discussion_signup]: https://docs.google.com/forms/d/e/1FAIpQLSekBpgA0xgpRXCvi7HTTxy61jByg1bqJYk5oIami6HP4_YNGw/viewform?usp=sf_link
+Discussion sections: TBD
 
-Readings for each week will be released on the Tuesday before class.
-**Finish the readings before class!**
+Readings for each week will be released on the Wednesday before class (or thereabouts).
+**Please finish the readings before class!**
 
-Small-group discussion sections will cover topics to be discussed in the following lecture.
+Discussion sections will cover topics to be discussed in the previous lecture.
 You are only required to attend one discussion section (total, not per week).
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
-**Finish the weekly survey by Monday 2 PM!**
+**Finish the weekly survey by 9 AM Tuesday!**
 
 Essays
 ------
@@ -36,18 +35,7 @@ on Piazza.
 
 Essays are peer reviewed, which means you will review nine essays and have each
 of your essays reviewed by three of your peers.  You will also have the option
-of posting your essays publicly. Those who do so will be eligible for prizes.
-
-Peer Conversations
--------
-
-We would like to encourage you to explore a range of perspectives on the issues
-we will be discussing in this course.  This semester, we will put you in 
-contact with one of your peers and suggest a prompt for you to discuss in 
-one-on-one conversation for at least half an hour, at a time and place of 
-your choice.  If you decide to go through with the conversation, fill out [this 
-form](https://docs.google.com/forms/d/e/1FAIpQLSccLxaxZk2eVVmrMrmAQcFJmls1uE5NHrxeCdhtV5QUEW-iaw/viewform?usp=sf_link) to be entered in a drawing for a prize. 
-(The link will be made live once peers are assigned.)
+of posting your essays publicly.
 
 Grading
 -------
@@ -59,8 +47,8 @@ class meetings and in written work.
 In order to receive a passing grade in CS 195, you must complete the objectives
 listed below:
 
- * Attend at least 10 out of 12 lectures.
- * Complete at least 9 out of 11 pre-lecture surveys.
+ * Attend at least 12 lectures
+ * Complete at least 11 pre-lecture surveys.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
  * Attend 1 small-group discussion.
