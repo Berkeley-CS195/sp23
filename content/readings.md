@@ -1,16 +1,37 @@
-~ title: Topics, Readings, and Assignments 
+~ title: Topics, Readings, and Assignments
 
-**IMPORTANT ANNOUNCEMENT FOR FALL 2019 STUDENTS: While we get the Fall 2019 website up and working, please find updated content immediately below this message (but above the essay table).** 
 
 If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
 
-[Slides for lecture on 09/03 (Free Speech)](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing)
+
 
 Readings for lecture on 09/10 (Privacy) are as for the equivalent lecture in spring (02/04 below), with the additional optional reading:
 Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information](https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information/#279d0039753d)"
 
-**END FALL 2019 ANNOUNCEMENTS**
+### 9/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
 
+### 9/10 Privacy
+
+Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
+
+Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
+
+Homayoun, Ana, "[The Secret Social Media Lives of Teenagers][secret_lives]"
+
+Optional: Rachels, James, "[Why Privacy is Important][why_privacy]" ([VPN][vpn] required)
+
+Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet][not_the_product]"
+
+Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information][privacy_law]"
+
+   [why_privacy]: http://www.jstor.org/stable/2265077
+   [secret_lives]: https://www.nytimes.com/2017/06/07/well/family/the-secret-social-media-lives-of-teenagers.html?mcubz=1
+   [not_the_product]: http://powazek.com/posts/3229
+   [why_care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
+   [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
+   [privacy_law]: https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information
+
+<!--
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
