@@ -1,4 +1,4 @@
-~ title: Course description and policies
+~ title: Course Description and Policies
 
 CS 195 is a discussion-intensive course about the social implications of
 computer technology. The purpose of this course is to help students make
@@ -27,10 +27,9 @@ Instead, you will collectively choose your own adventure through the material.  
 Essays
 ------
 
-You will write three short essays (500-1000 words) that contain
-your original thoughts about issues from the class.  You can choose from the
-prompts we provide or choose your own essay topic subject to approval by the
-course instructors.  Essays will be announced on the website, in class, and
+You will write three short essays (500-1000 words) of varying format 
+in relation to issues discussed in class.  Essays will be 
+announced on the website, in class, and
 on Piazza.
 
 Essays are peer reviewed, which means you will review nine essays and have each

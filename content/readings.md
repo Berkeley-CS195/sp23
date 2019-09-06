@@ -3,9 +3,35 @@
 
 If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
 
-### 9/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
+| Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
+|-------|-----------------|-------------------|------------------|
+| 1     | 09/17           | 09/24             | 10/01            |
+| 2     | 10/08           | 10/15             | 10/22            |
+| 3     | 10/29           | 11/05             | 11/12            |
 
-### 9/10 Privacy
+### 09/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
+
+Optional: Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
+
+Optional: Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
+
+Optional: Fisher, Max, "[Inside Facebook's Secret Rulebook for Global Political Speech][facebook_rulebook]"
+
+Optional: Stone, Geoffrey R. and Volokh, Eugene, "[Interactive Constitution: The meaning of free speech][interactive_constitution]"
+
+Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
+
+Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](https://www.nature.com/articles/d41586-019-02447-1)" (see also [original research article](https://www.nature.com/articles/s41586-019-1494-7)--requires VPN)
+
+  [alex_jones_lawsuit]: https://www.wired.com/story/alex-jones-lawsuit-will-help-redefine-free-speech/
+  [fighting_neonazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
+  [facebook_rulebook]: https://www.nytimes.com/2018/12/27/world/facebook-moderators.html
+  [twitter_rules]: https://motherboard.vice.com/en_us/article/z43xw3/the-history-of-twitters-rules
+  [interactive_constitution]: https://constitutioncenter.org/blog/interactive-constitution-the-meaning-of-free-speech
+
+
+### 09/10 Privacy
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd_GuSgDRmvbvPtt1MDTY06XEtSpl57JU3VVQ0wzaHWXeJ4EA/viewform?usp=sf_link) by 9 AM before class!**
 
 Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
 
@@ -25,6 +51,28 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
    [why_care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
    [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
    [privacy_law]: https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information
+
+### 09/17 Copyright
+
+### 09/24 Jobs
+
+### 10/01 Guest Lecture
+
+### 10/08 Ethical Frameworks and Decision-Making
+
+### 10/15 Algorithmic Bias
+
+### 10/22 Finance
+
+### 10/29 Software Risks and Professional Ethics
+
+### 11/05 News and Politics
+
+### 11/19 War
+
+### 11/26 NO CLASS (Thanksgiving week)
+
+### 12/03 Special Topic
 
 <!--
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
