@@ -55,6 +55,24 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
    [privacy_law]: https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information
 
 ### 09/17 Copyright
+de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
+
+Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
+
+Reynolds, Matt, "[What is Article 13? The EU's divisive new copyright plan explained](https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban)"
+
+Optional: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
+
+Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
+
+Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
+
+   [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
+   [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+   [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html]
+   [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 09/24 Jobs
 
