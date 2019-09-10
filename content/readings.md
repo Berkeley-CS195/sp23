@@ -3,6 +3,8 @@
 
 If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
 
+**Sign up for a discussion section [here](https://docs.google.com/forms/d/e/1FAIpQLSdBXkuHNK9p08lUgITve8JPj-UVdQnvs3--bxRkP9MyB2RoFw/viewform?usp=sf_link) by 11 AM on 09/17!**
+
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
 | 1     | 09/17           | 09/24             | 10/01            |
