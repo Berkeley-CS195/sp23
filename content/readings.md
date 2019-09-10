@@ -32,7 +32,7 @@ Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](
   [interactive_constitution]: https://constitutioncenter.org/blog/interactive-constitution-the-meaning-of-free-speech
 
 
-### 09/10 Privacy
+### 09/10 Privacy ([Slides](https://docs.google.com/presentation/d/1iR7seYKcaHa9LnGCeIQwq_Zt8K_QnRiotWbZVLuYumk/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd_GuSgDRmvbvPtt1MDTY06XEtSpl57JU3VVQ0wzaHWXeJ4EA/viewform?usp=sf_link) by 9 AM before class!**
 
 Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
