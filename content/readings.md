@@ -55,6 +55,7 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
    [privacy_law]: https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information
 
 ### 09/17 Copyright
+**Please complete [this survey](https://forms.gle/yxvq5JS79RJo9MVX8) by 9 AM before class!**
 de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
 
 Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
