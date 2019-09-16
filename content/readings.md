@@ -146,7 +146,7 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
    [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
    [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
-   [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html]
+   [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
    [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
