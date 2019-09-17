@@ -57,6 +57,7 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
 ### 09/17 Copyright ([Slides](https://docs.google.com/presentation/d/1rxyw-oQ0SUO9gfeJnnsxpXiUrjRd08ap3DaAbJtUaaA/edit?usp=sharing))
 
 **Assignment 1 has now been released!  Please view and submit it [here](https://www.crowdgrader.org/crowdgrader/venues/join/4424/qobiby_myruqo_mipeti_mavypi).**
+
 **Please complete [this survey](https://forms.gle/yxvq5JS79RJo9MVX8) by 9 AM before class!**
 
 de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
