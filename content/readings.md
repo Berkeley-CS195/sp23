@@ -54,9 +54,9 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
    [sites_spying]: https://www.nbcnews.com/tech/security/princeton-study-exposes-weird-new-ways-sites-are-spying-you-n622391
    [privacy_law]: https://www.forbes.com/sites/cognitiveworld/2019/04/05/how-privacy-laws-are-changing-to-protect-personal-information
 
-**Assignment 1 has now been released!  Please view and submit it [here](https://www.crowdgrader.org/crowdgrader/venues/join/4424/qobiby_myruqo_mipeti_mavypi).**
 ### 09/17 Copyright ([Slides](https://docs.google.com/presentation/d/1rxyw-oQ0SUO9gfeJnnsxpXiUrjRd08ap3DaAbJtUaaA/edit?usp=sharing))
 
+**Assignment 1 has now been released!  Please view and submit it [here](https://www.crowdgrader.org/crowdgrader/venues/join/4424/qobiby_myruqo_mipeti_mavypi).**
 **Please complete [this survey](https://forms.gle/yxvq5JS79RJo9MVX8) by 9 AM before class!**
 
 de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
@@ -79,6 +79,25 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 09/24 Jobs
+CGP Grey, "[Humans Need Not Apply][humans]"
+
+Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
+
+Surowiecki, James, "[The Great Tech Panic: Robots Won't Take All Our Jobs][no_problem]"
+
+Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+
+Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+
+Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
+
+  [no_problem]: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+  [childrens_jobs]: https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html
+  [humans]: https://www.youtube.com/watch?v=7Pq-S557XQU
+  [decoupling]: https://hbr.org/2015/06/the-great-decoupling
+  [harnessing]: http://www.mckinsey.com/global-themes/digital-disruption/harnessing-automation-for-a-future-that-works
+  [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
+  [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 10/01 Guest Lecture
 
