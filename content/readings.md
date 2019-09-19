@@ -102,7 +102,7 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
 
 ### 10/01 Guest Lecture
 
-### 10/08 Ethical Frameworks and Decision-Making
+### 10/08 Guest Lecture: Free Time and Attention
 
 ### 10/15 Algorithmic Bias
 
