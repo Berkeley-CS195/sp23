@@ -80,6 +80,8 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
 ### 09/24 Jobs
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSce7eq1bjoaPTafrclBgKcZVz0DvPwY6s-e-RIYwkaq47wJlg/viewform?usp=sf_link) by 9 AM before class!**
+
 CGP Grey, "[Humans Need Not Apply][humans]"
 
 Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
