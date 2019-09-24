@@ -105,6 +105,26 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
 ### 10/01 Guest Lecture
 
 ### 10/08 Guest Lecture: Free Time and Attention
+<!--
+Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
+
+Becker, Rachel, "[Why calling screen time "digital heroin" is digital garbage][digital_drugs]"
+
+Tufecki, Zeynep, "[YouTube, the Great Radicalizer][youtube]"
+
+Optional: Schwartz, Casey, "[Finding It Hard to Focus? Maybe It's Not Your Fault][attention_economy]"
+
+Optional: Harris, Tristan, "[How better tech could protect us from distraction][ted_talk]"
+
+Optional: Lil B, "[The Age of Information][info_age_music_video]"
+
+   [digital_drugs]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
+   [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
+   [youtube]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
+   [attention_economy]: https://www.nytimes.com/2018/08/14/style/how-can-i-focus-better.html
+   [ted_talk]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction
+   [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
+-->
 
 ### 10/15 Algorithmic Bias
 
