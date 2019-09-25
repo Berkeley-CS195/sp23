@@ -79,7 +79,7 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
    [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
    [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 
-### 09/24 Jobs
+### 09/24 Jobs ([Slides](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSce7eq1bjoaPTafrclBgKcZVz0DvPwY6s-e-RIYwkaq47wJlg/viewform?usp=sf_link) by 9 AM before class!**
 
 CGP Grey, "[Humans Need Not Apply][humans]"
