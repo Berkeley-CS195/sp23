@@ -104,6 +104,8 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
 
 ### 10/01 Guest Lecture
 
+None this week!
+
 ### 10/08 Guest Lecture: Free Time and Attention
 <!--
 Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
