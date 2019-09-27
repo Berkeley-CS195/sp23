@@ -103,6 +103,8 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 10/01 Guest Lecture
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQpIV3DYWAZAx8LnPgiZAWCGgey2o3oSLQrP0LDz5-_8o1IQ/viewform?usp=sf_link) by 9 AM before class!**
+
 Readings this week are all **optional** but encouraged.
 
 Optional: Carr, Nicholas, "[The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/)"
@@ -152,7 +154,7 @@ Optional: Podcast - "[Fairness in Machine Learning with Hanna Wallach](https://t
 
 ### 11/26 NO CLASS (Thanksgiving week)
 
-### 12/03 Special Topic
+### 12/03 Guest Lecture
 
 <!--
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
