@@ -103,8 +103,15 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
 ### 10/01 Guest Lecture
+Readings this week are all **optional** but encouraged.
 
-None this week!
+Optional: Carr, Nicholas, "[The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/)"
+
+Optional: V&eacute;liz, Carissa, "[Three things digital ethics can learn from medical ethics](https://philpapers.org/archive/VLITTD.pdf)"
+
+Optional: Godwin, Mike, "[It's Time to Reframe Our Relationship With Facebook](https://slate.com/technology/2018/11/information-fiduciaries-facebook-google-jack-balkin-data-privacy.html)" (Jack Balkin's original work [here](https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/buflr66&id=1023&men_tab=srchresults))
+
+Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
 
 ### 10/08 Guest Lecture: Free Time and Attention
 <!--
@@ -129,6 +136,11 @@ Optional: Lil B, "[The Age of Information][info_age_music_video]"
 -->
 
 ### 10/15 Algorithmic Bias
+<!--
+
+Optional: Podcast - "[Fairness in Machine Learning with Hanna Wallach](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach/)" ([transcript](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach-transcript/))
+
+-->
 
 ### 10/22 Finance
 
