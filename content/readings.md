@@ -107,7 +107,7 @@ Readings this week are all **optional** but encouraged.
 
 Optional: Carr, Nicholas, "[The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/)"
 
-Optional: V&eacute;liz, Carissa, "[Three things digital ethics can learn from medical ethics](https://philpapers.org/archive/VLITTD.pdf)"
+Optional: Veliz, Carissa, "[Three things digital ethics can learn from medical ethics](https://philpapers.org/archive/VLITTD.pdf)"
 
 Optional: Godwin, Mike, "[It's Time to Reframe Our Relationship With Facebook](https://slate.com/technology/2018/11/information-fiduciaries-facebook-google-jack-balkin-data-privacy.html)" (Jack Balkin's original work [here](https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/buflr66&id=1023&men_tab=srchresults))
 
