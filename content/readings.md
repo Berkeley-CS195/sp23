@@ -102,7 +102,7 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
   [harnessing:appendix]: http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works_In-brief.ashx
   [dalai]: http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html
 
-### 10/01 Guest Lecture
+### 10/01 Guest Lecture ([Slides](https://docs.google.com/presentation/d/1CauVaMBqV7npB0JdHZHshoE00Ad0DlLdkyIT5CIsCnM/edit#slide=id.g61bcff9399_2_79))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQpIV3DYWAZAx8LnPgiZAWCGgey2o3oSLQrP0LDz5-_8o1IQ/viewform?usp=sf_link) by 9 AM before class!**
 
 Readings this week are all **optional** but encouraged.
@@ -116,7 +116,6 @@ Optional: Godwin, Mike, "[It's Time to Reframe Our Relationship With Facebook](h
 Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
 
 ### 10/08 Guest Lecture: Free Time and Attention
-<!--
 Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
 
 Becker, Rachel, "[Why calling screen time "digital heroin" is digital garbage][digital_drugs]"
@@ -135,7 +134,6 @@ Optional: Lil B, "[The Age of Information][info_age_music_video]"
    [attention_economy]: https://www.nytimes.com/2018/08/14/style/how-can-i-focus-better.html
    [ted_talk]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction
    [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
--->
 
 ### 10/15 Algorithmic Bias
 <!--
