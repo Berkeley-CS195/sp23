@@ -13,17 +13,17 @@ If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fa
 
 ### 09/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
 
-Optional: Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
+- Optional: Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
 
-Optional: Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
+- Optional: Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
 
-Optional: Fisher, Max, "[Inside Facebook's Secret Rulebook for Global Political Speech][facebook_rulebook]"
+- Optional: Fisher, Max, "[Inside Facebook's Secret Rulebook for Global Political Speech][facebook_rulebook]"
 
-Optional: Stone, Geoffrey R. and Volokh, Eugene, "[Interactive Constitution: The meaning of free speech][interactive_constitution]"
+- Optional: Stone, Geoffrey R. and Volokh, Eugene, "[Interactive Constitution: The meaning of free speech][interactive_constitution]"
 
-Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
+- Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
 
-Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](https://www.nature.com/articles/d41586-019-02447-1)" (see also [original research article](https://www.nature.com/articles/s41586-019-1494-7)--requires VPN)
+- Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](https://www.nature.com/articles/d41586-019-02447-1)" (see also [original research article](https://www.nature.com/articles/s41586-019-1494-7)--requires VPN)
 
   [alex_jones_lawsuit]: https://www.wired.com/story/alex-jones-lawsuit-will-help-redefine-free-speech/
   [fighting_neonazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
@@ -35,17 +35,17 @@ Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](
 ### 09/10 Privacy ([Slides](https://docs.google.com/presentation/d/1iR7seYKcaHa9LnGCeIQwq_Zt8K_QnRiotWbZVLuYumk/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd_GuSgDRmvbvPtt1MDTY06XEtSpl57JU3VVQ0wzaHWXeJ4EA/viewform?usp=sf_link) by 9 AM before class!**
 
-Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
+- Popken, Ben, "[Sites Spying on You in Weird New Ways, Princeton Study Exposes][sites_spying]"
 
-Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
+- Menand, Louis, "[Why Do We Care So Much About Privacy?][why_care_privacy]"
 
-Homayoun, Ana, "[The Secret Social Media Lives of Teenagers][secret_lives]"
+- Homayoun, Ana, "[The Secret Social Media Lives of Teenagers][secret_lives]"
 
-Optional: Rachels, James, "[Why Privacy is Important][why_privacy]" ([VPN][vpn] required)
+- Optional: Rachels, James, "[Why Privacy is Important][why_privacy]" ([VPN][vpn] required)
 
-Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet][not_the_product]"
+- Optional: Powazek, Derek, "[I'm Not The Product, But I Play One on the Internet][not_the_product]"
 
-Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information][privacy_law]"
+- Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal Information][privacy_law]"
 
    [why_privacy]: http://www.jstor.org/stable/2265077
    [secret_lives]: https://www.nytimes.com/2017/06/07/well/family/the-secret-social-media-lives-of-teenagers.html?mcubz=1
@@ -60,17 +60,17 @@ Optional: Piovesan, Carole, "[How Privacy Laws Are Changing To Protect Personal 
 
 **Please complete [this survey](https://forms.gle/yxvq5JS79RJo9MVX8) by 9 AM before class!**
 
-de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
+- de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_vs_copyright]" (short, read first)
 
-Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
+- Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
 
-Reynolds, Matt, "[What is Article 13? The EU's divisive new copyright plan explained](https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban)"
+- Reynolds, Matt, "[What is Article 13? The EU's divisive new copyright plan explained](https://www.wired.co.uk/article/what-is-article-13-article-11-european-directive-on-copyright-explained-meme-ban)"
 
-Optional: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
+- Optional: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
 
-Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
+- Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
 
-Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
+- Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
 
    [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
    [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
@@ -82,17 +82,17 @@ Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
 ### 09/24 Jobs ([Slides](https://docs.google.com/presentation/d/1jfeNtnP9sQ7fHnjOX_tQQcnhEIf0RgY9fZKkOZ_uve4/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSce7eq1bjoaPTafrclBgKcZVz0DvPwY6s-e-RIYwkaq47wJlg/viewform?usp=sf_link) by 9 AM before class!**
 
-CGP Grey, "[Humans Need Not Apply][humans]"
+- CGP Grey, "[Humans Need Not Apply][humans]"
 
-Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
+- Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
 
-Surowiecki, James, "[The Great Tech Panic: Robots Won't Take All Our Jobs][no_problem]"
+- Surowiecki, James, "[The Great Tech Panic: Robots Won't Take All Our Jobs][no_problem]"
 
-Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
+- Optional: Dalai Lama, The, "[Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded][dalai]"
 
-Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
+- Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][decoupling]"
 
-Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
+- Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing]" and the "[Appendix][harnessing:appendix]"
 
   [no_problem]: https://www.wired.com/2017/08/robots-will-not-take-your-job/
   [childrens_jobs]: https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html
@@ -107,28 +107,28 @@ Optional: McKinsey Global Institute, "[Harnessing automation for a future that w
 
 Readings this week are all **optional** but encouraged.
 
-Optional: Carr, Nicholas, "[The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/)"
+- Optional: Carr, Nicholas, "[The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/)"
 
-Optional: Veliz, Carissa, "[Three things digital ethics can learn from medical ethics](https://philpapers.org/archive/VLITTD.pdf)"
+- Optional: Veliz, Carissa, "[Three things digital ethics can learn from medical ethics](https://philpapers.org/archive/VLITTD.pdf)"
 
-Optional: Godwin, Mike, "[It's Time to Reframe Our Relationship With Facebook](https://slate.com/technology/2018/11/information-fiduciaries-facebook-google-jack-balkin-data-privacy.html)" (Jack Balkin's original work [here](https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/buflr66&id=1023&men_tab=srchresults))
+- Optional: Godwin, Mike, "[It's Time to Reframe Our Relationship With Facebook](https://slate.com/technology/2018/11/information-fiduciaries-facebook-google-jack-balkin-data-privacy.html)" (Jack Balkin's original work [here](https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/buflr66&id=1023&men_tab=srchresults))
 
-Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
+- Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
 
 ### 10/08 Guest Lecture: Free Time and Attention
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScpiOm4WSFcWyopC3frqYgY5MsXGcQqgpairtR5d8uV-kTWsw/viewform?usp=sf_link) by 9 AM before class!**
 
-Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
+- Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
 
-Becker, Rachel, "[Why calling screen time 'digital heroin' is digital garbage][digital_drugs]"
+- Becker, Rachel, "[Why calling screen time 'digital heroin' is digital garbage][digital_drugs]"
 
-Tufecki, Zeynep, "[YouTube, the Great Radicalizer][youtube]"
+- Tufecki, Zeynep, "[YouTube, the Great Radicalizer][youtube]"
 
-Optional: Schwartz, Casey, "[Finding It Hard to Focus? Maybe It's Not Your Fault][attention_economy]"
+- Optional: Schwartz, Casey, "[Finding It Hard to Focus? Maybe It's Not Your Fault][attention_economy]"
 
-Optional: Harris, Tristan, "[How better tech could protect us from distraction][ted_talk]"
+- Optional: Harris, Tristan, "[How better tech could protect us from distraction][ted_talk]"
 
-Optional: Lil B, "[The Age of Information][info_age_music_video]"
+- Optional: Lil B, "[The Age of Information][info_age_music_video]"
 
    [digital_drugs]: https://www.theverge.com/2016/8/30/12715848/new-york-post-internet-texting-addiction-irresponsible-hysteria
    [millennials]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
@@ -138,17 +138,34 @@ Optional: Lil B, "[The Age of Information][info_age_music_video]"
    [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
 
 ### 10/15 Algorithmic Bias
-<!--
+- Angwin, Julia, "[Make Algorithms Accountable.][accountability]"
 
-Optional: Podcast - "[Fairness in Machine Learning with Hanna Wallach](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach/)" ([transcript](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach-transcript/))
+- Davies, Sam, and Pierson, Emma, and Feller, Avi and  Goel, Sharad, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
 
--->
+- Tucker, Catherine, "[Algorithmic Bias or Fairness: The Importance of Economic Context](https://ai.shorensteincenter.org/ideas/2018/11/12/algorithmic-bias-or-fairness-the-importance-of-the-economic-context)"
+
+- Optional: Danks, David and London, Alex John, "[Algorithmic Bias in Autonomous Systems](https://www.researchgate.net/profile/Alex_London/publication/318830422_Algorithmic_Bias_in_Autonomous_Systems/links/5a4bb017aca2729b7c893d1b/Algorithmic-Bias-in-Autonomous-Systems.pdf)"
+
+- Optional: Podcast - "[Fairness in Machine Learning with Hanna Wallach](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach/)" ([transcript](https://twimlai.com/twiml-talk-232-fairness-in-machine-learning-with-hanna-wallach-transcript/))
+
+- Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
+
+- Related Resource: [Algorithm Tips](http://algorithmtips.org/), a curated list of algorithms in use by the US Federal government
+
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
 ### 10/22 Finance
 
 ### 10/29 Software Risks and Professional Ethics
 
 ### 11/05 News and Politics
+
+<!--
+Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
+
+-->
 
 ### 11/19 War
 
