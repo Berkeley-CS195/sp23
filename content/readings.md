@@ -167,6 +167,8 @@ Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformati
 
 -->
 
+### 11/12 Governments
+
 ### 11/19 War
 
 ### 11/26 NO CLASS (Thanksgiving week)
