@@ -115,7 +115,7 @@ Readings this week are all **optional** but encouraged.
 
 - Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
 
-### 10/08 Guest Lecture: Free Time and Attention
+### 10/08 Guest Lecture: Free Time and Attention ([Slides](https://docs.google.com/presentation/d/1TII442yyk0Ve8Kec5OGeT84eiHZwtXHRrRmIveYygUk/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScpiOm4WSFcWyopC3frqYgY5MsXGcQqgpairtR5d8uV-kTWsw/viewform?usp=sf_link) by 9 AM before class!**
 
 - Twenge, Jean M., "[Have Smartphones Destroyed a Generation?][millennials]"
