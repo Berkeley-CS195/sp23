@@ -116,7 +116,7 @@ Readings this week are all **optional** but encouraged.
 - Optional: West, Darrell M., "[The role of corporations in addressing AI's ethical dilemmas](https://www.brookings.edu/research/how-to-address-ai-ethical-dilemmas/)"
 
 ### 10/08 Guest Lecture: Free Time and Attention ([Slides](https://docs.google.com/presentation/d/1TII442yyk0Ve8Kec5OGeT84eiHZwtXHRrRmIveYygUk/edit?usp=sharing))
-**Assignment 2 has now been released!  For now please view it on Piazza or [here](https://docs.google.com/document/d/1UHhFa4rVri5NF-Gd3Unm_cefTBmPgUyHebzYdhzj_K4/edit?usp=sharing) (we are in the process of setting up a CrowdGrader page).**
+**Assignment 2 has now been released!  Please view and submit it [here](https://www.crowdgrader.org/crowdgrader/venues/join/4457/tucoby_firubi_dewypi_zocefi).**
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScpiOm4WSFcWyopC3frqYgY5MsXGcQqgpairtR5d8uV-kTWsw/viewform?usp=sf_link) by 9 AM before class!**
 
