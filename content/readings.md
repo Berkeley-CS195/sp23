@@ -139,7 +139,7 @@ Readings this week are all **optional** but encouraged.
    [ted_talk]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction
    [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
 
-### 10/15 Algorithmic Bias
+### 10/15 Algorithmic Bias ([Slides](https://docs.google.com/presentation/d/1yNSZuYucsEDq96VMTxk49UYqtbUc2Q_jKM3qI3EPfR8/edit?usp=sharing))
 **Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdXyPpIkob09301l04cHuS22EkPkXpsqezohoZz8sn-FN1WuA/viewform?usp=sf_link) by 9 AM before class!**
 
 - Angwin, Julia, "[Make Algorithms Accountable.][accountability]"
