@@ -161,11 +161,20 @@ Readings this week are all **optional** but encouraged.
    [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
 ### 10/22 Finance
-<!--
+Faggella, Daniel, "[Machine Learning in Finance - Present and Future Applications][ml_finance]"
 
 Orcutt, Mike, "[Why it's time to start talking about blockchain ethics](https://www.technologyreview.com/s/614531/why-its-time-to-start-talking-about-blockchain-ethics/)"
 
--->
+Kelly-Pitou, Katrina, "[Stop worrying about how much energy bitcoin uses][bitcoin_energy_overexaggerated]"
+
+Optional: Hern, Alex, "[Energy cost of 'mining' bitcoin more than twice that of copper or gold][bitcoin_energy_waste]"
+
+Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][wsbrokers]"
+
+   [bitcoin_energy_waste]: https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold
+   [bitcoin_energy_overexaggerated]: https://theconversation.com/stop-worrying-about-how-much-energy-bitcoin-uses-97591
+   [wsbrokers]: https://www.entrepreneur.com/article/295309
+   [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 10/29 Software Risks and Professional Ethics
 
