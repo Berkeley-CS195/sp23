@@ -161,7 +161,7 @@ Readings this week are all **optional** but encouraged.
    [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
 ### 10/22 Finance
-**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf8jQomMgwxfmbad5wgHUvx7AsgTFMYhqun3OpAqbwZOogiVg/viewform?usp=sf_link) by 9 AM before lecture!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf8jQomMgwxfmbad5wgHUvx7AsgTFMYhqun3OpAqbwZOogiVg/viewform?usp=sf_link) by 9 AM before class!**
 
 - Faggella, Daniel, "[Machine Learning in Finance - Present and Future Applications][ml_finance]"
 
