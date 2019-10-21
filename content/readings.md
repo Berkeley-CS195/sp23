@@ -180,6 +180,20 @@ Readings this week are all **optional** but encouraged.
 
 ### 10/29 Software Risks and Professional Ethics
 
+- Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
+- Fabio, Adam, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+- Marshall, Aarian, "[What Boeing's 737 MAX Has to Do With Cars: Software](https://www.wired.com/story/boeings-737-max-cars-software/)"
+- ACM, "[Professional Code of Conduct][acm_code]"
+- Optional: Neumann, Peter G., "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through [campus VPN][vpn])
+- Optional: Tufekci, Zeynep, "[We're building a dystopia just to make people click on ads][dystopian_ads]" (video)
+- Optional: Travis, Gregory, "[How the Boeing 737 MAX Disaster Looks to a Software Developer](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)"
+
+   [acm_code]: http://www.acm.org/about/code-of-ethics
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+  [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
+
 ### 11/05 News and Politics
 
 
