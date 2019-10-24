@@ -160,7 +160,7 @@ Readings this week are all **optional** but encouraged.
    [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
    [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
-### 10/22 Finance
+### 10/22 Finance ([Slides](https://docs.google.com/presentation/d/1E6JrohcuWQX1MiaCUrh6QMxCgWbEWHA1_MKVKWl3p7U/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf8jQomMgwxfmbad5wgHUvx7AsgTFMYhqun3OpAqbwZOogiVg/viewform?usp=sf_link) by 9 AM before class!**
 
 - Faggella, Daniel, "[Machine Learning in Finance - Present and Future Applications][ml_finance]"
@@ -179,6 +179,7 @@ Readings this week are all **optional** but encouraged.
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 10/29 Software Risks and Professional Ethics
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdYl6RPGe7bUFNbyjRqAMdq6Me5pCUgGfXaf0cMIbxG-wi0vQ/viewform?usp=sf_link) by 9 AM before class!**
 
 - Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
 - Fabio, Adam, "[Killed by a Machine: The Therac-25][hackadaytherac]"
