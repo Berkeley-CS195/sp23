@@ -179,6 +179,7 @@ Readings this week are all **optional** but encouraged.
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
 ### 10/29 Software Risks and Professional Ethics ([Slides](https://docs.google.com/presentation/d/1840FZORde4rYYi0BS1RmYEtwRdaQNNI3WlE5JyuzJWk/edit?usp=sharing))
+**Assignment 3 has now been released!  Please view and submit it [here](https://peer.crowdgrader.com/crowdgrader/venues/join/4476/sequvy_vuwyqo_rimabe_bozone).**
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdYl6RPGe7bUFNbyjRqAMdq6Me5pCUgGfXaf0cMIbxG-wi0vQ/viewform?usp=sf_link) by 9 AM before class!**
 
 - Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
@@ -197,11 +198,24 @@ Readings this week are all **optional** but encouraged.
 
 ### 11/05 News and Politics
 
-
-<!--
 Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
 
--->
+Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
+
+Bertoni, Steven, "[How Jared Kushner Won Trump The White House][jared_kushner]"
+
+Optional: Kolbert, Elizabeth, "[Why Facts Don't Change Our Minds][why_facts]"
+
+Optional: Keegan, Jon, "[Blue Feed, Red Feed: See Liberal Facebook and Conservative Facebook, Side by Side](https://graphics.wsj.com/blue-feed-red-feed/)"
+
+Optional: Garrett, R. Kelly and Resnick, Paul, "[Resisting Political Fragmentation on the Internet](https://www.jstor.org/stable/23046917?seq=1#metadata_info_tab_contents)" (requires campus VPN)
+
+Optional: Podcast - "[Jennifer Earl, Internet Activism and Fake News](https://heterodoxacademy.org/jennifer-earl-on-internet-activism-and-fake-news-half-hour-of-heterodoxy-18/)"
+
+  [meddling_disease]: https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html
+  [why_facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+  [jared_kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
+
 
 ### 11/12 Governments
 
