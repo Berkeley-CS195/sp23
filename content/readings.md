@@ -178,7 +178,7 @@ Readings this week are all **optional** but encouraged.
    [wsbrokers]: https://www.entrepreneur.com/article/295309
    [ml_finance]: https://emerj.com/ai-sector-overviews/machine-learning-in-finance/
 
-### 10/29 Software Risks and Professional Ethics
+### 10/29 Software Risks and Professional Ethics ([Slides](https://docs.google.com/presentation/d/1840FZORde4rYYi0BS1RmYEtwRdaQNNI3WlE5JyuzJWk/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdYl6RPGe7bUFNbyjRqAMdq6Me5pCUgGfXaf0cMIbxG-wi0vQ/viewform?usp=sf_link) by 9 AM before class!**
 
 - Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
