@@ -198,20 +198,15 @@ Readings this week are all **optional** but encouraged.
   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
 ### 11/05 News and Politics
+**Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQ1BcCEfQG008DgdYvJoD0Goqh3dAPwOGMnWQr1B6tC5DeA/viewform?usp=sf_link) before class!**
 
-Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
-
-Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
-
-Bertoni, Steven, "[How Jared Kushner Won Trump The White House][jared_kushner]"
-
-Optional: Kolbert, Elizabeth, "[Why Facts Don't Change Our Minds][why_facts]"
-
-Optional: Keegan, Jon, "[Blue Feed, Red Feed: See Liberal Facebook and Conservative Facebook, Side by Side](https://graphics.wsj.com/blue-feed-red-feed/)"
-
-Optional: Garrett, R. Kelly and Resnick, Paul, "[Resisting Political Fragmentation on the Internet](https://www.jstor.org/stable/23046917?seq=1#metadata_info_tab_contents)" (requires campus VPN)
-
-Optional: Podcast - "[Jennifer Earl, Internet Activism and Fake News](https://heterodoxacademy.org/jennifer-earl-on-internet-activism-and-fake-news-half-hour-of-heterodoxy-18/)"
+- Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
+- Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
+- Bertoni, Steven, "[How Jared Kushner Won Trump The White House][jared_kushner]"
+- Optional: Kolbert, Elizabeth, "[Why Facts Don't Change Our Minds][why_facts]"
+- Optional: Keegan, Jon, "[Blue Feed, Red Feed: See Liberal Facebook and Conservative Facebook, Side by Side](https://graphics.wsj.com/blue-feed-red-feed/)"
+- Optional: Garrett, R. Kelly and Resnick, Paul, "[Resisting Political Fragmentation on the Internet](https://www.jstor.org/stable/23046917?seq=1#metadata_info_tab_contents)" (requires campus VPN)
+- Optional: Podcast - "[Jennifer Earl, Internet Activism and Fake News](https://heterodoxacademy.org/jennifer-earl-on-internet-activism-and-fake-news-half-hour-of-heterodoxy-18/)"
 
   [meddling_disease]: https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html
   [why_facts]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
