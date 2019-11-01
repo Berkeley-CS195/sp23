@@ -140,7 +140,7 @@ Readings this week are all **optional** but encouraged.
    [info_age_music_video]: https://www.youtube.com/watch?v=corY-FZAZog
 
 ### 10/15 Algorithmic Bias ([Slides](https://docs.google.com/presentation/d/1yNSZuYucsEDq96VMTxk49UYqtbUc2Q_jKM3qI3EPfR8/edit?usp=sharing))
-**Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdXyPpIkob09301l04cHuS22EkPkXpsqezohoZz8sn-FN1WuA/viewform?usp=sf_link) by 9 AM before class!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdXyPpIkob09301l04cHuS22EkPkXpsqezohoZz8sn-FN1WuA/viewform?usp=sf_link) by 9 AM before class!**
 
 - Angwin, Julia, "[Make Algorithms Accountable.][accountability]"
 
@@ -198,7 +198,7 @@ Readings this week are all **optional** but encouraged.
   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
 ### 11/05 News and Politics
-**Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQ1BcCEfQG008DgdYvJoD0Goqh3dAPwOGMnWQr1B6tC5DeA/viewform?usp=sf_link) before class!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQ1BcCEfQG008DgdYvJoD0Goqh3dAPwOGMnWQr1B6tC5DeA/viewform?usp=sf_link) by 9 AM before class!**
 
 - Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
 - Tufekci, Zeynep, "[Russian Meddling Is a Symptom, Not the Disease][meddling_disease]"
