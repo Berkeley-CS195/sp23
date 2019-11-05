@@ -214,17 +214,12 @@ Readings this week are all **optional** but encouraged.
 
 
 ### 11/12 Governments
-Lucas, Edward, "[The Spycraft Revolution](https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/)"
-
-Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
-
-Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
-
-Optional: Maniam, Shiva, "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
-
-Optional: Gallagher, Ryan, "[Senior Google Scientist Resigns Over 'Forfeiture of Our Values' in China][dragonfly]"
-
-Optional: Kayyali, Dia, "[FBI's 'Suicide Letter' to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_letter]"
+- Lucas, Edward, "[The Spycraft Revolution](https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/)"
+- Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
+- Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
+- Optional: Maniam, Shiva, "[Americans feel the tensions between privacy and security concerns][americans_tensions]"
+- Optional: Gallagher, Ryan, "[Senior Google Scientist Resigns Over 'Forfeiture of Our Values' in China][dragonfly]"
+- Optional: Kayyali, Dia, "[FBI's 'Suicide Letter' to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_letter]"
 
   [china_surveillance]: https://www.vanityfair.com/news/2018/07/china-surveillance-state-artificial-intelligence
   [dragonfly]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
