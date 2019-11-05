@@ -197,7 +197,7 @@ Readings this week are all **optional** but encouraged.
    [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
 
-### 11/05 News and Politics
+### 11/05 News and Politics ([Slides](https://docs.google.com/presentation/d/1c_64tRJuwXpn5PpwG75nHfldO6X5Xi6QnH1JFaMMXMo/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQ1BcCEfQG008DgdYvJoD0Goqh3dAPwOGMnWQr1B6tC5DeA/viewform?usp=sf_link) by 9 AM before class!**
 
 - Diakopoulos, Nicholas, "[Reporting in a Machine Reality: Deepfakes, misinformation, and what journalists can do about them](https://www.cjr.org/tow_center/reporting-machine-reality-deepfakes-diakopoulos-journalism.php)"
