@@ -214,6 +214,8 @@ Readings this week are all **optional** but encouraged.
 
 
 ### 11/12 Governments
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfWOQiii8-lhCVWxJSlENJr2Pv1DNBuQy2uO0YKm8B7F-hh_A/viewform?usp=sf_link) by 9 AM before class!**
+
 - Lucas, Edward, "[The Spycraft Revolution](https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/)"
 - Manaugh, Geoff, "[Drone Cops Take Flight in Los Angeles][police_drones]"
 - Kosoff, Maya, "[China's terrifying surveillance state looks a lot like America's future][china_surveillance]"
