@@ -231,6 +231,20 @@ Readings this week are all **optional** but encouraged.
 
 
 ### 11/19 War
+- O'Connell, Mary Ellen, "[Banning Autonomous Killing](https://www.law.upenn.edu/live/files/3802-oconnell-mary-banning-autonomous-killing-the-legal)"
+- Greenberg, Andy, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
+- Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
+- Optional: Chan, Melissa K., "[China and the U.S. Are Fighting a Major Battle Over Killer Robots and the Future of AI](https://time.com/5673240/china-killer-robots-weapons/)"
+- Optional: Valentino, Benjamin, "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][civilians]" (requires being on campus or Berkeley VPN)
+- Optional: Walzer, Michael, "[Just & Unjust Targeted Killing & Drone Warfare][drones]" (requires being on campus or Berkeley VPN)
+- Optional: Dunlap Jr., Charles, "[The Military-Industrial Complex][milind]" (requires being on campus or Berkeley VPN)
+
+   [maven]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+   [not_petya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+   [drones]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+   [civilians]: http://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+   [milind]: http://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
+
 
 ### 11/26 NO CLASS (Thanksgiving week)
 
