@@ -231,6 +231,8 @@ Readings this week are all **optional** but encouraged.
 
 
 ### 11/19 War
+**Please complete [this survey](https://docs.google.com/forms/d/18rVQchbB52yFD3hEXDddBnTfMAOXyAYzRrwHEn207ZI/edit) by 9 AM before class!**
+
 - O'Connell, Mary Ellen, "[Banning Autonomous Killing](https://www.law.upenn.edu/live/files/3802-oconnell-mary-banning-autonomous-killing-the-legal)"
 - Greenberg, Andy, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][not_petya]"
 - Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][maven]"
