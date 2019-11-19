@@ -230,7 +230,7 @@ Readings this week are all **optional** but encouraged.
   [americans_tensions]: http://www.pewresearch.org/fact-tank/2016/02/19/americans-feel-the-tensions-between-privacy-and-security-concerns/
 
 
-### 11/19 War
+### 11/19 War ([Slides](https://docs.google.com/presentation/d/1wX_BBErXXIu5A1smoPYiv4OcChINwehdDHmWmeQRNyA/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSef7nl0C1GsDOSDznpwAHCH1wv51lClTKAudKiWib9qaeB5Sw/viewform?usp=sf_link) by 9 AM before class!**
 
 - O'Connell, Mary Ellen, "[Banning Autonomous Killing](https://www.law.upenn.edu/live/files/3802-oconnell-mary-banning-autonomous-killing-the-legal)"
