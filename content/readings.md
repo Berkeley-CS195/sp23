@@ -213,7 +213,7 @@ Readings this week are all **optional** but encouraged.
   [jared_kushner]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#528f2d823af6
 
 
-### 11/12 Governments
+### 11/12 Governments ([Slides](https://docs.google.com/presentation/d/1xeRrFSvkmKI95tKLo5aQ7SC643sxYKApB3Qmjf0_T-I/edit?usp=sharing))
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfWOQiii8-lhCVWxJSlENJr2Pv1DNBuQy2uO0YKm8B7F-hh_A/viewform?usp=sf_link) by 9 AM before class!**
 
 - Lucas, Edward, "[The Spycraft Revolution](https://foreignpolicy.com/2019/04/27/the-spycraft-revolution-espionage-technology/)"
