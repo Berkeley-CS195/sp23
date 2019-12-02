@@ -252,6 +252,8 @@ Readings this week are all **optional** but encouraged.
 
 ### 12/03 Guest Lecture
 
+- Weaver, Nicholas, "[Risks of Cryptocurrencies](https://www1.icsi.berkeley.edu/~nweaver/papers/cryptorisks.pdf)"
+
 <!--
    [vpn]: http://www.lib.berkeley.edu/Help/vpn.html
 
