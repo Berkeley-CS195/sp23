@@ -251,6 +251,7 @@ Readings this week are all **optional** but encouraged.
 ### 11/26 NO CLASS (Thanksgiving week)
 
 ### 12/03 Guest Lecture
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSchvdRAKm_OwDFX7rLO3qXXeCrxQQJj4SKVUSjdgNgK9zCiNA/viewform?usp=sf_link) by end of day December 13!**
 
 - Weaver, Nicholas, "[Risks of Cryptocurrencies](https://www1.icsi.berkeley.edu/~nweaver/papers/cryptorisks.pdf)"
 
