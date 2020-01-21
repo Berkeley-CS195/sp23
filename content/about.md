@@ -46,8 +46,8 @@ class meetings and in written work.
 In order to receive a passing grade in CS 195, you must complete the objectives
 listed below:
 
- * Attend at least 12 lectures
- * Complete at least 11 pre-lecture surveys.
+ * Attend at least 11 lectures
+ * Complete at least 10 pre-lecture surveys.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
  * Attend 1 small-group discussion.
