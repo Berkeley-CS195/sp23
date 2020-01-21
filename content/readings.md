@@ -1,35 +1,25 @@
 ~ title: Topics, Readings, and Assignments
 
 
-If you haven't already, please [enroll on Piazza](https://piazza.com/berkeley/fall2019/cs195).
-
-**Sign up for a discussion section [here](https://forms.gle/HSGeTZHWbwpG7To56) by 11 AM on 09/17!**
-
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
-| 1     | 09/17           | 09/24             | 10/01            |
-| 2     | 10/08           | 10/15             | 10/22            |
-| 3     | 10/29           | 11/05             | 11/12            |
+| 1     |                 |                   |                  |
+| 2     |                 |                   |                  |
+| 3     |                 |                   |                  |
 
-### 09/3 Free Speech ([Slides](https://docs.google.com/presentation/d/1LL0i3LZFH9FaxIGpRiUjKrX6X_BkP1aNpbwzWswkHcg/edit?usp=sharing))
+### 01/21 Free Speech 
 
-- Optional: Ellis, Emma Grey, "[Win or Lose, the Alex Jones Lawsuit Will Help Redefine Free Speech][alex_jones_lawsuit]"
+In future weeks, readings will be required and there will also be a survey to fill out. For week 1, readings are optional and you can technically just show up cold, though it might be nice to have read the readings below for more context.
 
-- Optional: Malcolm, Jeremy and Cohn, Cindy and O'Brien, Danny, "[Fighting Neo-Nazis and the Future of Free Expression][fighting_neonazis]"
+- Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
+
+- Optional: Kang, Conger, "[Inside Twitter's Struggle Over What Gets Banned][twitter_ban]"
 
 - Optional: Fisher, Max, "[Inside Facebook's Secret Rulebook for Global Political Speech][facebook_rulebook]"
 
-- Optional: Stone, Geoffrey R. and Volokh, Eugene, "[Interactive Constitution: The meaning of free speech][interactive_constitution]"
-
-- Optional: Jeong, Sarah, "[The History of Twitter's Rules][twitter_rules]"
-
-- Optional (from lecture): Derzsy, Noemi, "[Strategies for combating online hate](https://www.nature.com/articles/d41586-019-02447-1)" (see also [original research article](https://www.nature.com/articles/s41586-019-1494-7)--requires VPN)
-
-  [alex_jones_lawsuit]: https://www.wired.com/story/alex-jones-lawsuit-will-help-redefine-free-speech/
-  [fighting_neonazis]: https://www.eff.org/deeplinks/2017/08/fighting-neo-nazis-future-free-expression
+  [alex_jones_ban]: https://www.theguardian.com/technology/2018/aug/10/alex-jones-banning-apple-facebook-youtube-twitter-free-speech
+  [twitter_ban]: https://www.nytimes.com/2018/08/10/technology/twitter-free-speech-infowars.html
   [facebook_rulebook]: https://www.nytimes.com/2018/12/27/world/facebook-moderators.html
-  [twitter_rules]: https://motherboard.vice.com/en_us/article/z43xw3/the-history-of-twitters-rules
-  [interactive_constitution]: https://constitutioncenter.org/blog/interactive-constitution-the-meaning-of-free-speech
 
 
 ### 09/10 Privacy ([Slides](https://docs.google.com/presentation/d/1iR7seYKcaHa9LnGCeIQwq_Zt8K_QnRiotWbZVLuYumk/edit?usp=sharing))
