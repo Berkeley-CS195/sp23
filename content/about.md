@@ -10,7 +10,7 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Lecture: Tuesday 11:00 to 12:30 PM in 105 Stanley
+Lecture: Tuesday 3:30 to 5:00 PM in 2050 Valley Life Sciences
 
 Discussion sections: TBD
 
