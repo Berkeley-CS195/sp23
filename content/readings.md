@@ -7,8 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 01/21 Free Speech ([Slides] (https://docs.google.com/presentation/d/1AQUVf4KjIBaB8NnshsZ2zmiltooT6Oi3Xo7LvHGbWvw/edit?usp=sharing))
-
+### 01/21 Free Speech 
 In future weeks, readings will be required and there will also be a survey to fill out. For week 1, readings are optional and you can technically just show up cold, though it might be nice to have read the readings below for more context.
 
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
