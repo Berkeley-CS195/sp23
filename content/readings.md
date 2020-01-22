@@ -3,11 +3,11 @@
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
-| 1     |                 |                   |                  |
+| 1     |        2/11     |                   |                  |
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 01/21 Free Speech 
+### 01/21 Free Speech ([Slides] (https://docs.google.com/presentation/d/1AQUVf4KjIBaB8NnshsZ2zmiltooT6Oi3Xo7LvHGbWvw/edit?usp=sharing))
 
 In future weeks, readings will be required and there will also be a survey to fill out. For week 1, readings are optional and you can technically just show up cold, though it might be nice to have read the readings below for more context.
 
