@@ -12,7 +12,7 @@
 - Required: Powazek, "[I’m Not The Product, But I Play One On The Internet][powazek_product]" 
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
-- Extra: Rachels, "[Why Privacy is Important][privacy_important]"
+- Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
 
   [powazek_product]: http://powazek.com/posts/3229
   [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
