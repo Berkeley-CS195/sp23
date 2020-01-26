@@ -3,12 +3,13 @@
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
-| 1     |    2/11         |  2/25             | 2/28                 |
+| 1     |    2/11         |  2/25             | 2/28             |
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
 ### 01/28 Privacy
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSegbrH6G-X6-peQEZpe80OU-byCpbEGbQQhh37U3spGd8vExA/viewform?usp=sf_link) by 1 PM before class!**
 - Required: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]" 
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
@@ -21,6 +22,7 @@
 
 
 ### 01/21 Free Speech ([Slides][speech_slides])
+
 In future weeks, readings will be required and there will also be a survey to fill out. For week 1, readings are optional and you can technically just show up cold, though it might be nice to have read the readings below for more context.
 
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
