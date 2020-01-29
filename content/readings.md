@@ -7,7 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 01/28 Privacy
+### 01/28 Privacy ([Slides][privacy_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSegbrH6G-X6-peQEZpe80OU-byCpbEGbQQhh37U3spGd8vExA/viewform?usp=sf_link) by 1 PM before class!**
 - Required: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]" 
