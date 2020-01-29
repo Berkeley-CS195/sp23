@@ -7,7 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 01/28 Privacy ([Slides] [privacy_slides])
+### 01/28 Privacy
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSegbrH6G-X6-peQEZpe80OU-byCpbEGbQQhh37U3spGd8vExA/viewform?usp=sf_link) by 1 PM before class!**
 - Required: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]" 
@@ -19,7 +19,7 @@
   [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
   [care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
   [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
-  [privacy_slides]: https://docs.google.com/presentation/d/1E2yMyvvObE9sAYSKLLetZDpfHVKNONXbjLwyvLhv7tQ/edit?usp=sharing
+  [privacy_slides]: https://docs.google.com/presentation/d/1E2yMyvvObE9sAYSKLLetZDpfHVKNONXbjLwyvLhv7tQ/edit?usp=sharing 
 
 
 ### 01/21 Free Speech ([Slides][speech_slides])
