@@ -7,9 +7,26 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 02/04 Free Time and Attention
+- Optional: Twenge, "[Have Smartphones Destroyed a Generation?][twenge_smartphones]" 
+- Optional: Tingley, "[Is Screen Time Really Bad for Kids?][tingley_time]"
+- Optional: Tufekci, "[YouTube, the Great Radicalizer][tufekci_radical]"
+- Optional: Tolentino, "[How TikTok Holds Our Attention][tolentino_tok]"
+- Extra: Harris, "[How better tech could protect us from distraction][harris_distraction]"
+- Extra: Lil B, "[The Age Of Information MUSIC VIDEO DIRECTED BY LIL B][lil_information]"
+
+  [twenge_smartphones]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
+  [tingley_time]: https://www.nytimes.com/2019/12/18/magazine/screen-time-kids-teens.html
+  [tufekci_radical]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
+  [tolentino_tok]: https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention
+  [harris_distraction]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next
+  [lil_information]: https://www.youtube.com/watch?v=corY-FZAZog 
+
+
 ### 01/28 Privacy ([Slides][privacy_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSegbrH6G-X6-peQEZpe80OU-byCpbEGbQQhh37U3spGd8vExA/viewform?usp=sf_link) by 1 PM before class!**
+
 - Required: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]" 
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
