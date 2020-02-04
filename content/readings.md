@@ -8,6 +8,9 @@
 | 3     |                 |                   |                  |
 
 ### 02/04 Free Time and Attention
+
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeJFY-antbUw6I2HlJZONR7vOqIb33qt1cOpU-PJY0KnYL6nw/viewform?usp=sf_link) by 1 PM before class!**
+
 - Optional: Twenge, "[Have Smartphones Destroyed a Generation?][twenge_smartphones]" 
 - Optional: Tingley, "[Is Screen Time Really Bad for Kids?][tingley_time]"
 - Optional: Tufekci, "[YouTube, the Great Radicalizer][tufekci_radical]"
