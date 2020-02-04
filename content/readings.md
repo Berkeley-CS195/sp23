@@ -7,7 +7,9 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 02/04 Free Time and Attention
+### 02/04 Free Time and Attention ([Slides][attention_slides])
+
+
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeJFY-antbUw6I2HlJZONR7vOqIb33qt1cOpU-PJY0KnYL6nw/viewform?usp=sf_link) by 1 PM before class!**
 
@@ -23,7 +25,8 @@
   [tufekci_radical]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
   [tolentino_tok]: https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention
   [harris_distraction]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next
-  [lil_information]: https://www.youtube.com/watch?v=corY-FZAZog 
+  [lil_information]: https://www.youtube.com/watch?v=corY-FZAZog
+  [attention_slides]: https://docs.google.com/presentation/d/1qE5knyYWmKmQLw0FHG7AOS1-vj0z6QvaQO5p7rhoaS0/edit?usp=sharing 
 
 
 ### 01/28 Privacy ([Slides][privacy_slides])
