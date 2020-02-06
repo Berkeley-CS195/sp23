@@ -7,6 +7,17 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 02/11 Scams
+- Optional: Huang, "[My Grandmother's Favorite Scammer][grandma_scams]"
+- Extra: Palmer, "[On The Trail of the Robocall King][robocall_king]" 
+- Extra: Higginbotham, "[The Unbelievable Skepticism of the Amazing Randi][skeptical_randi]"
+
+(More readings to come)
+
+[grandma_scams]: https://www.nytimes.com/2019/12/07/opinion/sunday/china-bank-scam-grandmother.html
+[robocall_king]:https://www.wired.com/story/on-the-trail-of-the-robocall-king/
+[skeptical_randi]: https://www.nytimes.com/2014/11/09/magazine/the-unbelievable-skepticism-of-the-amazing-randi.html
+
 ### 02/04 Free Time and Attention ([Slides][attention_slides])
 
 
