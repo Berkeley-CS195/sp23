@@ -9,7 +9,7 @@
 
 ### 02/11 Scams
 - Optional: Huang, "[My Grandmother's Favorite Scammer][grandma_scams]"
-- Optional: Brodesser-Akner "[How Goop's Haters Made Gwyneth Paltrow's Company Worth $250 Million][akner_goop]"
+- Optional: Brodesser-Akner, "[How Goop's Haters Made Gwyneth Paltrow's Company Worth $250 Million][akner_goop]"
 - Extra: Palmer, "[On The Trail of the Robocall King][robocall_king]" 
 - Extra: Higginbotham, "[The Unbelievable Skepticism of the Amazing Randi][skeptical_randi]"
 
