@@ -12,12 +12,14 @@
 - Optional: Brodesser-Akner, "[How Goop's Haters Made Gwyneth Paltrow's Company Worth $250 Million][akner_goop]"
 - Extra: Palmer, "[On The Trail of the Robocall King][robocall_king]" 
 - Extra: Higginbotham, "[The Unbelievable Skepticism of the Amazing Randi][skeptical_randi]"
+- Extra: Vogt, Goldman, "[#86 Man of the People][vogt_man]"
 
 
 [grandma_scams]: https://www.nytimes.com/2019/12/07/opinion/sunday/china-bank-scam-grandmother.html
 [akner_goop]: https://www.nytimes.com/2018/07/25/magazine/big-business-gwyneth-paltrow-wellness.html
 [robocall_king]: https://www.wired.com/story/on-the-trail-of-the-robocall-king/
 [skeptical_randi]: https://www.nytimes.com/2014/11/09/magazine/the-unbelievable-skepticism-of-the-amazing-randi.html
+[vogt_man]: https://gimletmedia.com/shows/reply-all/dvhexl 
 
 ### 02/04 Free Time and Attention ([Slides][attention_slides])
 
