@@ -52,7 +52,7 @@
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSegbrH6G-X6-peQEZpe80OU-byCpbEGbQQhh37U3spGd8vExA/viewform?usp=sf_link) by 1 PM before class!**
 
 - Required: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]" 
-- Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
+- Optional: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
 - Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
 
