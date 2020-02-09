@@ -12,7 +12,7 @@
 - Optional: Brodesser-Akner, "[How Goop's Haters Made Gwyneth Paltrow's Company Worth $250 Million][akner_goop]"
 - Extra: Palmer, "[On The Trail of the Robocall King][robocall_king]" 
 - Extra: Higginbotham, "[The Unbelievable Skepticism of the Amazing Randi][skeptical_randi]"
-- Extra: Vogt, Goldman, "[#86 Man of the People][vogt_man]"
+- Extra: Vogt, Goldman, "[Man of the People][vogt_man]"
 
 
 [grandma_scams]: https://www.nytimes.com/2019/12/07/opinion/sunday/china-bank-scam-grandmother.html
