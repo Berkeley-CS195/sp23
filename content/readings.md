@@ -8,6 +8,10 @@
 | 3     |                 |                   |                  |
 
 ### 02/11 Scams
+
+**Please complete [this survey] (https://docs.google.com/forms/d/e/1FAIpQLSfl2VLjYM0nM_dW9j_GYbQCKknPGIXP1cKqOJe0ta8HQspfFQ/viewform?usp=sf_link) by 1 PM before class!**
+
+
 - Optional: Huang, "[My Grandmother's Favorite Scammer][grandma_scams]"
 - Optional: Brodesser-Akner, "[How Goop's Haters Made Gwyneth Paltrow's Company Worth $250 Million][akner_goop]"
 - Extra: Palmer, "[On The Trail of the Robocall King][robocall_king]" 
