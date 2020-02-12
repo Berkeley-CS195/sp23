@@ -7,7 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 02/11 Scams
+### 02/11 Scams ([Slides][scam_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfl2VLjYM0nM_dW9j_GYbQCKknPGIXP1cKqOJe0ta8HQspfFQ/viewform?usp=sf_link) by 1 PM before class!**
 
@@ -24,6 +24,7 @@
 [robocall_king]: https://www.wired.com/story/on-the-trail-of-the-robocall-king/
 [skeptical_randi]: https://www.nytimes.com/2014/11/09/magazine/the-unbelievable-skepticism-of-the-amazing-randi.html
 [vogt_man]: https://gimletmedia.com/shows/reply-all/dvhexl 
+[scam_slides]: https://docs.google.com/presentation/d/1Wv1xnP70i6BrYGPHQU09EylEK1ck2mS1E_bft3hha-s/edit?usp=sharing
 
 ### 02/04 Free Time and Attention ([Slides][attention_slides])
 
