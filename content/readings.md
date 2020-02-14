@@ -12,9 +12,9 @@
 - Required: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]"
 - Optional: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
 - Optional: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
-- Optional: "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
-- Extra: "[The Crisis of Social Media][crisis_media]"
-- Extra: "[The Abyss Stares Back][abyss_exponent]"
+- Optional: Gage, "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
+- Extra: Shahbaz, Funk, "[The Crisis of Social Media][crisis_media]"
+- Extra: Thompson, Allworth, "[The Abyss Stares Back][abyss_exponent]"
 
 [google_china]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
 [china_exported]: https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html
