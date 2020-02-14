@@ -7,6 +7,22 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 02/18 Government Censorship and  Surveillance 
+
+- Required: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]"
+- Optional: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
+- Optional: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
+- Optional: "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
+- Extra: "[The Crisis of Social Media][crisis_media]"
+- Extra: "[The Abyss Stares Back][abyss_exponent]"
+
+[google_china]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
+[china_exported]: https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html
+[fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+[uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+[crisis_media]: https://www.freedomonthenet.org/report/freedom-on-the-net/2019/the-crisis-of-social-media
+[abyss_exponent]: https://podcasts.apple.com/us/podcast/exponent/id826420969?i=1000453575064
+
 ### 02/11 Scams ([Slides][scam_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfl2VLjYM0nM_dW9j_GYbQCKknPGIXP1cKqOJe0ta8HQspfFQ/viewform?usp=sf_link) by 1 PM before class!**
