@@ -7,7 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 02/18 Government Censorship and  Surveillance 
+### 02/18 Government Censorship and  Surveillance ([Slides][censorship_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeU6mNvNJIRAxUBTkUEDIM_pO0P9SE3tNmxD4z4rb4Ag4BL0w/viewform?usp=sf_link) by 1 PM before class!**
 
@@ -24,6 +24,7 @@
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
 [crisis_media]: https://www.freedomonthenet.org/report/freedom-on-the-net/2019/the-crisis-of-social-media
 [abyss_exponent]: https://podcasts.apple.com/us/podcast/exponent/id826420969?i=1000453575064
+[censorship_slides]: https://docs.google.com/presentation/d/1CA-rfo7VDQeizk8S76FDFowdulQKet9_shTmpVJlUU4/edit?usp=sharing
 
 ### 02/11 Scams ([Slides][scam_slides])
 
