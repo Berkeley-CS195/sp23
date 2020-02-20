@@ -7,6 +7,22 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 02/25 Politics and Media
+
+- Required: Tufekci, "[Russian Meddling Is a Symptom, Not the Disease][russian_meddling]"
+- Required: Epstein, Ember, Gabriel, Baker "[How the Iowa Caucuses Became an Epic Fiasco for Democrats][iowa_caucuses]"
+- Required: Bertoni, "[How Jared Kushner Won Trump The White House][kushner_won]"
+- Optional: Kolbert, "[Why Facts Don't Change Our Minds][facts_mind]"
+- Optional: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]"
+- Optional: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
+
+[russian_meddling]: https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html
+[iowa_caucuses]: https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html
+[kushner_won]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#3eb53d003af6
+[facts_mind]:https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+[college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
+[political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+
 ### 02/18 Government Censorship and  Surveillance ([Slides][censorship_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeU6mNvNJIRAxUBTkUEDIM_pO0P9SE3tNmxD4z4rb4Ag4BL0w/viewform?usp=sf_link) by 1 PM before class!**
