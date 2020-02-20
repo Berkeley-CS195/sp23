@@ -19,7 +19,7 @@
 [russian_meddling]: https://www.nytimes.com/2018/10/03/opinion/midterms-facebook-foreign-meddling.html
 [iowa_caucuses]: https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html
 [kushner_won]: https://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/#3eb53d003af6
-[fact_mind]:https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+[fact_mind]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
 [college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 [political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
 
