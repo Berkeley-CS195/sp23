@@ -9,6 +9,8 @@
 
 ### 02/25 Politics and Media
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf6hEqXI7uT3_CzI5bdN42Nj-MMCMfhhyILoSQsuYi1v5IrrQ/viewform?usp=sf_link) by 1 PM before class!**
+
 - Required: Tufekci, "[Russian Meddling Is a Symptom, Not the Disease][russian_meddling]"
 - Required: Epstein, Ember, Gabriel, Baker "[How the Iowa Caucuses Became an Epic Fiasco for Democrats][iowa_caucuses]"
 - Required: Bertoni, "[How Jared Kushner Won Trump The White House][kushner_won]"
