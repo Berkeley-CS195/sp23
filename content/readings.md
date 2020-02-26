@@ -7,7 +7,7 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
-### 02/25 Politics and Media
+### 02/25 Politics and Media ([Slides][politics_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf6hEqXI7uT3_CzI5bdN42Nj-MMCMfhhyILoSQsuYi1v5IrrQ/viewform?usp=sf_link) by 1 PM before class!**
 
@@ -24,6 +24,7 @@
 [fact_mind]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
 [college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 [political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+[politics_slides]: https://docs.google.com/presentation/d/1S5XJXZff3wQoKCa3GO_j0sqwEmkQKrX88p2zGCLow6w/edit?usp=sharing
 
 ### 02/18 Government Censorship and  Surveillance ([Slides][censorship_slides])
 
