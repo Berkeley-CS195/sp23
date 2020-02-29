@@ -7,6 +7,20 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 03/03 Jobs and Automation
+
+- Required: CGP Grey, "[Humans Need Not Apply][cpg_humans]"
+- Required: Williams, "[Will Robots Take Our Children's Jobs?][robot_jobs]"
+- Required: Surowiecki, "[The Great Tech Panic: Robots Won't Take All Our Jobs][tech_panic]"
+- Optional: Bernstein, Raman "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][great_decoupling]"
+- Optional: McKinsey Global Institute, "[Harnessing automation for a future that works][harnessing_automation]"
+
+[cpg_humans]: https://www.youtube.com/watch?v=7Pq-S557XQU
+[robot_jobs]:https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html
+[tech_panic]: https://www.wired.com/2017/08/robots-will-not-take-your-job/
+[great_decoupling]:https://hbr.org/2015/06/the-great-decoupling
+[harnessing_automation]: https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works
+
 ### 02/25 Politics and Media ([Slides][politics_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSf6hEqXI7uT3_CzI5bdN42Nj-MMCMfhhyILoSQsuYi1v5IrrQ/viewform?usp=sf_link) by 1 PM before class!**
