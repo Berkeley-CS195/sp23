@@ -9,6 +9,8 @@
 
 ### 03/03 Jobs and Automation
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd8IiH3XXRkgTnKzoIdIeTwYtas7u8H-gjvgq19VlCOOJhsVA/viewform?usp=sf_link) by 1 PM before class!**
+
 - Required: CGP Grey, "[Humans Need Not Apply][cpg_humans]"
 - Required: Williams, "[Will Robots Take Our Children's Jobs?][robot_jobs]"
 - Required: Surowiecki, "[The Great Tech Panic: Robots Won't Take All Our Jobs][tech_panic]"
