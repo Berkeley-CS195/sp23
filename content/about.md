@@ -12,7 +12,7 @@ Weekly Schedule
 
 Lecture: Tuesday 3:30 to 5:00 PM in 2050 Valley Life Sciences
 
-Discussion sections: Wednesday's 2-3pm and Thursday's 3:30-4:30pm
+Discussion sections: Wednesdays 2-3pm and Thursdays 3:30-4:30pm
 
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 **Please finish the readings before class!**
