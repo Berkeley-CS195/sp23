@@ -9,7 +9,7 @@
 
 ### 03/17 Software Risks and Algorithmic Bias
 
-**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQT0q-yP3s2TOrDT29eIg4zqgwKJaTKq_ZMP_DN3mg2mOcmw/viewform?usp=sf_link) by 1 PM before class!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQT0q-yP3s2TOrDT29eIg4zqgwKJaTKq_ZMP_DN3mg2mOcmw/viewform?usp=sf_link) by 3 PM before class!**
 
 Software Risks:
 
