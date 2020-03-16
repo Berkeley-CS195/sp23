@@ -11,15 +11,15 @@
 
 Software Risks:
 
-Highly suggested: Fabio, "[Killed by a Machine: The Therac-25][therac]"
-Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][automation_risks]" (need to read through [campus VPN][vpn])
-Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopia_click]"
+- Highly suggested: Fabio, "[Killed by a Machine: The Therac-25][therac]"
+- Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][automation_risks]" (need to read through [campus VPN][vpn])
+- Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopia_click]"
 
 Algorithmic Bias:
 
-Highly suggested: Angwin, "[Make Algorithms Accountable.][algorithms_accountable]"
-Highly suggested: Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][computer_bias]"
-Optional: "[Attacking discrimination with smarter machine learning][attack_discrimination]"
+- Highly suggested: Angwin, "[Make Algorithms Accountable.][algorithms_accountable]"
+- Highly suggested: Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][computer_bias]"
+- Optional: "[Attacking discrimination with smarter machine learning][attack_discrimination]"
 
 [therac]: https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
 [automation_risks]: https://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/abstract
