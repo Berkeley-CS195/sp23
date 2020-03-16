@@ -7,6 +7,30 @@
 | 2     |                 |                   |                  |
 | 3     |                 |                   |                  |
 
+### 03/17 Software Risks and Algorithmic Bias
+
+Software Risks:
+
+Highly suggested: Fabio, "[Killed by a Machine: The Therac-25][therac]"
+Optional: Neumann, "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][automation_risks]" (need to read through [campus VPN][vpn])
+Optional: Tufekci, "[We're building a dystopia just to make people click on ads][dystopia_click]"
+
+Algorithmic Bias:
+
+Highly suggested: Angwin, "[Make Algorithms Accountable.][algorithms_accountable]"
+Highly suggested: Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][computer_bias]"
+Optional: "[Attacking discrimination with smarter machine learning][attack_discrimination]"
+
+[therac]: https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+[automation_risks]: https://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/abstract
+[vpn]: https://www.lib.berkeley.edu/using-the-libraries/vpn
+[dystopia_click]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/up-next 
+[algorithms_accountable]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+[computer_bias]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments
+[attack_discrimination]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+
+
+
 ### 03/03 Jobs and Automation
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd8IiH3XXRkgTnKzoIdIeTwYtas7u8H-gjvgq19VlCOOJhsVA/viewform?usp=sf_link) by 1 PM before class!**
