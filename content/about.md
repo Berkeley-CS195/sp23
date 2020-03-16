@@ -12,7 +12,7 @@ Weekly Schedule
 
 Lecture: Tuesday 3:30 to 5:00 PM in 2050 Valley Life Sciences
 
-Discussion sections: TBD
+Discussion sections: Wednesday's 2-3pm and Thursday's 3:30-4:30pm
 
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 **Please finish the readings before class!**
@@ -46,8 +46,8 @@ class meetings and in written work.
 In order to receive a passing grade in CS 195, you must complete the objectives
 listed below:
 
- * Attend at least 11 lectures
- * Complete at least 10 pre-lecture surveys.
+ * Attend at least 8 lectures
+ * Complete at least 8 pre-lecture surveys.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
  * Attend 1 small-group discussion.
