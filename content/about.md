@@ -22,7 +22,7 @@ You are only required to attend one discussion section (total, not per week).
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
-**Finish the weekly survey by 9 AM Tuesday!**
+**Finish the weekly survey by 1 pm Tuesday!**
 
 Essays
 ------
