@@ -4,8 +4,8 @@
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
 | 1     |    2/12         |  2/26             | 3/2             |
-| 2     |                 |                   |                  |
-| 3     |                 |                   |                  |
+| 2     |    3/19         |  4/5              | 4/10                 |
+| 3     |    4/14         |  4/28             | 5/4                 |
 
 ### 03/17 Software Risks and Algorithmic Bias
 
