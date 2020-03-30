@@ -4,12 +4,12 @@
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
 | 1     |    2/12         |  2/26             | 3/2             |
-| 2     |    3/19         |  4/5              | 4/10                 |
+| 2     |    3/19         |  4/8              | 4/13                 |
 | 3     |    4/14         |  4/28             | 5/4                 |
 
-### 03/17 Software Risks and Algorithmic Bias
+### 03/31 Software Risks and Algorithmic Bias
 
-**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQT0q-yP3s2TOrDT29eIg4zqgwKJaTKq_ZMP_DN3mg2mOcmw/viewform?usp=sf_link) by 3 PM before class!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQT0q-yP3s2TOrDT29eIg4zqgwKJaTKq_ZMP_DN3mg2mOcmw/viewform?usp=sf_link) by 1 PM before class!**
 
 Software Risks:
 
@@ -31,7 +31,21 @@ Algorithmic Bias:
 [computer_bias]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments
 [attack_discrimination]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 
+### 03/17 War
 
+- Greenberg, "[The Untold Story of NotPetya, the Most Devastating Cyberattack in History][notpetya]"
+- Wakabayashi, Shane, "[Google Will Not Renew Pentagon Contract That Upset Employees][google_pentagon]"
+- Optional (note: strongly political, I am not endorsing the opinions expressed): Jurecic, "[Why Did You Wait?": Moral Emptiness and Drone Strikes][wait_drone]"
+- Optional: Walzer, Michael "[Just & Unjust Targeted Killing & Drone Warfare][unjust_target]" (requires Berkeley VPN)
+- Optional: Valentino, Benjamin "[Moral Character or Character of War? American Public Opinion on the Targeting of Civilians in Times of War][moral_war]" (requires Berkeley VPN)
+- Optional: Dunlap Jr., Charles, "[The Military-Industrial Complex][military_industrial]" (requires Berkeley VPN)
+
+[notpetya]: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+[google_pentagon]: https://www.nytimes.com/2018/06/01/technology/google-pentagon-project-maven.html
+[wait_drone]: https://www.lawfareblog.com/why-did-you-wait-moral-emptiness-and-drone-strikes
+[unjust_target]: https://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00408
+[moral_war]: https://www.mitpressjournals.org/doi/full/10.1162/DAED_a_00417
+[military_industrial]: https://www.mitpressjournals.org/doi/pdf/10.1162/DAED_a_00104
 
 ### 03/03 Jobs and Automation
 
