@@ -7,6 +7,21 @@
 | 2     |    3/19         |  4/8              | 4/13                 |
 | 3     |    4/14         |  4/28             | 5/4                 |
 
+### 03/31 Copyright and Intellectual Property
+
+- Highly Suggested: de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patentVcopyright]"
+- Highly Suggested: Stallman, Richard, "[Misinterpreting Copyright—A Series of Errors][misinterpreting_errors]"
+- Highly Suggested: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][criticisms_wrong]"
+- Optional: Stallman, Richard, "[The Danger of Software Patents][patent_vid]"
+- Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk_myths]"
+
+[patentVcopyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba/
+[misinterpreting_errors]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+[criticisms_wrong]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+[patent_vid]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+[debunk_myths]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html 
+
+
 ### 03/31 Software Risks and Algorithmic Bias
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfQT0q-yP3s2TOrDT29eIg4zqgwKJaTKq_ZMP_DN3mg2mOcmw/viewform?usp=sf_link) by 1 PM before class!**
