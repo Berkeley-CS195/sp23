@@ -10,7 +10,7 @@
 ### 04/07 Copyright and Intellectual Property
 
 - Highly Suggested: de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_copyright]"
-- Highly Suggested: Stallman, Richard, "[Misinterpreting Copyright—A Series of Errors][misinterpreting_errors]"
+- Highly Suggested: Stallman, Richard, "[Misinterpreting Copyright A Series of Errors][misinterpreting_errors]"
 - Highly Suggested: Mullin, Joe, "[Your criticisms are completely wrong: Stallman on software patents, 20 years in][criticisms_wrong]"
 - Optional: Stallman, Richard, "[The Danger of Software Patents][patent_vid]"
 - Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk_myths]"
