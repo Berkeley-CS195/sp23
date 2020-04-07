@@ -9,6 +9,8 @@
 
 ### 04/07 Copyright and Intellectual Property
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd02h_HUYvoWUrC45KkAkpw7qi0fks1U9Zx_QaSW2UOTLLQAw/viewform?usp=sf_link) by 3 PM before class!**
+
 - Highly Suggested: de Cardenas, Antonio, "[Patent vs. Copyright Protection for Computer Software][patent_copyright]"
 - Highly Suggested: Stallman, Richard, "[Misinterpreting Copyright A Series of Errors][misinterpreting_errors]"
 - Highly Suggested: Mullin, Joe, "[Your criticisms are completely wrong: Stallman on software patents, 20 years in][criticisms_wrong]"
