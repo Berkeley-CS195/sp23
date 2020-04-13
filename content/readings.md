@@ -14,7 +14,7 @@
 
 - Highly Suggested: Ellis, "[Online Conspiracy Theories: The Wired Guide][conspiracy_theories]"
 - Highly Suggested: CGP Grey, "[This Video Will Make You Angry][angry_vid]"
-- Optional: Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][]" (reuired Berkeley VPN)
+- Optional: Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_memes]" (required Berkeley VPN)
 - Optional: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][thiel_questionable]" (very weird/questionable read, but interesting)
 
 [conspiracy_theories]: https://www.wired.com/story/wired-guide-to-conspiracy-theories/ 
