@@ -7,6 +7,21 @@
 | 2     |    3/19         |  4/8              | 4/13                 |
 | 3     |    4/14         |  4/28             | 5/4                 |
 
+
+### 04/14 Memes
+
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScsd0io_StpL4whh33BeLNpJD7vBx430rwArdXldtNKrGuA_Q/viewform?usp=sf_link) by 3 PM before class!**
+
+- Highly Suggested: Ellis, "[Online Conspiracy Theories: The Wired Guide][conspiracy_theories]"
+- Highly Suggested: CGP Grey, "[This Video Will Make You Angry][angry_vid]"
+- Optional: Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][]" (reuired Berkeley VPN)
+- Optional: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][thiel_questionable]" (very weird/questionable read, but interesting)
+
+[conspiracy_theories]: https://www.wired.com/story/wired-guide-to-conspiracy-theories/ 
+[angry_vid]: https://www.youtube.com/watch?v=rE3j_RHkqJc 
+[emotional_memes]: https://psycnet.apa.org/record/2001-05428-005
+[thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+
 ### 04/07 Copyright and Intellectual Property
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSd02h_HUYvoWUrC45KkAkpw7qi0fks1U9Zx_QaSW2UOTLLQAw/viewform?usp=sf_link) by 3 PM before class!**
