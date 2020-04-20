@@ -8,6 +8,16 @@
 | 3     |    4/19         |  5/8             | 5/17                 |
 
 
+### 04/21 Education
+
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRjHYpqobYTDC0ExGfnBFdjn_MkeNrxXC_sSiYtdZqjEJrdw/viewform?usp=sf_link) by 3 PM before class!**
+
+- Highly suggested: Konnikova, "[Will MOOCs Be Flukes?][mooc_fluke]" 
+- Highly suggested: Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][online_ed]"
+
+[mooc_fluke]: https://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
+[online_ed]: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html 
+
 ### 04/14 Memes
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScsd0io_StpL4whh33BeLNpJD7vBx430rwArdXldtNKrGuA_Q/viewform?usp=sf_link) by 3 PM before class!**
