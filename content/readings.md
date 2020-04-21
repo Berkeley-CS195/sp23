@@ -14,9 +14,18 @@
 
 - Highly suggested: Konnikova, "[Will MOOCs Be Flukes?][mooc_fluke]" 
 - Highly suggested: Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][online_ed]"
+- Highly suggested: "[We have to Maslow before we can Bloom][maslow_bloom]"
+- Highly suggested: "[Educators: We need More From Education Technology][more_education]"
+- Optional: "[The Machines Are Learning, and So Are the Students][machine_student]"
+- Optional: "[Takedown of Online Education][takedown_online]"
 
 [mooc_fluke]: https://www.newyorker.com/science/maria-konnikova/moocs-failure-solutions
 [online_ed]: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html 
+[maslow_bloom]: https://medium.com/age-of-awareness/we-have-to-maslow-before-we-can-bloom-3dfe018e61c5
+[more_education]: https://www.usnews.com/news/education-news/articles/2017-12-20/educators-we-need-more-from-education-technology
+[machine_student]: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
+[takedown_online]: https://www.insidehighered.com/digital-learning/article/2019/01/16/online-learning-fails-deliver-finds-report-aimed-discouraging
+
 
 ### 04/14 Memes
 
