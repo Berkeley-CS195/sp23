@@ -8,6 +8,15 @@
 | 3     |    4/19         |  5/8             | 5/17                 |
 
 
+### 04/21 Ethics / HWYMYL
+
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdAsjeAumKOrmDX19-MX3fSP38Mx8GNdd3EQDkgcglVkDrosg/viewform?usp=sf_link) by 3 PM before class!**
+
+- Highly suggested: Christensen, "[How Will You Measure Your Life?][life_measure]"
+
+
+[life_measure]: https://hbr.org/2010/07/how-will-you-measure-your-life 
+
 ### 04/21 Education
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRjHYpqobYTDC0ExGfnBFdjn_MkeNrxXC_sSiYtdZqjEJrdw/viewform?usp=sf_link) by 3 PM before class!**
