@@ -10,19 +10,15 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Lecture: Tuesday 3:30 to 5:00 PM in 2050 Valley Life Sciences
-
-Discussion sections: Wednesdays 2-3pm and Thursdays 3:30-4:30pm
+Lecture: Wednesday 2:00 to 3:30 PM on Zoom 
 
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 **Please finish the readings before class!**
 
-Discussion sections will cover topics to be discussed in the previous lecture.
-You are only required to attend one discussion section (total, not per week).
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
-**Finish the weekly survey by 1 pm Tuesday!**
+**Finish the weekly survey by 12 pm Wednesday!**
 
 Essays
 ------
@@ -46,11 +42,10 @@ class meetings and in written work.
 In order to receive a passing grade in CS 195, you must complete the objectives
 listed below:
 
- * Attend at least 8 lectures
- * Complete at least 8 pre-lecture surveys.
+ * Attend at least 11 lectures
+ * Complete at least 11 pre-lecture surveys.
  * Submit 3 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 9 essays.
- * Attend 1 small-group discussion.
 
 In the event that you do not earn the required number of points, we will provide
 an opportunity to make up extra work, though you should not count on this.
