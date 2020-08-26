@@ -12,10 +12,10 @@
 
 In future weeks, readings will be required and there will also be a survey to fill out. 
 
-### 09/2 Free Speech 
+<!-- ### 09/2 Free Speech 
 
 ### Privacy 
 
 ### Megan Phelps-Roper 
 
-### Government Censorship and Surveillance 
+### Government Censorship and Surveillance --> 

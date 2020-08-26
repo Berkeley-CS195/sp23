@@ -13,12 +13,14 @@ Weekly Schedule
 Lecture: Wednesday 2:00 to 3:30 PM on Zoom 
 
 Readings for each week will be released on the Wednesday before class (or thereabouts).
+
 **Please finish the readings before class!**
 
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
-**Finish the weekly survey by 12 pm Wednesday!**
+
+**Finish the weekly survey by 11:59 pm Tuesday!**
 
 Essays
 ------
