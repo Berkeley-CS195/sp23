@@ -32,7 +32,6 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
   [wyden]: https://www.vox.com/recode/2020/8/5/21339766/zuckerberg-privacy-law-facebook-congress-wyden
 
   [alex_jones_ban]: https://www.theguardian.com/technology/2018/aug/10/alex-jones-banning-apple-facebook-youtube-twitter-free-speech
-s
 
 <!--
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
