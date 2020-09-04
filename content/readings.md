@@ -63,7 +63,7 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
 
   [twitter_ban]: https://www.nytimes.com/2018/08/10/technology/twitter-free-speech-infowars.html
   [facebook_rulebook]: https://www.nytimes.com/2018/12/27/world/facebook-moderators.html
-  [speech_slides]: https://docs.google.com/presentation/d/1AQUVf4KjIBaB8NnshsZ2zmiltooT6Oi3Xo7LvHGbWvw/edit?usp=sharing
+
 -->
 
 ### 08/26 SARS-CoV-2 ([Slides][covid_slides])
