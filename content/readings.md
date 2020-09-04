@@ -10,6 +10,19 @@
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
 ### 09/08 Privacy
+ 
+- Required: Yang, "[Op-Ed: Andrew Yang: Make tech companies pay you for your data][yang_gang]"
+- Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
+-  Extra: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]"
+- Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
+- Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
+
+  [yang_gang]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
+  [powazek_product]: http://powazek.com/posts/3229
+  [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
+  [care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
+  [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
+  [privacy_slides]: https://docs.google.com/presentation/d/1E2yMyvvObE9sAYSKLLetZDpfHVKNONXbjLwyvLhv7tQ/edit?usp=sharing 
 
 ### 09/02 Free Speech 
 
