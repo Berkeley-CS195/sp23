@@ -17,14 +17,18 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
 - Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
 
-  [yang_gang]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
-  [powazek_product]: http://powazek.com/posts/3229
-  [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
-  [care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
-  [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
-  [privacy_slides]: https://docs.google.com/presentation/d/1E2yMyvvObE9sAYSKLLetZDpfHVKNONXbjLwyvLhv7tQ/edit?usp=sharing 
+[yang_gang]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
+  
+[powazek_product]: http://powazek.com/posts/3229
 
-### 09/02 Free Speech 
+[college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
+
+[care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
+
+[privacy_important]: https://www.jstor.org/stable/2265077?seq=1
+
+
+### 09/02 Free Speech ([Slides][speech_slides])
 
 **Please complete [this survey](https://forms.gle/3RiWbRPhAvR1azRw7) by 11:59 PM on Tuesday night.**
 
@@ -47,6 +51,8 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
   [wyden]: https://www.vox.com/recode/2020/8/5/21339766/zuckerberg-privacy-law-facebook-congress-wyden
 
   [alex_jones_ban]: https://www.theguardian.com/technology/2018/aug/10/alex-jones-banning-apple-facebook-youtube-twitter-free-speech
+  
+  [speech_slides]: https://docs.google.com/presentation/d/1JsXMgymHPQ6d6p1cbYTAAwpMZl7bYDhei84wArQBYXc/edit?usp=sharing
 
 <!--
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
@@ -60,11 +66,11 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
   [speech_slides]: https://docs.google.com/presentation/d/1AQUVf4KjIBaB8NnshsZ2zmiltooT6Oi3Xo7LvHGbWvw/edit?usp=sharing
 -->
 
-### 08/26 SARS-CoV-2
+### 08/26 SARS-CoV-2 ([Slides][covid_slides])
 
 In future weeks, readings will be required and there will also be a survey to fill out. 
 
-
+[covid_slides]: https://docs.google.com/presentation/d/1vfKtxQrQaAhe0aCVXyWsGW70Yxw5Kf_y_jMpIXj8dIQ/edit
 
 <!--### Privacy 
 
