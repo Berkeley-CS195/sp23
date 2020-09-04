@@ -9,7 +9,9 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
-### 09/2 Free Speech 
+### 09/08 Privacy
+
+### 09/02 Free Speech 
 
 **Please complete [this survey](https://forms.gle/3RiWbRPhAvR1azRw7) by 11:59 PM on Tuesday night.**
 
