@@ -13,13 +13,18 @@ Readings are "required", "recommended", or "extra". Required readings must be do
  
 - Required: Yang, "[Op-Ed: Andrew Yang: Make tech companies pay you for your data][yang_gang]"
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
--  Extra: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]"
+- Recommended: "[No Place to Hide: Colleges Track Students, Everywhere][tracking_students]" [(Free WSJ subscription)][free_WSJ]
+- Extra: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
 - Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
 
 [yang_gang]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
   
 [powazek_product]: http://powazek.com/posts/3229
+
+[tracking_students]: https://www.wsj.com/articles/the-many-ways-college-students-may-be-tracked-on-campus-11583354852
+
+[free_WSJ]: https://grad.berkeley.edu/news/announcements/opportunities/access-the-new-york-times-and-wall-street-journal-for-free/
 
 [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
 
