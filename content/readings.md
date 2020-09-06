@@ -10,6 +10,8 @@
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
 ### 09/08 Privacy
+
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScTWu6l5kD0KQSaNSMInXZ37TGpwz374c0xOkK5bpXJJEHswg/viewform?usp=sf_link) by 11:59 PM on Tuesday night.**
  
 - Required: Yang, "[Op-Ed: Andrew Yang: Make tech companies pay you for your data][yang_gang]"
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
