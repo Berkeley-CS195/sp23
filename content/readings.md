@@ -15,7 +15,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
  
 - Required: Yang, "[Op-Ed: Andrew Yang: Make tech companies pay you for your data][yang_gang]"
 - Recommended: MacMillan, Anderson, "[Student tracking, secret scores: How college admissions offices rank prospects before they apply][college_admissions]"
-- Recommended: "[No Place to Hide: Colleges Track Students, Everywhere][tracking_students]" [(Free WSJ subscription)][free_WSJ]
+- Recommended: "[No Place to Hide: Colleges Track Students, Everywhere][tracking_students]" [(Free WSJ subscription)][free_WSJ] --- [temporary PDF link][wsj_temp]
 - Extra: Powazek, "[I'm Not The Product, But I Play One On The Internet][powazek_product]"
 - Extra: Menand, "[Why Do We Care So Much About Privacy?][care_privacy]"
 - Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
@@ -33,6 +33,8 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
 
 [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
+
+[wsj_temp]: https://drive.google.com/file/d/14ZEIDm_I9OrWTHhF4A2lETMwXTc4U1Xj
 
 
 ### 09/02 Free Speech ([Slides][speech_slides])
