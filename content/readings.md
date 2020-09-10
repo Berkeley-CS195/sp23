@@ -10,7 +10,7 @@
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
 ### 09/16 Megan Phelps-Roper
-- Without Fail, "[How Megan Phelps-Roper Left the Westboro Baptist Church][westboro_megan]"
+- Required: Without Fail, "[How Megan Phelps-Roper Left the Westboro Baptist Church][westboro_megan]"
 
 [westboro_megan]: https://gimletmedia.com/shows/without-fail/z3hl8ke
 
