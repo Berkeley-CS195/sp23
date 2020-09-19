@@ -17,6 +17,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 - Recommended: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
 - Recommended: Galperin, Greene, Opsahl, "[TikTok Ban: A Seed of Genuine Security Concern Wrapped in a Thick Layer of Censorship][tiktok_eff]"
 - Recommended: Sitarman, Wu, "[The Progressive Case for a TikTok Sale][tiktok_wired]"
+- Extra: EFF Threat Lab, "[30 Years Since Tiananmen Square: The State of Chinese Censorship and Digital Surveillance][eff_chinese_censorship_details]"
 - Extra: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
 - Extra: Gage, "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
 
@@ -26,6 +27,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [tiktok_wired]: https://www.wired.com/story/the-progressive-case-for-a-tiktok-sale/
 [fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+[eff_chinese_censorship_details]: https://www.eff.org/deeplinks/2019/06/30-years-tiananmen-square-state-chinese-censorship-and-digital-surveillance
 
 ### 09/16 Megan Phelps-Roper
 
