@@ -9,6 +9,24 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 09/23 Government Censorship and Surveillance
+
+<!--**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeU6mNvNJIRAxUBTkUEDIM_pO0P9SE3tNmxD4z4rb4Ag4BL0w/viewform?usp=sf_link) by 1 PM before class!**-->
+
+- Recommended: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]"
+- Recommended: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
+- Recommended: Galperin, Greene, Opsahl, "[TikTok Ban: A Seed of Genuine Security Concern Wrapped in a Thick Layer of Censorship][tiktok_eff]"
+- Recommended: Sitarman, Wu, "[The Progressive Case for a TikTok Sale][tiktok_wired]"
+- Extra: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
+- Extra: Gage, "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
+
+[google_china]: https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/
+[china_exported]: https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html
+[tiktok_eff]: https://www.eff.org/deeplinks/2020/08/tiktok-ban-seed-genuine-security-concern-wrapped-thick-layer-censorship
+[tiktok_wired]: https://www.wired.com/story/the-progressive-case-for-a-tiktok-sale/
+[fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
+[uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+
 ### 09/16 Megan Phelps-Roper
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeA-LIK3EBXTeRrJVsKUZ6u6lglSsXyx1IEKnb0OlYvtexekQ/viewform?usp=sf_link) by 11:59 PM on Tuesday night.**
