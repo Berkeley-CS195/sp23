@@ -13,11 +13,17 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 <!--**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeU6mNvNJIRAxUBTkUEDIM_pO0P9SE3tNmxD4z4rb4Ag4BL0w/viewform?usp=sf_link) by 1 PM before class!**-->
 
-- Recommended: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]"
-- Recommended: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
-- Recommended: Galperin, Greene, Opsahl, "[TikTok Ban: A Seed of Genuine Security Concern Wrapped in a Thick Layer of Censorship][tiktok_eff]"
-- Recommended: Sitarman, Wu, "[The Progressive Case for a TikTok Sale][tiktok_wired]"
+U.S. Tech Companies and Chinese Censorship and Surveillance:
+- Recommended: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]" 
 - Extra: EFF Threat Lab, "[30 Years Since Tiananmen Square: The State of Chinese Censorship and Digital Surveillance][eff_chinese_censorship_details]"
+- Extra: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
+
+The U.S. ban on TikTok and WeChat:
+- Recommended: Galperin, Greene, Opsahl, "[TikTok Ban: A Seed of Genuine Security Concern Wrapped in a Thick Layer of Censorship][tiktok_eff]"
+- Extra: Sitarman, Wu, "[The Progressive Case for a TikTok Sale][tiktok_wired]"
+ - Extra: Yang, Wang, Wang, "[How to Handle WeChat’s Threat Smartly][wechat]"
+
+Historical Censorship and Surveillance in the U.S.: 
 - Extra: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
 - Extra: Gage, "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
 
@@ -28,6 +34,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
 [eff_chinese_censorship_details]: https://www.eff.org/deeplinks/2019/06/30-years-tiananmen-square-state-chinese-censorship-and-digital-surveillance
+[wechat]: https://foreignpolicy.com/2020/09/14/china-wechat-ban-targeted-response/
 
 ### 09/16 Megan Phelps-Roper
 
