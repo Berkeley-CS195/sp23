@@ -11,7 +11,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 09/23 Government Censorship and Surveillance
 
-**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe42Msaoc3DkFr3gVPUauwz9uJkUWKcWmMLSMpSAdnY-Js71A/viewform?usp=sf_link) by 1 PM before class!**
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe42Msaoc3DkFr3gVPUauwz9uJkUWKcWmMLSMpSAdnY-Js71A/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
 U.S. Tech Companies and Chinese Censorship and Surveillance:
 - Recommended: Gallagher, "[Senior Google Scientist Resigns Over "Forfeiture of Our Values" in China][google_china]" 
