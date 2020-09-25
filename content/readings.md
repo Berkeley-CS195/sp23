@@ -11,11 +11,13 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 09/30 Education
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScOR4UkJG4dSK7OTNUYDbeCDunvf_HJyNH2gIoBn1wbuQn_aw/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
+
 - Recommended: Smith, "[The Machines Are Learning, and So Are the Students][student_machines]"
 - Recommended: Upson, "[How an Epic Series of Tech Errors Hobbled Miami's Schools][error_miami]"
 - Extra: Reich "[Ed-Tech Mania Is Back][ed_mania]"
 - Extra: Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][cheap_masters]"
-- Khan, "[I Started Khan Academy. We Can Still Avoid an Education Catastrophe.][khan_opinion]"
+- Extra: Khan, "[I Started Khan Academy. We Can Still Avoid an Education Catastrophe.][khan_opinion]"
 
 [student_machines]: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
 [error_miami]: https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/
