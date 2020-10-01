@@ -26,7 +26,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [khan_opinion]: https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html
 [ed_slides]: https://docs.google.com/presentation/d/1ztQZIcH1nJwyOfgLA5lQdyYa5R8gNj-RuGeLwFYbFwE/edit?usp=sharing
 
-### 09/23 Government Censorship and Surveillance ([Slides][gov_slides])
+### 09/23 Government Censorship and Surveillance ([Slides][speech_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe42Msaoc3DkFr3gVPUauwz9uJkUWKcWmMLSMpSAdnY-Js71A/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
@@ -52,7 +52,7 @@ Historical Censorship and Surveillance in the U.S.:
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
 [eff_chinese_censorship_details]: https://www.eff.org/deeplinks/2019/06/30-years-tiananmen-square-state-chinese-censorship-and-digital-surveillance
 [wechat]: https://foreignpolicy.com/2020/09/14/china-wechat-ban-targeted-response/
-[gov_slides]:https://docs.google.com/presentation/d/1XmO58qJkcjqk512szIBVUQJKdjzO0HEIVUqqk746Q4s/edit?usp=sharing
+[gov_slides]: https://docs.google.com/presentation/d/1XmO58qJkcjqk512szIBVUQJKdjzO0HEIVUqqk746Q4s/edit?usp=sharing
 
 ### 09/16 Megan Phelps-Roper ([Slides][meg_slides])
 
