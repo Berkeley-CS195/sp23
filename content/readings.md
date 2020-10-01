@@ -9,7 +9,7 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
-### 09/30 Education
+### 09/30 Education ([Slides][ed_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScOR4UkJG4dSK7OTNUYDbeCDunvf_HJyNH2gIoBn1wbuQn_aw/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
@@ -24,8 +24,9 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [ed_mania]: https://www.chronicle.com/article/ed-tech-mania-is-back
 [cheap_masters]: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
 [khan_opinion]: https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html
+[ed_slides]: https://docs.google.com/presentation/d/1ztQZIcH1nJwyOfgLA5lQdyYa5R8gNj-RuGeLwFYbFwE/edit?usp=sharing
 
-### 09/23 Government Censorship and Surveillance
+### 09/23 Government Censorship and Surveillance ([Slides][gov_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe42Msaoc3DkFr3gVPUauwz9uJkUWKcWmMLSMpSAdnY-Js71A/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
@@ -51,16 +52,18 @@ Historical Censorship and Surveillance in the U.S.:
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
 [eff_chinese_censorship_details]: https://www.eff.org/deeplinks/2019/06/30-years-tiananmen-square-state-chinese-censorship-and-digital-surveillance
 [wechat]: https://foreignpolicy.com/2020/09/14/china-wechat-ban-targeted-response/
+[gov_slides]:https://docs.google.com/presentation/d/1XmO58qJkcjqk512szIBVUQJKdjzO0HEIVUqqk746Q4s/edit?usp=sharing
 
-### 09/16 Megan Phelps-Roper
+### 09/16 Megan Phelps-Roper ([Slides][meg_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeA-LIK3EBXTeRrJVsKUZ6u6lglSsXyx1IEKnb0OlYvtexekQ/viewform?usp=sf_link) by 11:59 PM on Tuesday night.**
 
 - Required: Without Fail, "[How Megan Phelps-Roper Left the Westboro Baptist Church][westboro_megan]"
 
 [westboro_megan]: https://gimletmedia.com/shows/without-fail/z3hl8ke
+[meg_slides]: https://docs.google.com/presentation/d/11oyiR45GPPeDT7nIn0YZuYP4_3lgj4PQF8hgT0v2A6U/edit?usp=sharing
 
-### 09/09 Privacy
+### 09/09 Privacy ([Slides][privacy_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScTWu6l5kD0KQSaNSMInXZ37TGpwz374c0xOkK5bpXJJEHswg/viewform?usp=sf_link) by 11:59 PM on Tuesday night.**
  
@@ -86,6 +89,8 @@ Historical Censorship and Surveillance in the U.S.:
 [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
 
 [wsj_temp]: https://drive.google.com/file/d/14ZEIDm_I9OrWTHhF4A2lETMwXTc4U1Xj
+
+[privacy_slides]: https://docs.google.com/presentation/d/1MwPNyAfr5jIY1xyA2Xxo2K8j-S_7lMfDUT1ow1z3AGc/edit?usp=sharing
 
 
 ### 09/02 Free Speech ([Slides][speech_slides])
@@ -113,6 +118,7 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
   [alex_jones_ban]: https://www.theguardian.com/technology/2018/aug/10/alex-jones-banning-apple-facebook-youtube-twitter-free-speech
   
   [speech_slides]: https://docs.google.com/presentation/d/1JsXMgymHPQ6d6p1cbYTAAwpMZl7bYDhei84wArQBYXc/edit?usp=sharing
+
 
 <!--
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
