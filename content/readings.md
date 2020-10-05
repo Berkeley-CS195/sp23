@@ -12,7 +12,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 ### 10/07 Jobs and Automation
 
 - Recommended: Yang, "[Yes, Robots Are Stealing Your Job][robot_steal]"
-- Recommended: Berstein, Raman, "[The Great Decoupling: An Interview with Brynjolfsson and Andrew McAfee][great_decouple]"
+- Recommended: Berstein, Raman, "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][great_decouple]"
 - Extra: Chokshi, "[What if You Had a Four-Day Week? Why Don't You?][four_day]"
 - Extra: McKinsey Global Institute, "[Harnessing automation for a future that works][harness_auto]"
 - Extra: Boudette, "[Despite High Hopes, Self-Driving Cars Are 'Way in the Future'][no_drive]"
