@@ -9,6 +9,21 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 10/07 Jobs and Automation
+
+- Recommended: Yang, "[Yes, Robots Are Stealing Your Job][robot_steal]"
+- Recommended: Berstein, Raman, "[The Great Decoupling: An Interview with Brynjolfsson and Andrew McAfee][great_decouple]"
+- Extra: Chokshi, "[What if You Had a Four-Day Week? Why Don't You?][four_day]"
+- Extra: McKinsey Global Institute, "[Harnessing automation for a future that works][harness_auto]"
+- Extra: Boudette, "[Despite High Hopes, Self-Driving Cars Are 'Way in the Future'][no_drive]"
+
+[robot_steal]: https://www.nytimes.com/2019/11/14/opinion/andrew-yang-jobs.html
+[great_decouple]: https://hbr.org/2015/06/the-great-decoupling
+[four_day]: https://www.nytimes.com/2019/11/08/business/four-day-work-week.html 
+[harness_auto]: https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works
+[no_drive]: https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html
+
+
 ### 09/30 Education ([Slides][ed_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScOR4UkJG4dSK7OTNUYDbeCDunvf_HJyNH2gIoBn1wbuQn_aw/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
