@@ -11,6 +11,8 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 10/07 Jobs and Automation
 
+**Please complete [this survey](https://forms.gle/EuMqimrun1iJmqUX9) ASAP!**
+
 - Recommended: Yang, "[Yes, Robots Are Stealing Your Job][robot_steal]"
 - Recommended: Berstein, Raman, "[The Great Decoupling: An Interview with Erik Brynjolfsson and Andrew McAfee][great_decouple]"
 - Extra: Chokshi, "[What if You Had a Four-Day Week? Why Don't You?][four_day]"
