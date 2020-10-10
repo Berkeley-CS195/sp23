@@ -9,6 +9,28 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 10/07 Software Risks & Algorithmic Bias
+
+Software Risks
+
+- Recommended: Travis, "[How the Boeing 737 Max Disaster Looks to a Software Developer][bad_boeing]"
+- Recommended: Lyons, "[A college student used GPT-3 to write fake blog posts and ended up at the top of Hacker News][king_hacker]" 
+
+Algorithmic Bias
+
+- Recommended: Angwin, "[Make Algorithms Accountable][acc_algs]" 
+- Recommended:Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][bail_unclear]"
+- Extra: Wattenberg, Viégas, Hardt, "[Attacking discrimination with smarter machine learning][bias_attack]"
+- Extra: Miller, "[Is an Algorithm Less Racist Than a Loan Officer?][less_racist]"
+
+[bad_boeing]: https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer
+[king_hacker]: https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog
+[acc_algs]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html
+[bias_attack]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+[less_racist]: https://www.nytimes.com/2020/09/18/business/digital-mortgages.html
+[bail_unclear]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments
+
+
 ### 10/07 Jobs and Automation
 
 **Please complete [this survey](https://forms.gle/EuMqimrun1iJmqUX9) ASAP!**
