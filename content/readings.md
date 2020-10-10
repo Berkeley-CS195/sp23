@@ -19,7 +19,7 @@ Software Risks
 Algorithmic Bias
 
 - Recommended: Angwin, "[Make Algorithms Accountable][acc_algs]" 
-- Recommended:Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][bail_unclear]"
+- Recommended: Davies, Pierson, Feller, Goel, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][bail_unclear]"
 - Extra: Wattenberg, Viégas, Hardt, "[Attacking discrimination with smarter machine learning][bias_attack]"
 - Extra: Miller, "[Is an Algorithm Less Racist Than a Loan Officer?][less_racist]"
 
