@@ -11,6 +11,8 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 10/07 Software Risks & Algorithmic Bias
 
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfbiCzE16aiTqj7odJXZ4LuhBm9e_QDW7fWS8HLZ3TnLBhhNg/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
+
 Software Risks
 
 - Recommended: Travis, "[How the Boeing 737 Max Disaster Looks to a Software Developer][bad_boeing]"
