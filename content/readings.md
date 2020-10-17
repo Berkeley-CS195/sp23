@@ -9,6 +9,21 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 10/14 Memes
+- Recommended: Thompson, "[QAnon Is Like a Game—a Most Dangerous Game][qanon]"
+- Recommended: CGP Grey, "[This Video Will Make You Angry][angry_vid]"
+- Extra: Ellis, "[Online Conspiracy Theories: The Wired Guide][conspiracy_theories]"
+- Extra: Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_memes]" (required Berkeley VPN)
+- Extra: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][thiel_questionable]" (very weird/questionable read, but interesting)
+- Extra: QAnon Anonymous, "[Introudction to QAnon][qanon_vid]" (podcast)
+
+[qanon]: https://www.wired.com/story/qanon-most-dangerous-multiplatform-game/
+[conspiracy_theories]: https://www.wired.com/story/wired-guide-to-conspiracy-theories/ 
+[angry_vid]: https://www.youtube.com/watch?v=rE3j_RHkqJc 
+[emotional_memes]: https://psycnet.apa.org/record/2001-05428-005
+[thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+[qanon_vid]: https://soundcloud.com/qanonanonymous/episode-1-introduction-to-qanon
+
 ### 10/07 Software Risks & Algorithmic Bias
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfbiCzE16aiTqj7odJXZ4LuhBm9e_QDW7fWS8HLZ3TnLBhhNg/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
