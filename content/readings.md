@@ -4,12 +4,14 @@
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
 | 1     |       9/16      |    10/6           |      10/10        |
-| 2     |      10/14       |                |                  |
+| 2     |      10/19       |        11/2        |         11/8         |
 | 3     |       11/18      |               |                  |
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
-### 10/14 Memes
+### 10/20 Memes
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdE4PE8d9qaZUgCTWW3Uvm0D3ydzgyw8rBPiYyIMUikfqZyog/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
+
 - Recommended: Thompson, "[QAnon Is Like a Game—a Most Dangerous Game][qanon]"
 - Recommended: CGP Grey, "[This Video Will Make You Angry][angry_vid]"
 - Extra: Ellis, "[Online Conspiracy Theories: The Wired Guide][conspiracy_theories]"
@@ -24,7 +26,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
 [qanon_vid]: https://soundcloud.com/qanonanonymous/episode-1-introduction-to-qanon
 
-### 10/07 Software Risks & Algorithmic Bias
+### 10/14 Software Risks & Algorithmic Bias
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfbiCzE16aiTqj7odJXZ4LuhBm9e_QDW7fWS8HLZ3TnLBhhNg/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
