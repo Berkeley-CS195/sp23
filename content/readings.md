@@ -26,7 +26,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 [thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
 [qanon_vid]: https://soundcloud.com/qanonanonymous/episode-1-introduction-to-qanon
 
-### 10/14 Software Risks & Algorithmic Bias
+### 10/14 Software Risks & Algorithmic Bias ([Slides][bias_slides])
 
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSfbiCzE16aiTqj7odJXZ4LuhBm9e_QDW7fWS8HLZ3TnLBhhNg/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
@@ -49,8 +49,9 @@ Algorithmic Bias
 [less_racist]: https://www.nytimes.com/2020/09/18/business/digital-mortgages.html
 [bail_unclear]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments
 
+[bias_slides]: https://docs.google.com/presentation/d/1xwTb1MCbeA0ZEP0YoD1naxGLAUAcOb-UniW4a67A6GM/edit?usp=sharing
 
-### 10/07 Jobs and Automation
+### 10/07 Jobs and Automation ([Slides][jobs_slides])
 
 **Please complete [this survey](https://forms.gle/EuMqimrun1iJmqUX9) ASAP!**
 
@@ -66,6 +67,7 @@ Algorithmic Bias
 [harness_auto]: https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works
 [no_drive]: https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html
 
+[jobs_slides]: https://docs.google.com/presentation/d/1_5vFFQbk8wuiL2Rtjs6o4Qmb-Uk926gktRUPPAIlECI/edit?usp=sharing 
 
 ### 09/30 Education ([Slides][ed_slides])
 
