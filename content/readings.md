@@ -11,6 +11,8 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 10/27 Politics and Media
 
+<!-- add media falsehoods link--> 
+
 ### 10/20 Memes
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdE4PE8d9qaZUgCTWW3Uvm0D3ydzgyw8rBPiYyIMUikfqZyog/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
