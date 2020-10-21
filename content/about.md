@@ -5,7 +5,7 @@ computer technology. The purpose of this course is to help students make
 informed and thoughtful choices about their careers, participation in society,
 and future development activities. Readings and lecture topics are drawn from a
 range of fields that together seek to describe our contemporary global society:
-sociology, philosophy, economics, public policy, etc.
+sociology, philosophy, economics, public policy, etc. 
 
 Weekly Schedule
 ---------------
@@ -15,7 +15,6 @@ Lecture: Wednesday 2:00 to 3:30 PM on Zoom
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 
 **Please finish the readings before class!**
-
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Piazza.
@@ -50,7 +49,7 @@ listed below:
  * Provide peer reviews for 9 essays.
 
 In the event that you do not earn the required number of points, we will provide
-an opportunity to make up extra work, though you should not count on this.
+an opportunity to make up extra work, though you should not count on this. 
 
 Lecture and Attendance
 ---------------
