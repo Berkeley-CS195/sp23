@@ -9,9 +9,19 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
-### 10/27 Politics and Media
+### 10/28 Politics and Media
 
-<!-- add media falsehoods link--> 
+- Recommended: Bogost, Madrigal, "[How Facebook Works for Trump][facebook_trump]"
+- Recommended: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]"
+- Extra: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
+- Extra: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]"
+- Extra: Kolbert, "[Why Facts Don't Change Our Minds][fact_mind]"
+
+[myanmar]: https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html
+[fact_mind]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+[college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
+[political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+[facebook_trump]: https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/ 
 
 ### 10/20 Memes
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdE4PE8d9qaZUgCTWW3Uvm0D3ydzgyw8rBPiYyIMUikfqZyog/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
