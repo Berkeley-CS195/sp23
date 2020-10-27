@@ -10,6 +10,7 @@
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
 ### 10/28 Politics and Media
+**Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe6REphOtU9mmQEfk-iZo-uwwBa9VyItB0XWyNuef6_sfTV2g/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
 - Recommended: Bogost, Madrigal, "[How Facebook Works for Trump][facebook_trump]"
 - Recommended: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]"
