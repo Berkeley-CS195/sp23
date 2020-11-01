@@ -9,6 +9,10 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 11/4 The U.S. Presidential Election
+
+There are no readings or a survey this week. Attendance is optional. Everyone will receive credit for attendance and a survey.
+
 ### 10/28 Politics and Media
 **Please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLSe6REphOtU9mmQEfk-iZo-uwwBa9VyItB0XWyNuef6_sfTV2g/viewform?usp=sf_link) by 11:59 PM on Tuesday night!**
 
