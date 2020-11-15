@@ -9,6 +9,25 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 11/18 Free Time and Attention
+
+- Recommended: Twenge, "[Have Smartphones Destroyed a Generation?][twenge_smartphones]" 
+- Recommendedional: Tingley, "[Is Screen Time Really Bad for Kids?][tingley_time]"
+- Extra: Tufekci, "[YouTube, the Great Radicalizer][tufekci_radical]"
+- Extra: Tolentino, "[How TikTok Holds Our Attention][tolentino_tok]"
+- Extra: Harris, "[How better tech could protect us from distraction][harris_distraction]"
+- Extra: Lil B, "[The Age Of Information MUSIC VIDEO DIRECTED BY LIL B][lil_information]"
+
+  [twenge_smartphones]: https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/
+  [tingley_time]: https://www.nytimes.com/2019/12/18/magazine/screen-time-kids-teens.html
+  [tufekci_radical]: https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
+  [tolentino_tok]: https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention
+  [harris_distraction]: https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next
+  [lil_information]: https://www.youtube.com/watch?v=corY-FZAZog
+  [attention_slides]: https://docs.google.com/presentation/d/1qE5knyYWmKmQLw0FHG7AOS1-vj0z6QvaQO5p7rhoaS0/edit?usp=sharing 
+
+
+
 ### 11/4 The 2020 U.S. Elections
 
 **Please complete [this survey](https://forms.gle/KDbaSfYuvgHgnUoPA) by 11:59 PM on Tuesday night, but preferably way before Tuesday so you can put in your predictions before the answer is maybe known.
