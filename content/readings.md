@@ -11,8 +11,10 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 11/18 Free Time and Attention
 
+**Please complete [this survey](https://forms.gle/GQs6HzaUfAHr1W4T9) by Tuesday 11/17 at 11:59 PM. As usual, late surveys will be accepted. **
+
 - Recommended: Twenge, "[Have Smartphones Destroyed a Generation?][twenge_smartphones]" 
-- Recommendedional: Tingley, "[Is Screen Time Really Bad for Kids?][tingley_time]"
+- Recommended: Tingley, "[Is Screen Time Really Bad for Kids?][tingley_time]"
 - Extra: Tufekci, "[YouTube, the Great Radicalizer][tufekci_radical]"
 - Extra: Tolentino, "[How TikTok Holds Our Attention][tolentino_tok]"
 - Extra: Harris, "[How better tech could protect us from distraction][harris_distraction]"
@@ -30,7 +32,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 ### 11/4 The 2020 U.S. Elections
 
-**Please complete [this survey](https://forms.gle/KDbaSfYuvgHgnUoPA) by 11:59 PM on Tuesday night, but preferably way before Tuesday so you can put in your predictions before the answer is maybe known.
+**Please complete [this survey](https://forms.gle/KDbaSfYuvgHgnUoPA) by 11:59 PM on Tuesday night, but preferably way before Tuesday so you can put in your predictions before the answer is maybe known.**
 
 There are no readings this week. Attendance is optional. Everyone will receive credit for attendance.
 
