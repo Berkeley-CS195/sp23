@@ -9,6 +9,14 @@
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
 
+### 12/2 The Entwined Futures of Humans and Machines
+
+**Please complete [this survey](https://forms.gle/km9WxPYjWchqQnqK9) by Tuesday 12/1 at 11:59 PM. As usual, late surveys will be accepted. **
+
+- Required: Lee, "[The Coevolution, Chapter 14][coevolution]"
+
+[coevolution]: https://drive.google.com/drive/u/0/folders/1ZLorAQRBoycqd33hCXRcoD1qaxrsa3T_
+
 ### 11/18 Free Time and Attention
 
 **Please complete [this survey](https://forms.gle/GQs6HzaUfAHr1W4T9) by Tuesday 11/17 at 11:59 PM. As usual, late surveys will be accepted. **
