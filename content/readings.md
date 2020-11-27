@@ -15,7 +15,7 @@ Readings are "required", "recommended", or "extra". Required readings must be do
 
 - Required: Lee, "[The Coevolution, Chapter 14][coevolution]"
 
-[coevolution]: https://drive.google.com/drive/u/0/folders/1ZLorAQRBoycqd33hCXRcoD1qaxrsa3T_
+[coevolution]: https://drive.google.com/file/d/1EpAgLeNftzHHv-m0FZkgF4pqE1nOfTss/view
 
 ### 11/18 Free Time and Attention
 
