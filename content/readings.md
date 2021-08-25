@@ -1,5 +1,5 @@
 ~ title: Topics, Readings, and Assignments
-
+<!-- 
 
 | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
 |-------|-----------------|-------------------|------------------|
@@ -8,8 +8,13 @@
 | 3     |       11/22      |       12/9        |          12/14        |
 
 Readings are "required", "recommended", or "extra". Required readings must be done before class for the discussion to make sense. Recommended readings will be used as major sources in lecture, but I won't assume you've read them.
+ -->
+ 
+### 09/02 Lecture 1: Free Speech ([Slides])
 
-### 12/2 The Entwined Futures of Humans and Machines
+In future weeks, readings will be required.
+
+<!-- ### 12/2 The Entwined Futures of Humans and Machines
 
 **Please complete [this survey](https://forms.gle/km9WxPYjWchqQnqK9) by Tuesday 12/1 at 11:59 PM. As usual, late surveys will be accepted. **
 
@@ -228,7 +233,7 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
   [alex_jones_ban]: https://www.theguardian.com/technology/2018/aug/10/alex-jones-banning-apple-facebook-youtube-twitter-free-speech
   
   [speech_slides]: https://docs.google.com/presentation/d/1JsXMgymHPQ6d6p1cbYTAAwpMZl7bYDhei84wArQBYXc/edit?usp=sharing
-
+ -->
 
 <!--
 - Optional: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tech responsibility?][alex_jones_ban]"
@@ -242,11 +247,11 @@ Extra: Wong, Solon, "[Does the banning of Alex Jones signal a new era of big tec
 
 -->
 
-### 08/26 SARS-CoV-2 ([Slides][covid_slides])
+<!-- ### 08/26 SARS-CoV-2 ([Slides][covid_slides])
 
 In future weeks, readings will be required and there will also be a survey to fill out. 
 
-[covid_slides]: https://docs.google.com/presentation/d/1vfKtxQrQaAhe0aCVXyWsGW70Yxw5Kf_y_jMpIXj8dIQ/edit
+[covid_slides]: https://docs.google.com/presentation/d/1vfKtxQrQaAhe0aCVXyWsGW70Yxw5Kf_y_jMpIXj8dIQ/edit -->
 
 <!--### Privacy 
 
