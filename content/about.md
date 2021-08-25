@@ -10,7 +10,7 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Lecture: Wednesday 2:00 to 3:30 PM on Zoom 
+Lecture: Wednesday 12:00 to 1:30 PM
 
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 
