@@ -10,7 +10,7 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
-### 9/1 Lecture 2: Privacy ([Slides](privacy_slides)
+### 9/1 Lecture 2: Privacy ([Slides](privacy_slides))
 
 Please complete this short [Lecture 2 survey](https://forms.gle/HLQkCFsyEXuedyLa8) by Tuesday 8/31 @ 11:59pm.
 
