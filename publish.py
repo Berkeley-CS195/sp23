@@ -23,6 +23,7 @@ def main():
         os.mkdir(PUB)
     templar('page.html', 'content/about.md', 'about.html')
     templar('page.html', 'content/readings.md', 'index.html')
+    templar('page.html', 'content/discussion.md', 'discussion.html')
 
     pub_assets = os.path.join(PUB, 'assets')
     if os.path.exists(pub_assets):
