@@ -10,7 +10,7 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
-### 9/1 Lecture 2: Privacy (Slides to be posted)
+### 9/1 Lecture 2: Privacy ([Slides](privacy_slides)
 
 Please complete this short [Lecture 2 survey](https://forms.gle/HLQkCFsyEXuedyLa8) by Tuesday 8/31 @ 11:59pm.
 
@@ -30,8 +30,7 @@ Please complete this short [Lecture 2 survey](https://forms.gle/HLQkCFsyEXuedyLa
 
 [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
 
-[privacy_slides]: https://docs.google.com/presentation/d/1maDpC6ixiWNhd0ikmM1XmAqjFo_LNCusvoDGnZg7Bd0/edit
-
+[privacy_slides]: https://docs.google.com/presentation/d/1maDpC6ixiWNhd0ikmM1XmAqjFo_LNCusvoDGnZg7Bd0/edit?usp=sharing
 
 ### 8/25 Lecture 1: Free Speech ([Slides][speech_slides])
 
