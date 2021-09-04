@@ -22,7 +22,7 @@ Historical Censorship and Surveillance in the U.S.:
 - Extra: Gage, "[What an Uncensored Letter to M.L.K. Reveals][uncensored_mlk]"
 
 
-[tank_man_america]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
+[tank_man_america]: https://www.bbc.com/news/world-asia-57367100
 
 [google_objector]: https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html
 
