@@ -12,7 +12,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 ### 9/8 Lecture 3: Government Censorship and Surveillance
 
-Please complete this short [Lecture 3 survey](https://forms.gle/Rv95Mn1WTBEVBeZU6) by Monday 9/6 @ 11:59pm. If you're late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
+Please complete this short [Lecture 3 survey](https://forms.gle/Rv95Mn1WTBEVBeZU6) by Monday 9/6 @ 11:59pm. If you are late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
 
 U.S. Tech Companies and Chinese Censorship and Surveillance:
 - Recommended: Gallagher, "[I Used to Work for Google. I Am a Conscientious Objector.][google_objector]" 
