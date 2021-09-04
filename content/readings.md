@@ -12,13 +12,13 @@ used as sources in lecture, but we won't assume you've read them.
 
 ### 9/8 Lecture 3: Government Censorship and Surveillance
 
-Please complete this short [Lecture 3 survey](https://forms.gle/Rv95Mn1WTBEVBeZU6) by Monday 9/6 @ 11:59pm. If you are late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
+Please complete this short [Lecture 3 survey](https://forms.gle/Rv95Mn1WTBEVBeZU6) by Monday 9/6 @ 11:59pm. If you're late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
 
 U.S. Tech Companies and Chinese Censorship and Surveillance:
 - Recommended: Gallagher, "[I Used to Work for Google. I Am a Conscientious Objector.][google_objector]" 
 - Recommended: BBC News, "[Microsoft says error caused 'Tank Man' Bing censorship][tank_man_america]" (the embedded video up top is also interesting)
 - Extra: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
-- Extra: Mozur, Buckley "[How China Uses High-Tech Surveillance to Subdue Minorities][https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html]"
+- Extra: Mozur, Buckley "[How China Uses High-Tech Surveillance to Subdue Minorities][china_subdue]"
 
 Historical Censorship and Surveillance in the U.S.: 
 - Extra: Kayyali, "[FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance][fbi_mlk]"
