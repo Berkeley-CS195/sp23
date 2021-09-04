@@ -14,7 +14,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 U.S. Tech Companies and Chinese Censorship and Surveillance:
 - Recommended: Gallagher, "[I Used to Work for Google. I Am a Conscientious Objector.][google_objector]" 
-- Recommended: BBC News, "[Microsoft says error caused 'Tank Man' Bing censorship][tank_man_america]"
+- Recommended: BBC News, "[Microsoft says error caused 'Tank Man' Bing censorship][tank_man_america]" (the embedded video up top is also interesting)
 - Extra: Mozur, Kessel, Chan, "[Made in China, Exported to the World: The Surveillance State][china_exported]"
 
 Historical Censorship and Surveillance in the U.S.: 
