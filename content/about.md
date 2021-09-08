@@ -62,5 +62,5 @@ group discussion, and class-wide debriefing.
 Attendance will be taken in class and is required [either virtual or in-person]. You cannot have a time conflict.* 
 The lecture is the vast majority of the experience of the class.
 
-*\*: If you have a half-hour conflict and you're also planning on doing H195, we might be able to accommodate you.*
+*: If you have a half-hour conflict and you're also planning on doing H195, we might be able to accommodate you.
 
