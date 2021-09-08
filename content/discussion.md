@@ -11,6 +11,8 @@ As we want to encourage participation and discussion, we are limiting enrollment
 
 To express your interest in CS H195, we kindly ask you to fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfm4ncKC3Q0xfQVjXMvmOiKB1kL2k7frAdpEOiVZ-PVl0XfoA/viewform?usp=sf_link) by the end of Saturday, 09/04. This form should take around 10-15 minutes to complete. We will let you know whether or not you were accepted into the course by the end of Sunday, 09/05.
 
+Update (09/08): **We still have open spaces in the class, so we will be accepting applications until the end of this week (09/12).**
+
 Assessment
 ---------------
 CS H195 is a 3-unit course. In addition to attending the regular weekly lecture, students will participate in weekly discussions and write reading responses, lead discussions and prepare presentations informed by their understanding of the material, and engage in a series of experiential and real-world assignments.
