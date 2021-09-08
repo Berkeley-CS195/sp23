@@ -10,7 +10,7 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
-### 9/8 Lecture 3: Government Censorship and Surveillance
+### 9/8 Lecture 3: Government Censorship and Surveillance ([Slides][surveillance_slides])
 
 Please complete this short [Lecture 3 survey](https://forms.gle/Rv95Mn1WTBEVBeZU6) by Monday 9/6 @ 11:59pm. If you're late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
 
@@ -36,6 +36,8 @@ Historical Censorship and Surveillance in the U.S.:
 [fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
 
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
+
+[surveillance_slides]: https://docs.google.com/presentation/d/1pg3QpN7CSyzoF95eN06GHIhMFaUORnWR0MAA-JZy_B0/edit?usp=sharing
 
 ### 9/1 Lecture 2: Privacy ([Slides][privacy_slides])
 
