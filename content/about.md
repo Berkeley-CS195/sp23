@@ -12,6 +12,8 @@ Weekly Schedule
 
 Lecture: Wednesday 12:10 to 1:30 PM
 
+Lecture will be in-person in the Sibley Auditorium, but we will also have a Zoom simulcast. Participation will be expected for both in-person and Zoom students. We'll make it work. There will not be after-the-fact recordings posted.
+
 Readings for each week will be released on the Wednesday before class (or thereabouts).
 
 **Please finish the readings before class!**
@@ -55,5 +57,10 @@ Lecture and Attendance
 ---------------
 
 Lecture is going to be a mix of presentations, students asking questions, small
-group discussion, and class-wide debriefing. Attendance will be taken in class.
+group discussion, and class-wide debriefing. 
+
+Attendance will be taken in class and is required [either virtual or in-person]. You cannot have a time conflict.* 
+The lecture is the vast majority of the experience of the class.
+
+*\*: If you have a half-hour conflict and you're also planning on doing H195, we might be able to accommodate you.*
 
