@@ -50,6 +50,8 @@ In order to receive a passing grade in CS 195, you must:
  * Provide peer reviews for 6 essays.
  * Complete the Ethics in the News assignment.
 
+We recognize that quite a few students enrolled late in the class and, therefore, we are making it possible to make up for the missed attendance of the first few lectures. [This post on Ed provides more information](https://edstem.org/us/courses/8605/discussion/596698).
+
 In the event that you do not earn the required number of points, we will provide
 an opportunity to make up extra work, though you should not count on this.
 
