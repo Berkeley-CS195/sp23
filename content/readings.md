@@ -12,6 +12,8 @@ used as sources in lecture, but we won't assume you've read them.
 
 ### 9/15 Lecture 4: Jobs and Technology
 
+Please complete this short [Lecture 4 survey](https://forms.gle/hRMNLJSnaefqoYk66) by Tuesday 9/14 @ 11:59pm.
+
 - Required: Williams, Alex, "[Will Robots Take Our Children's Jobs?][childrens_jobs]"
 - Required: McKinsey Global Institute, "[Harnessing automation for a future that works][harness_auto]"
 - Recommended: Yang, "[Yes, Robots Are Stealing Your Job][robot_steal]"
