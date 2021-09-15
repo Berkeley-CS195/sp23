@@ -10,7 +10,7 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
-### 9/15 Lecture 4: Jobs and Technology
+### 9/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
 
 Please complete this short [Lecture 4 survey](https://forms.gle/hRMNLJSnaefqoYk66) by Tuesday 9/14 @ 11:59pm.
 
@@ -25,6 +25,7 @@ Please complete this short [Lecture 4 survey](https://forms.gle/hRMNLJSnaefqoYk6
 [robot_steal]: https://www.nytimes.com/2019/11/14/opinion/andrew-yang-jobs.html
 [four_day]: https://www.nytimes.com/2019/11/08/business/four-day-work-week.html
 [no_drive]: https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html
+[jobs_slides]: https://docs.google.com/presentation/d/1U9UWxQasM9BpcWvWbaDsrIpuqdYOecZjYJhOs5c6J5I/edit?usp=sharing
 
 ### 9/8 Lecture 3: Government Censorship and Surveillance ([Slides][surveillance_slides])
 
@@ -42,17 +43,11 @@ Historical Censorship and Surveillance in the U.S.:
 
 
 [tank_man_america]: https://www.bbc.com/news/world-asia-57367100
-
 [google_objector]: https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html
-
 [china_subdue]: https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html
-
 [china_exported]: https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html
-
 [fbi_mlk]: https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance
-
 [uncensored_mlk]: https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html
-
 [surveillance_slides]: https://docs.google.com/presentation/d/1pg3QpN7CSyzoF95eN06GHIhMFaUORnWR0MAA-JZy_B0/edit?usp=sharing
 
 ### 9/1 Lecture 2: Privacy ([Slides][privacy_slides])
@@ -66,15 +61,10 @@ Please complete this short [Lecture 2 survey](https://forms.gle/HLQkCFsyEXuedyLa
 - Extra: Rachels, "[Why Privacy Is Important][privacy_important]"
 
 [yang_gang]: https://www.latimes.com/opinion/story/2020-06-23/andrew-yang-data-dividend-tech-privacy
-
 [care_privacy]: https://www.newyorker.com/magazine/2018/06/18/why-do-we-care-so-much-about-privacy
-
 [college_admissions]: https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/
-
 [powazek_product]: http://powazek.com/posts/3229
-
 [privacy_important]: https://www.jstor.org/stable/2265077?seq=1
-
 [privacy_slides]: https://docs.google.com/presentation/d/1maDpC6ixiWNhd0ikmM1XmAqjFo_LNCusvoDGnZg7Bd0/edit?usp=sharing
 
 ### 8/25 Lecture 1: Free Speech ([Slides][speech_slides])
