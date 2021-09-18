@@ -10,6 +10,22 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
+### 09/22 Education 
+
+**Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM on Monday night!**
+
+- Recommended: Smith, "[The Machines Are Learning, and So Are the Students][student_machines]"
+- Recommended: Upson, "[How an Epic Series of Tech Errors Hobbled Miami's Schools][error_miami]"
+- Extra: Reich "[Ed-Tech Mania Is Back][ed_mania]", requires registering free chronicle.com account.
+- Extra: Carey, "[An Online Education Breakthrough? A Master's Degree for a Mere $7,000][cheap_masters]"
+- Extra: Khan, "[I Started Khan Academy. We Can Still Avoid an Education Catastrophe.][khan_opinion]"
+
+[student_machines]: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
+[error_miami]: https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/
+[ed_mania]: https://www.chronicle.com/article/ed-tech-mania-is-back
+[cheap_masters]: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
+[khan_opinion]: https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html
+
 ### 9/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
 
 Please complete this short [Lecture 4 survey](https://forms.gle/hRMNLJSnaefqoYk66) by Tuesday 9/14 @ 11:59pm.
