@@ -25,7 +25,7 @@ used as sources in lecture, but we won't assume you've read them.
 [ed_mania]: https://www.chronicle.com/article/ed-tech-mania-is-back
 [cheap_masters]: https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html
 [khan_opinion]: https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html
-[education_slides]: https://docs.google.com/presentation/d/1Ui4qAIZUvY-d5q894kn55NY1rbU--jZnTM1Bo6nvwlQ
+[education_slides]: https://bit.ly/2ZmJa6W
 
 ### 9/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
 
