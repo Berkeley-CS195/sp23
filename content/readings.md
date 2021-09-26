@@ -10,9 +10,27 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
+### 09/29 Copyright & Patents
+
+**Please complete this short [Lecture 6 survey](https://forms.gle/ScY7VyZFk5rdcJM2A) by Tuesday 9/28 @ 11:59pm.**
+
+- Required: Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
+- Recommended: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
+- Optional: EFF, "[Victory for Fair Use: The Supreme Court Reverses the Federal Circuit in Oracle v. Google][google_v_oracle]"
+- Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
+- Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
+
+   [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
+   [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+   [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+   [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
+   [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+   [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+   [google_v_oracle]: https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google
+
 ### 09/22 Education ([Slides][education_slides])
 
-**Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM on Monday night!**
+Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM on Monday 9/20.
 
 - Recommended: Smith, "[The Machines Are Learning, and So Are the Students][student_machines]"
 - Recommended: Upson, "[How an Epic Series of Tech Errors Hobbled Miami's Schools][error_miami]"
