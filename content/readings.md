@@ -1,17 +1,16 @@
-~ title: Topics and Readings
+~ title: Topics, Readings, and Assignments
 
-Readings are "required", "recommended", or "extra". Required readings should be
-done before class for the discussion to make sense. Recommended readings will be
-used as sources in lecture, but we won't assume you've read them.
+| Date | Lecture Topic or Assignment                                        | Links |
+|------|-------------------------------------------------------------------|------------------------------|
+| 8/25 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
+| 9/1  | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey];      [Slides][privacy_slides]      |               
+| 9/8  | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |                
+| 9/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey];         [Slides][jobs_slides]         |       
+| 9/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey];    [Slides][education_slides]    | 
+| 9/26 | Essay 1 Proposal Due ([>][assignments_anchor])                    | [Proposal Form][essay_1_proposal]                            | 
+| 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                   | 
+| 9/29 | **Essay 1 Due** ([>][assignments_anchor])                             |                                                              | 
 
-| Date | Topic                                              | Survey | Slides |
-|------|-------------------------------------------------------------------|--------|-------------------------------|
-| 8/25 | Free Speech ([∨][free_speech_anchor])                             | N/A                         | [Link][speech_slides]       |
-| 9/1  | Privacy ([∨][privacy_anchor])                                     | [Link][privacy_survey]      | [Link][privacy_slides]      |               
-| 9/8  | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Link][surveillance_survey] | [Link][surveillance_slides] |                
-| 9/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Link][jobs_survey]         | [Link][jobs_slides].        |       
-| 9/22 | Education ([∨][education_anchor])                                 | [Link][education_survey]    | [Link][education_slides]    | 
-| 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Link][copyright_survey]    | -                           | 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
@@ -19,6 +18,13 @@ used as sources in lecture, but we won't assume you've read them.
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
 [education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
+
+[assignments_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html
+[essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
+
+Readings are "required", "recommended", or "extra". Required readings should be
+done before class for the discussion to make sense. Recommended readings will be
+used as sources in lecture, but we won't assume you've read them.
 
 ### 9/29 Lecture 6: Copyright & Patents
 
