@@ -2,7 +2,7 @@
 
 CS H195 complement and supplement the topics presented in CS 195 lecture series. Students are expected to engage at a deeper level with the assigned weekly readings and be prepared to engage in thoughtful and constructive discussions around the course material. Where applicable, we will invite guest speakers from industry and academia to present their work and to participate in discussions alongside students. CS H195 will encourage students to go beyond thinking about computer technology as solely an engineering problem but instead viewing it holistically from the perspective of social sciences, legal studies, and policymaking. 
 
-Please find the up-to-date syllabus in the following [bCourses class description](https://bcourses.berkeley.edu/courses/1510096).
+Please find the up-to-date syllabus on the following [bCourses class website](https://bcourses.berkeley.edu/courses/1510096).
 
 Assessment
 ---------------
