@@ -9,7 +9,7 @@
 | 9/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey];    [Slides][education_slides]    | 
 | 9/26 | Essay 1 Proposal Due                                              | [Proposal Form][essay_1_proposal]                            | 
 | 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                   | 
-| 9/29 | **Essay 1 Due**                                                   | [Proposal Form][essay_1_submission]                          | 
+| 9/29 | **Essay 1 Due**                                                   | [Submission Link][essay_1_submission]                          | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
