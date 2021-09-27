@@ -2,16 +2,7 @@
 
 CS H195 complement and supplement the topics presented in CS 195 lecture series. Students are expected to engage at a deeper level with the assigned weekly readings and be prepared to engage in thoughtful and constructive discussions around the course material. Where applicable, we will invite guest speakers from industry and academia to present their work and to participate in discussions alongside students. CS H195 will encourage students to go beyond thinking about computer technology as solely an engineering problem but instead viewing it holistically from the perspective of social sciences, legal studies, and policymaking. 
 
-Please find the up-to-date syllabus in the following [Google Doc](https://docs.google.com/document/d/1tTwwujxQVvOdvV72UhG1RAOXMsWm2z-G3YVBqCqMl3g/edit?usp=sharing).
-
-Class Enrollment
----------------
-
-As we want to encourage participation and discussion, we are limiting enrollment to a smaller subset of students taking CS 195. If demand exceeds capacity, then we will also have to move to a competitive application process. 
-
-To express your interest in CS H195, we kindly ask you to fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfm4ncKC3Q0xfQVjXMvmOiKB1kL2k7frAdpEOiVZ-PVl0XfoA/viewform?usp=sf_link) by the end of Saturday, 09/04. This form should take around 10-15 minutes to complete. We will let you know whether or not you were accepted into the course by the end of Sunday, 09/05.
-
-Update (09/08): **We still have open spaces in the class, so we will be accepting applications until the end of this week (09/12).**
+Please find the up-to-date syllabus in the following [bCourses class description](https://bcourses.berkeley.edu/courses/1510096).
 
 Assessment
 ---------------
