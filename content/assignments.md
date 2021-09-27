@@ -12,13 +12,14 @@ You will write two short essays (500-1000 words) of varying format in relation
 to issues discussed in class. Essays are peer reviewed, which means you will
 review six essays and have each of your essays reviewed by three of your peers.
 
-### Essay 1 ([Proposal Form][essay_1_proposal])
+Essay 1 ([Proposal Form][essay_1_proposal])
+------
 
 Proposal due: Sunday, September 26th (soft deadline).<br>
 Essay Due: Wednesday, September 29th (**hard deadline, no exceptions**).<br>
 Peer reviews due: Wednesday, October 6th.
 
-#### Assignment Description
+### Assignment Description
 
 Choose your own essay related to one of the lecture topics from the first five weeks (Free Speech, Privacy, Government Censorship and Surveillance, Jobs, Education). You may also discuss multiple topics. Here are the three focus areas you may choose:
 
@@ -32,9 +33,17 @@ For example, suppose I were very interested in Government Censorship and Surveil
 
 Due to constraints with the platform we use for peer grading, we cannot offer any extensions to anyone for any reason. If you forget or have a technical glitch we will have a makeup essay later at the very end of the semester. Essays should be short: In the range of 500-1000 words. The goal is for you to explore a topic that you find interesting! Your essays will ultimately be graded (on a 0, 1, or 2 scale) by your peers.
  
-#### Submission
+### Submission
 
 Please upload your essay by going to the [following link on CrowdGrader][essay_1_submission]. You will need to create an account using your Berkeley email address and upload your essay in .txt or .pdf format.
+
+### Grading
+
+You will be evaluated on the following criteria by about three of your peers on a scale of 0 to 2:
+
+2: The essay discusses the assigned topic, makes at least one coherent argument, and provides evidence or examples as support.<br>
+1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
+0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
