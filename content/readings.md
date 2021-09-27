@@ -9,7 +9,7 @@
 | 9/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey];    [Slides][education_slides]    | 
 | 9/26 | Essay 1 Proposal Due                                              | [Proposal Form][essay_1_proposal]                            | 
 | 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                   | 
-| 9/29 | **Essay 1 Due**                                                   |                                                              | 
+| 9/29 | **Essay 1 Due**                                                   | [Proposal Form][essay_1_submission]                          | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -20,6 +20,7 @@
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
+[essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
