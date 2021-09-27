@@ -1,9 +1,9 @@
 ~ title: Assignments
 
-| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due | Links                             |
-|-------|--------------------|-----------------|------------------|-----------------------------------|
-| 1     | Sunday 9/26        | Wednesday 09/29 | Wednesday 10/06  | [Proposal Form][essay_1_proposal] |
-| 2     |       -            | -               | -                | -                                 |
+| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due | Links                                                                    |
+|-------|--------------------|-----------------|------------------|--------------------------------------------------------------------------|
+| 1     | Sunday 9/26        | Wednesday 09/29 | Wednesday 10/06  | [Proposal Form][essay_1_proposal]<br>[Submission Link][essay_1_submission] |
+| 2     |       -            | -               | -                | -                                                                        |
 
 Essays
 ------
@@ -33,6 +33,7 @@ Due to constraints with the platform we use for peer grading, we cannot offer an
 Information about essay submission instructions to come.
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
+[essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
 
 Ethics in the News
 ------------------
