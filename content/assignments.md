@@ -1,9 +1,9 @@
 ~ title: Assignments
 
-| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due |
-|-------|--------------------|-----------------|------------------|
-| 1     | Sunday 9/26        | Wednesday 09/29 | Wednesday 10/06  |
-| 2     |       -            | -               | -                |
+| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due | Links                             |
+|-------|--------------------|-----------------|------------------|-----------------------------------|
+| 1     | Sunday 9/26        | Wednesday 09/29 | Wednesday 10/06  | [Proposal Form][essay_1_proposal] |
+| 2     |       -            | -               | -                | -                                 |
 
 Essays
 ------
@@ -12,7 +12,7 @@ You will write two short essays (500-1000 words) of varying format in relation
 to issues discussed in class. Essays are peer reviewed, which means you will
 review six essays and have each of your essays reviewed by three of your peers.
 
-### Essay 1 ([Proposal Form](https://forms.gle/sb3JoT6bDGSpDFsg8))
+### Essay 1 ([Proposal Form][essay_1_proposal])
 
 Proposal due: Sunday, September 26th (soft deadline).<br>
 Essay Due: Wednesday, September 29th (**hard deadline, no exceptions**).<br>
@@ -31,6 +31,8 @@ For example, suppose I were very interested in Government Censorship and Surveil
 Due to constraints with the platform we use for peer grading, we cannot offer any extensions to anyone for any reason. If you forget or have a technical glitch we will have a makeup essay later at the very end of the semester. Essays should be short: In the range of 500-1000 words. The goal is for you to explore a topic that you find interesting! Your essays will ultimately be graded (on a 0, 1, or 2 scale) by your peers.
  
 Information about essay submission instructions to come.
+
+[essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 
 Ethics in the News
 ------------------
