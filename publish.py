@@ -25,6 +25,7 @@ def main():
     templar('page.html', 'content/readings.md', 'index.html')
     templar('page.html', 'content/discussion.md', 'discussion.html')
     templar('page.html', 'content/staff.md', 'staff.html')
+    templar('page.html', 'content/assignments.md', 'assignments.html')
 
     pub_assets = os.path.join(PUB, 'assets')
     if os.path.exists(pub_assets):
