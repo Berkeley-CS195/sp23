@@ -18,6 +18,8 @@ Proposal due: Sunday, September 26th (soft deadline).<br>
 Essay Due: Wednesday, September 29th (**hard deadline, no exceptions**).<br>
 Peer reviews due: Wednesday, October 6th.
 
+#### Assignment Description
+
 Choose your own essay related to one of the lecture topics from the first five weeks (Free Speech, Privacy, Government Censorship and Surveillance, Jobs, Education). You may also discuss multiple topics. Here are the three focus areas you may choose:
 
 * Debates. Discuss a controversial and/or unresolved issue related to your chosen topic. This could be a current or historical debate, where you choose a side (please explain why you chose this side), and discuss the merits and demerits of both sides of the argument equally so that readers have a clear view of both sides.
@@ -30,7 +32,9 @@ For example, suppose I were very interested in Government Censorship and Surveil
 
 Due to constraints with the platform we use for peer grading, we cannot offer any extensions to anyone for any reason. If you forget or have a technical glitch we will have a makeup essay later at the very end of the semester. Essays should be short: In the range of 500-1000 words. The goal is for you to explore a topic that you find interesting! Your essays will ultimately be graded (on a 0, 1, or 2 scale) by your peers.
  
-Information about essay submission instructions to come.
+#### Submission
+
+Please upload your essay by going to the [following link on CrowdGrader][essay_1_submission]. You will need to create an account using your Berkeley email address and upload your essay in .txt or .pdf format.
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
