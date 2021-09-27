@@ -24,8 +24,8 @@ used as sources in lecture, but we won't assume you've read them.
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
 [surveillance_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-8-lecture-3-government-censorship-and-surveillance-slides
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
-[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-22-education-slides
-[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-29-copyright-amp-patents
+[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
+[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
 
 ### 9/29 Lecture 6: Copyright & Patents
 
