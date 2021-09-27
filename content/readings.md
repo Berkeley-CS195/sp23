@@ -1,15 +1,15 @@
 ~ title: Topics, Readings, and Assignments
 
-| Date | Lecture Topic or Assignment                                       | Links                                                          |
-|------|-------------------------------------------------------------------|----------------------------------------------------------------|
-| 8/25 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                        |
-| 9/1  | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey]<br>[Slides][privacy_slides]           |
-| 9/8  | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]<br>[Slides][surveillance_slides] |       
-| 9/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]<br>[Slides][jobs_slides]                 |       
-| 9/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey]<br>[Slides][education_slides]       | 
-| 9/26 | Essay 1 Proposal Due                                              | [Proposal Form][essay_1_proposal]                              |
-| 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                     | 
-| 9/29 | **Essay 1 Due**                                                   | [Submission Link][essay_1_submission]                          | 
+| Date | Lecture Topic or Assignment                                       | Links                                                        |
+|------|-------------------------------------------------------------------|--------------------------------------------------------------|
+| 8/25 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
+| 9/1  | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey]; [Slides][privacy_slides]           |
+| 9/8  | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |       
+| 9/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |       
+| 9/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       | 
+| 9/26 | Essay 1 Proposal Due                                              | [Proposal Form][essay_1_proposal]                            |
+| 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                   | 
+| 9/29 | **Essay 1 Due**                                                   | [Submission Link][essay_1_submission]                        | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
