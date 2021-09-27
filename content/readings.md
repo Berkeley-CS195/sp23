@@ -1,10 +1,9 @@
 ~ title: Topics, Readings, and Assignments
 
-<!-- | Essay | Essay Assigned  | Essay Due         | Peer Reviews Due |
-|-------|-----------------|-------------------|------------------|
-| 1     |       TBD       |        TBD        |        TBD       |
-| 2     |       TBD       |        TBD        |        TBD       |
-| 3     |       TBD       |        TBD        |        TBD       | -->
+| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due |
+|-------|--------------------|-----------------|------------------|
+| 1     | Sunday 9/26        | Wednesday 09/29 | Wednesday 10/06  |
+| 2     |       -            | -               | -                |
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
