@@ -13,12 +13,12 @@ used as sources in lecture, but we won't assume you've read them.
 
 | Date | Topic                                              | Survey | Slides |
 |------|-------------------------------------------------------------------|--------|-------------------------------|
-| 8/25 | Free Speech ([∨](free_speech_anchor))                             | N/A                         | [Link][speech_slides]       |
-| 9/1  | Privacy ([∨](privacy_anchor))                                     | [Link][privacy_survey]      | [Link][privacy_slides]      |               
-| 9/8  | Government Censorship and Surveillance ([∨](surveillance_anchor)) | [Link][surveillance_survey] | [Link][surveillance_slides] |                
-| 9/15 | Jobs and Technology ([∨](jobs_anchor))                            | [Link][jobs_survey]         | [Link][jobs_slides].        |       
-| 9/22 | Education ([∨](education_anchor))                                 | [Link][education_survey]    | [Link][education_slides]    | 
-| 9/29 | Copyright & Patents ([∨](copyright_anchor))                       | [Link][copyright_survey]    | -                           | 
+| 8/25 | Free Speech ([∨][free_speech_anchor])                             | N/A                         | [Link][speech_slides]       |
+| 9/1  | Privacy ([∨][privacy_anchor])                                     | [Link][privacy_survey]      | [Link][privacy_slides]      |               
+| 9/8  | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Link][surveillance_survey] | [Link][surveillance_slides] |                
+| 9/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Link][jobs_survey]         | [Link][jobs_slides].        |       
+| 9/22 | Education ([∨][education_anchor])                                 | [Link][education_survey]    | [Link][education_slides]    | 
+| 9/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Link][copyright_survey]    | -                           | 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
