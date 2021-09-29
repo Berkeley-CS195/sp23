@@ -8,7 +8,7 @@
 | 9/15  | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |       
 | 9/22  | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       | 
 | 9/26  | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
-| 9/29  | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]                                   | 
+| 9/29  | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
 | 9/29  | **Essay 1 Due at 11:59 PM**                                       | [Submission Link][essay_1_submission]                        | 
 | 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              |                                                              | 
 
@@ -29,7 +29,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 9/29 Lecture 6: Copyright & Patents
+### 9/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
 
 **Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 @ 11:59pm.**
 
@@ -47,7 +47,8 @@ More information about the assignments, including the essays, can be found on th
  [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
  [google_v_oracle]: https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google
  
- [copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
+[copyright_slides]: https://docs.google.com/presentation/d/1QQN-tVRR6uYCb38zoRT1nZomJr1gvXo_h92f45k9sG0/edit?usp=sharing
+[copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
 
 ### 9/22 Lecture 5: Education ([Slides][education_slides])
 
