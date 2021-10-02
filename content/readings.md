@@ -31,8 +31,8 @@ More information about the assignments, including the essays, can be found on th
 
 ### 10/6 Lecture 7: Memes 
 
- - Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes](ivermectin_crates)"
- - Recommended: CGP Gray, ["This Video Will Make You Angry](angry_video)"
+ - Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes][ivermectin_crates]"
+ - Recommended: CGP Gray, ["This Video Will Make You Angry][angry_video]"
 
 [ivermectin_crates]: https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes
 [angry_video]: https://www.youtube.com/watch?v=rE3j_RHkqJc
