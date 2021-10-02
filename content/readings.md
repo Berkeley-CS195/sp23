@@ -31,11 +31,18 @@ More information about the assignments, including the essays, can be found on th
 
 ### 10/6 Lecture 7: Memes 
 
- - Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes][ivermectin_crates]"
- - Recommended: CGP Gray, ["This Video Will Make You Angry][angry_video]"
+- Recommended: Pearson, Rix (?), "[The Holiest of Yields][holiest_yield]"
+- Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes][ivermectin_crates]"
+- Recommended: CGP Gray, ["This Video Will Make You Angry][angry_video]"
+- Extra: Heath, Bell, Sternberg, "[Emotional selection in memes: the case of urban legends][emotional_memes]" (required Berkeley VPN)
+- Extra: Shullenberger, "[Mimesis, Violence, and Facebook: Peter Thiel's French Connection][thiel_questionable]" (very weird/questionable read, but interesting)
 
+[holiest_yield]: https://www.tiktok.com/@holiest_of_yields/video/7011760275510529285
 [ivermectin_crates]: https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes
 [angry_video]: https://www.youtube.com/watch?v=rE3j_RHkqJc
+[emotional_memes]: https://psycnet.apa.org/record/2001-05428-005
+[thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
+
 
 ### 9/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
 
