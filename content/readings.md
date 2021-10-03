@@ -2,15 +2,16 @@
 
 | Date  | Lecture Topic or Assignment                                       | Links                                                        |
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
-| 8/25  | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
-| 9/1   | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey]; [Slides][privacy_slides]           |
-| 9/8   | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |       
-| 9/15  | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |       
-| 9/22  | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       | 
-| 9/26  | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
-| 9/29  | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
-| 9/29  | **Essay 1 Due at 11:59 PM**                                       | [Submission Link][essay_1_submission]                        | 
-| 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              |                                                              | 
+| 08/25 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
+| 09/01 | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey]; [Slides][privacy_slides]           |
+| 09/08 | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |       
+| 09/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |       
+| 09/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       | 
+| 09/26 | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
+| 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
+| 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        | 
+| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]                                       | 
+| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link (same as Submission Link)][essay_1_submission]  | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -19,6 +20,7 @@
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
 [education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
+<!-- [memes_anchor]: -->
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
@@ -30,6 +32,8 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
 ### 10/6 Lecture 7: Memes 
+
+**Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 11:59pm.**
 
 - Recommended: Pearson, Rix (?), "[The Holiest of Yields][holiest_yield]"
 - Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes][ivermectin_crates]"
@@ -43,10 +47,12 @@ More information about the assignments, including the essays, can be found on th
 [emotional_memes]: https://psycnet.apa.org/record/2001-05428-005
 [thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
 
+[memes_survey]: https://docs.google.com/forms/d/e/1FAIpQLSd0MTzmqRrnUgxybEuQofDAqJLzQp_hu2_YiJkRJCAS32QrGA/viewform?usp=sf_link
+
 
 ### 9/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
 
-**Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 @ 11:59pm.**
+Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 @ 11:59pm.
 
 - Required: Stallman, Richard, "[Misinterpreting Copyright--A Series of Errors][misinterpreting_copyright]"
 - Recommended: Mullin, Joe, "['Your criticisms are completely wrong': Stallman on software patents, 20 years in][your_criticisms]"
@@ -54,13 +60,13 @@ More information about the assignments, including the essays, can be found on th
 - Optional: Stallman, Richard, "[The Danger of Software Patents][danger_transcript]" ([video][danger_video])
 - Optional: Heckel, Paul, "[Debunking the Software Patent Myths][debunk]"
 
- [patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
- [misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
- [your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
- [danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
- [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
- [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
- [google_v_oracle]: https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google
+[patent_vs_copyright]: https://www.linkedin.com/pulse/patent-vs-copyright-protection-computer-software-de-cardenas-jd-mba
+[misinterpreting_copyright]: http://www.gnu.org/philosophy/misinterpreting-copyright.html
+[your_criticisms]: https://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/
+[danger_transcript]: https://www.gnu.org/philosophy/danger-of-software-patents.en.html
+[danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
+[debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
+[google_v_oracle]: https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google
  
 [copyright_slides]: https://docs.google.com/presentation/d/1QQN-tVRR6uYCb38zoRT1nZomJr1gvXo_h92f45k9sG0/edit?usp=sharing
 [copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
