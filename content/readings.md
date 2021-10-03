@@ -10,8 +10,8 @@
 | 09/26 | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
 | 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
 | 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        | 
-| 10/06 | Memes                                                             | [Survey][memes_survey]                                       | 
-| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link (same as Submission Link)][essay_1_submission]  | 
+| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]                                       | 
+| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]  | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -20,7 +20,7 @@
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
 [education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
-<!-- [memes_anchor]: -->
+[memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
