@@ -19,7 +19,7 @@
 [surveillance_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-8-lecture-3-government-censorship-and-surveillance-slides
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
 [education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
-[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents
+[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents-slides
 [memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
