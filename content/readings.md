@@ -10,8 +10,8 @@
 | 09/26 | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
 | 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
 | 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        | 
-| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]                                       | 
-| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]  | 
+| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               | 
+| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]                            | 
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -31,7 +31,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 10/6 Lecture 7: Memes 
+### 10/6 Lecture 7: Memes ([Slides][memes_slides])
 
 **Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 11:59pm.**
 
@@ -47,6 +47,7 @@ More information about the assignments, including the essays, can be found on th
 [emotional_memes]: https://psycnet.apa.org/record/2001-05428-005
 [thiel_questionable]: https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/
 
+[memes_slides]: https://docs.google.com/presentation/d/1aNvrcGMyaC10dYWp5ROPrBkkvJBQ9tdzc2wIWku17yk/edit?usp=sharing
 [memes_survey]: https://docs.google.com/forms/d/e/1FAIpQLSd0MTzmqRrnUgxybEuQofDAqJLzQp_hu2_YiJkRJCAS32QrGA/viewform?usp=sf_link
 
 
