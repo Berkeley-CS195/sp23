@@ -35,7 +35,8 @@ More information about the assignments, including the essays, can be found on th
 **Survey coming soon.**
 
 - Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]" 
-- Recommended: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]" 
+- Recommended: Barwick, Ryan, "[Brands are still playing ball with clickbait ad sites, advertising’s roach that will survive the bomb][chumbox]"
+- Extra: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]" 
 - Extra: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
 - Extra: Kolbert, "[Why Facts Don't Change Our Minds][fact_mind]"
 - Extra: McClain, Collen, "[70% of U.S. social media users never or rarely post or share about political, social issues][never_share]" 
@@ -45,6 +46,7 @@ More information about the assignments, including the essays, can be found on th
 [college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
 [political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
 [never_share]: https://www.pewresearch.org/fact-tank/2021/05/04/70-of-u-s-social-media-users-never-or-rarely-post-or-share-about-political-social-issues/
+[chumbox]: https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb
 
 ### 10/6 Lecture 7: Memes ([Slides][memes_slides])
 
