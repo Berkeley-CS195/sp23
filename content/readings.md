@@ -31,6 +31,21 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
+### 10/13 Lecture 8: Politics and Media
+**Survey coming soon.**
+
+- Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]" 
+- Recommended: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]" 
+- Extra: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
+- Extra: Kolbert, "[Why Facts Don't Change Our Minds][fact_mind]"
+- Extra: McClain, Collen, "[70% of U.S. social media users never or rarely post or share about political, social issues][never_share]" 
+   
+[myanmar]: https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html
+[fact_mind]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+[college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
+[political_fragmentation]: https://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00118?journalCode=daed
+[never_share]: https://www.pewresearch.org/fact-tank/2021/05/04/70-of-u-s-social-media-users-never-or-rarely-post-or-share-about-political-social-issues/
+
 ### 10/6 Lecture 7: Memes ([Slides][memes_slides])
 
 **Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 11:59pm.**
