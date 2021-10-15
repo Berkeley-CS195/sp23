@@ -4,21 +4,21 @@
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
 | 08/25 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
 | 09/01 | Privacy ([∨][privacy_anchor])                                     | [Survey][privacy_survey]; [Slides][privacy_slides]           |
-| 09/08 | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |       
-| 09/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |       
-| 09/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       | 
+| 09/08 | Government Censorship and Surveillance ([∨][surveillance_anchor]) | [Survey][surveillance_survey]; [Slides][surveillance_slides] |
+| 09/15 | Jobs and Technology ([∨][jobs_anchor])                            | [Survey][jobs_survey]; [Slides][jobs_slides]                 |
+| 09/22 | Education ([∨][education_anchor])                                 | [Survey][education_survey]; [Slides][education_slides]       |
 | 09/26 | Essay 1 Proposal Due at 11:59pm                                   | [Proposal Form][essay_1_proposal]                            |
-| 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       | 
-| 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        | 
-| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               | 
-| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]                            | 
+| 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       |
+| 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        |
+| 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               |
+| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]                            |
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
 [surveillance_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-8-lecture-3-government-censorship-and-surveillance-slides
 [jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
-[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides 
+[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents-slides
 [memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
 
@@ -31,16 +31,40 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
+### 10/20 Lecture 9: Software Risks and Algorithmic Bias
+
+**Please complete [this survey](https://forms.gle/adHhSpoRA5PoHb5bA) by Tuesday 10/19 @ 11:59 PM!**
+
+
+Software Risks:
+- Required: Fabio, Adam, "[Killed by a Machine: The Therac-25][hackadaytherac]"
+- Recommended: Hao, Karen, "[Should a self-driving car kill the baby or the grandma? Depends on where you're from.][moral_machine]" (Optional: [take the test](http://moralmachine.mit.edu/), [visualize the results](http://moralmachineresults.scalablecoop.org/), or [read the journal publication](https://www.nature.com/articles/s41586-018-0637-6))
+- Optional: Neumann, Peter G., "[Risks of Automation: A Cautionary Total-System Perspective of Our Cyberfuture][neumannrisks]" (need to read on campus or through campus VPN)
+- Optional: Tufekci, Zeynep, "[We're building a dystopia just to make people click on ads][dystopian_ads]" (video)
+
+Algorithmic Bias:
+- Recommended: Angwin, Julia, "[Make Algorithms Accountable.][accountability]"
+- Recommended: Davies, Sam, and Pierson, Emma, and Feller, Avi and  Goel, Sharad, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
+- Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
+
+   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
+
 ### 10/13 Lecture 8: Politics and Media
 **Please complete this short [Lecture 8 survey][politics_and_media_survey] by Tuesday 10/12 @ 11:59pm.**
 
-- Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]" 
+- Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]"
 - Recommended: Barwick, Ryan, "[Brands are still playing ball with clickbait ad sites, advertising’s roach that will survive the bomb][chumbox]"
-- Extra: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]" 
+- Extra: Smiley, "[The College Kids Doing What Twitter Won't][college_twitter]"
 - Extra: Garrett, Resnick, "[Resisting Political Fragmentation on the Internet][political_fragmentation]"
 - Extra: Kolbert, "[Why Facts Don't Change Our Minds][fact_mind]"
-- Extra: McClain, Collen, "[70% of U.S. social media users never or rarely post or share about political, social issues][never_share]" 
-   
+- Extra: McClain, Collen, "[70% of U.S. social media users never or rarely post or share about political, social issues][never_share]"
+
 [myanmar]: https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html
 [fact_mind]: https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
 [college_twitter]: https://www.wired.com/story/the-college-kids-doing-what-twitter-wont/
@@ -87,7 +111,7 @@ Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 
 [danger_video]: https://www.youtube.com/watch?v=aiKRt3-FbM0
 [debunk]: http://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/heckel-debunking.html
 [google_v_oracle]: https://www.eff.org/deeplinks/2021/04/victory-fair-use-supreme-court-reverses-federal-circuit-oracle-v-google
- 
+
 [copyright_slides]: https://docs.google.com/presentation/d/1QQN-tVRR6uYCb38zoRT1nZomJr1gvXo_h92f45k9sG0/edit?usp=sharing
 [copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
 
