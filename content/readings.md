@@ -11,7 +11,9 @@
 | 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       |
 | 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        |
 | 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               |
-| 10/06 | **Essay 1 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_1_submission]                            |
+| 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                             | [Review Link][essay_1_submission]                            |
+| 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_and_media_survey];      |
+| 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey];       |
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -21,6 +23,8 @@
 [education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides
 [copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents-slides
 [memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
+[politics_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-13-lecture-8-politics-and-media
+[bias_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-20-lecture-9-software-risks-and-algorithmic-bias
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
@@ -33,7 +37,7 @@ More information about the assignments, including the essays, can be found on th
 
 ### 10/20 Lecture 9: Software Risks and Algorithmic Bias
 
-**Please complete [this survey](https://forms.gle/adHhSpoRA5PoHb5bA) by Tuesday 10/19 @ 11:59 PM!**
+**Please complete this short [Lecture 9 survey][bias_survey] by Tuesday 10/19 @ 11:59 PM!**
 
 
 Software Risks:
@@ -54,9 +58,11 @@ Algorithmic Bias:
    [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
    [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
    [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
+   
+   [bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
 
 ### 10/13 Lecture 8: Politics and Media
-**Please complete this short [Lecture 8 survey][politics_and_media_survey] by Tuesday 10/12 @ 11:59pm.**
+Please complete this short [Lecture 8 survey][politics_and_media_survey] by Tuesday 10/12 @ 11:59pm.
 
 - Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]"
 - Recommended: Barwick, Ryan, "[Brands are still playing ball with clickbait ad sites, advertising’s roach that will survive the bomb][chumbox]"
@@ -74,9 +80,9 @@ Algorithmic Bias:
 
 [politics_and_media_survey]: https://forms.gle/ab5SjUtYB6YsN3zc6
 
-### 10/6 Lecture 7: Memes ([Slides][memes_slides])
+### 10/06 Lecture 7: Memes ([Slides][memes_slides])
 
-**Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 11:59pm.**
+Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 11:59pm.
 
 - Recommended: Pearson, Rix (?), "[The Holiest of Yields][holiest_yield]"
 - Recommended: Chayka, Kyle, "[Ivermectin, the Crate Challenge, and the Danger of Runaway Memes][ivermectin_crates]"
@@ -94,7 +100,7 @@ Algorithmic Bias:
 [memes_survey]: https://docs.google.com/forms/d/e/1FAIpQLSd0MTzmqRrnUgxybEuQofDAqJLzQp_hu2_YiJkRJCAS32QrGA/viewform?usp=sf_link
 
 
-### 9/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
+### 09/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
 
 Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 @ 11:59pm.
 
@@ -115,7 +121,7 @@ Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 
 [copyright_slides]: https://docs.google.com/presentation/d/1QQN-tVRR6uYCb38zoRT1nZomJr1gvXo_h92f45k9sG0/edit?usp=sharing
 [copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
 
-### 9/22 Lecture 5: Education ([Slides][education_slides])
+### 09/22 Lecture 5: Education ([Slides][education_slides])
 
 Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM on Monday 9/20.
 
@@ -134,7 +140,7 @@ Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM o
 [education_slides]: https://bit.ly/2ZmJa6W
 [education_survey]: https://forms.gle/LCbLPGyVi1rkjFz17
 
-### 9/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
+### 09/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
 
 Please complete this short [Lecture 4 survey][jobs_survey] by Tuesday 9/14 @ 11:59pm.
 
@@ -153,7 +159,7 @@ Please complete this short [Lecture 4 survey][jobs_survey] by Tuesday 9/14 @ 11:
 [jobs_slides]: https://docs.google.com/presentation/d/1U9UWxQasM9BpcWvWbaDsrIpuqdYOecZjYJhOs5c6J5I/edit?usp=sharing
 [jobs_survey]: https://forms.gle/hRMNLJSnaefqoYk66
 
-### 9/8 Lecture 3: Government Censorship and Surveillance ([Slides][surveillance_slides])
+### 09/08 Lecture 3: Government Censorship and Surveillance ([Slides][surveillance_slides])
 
 Please complete this short [Lecture 3 survey][surveillance_survey] by Monday 9/6 @ 11:59pm. If you're late that's OK, but earlier responses make it easier for me to tailor the lecture to your interests.
 
@@ -178,7 +184,7 @@ Historical Censorship and Surveillance in the U.S.:
 [surveillance_slides]: https://docs.google.com/presentation/d/1pg3QpN7CSyzoF95eN06GHIhMFaUORnWR0MAA-JZy_B0/edit?usp=sharing
 [surveillance_survey]: https://forms.gle/Rv95Mn1WTBEVBeZU6
 
-### 9/1 Lecture 2: Privacy ([Slides][privacy_slides])
+### 09/01 Lecture 2: Privacy ([Slides][privacy_slides])
 
 Please complete this short [Lecture 2 survey][privacy_survey] by Tuesday 8/31 @ 11:59pm.
 
@@ -197,7 +203,7 @@ Please complete this short [Lecture 2 survey][privacy_survey] by Tuesday 8/31 @ 
 [privacy_slides]: https://docs.google.com/presentation/d/1maDpC6ixiWNhd0ikmM1XmAqjFo_LNCusvoDGnZg7Bd0/edit?usp=sharing
 [privacy_survey]: https://forms.gle/HLQkCFsyEXuedyLa8
 
-### 8/25 Lecture 1: Free Speech ([Slides][speech_slides])
+### 08/25 Lecture 1: Free Speech ([Slides][speech_slides])
 
 No readings.
 
