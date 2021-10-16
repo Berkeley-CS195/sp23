@@ -11,9 +11,9 @@
 | 09/29 | Copyright & Patents ([∨][copyright_anchor])                       | [Survey][copyright_survey]; [Slides][copyright_slides]       |
 | 09/29 | Essay 1 Due at 11:59 PM                                           | [Submission Link][essay_1_submission]                        |
 | 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               |
-| 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                             | [Review Link][essay_1_submission]                            |
-| 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_and_media_survey];      |
-| 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey];       |
+| 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              | [Review Link][essay_1_submission]                            |
+| 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_survey]; [Slides][politics_slides]         |
+| 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]                                        |
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -61,8 +61,8 @@ Algorithmic Bias:
    
    [bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
 
-### 10/13 Lecture 8: Politics and Media
-Please complete this short [Lecture 8 survey][politics_and_media_survey] by Tuesday 10/12 @ 11:59pm.
+### 10/13 Lecture 8: Politics and Media ([Slides][politics_slides])
+Please complete this short [Lecture 8 survey][politics_survey] by Tuesday 10/12 @ 11:59pm.
 
 - Recommended: Mozur, "[A Genocide Incited on Facebook, With Posts From Myanmar’s Military][myanmar]"
 - Recommended: Barwick, Ryan, "[Brands are still playing ball with clickbait ad sites, advertising’s roach that will survive the bomb][chumbox]"
@@ -78,7 +78,8 @@ Please complete this short [Lecture 8 survey][politics_and_media_survey] by Tues
 [never_share]: https://www.pewresearch.org/fact-tank/2021/05/04/70-of-u-s-social-media-users-never-or-rarely-post-or-share-about-political-social-issues/
 [chumbox]: https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb
 
-[politics_and_media_survey]: https://forms.gle/ab5SjUtYB6YsN3zc6
+[politics_survey]: https://forms.gle/ab5SjUtYB6YsN3zc6
+[politics_slides]: https://docs.google.com/presentation/d/1jg_nLUOE_Bvd_nisjIWZkXW92HYZzJ_6GOgk8VnDOOk/edit?usp=sharing
 
 ### 10/06 Lecture 7: Memes ([Slides][memes_slides])
 
