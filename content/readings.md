@@ -13,7 +13,7 @@
 | 10/06 | Memes ([∨][memes_anchor])                                         | [Survey][memes_survey]; [Slides][memes_slides]               |
 | 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              | [Review Link][essay_1_submission]                            |
 | 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_survey]; [Slides][politics_slides]         |
-| 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]                                        |
+| 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -35,7 +35,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 10/20 Lecture 9: Software Risks and Algorithmic Bias
+### 10/20 Lecture 9: Software Risks and Algorithmic Bias ([Slides][bias_slides])
 
 **Please complete this short [Lecture 9 survey][bias_survey] by Tuesday 10/19 @ 11:59 PM!**
 
@@ -51,15 +51,17 @@ Algorithmic Bias:
 - Recommended: Davies, Sam, and Pierson, Emma, and Feller, Avi and  Goel, Sharad, "[A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear.][sentencing]"
 - Optional: "[Attacking discrimination with smarter machine learning][learning_interactive]"
 
-   [neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
-   [hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
-   [accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
-   [sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
-   [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
-   [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
-   [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
+[neumannrisks]: http://cacm.acm.org/magazines/2016/10/207769-risks-of-automation/fulltext
+[hackadaytherac]: http://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+[accountability]: https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0
+[sentencing]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/?utm_term=.d1bab924f787#comments
+[learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
+[dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
+[moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
    
-   [bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
+[bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
+[bias_slides]: https://docs.google.com/presentation/d/1K195TIrvsJcLRpE8jdzacZHQNstVp2i2qPMd0qqkHpo/edit?usp=sharing
+
 
 ### 10/13 Lecture 8: Politics and Media ([Slides][politics_slides])
 Please complete this short [Lecture 8 survey][politics_survey] by Tuesday 10/12 @ 11:59pm.
