@@ -37,11 +37,15 @@ More information about the assignments, including the essays, can be found on th
 
 ### 10/27 Lecture 10: Fireside Chat
 
-Recommended: Denero, John, ["CS Commencement Speech - 2019"](denero_commencement)
-Recommended: Hug, Josh, ["CS Commencement Speech - 2018"](hug_commencement)
+**Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 10/26 @ 11:59 PM!**
+
+
+- Recommended: Denero, John, ["CS Commencement Speech - 2019"](denero_commencement)
+- Recommended: Hug, Josh, ["CS Commencement Speech - 2018"](hug_commencement)
 
 [denero_commencement]: https://www.youtube.com/watch?v=ZCw96OgcBW4&t=2055s
 [hug_commencement]: https://vimeo.com/638776538#t=2700s
+[fireside_chat_survey]: https://forms.gle/TR8csL36tzFC2QCP6
 
 ### 10/20 Lecture 9: Software Risks and Algorithmic Bias ([Slides][bias_slides])
 
