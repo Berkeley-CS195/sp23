@@ -40,8 +40,8 @@ More information about the assignments, including the essays, can be found on th
 **Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 10/26 @ 11:59 PM!**
 
 
-- Recommended: Denero, John, ["CS Commencement Speech - 2019"](denero_commencement)
-- Recommended: Hug, Josh, ["CS Commencement Speech - 2018"](hug_commencement)
+- Recommended: Denero, John, "CS Commencement Speech - 2019][denero_commencement]"
+- Recommended: Hug, Josh, "[CS Commencement Speech - 2018][hug_commencement]"
 
 [denero_commencement]: https://www.youtube.com/watch?v=ZCw96OgcBW4&t=2055s
 [hug_commencement]: https://vimeo.com/638776538#t=2700s
