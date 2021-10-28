@@ -14,6 +14,10 @@
 | 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              | [Review Link][essay_1_submission]                            |
 | 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_survey]; [Slides][politics_slides]         |
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
+| 10/27 | Fireside Chat ([∨][bias_anchor])                                  | [Survey][fireside_chat_survey]                               |
+| 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
+| 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
+| 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
 
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -28,6 +32,8 @@
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
+[essay_2_proposal]: https://forms.gle/ei8PcYoAAkV6SG937
+[essay_2_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5124
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
