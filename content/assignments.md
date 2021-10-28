@@ -88,3 +88,12 @@ Ethics in the News
 ------------------
 
 You will complete an Ethics in the News assignment. Details to be released.
+
+Accommodations 
+------
+
+If you have a DSP-approved accommodation and/or extenuating circumstances that prevent you from submitting an assignment on time, please create a private post on the Ed forum describing your accommodation or the extenuating circumstances, as well as the number of additional days that you require to complete the assignment.
+
+We will review each request for an extension on an individual basis.
+
+
