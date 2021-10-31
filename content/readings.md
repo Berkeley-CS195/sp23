@@ -43,11 +43,11 @@ More information about the assignments, including the essays, can be found on th
 
 ### 11/3 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
 
-Required: Veena Dubal, "[Digital Piecework][digital_piecework]", Dissent, Fall 2020.
-Recommended: Sam Adler Bell, "[Surviving Amazon][surviving_amazon]", Logic Magazine Issue 8 August 3rd, 2019 
-Recommended: Aaron Benanav, "[A World Without Work?][world_without_work]" Dissent, Fall 2020 
-Optional: Kate Crawford, "[Labor][labor]", Atlas of AI, (Yale UP, 2021)
-Optional: "[My Boss in an Algorithm][boss_algorithm]" Webinar discussion with Niels van Doorn and Julie Chen, Global Digital Cultures 
+ - Required: Veena Dubal, "[Digital Piecework][digital_piecework]", Dissent, Fall 2020.
+ - Recommended: Sam Adler Bell, "[Surviving Amazon][surviving_amazon]", Logic Magazine Issue 8 August 3rd, 2019 
+ - Recommended: Aaron Benanav, "[A World Without Work?][world_without_work]" Dissent, Fall 2020 
+ - Optional: Kate Crawford, "[Labor][labor]", Atlas of AI, (Yale UP, 2021)
+ - Optional: "[My Boss in an Algorithm][boss_algorithm]" Webinar discussion with Niels van Doorn and Julie Chen, Global Digital Cultures 
 
 [digital_piecework]: https://www.dissentmagazine.org/article/digital-piecework
 [surviving_amazon]: https://logicmag.io/bodies/surviving-amazon/
