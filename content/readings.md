@@ -41,7 +41,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 11/10 Lecture 12: Megan Phelps-Roper
+### 11/10 Lecture 12: Megan Phelps-Roper ([Slides][mpr_slides])
 
 **Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!**
 
@@ -49,6 +49,7 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 
 [without_fail]: https://gimletmedia.com/shows/without-fail/z3hl8ke
 [mpr_survey]: https://forms.gle/vZFr8sLqwwzgxoBe6
+[mpr_slides]: https://docs.google.com/presentation/d/1hQDod4R9ZC3xtl87CzwA_5AIEqQA2esO5PxquKuD_6g/edit?usp=sharing
 
 ### 11/3 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
 
