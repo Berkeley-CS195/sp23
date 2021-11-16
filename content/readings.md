@@ -41,6 +41,19 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
+### 11/17 Lecture 13: Wealth and Finance
+
+**Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!**
+
+- Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][wsbrokers]"
+- Optional: Popper, Nathaniel, "[Robinhood Has Lured Young Traders, Sometimes With Devastating Results][robinhood]"
+- Optional: Sorkin, Andrew, "[Anyone Can Manipulate the Market. Here’s How to Fix That.][fairmarket]"
+
+   [wsbrokers]: https://www.entrepreneur.com/article/295309
+   [robinhood]: https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
+   [fairmarket]: https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html
+   [wealth_survey]: https://forms.gle/YbP93mYvWUYd3jeX9
+
 ### 11/10 Lecture 12: Megan Phelps-Roper ([Slides][mpr_slides])
 
 **Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!**
@@ -54,10 +67,10 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 ### 11/3 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
 
  - Required: Veena Dubal, "[Digital Piecework][digital_piecework]", Dissent, Fall 2020.
- - Recommended: Sam Adler Bell, "[Surviving Amazon][surviving_amazon]", Logic Magazine Issue 8 August 3rd, 2019 
- - Recommended: Aaron Benanav, "[A World Without Work?][world_without_work]" Dissent, Fall 2020 
+ - Recommended: Sam Adler Bell, "[Surviving Amazon][surviving_amazon]", Logic Magazine Issue 8 August 3rd, 2019
+ - Recommended: Aaron Benanav, "[A World Without Work?][world_without_work]" Dissent, Fall 2020
  - Optional: Kate Crawford, "[Labor][labor]", Atlas of AI, (Yale UP, 2021)
- - Optional: "[My Boss in an Algorithm][boss_algorithm]" Webinar discussion with Niels van Doorn and Julie Chen, Global Digital Cultures 
+ - Optional: "[My Boss in an Algorithm][boss_algorithm]" Webinar discussion with Niels van Doorn and Julie Chen, Global Digital Cultures
 
 [digital_piecework]: https://www.dissentmagazine.org/article/digital-piecework
 [surviving_amazon]: https://logicmag.io/bodies/surviving-amazon/
@@ -100,7 +113,7 @@ Algorithmic Bias:
 [learning_interactive]: https://research.google.com/bigpicture/attacking-discrimination-in-ml/
 [dystopian_ads]: https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1028784
 [moral_machine]: https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/
-   
+
 [bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
 [bias_slides]: https://docs.google.com/presentation/d/1K195TIrvsJcLRpE8jdzacZHQNstVp2i2qPMd0qqkHpo/edit?usp=sharing
 
