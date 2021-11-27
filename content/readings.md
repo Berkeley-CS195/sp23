@@ -43,16 +43,20 @@ More information about the assignments, including the essays, can be found on th
 
 ### 12/03 Lecture 14: The Distant Future
 
+ - Recommended: Either of Harris, Sam, [Can we build AI without losing control over it?][ai_harris] OR Bostrom, Nick, [What happens when our computers get smarter than we are?][ai_bostrom]
  - Recommended: Heaven, Will, "[Artificial general intelligence: Are we close, and does it even make sense to try?][agi]" (download then open file locally)
+ - Recommended: Brooks, Rodney, [The Seven Deadly Sins of Predicting the Future of AI][seven_sins]
  - Extra: Stanford Encyclopedia of Philosophy, [Qualia][qualia]
  - Extra: Acemoglu, Daron, "[The AI we should fear is already here][AI_here]"
  - Extra: Ryan, Jackson, "[Experiments to dim the sun: Why we need to talk about solar geoengineering][geoengineering]
  
-
+   [seven_sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
    [qualia]: https://plato.stanford.edu/entries/qualia/
    [geoengineering]: https://www.cnet.com/news/experiments-to-dim-the-sun-why-we-need-to-talk-about-solar-geoengineering/
    [agi]: https://joshh.ug/195/agi.mhtml
    [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
+   [ai_harris]: https://www.youtube.com/watch?v=8nt3edWLgIg
+   [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
 
 ### 11/17 Lecture 13: Wealth and Finance
 
