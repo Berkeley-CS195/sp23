@@ -16,9 +16,12 @@
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
 | 10/27 | Fireside Chat ([∨][bias_anchor])                                  | [Survey][fireside_chat_survey]                               |
 | 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
+| 11/03 | Labor (Guest Lecture by Ari Edmundson)                            | No Pre-lecture Survey!                                       |
 | 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
+| 11/10 | Megan Phelps-Roper                                                | [Survey][fireside_chat_survey]                               |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
-
+| 11/17 | Wealth and Finance                                                | [Survey][wealth_survey]                                      |
+| 12/03 | The Distant Future                                                | [Survey][future_survey]                                      |
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
@@ -42,6 +45,7 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
 ### 12/03 Lecture 14: The Distant Future
+**Please complete this short [Lecture 14 survey][future_survey] by Tuesday 11/30 @ 11:59 PM!**
 
  - Recommended: Either of Harris, Sam, [Can we build AI without losing control over it?][ai_harris] OR Bostrom, Nick, [What happens when our computers get smarter than we are?][ai_bostrom]
  - Recommended: Heaven, Will, "[Artificial general intelligence: Are we close, and does it even make sense to try?][agi]" (download then open file locally)
@@ -50,30 +54,29 @@ More information about the assignments, including the essays, can be found on th
  - Extra: Acemoglu, Daron, "[The AI we should fear is already here][AI_here]"
  - Extra: Ryan, Jackson, "[Experiments to dim the sun: Why we need to talk about solar geoengineering][geoengineering]
  
-   [seven_sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
-   [qualia]: https://plato.stanford.edu/entries/qualia/
-   [geoengineering]: https://www.cnet.com/news/experiments-to-dim-the-sun-why-we-need-to-talk-about-solar-geoengineering/
-   [agi]: https://joshh.ug/195/agi.mhtml
-   [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
-   [ai_harris]: https://www.youtube.com/watch?v=8nt3edWLgIg
-   [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
+ [seven_sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
+ [qualia]: https://plato.stanford.edu/entries/qualia/
+ [geoengineering]: https://www.cnet.com/news/experiments-to-dim-the-sun-why-we-need-to-talk-about-solar-geoengineering/
+ [agi]: https://joshh.ug/195/agi.mhtml
+ [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
+ [ai_harris]: https://www.youtube.com/watch?v=8nt3edWLgIg
+ [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
+ [future_survey]: https://docs.google.com/forms/d/e/1FAIpQLScjpKVEnrG63l7j3rIVhOtrPFQ64d8iHx4zyI3v6RBYQM4sFg/viewform?usp=sf_link
 
 ### 11/17 Lecture 13: Wealth and Finance
-
-**Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!**
+Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!
 
 - Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][wsbrokers]"
 - Optional: Popper, Nathaniel, "[Robinhood Has Lured Young Traders, Sometimes With Devastating Results][robinhood]"
 - Optional: Sorkin, Andrew, "[Anyone Can Manipulate the Market. Here’s How to Fix That.][fairmarket]"
 
-   [wsbrokers]: https://www.entrepreneur.com/article/295309
-   [robinhood]: https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
-   [fairmarket]: https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html
-   [wealth_survey]: https://forms.gle/YbP93mYvWUYd3jeX9
+ [wsbrokers]: https://www.entrepreneur.com/article/295309
+ [robinhood]: https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
+ [fairmarket]: https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html
+ [wealth_survey]: https://forms.gle/YbP93mYvWUYd3jeX9
 
 ### 11/10 Lecture 12: Megan Phelps-Roper ([Slides][mpr_slides])
-
-**Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!**
+Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!
 
 Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westboro Baptist Church][without_fail]"
 
@@ -81,7 +84,7 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 [mpr_survey]: https://forms.gle/vZFr8sLqwwzgxoBe6
 [mpr_slides]: https://docs.google.com/presentation/d/1hQDod4R9ZC3xtl87CzwA_5AIEqQA2esO5PxquKuD_6g/edit?usp=sharing
 
-### 11/3 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
+### 11/03 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
 
  - Required: Veena Dubal, "[Digital Piecework][digital_piecework]", Dissent, Fall 2020.
  - Recommended: Sam Adler Bell, "[Surviving Amazon][surviving_amazon]", Logic Magazine Issue 8 August 3rd, 2019
@@ -96,8 +99,7 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 [boss_algorithm]: https://www.youtube.com/watch?v=q_zFC6s7R8o
 
 ### 10/27 Lecture 10: Fireside Chat
-
-**Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 10/26 @ 11:59 PM!**
+Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 10/26 @ 11:59 PM!
 
 
 - Recommended: Denero, John, "[CS Commencement Speech - 2019][denero_commencement]"
@@ -108,9 +110,7 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 [fireside_chat_survey]: https://forms.gle/TR8csL36tzFC2QCP6
 
 ### 10/20 Lecture 9: Software Risks and Algorithmic Bias ([Slides][bias_slides])
-
-**Please complete this short [Lecture 9 survey][bias_survey] by Tuesday 10/19 @ 11:59 PM!**
-
+Please complete this short [Lecture 9 survey][bias_survey] by Tuesday 10/19 @ 11:59 PM!
 
 Software Risks:
 - Required: Fabio, Adam, "[Killed by a Machine: The Therac-25][hackadaytherac]"
