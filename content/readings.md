@@ -41,6 +41,19 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
+### 12/03 Lecture 14: The Distant Future
+
+ - Recommended: Heaven, Will, "[Artificial general intelligence: Are we close, and does it even make sense to try?][agi]" (download then open file locally)
+ - Extra: Stanford Encyclopedia of Philosophy, [Qualia][qualia]
+ - Extra: Acemoglu, Daron, "[The AI we should fear is already here][AI_here]"
+ - Extra: Ryan, Jackson, "[Experiments to dim the sun: Why we need to talk about solar geoengineering][geoengineering]
+ 
+
+   [qualia]: https://plato.stanford.edu/entries/qualia/
+   [geoengineering]: https://www.cnet.com/news/experiments-to-dim-the-sun-why-we-need-to-talk-about-solar-geoengineering/
+   [agi]: https://joshh.ug/195/agi.mhtml
+   [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
+
 ### 11/17 Lecture 13: Wealth and Finance
 
 **Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!**
