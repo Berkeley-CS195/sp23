@@ -16,7 +16,7 @@
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
 | 10/27 | Fireside Chat ([∨][bias_anchor])                                  | [Survey][fireside_chat_survey]                               |
 | 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
-| 11/03 | Labor (Guest Lecture by Ari Edmundson)                            | No Pre-lecture Survey!                                       |
+| 11/03 | Labor                                                             | No Pre-lecture Survey!                                       |
 | 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
 | 11/10 | Megan Phelps-Roper                                                | [Survey][fireside_chat_survey]                               |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
