@@ -21,7 +21,7 @@
 | 11/10 | Megan Phelps-Roper                                                | [Survey][fireside_chat_survey]                               |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
 | 11/17 | Wealth and Finance                                                | [Survey][wealth_survey]                                      |
-| 12/03 | The Distant Future                                                | [Survey][future_survey]                                      |
+| 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
 [privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
@@ -44,7 +44,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 12/03 Lecture 14: The Distant Future
+### 12/01 Lecture 14: The Distant Future
 **Please complete this short [Lecture 14 survey][future_survey] by Tuesday 11/30 @ 11:59 PM!**
 
  - Recommended: Either of Harris, Sam, [Can we build AI without losing control over it?][ai_harris] OR Bostrom, Nick, [What happens when our computers get smarter than we are?][ai_bostrom]
