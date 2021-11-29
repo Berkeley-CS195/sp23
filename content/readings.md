@@ -14,13 +14,13 @@
 | 10/06 | Essay 1 Peer Reviews Due at 11:59 PM                              | [Review Link][essay_1_submission]                            |
 | 10/13 | Politics and Media ([∨][politics_anchor])                         | [Survey][politics_survey]; [Slides][politics_slides]         |
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
-| 10/27 | Fireside Chat ([∨][bias_anchor])                                  | [Survey][fireside_chat_survey]                               |
+| 10/27 | Fireside Chat ([∨][fireside_chat_anchor])                         | [Survey][fireside_chat_survey]                               |
 | 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
-| 11/03 | Labor (Guest Lecture by Ari Edmundson)                            | No Survey!                                                   |
+| 11/03 | Labor ([∨][labor_anchor])                                         | No Survey!                                                   |
 | 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
-| 11/10 | Megan Phelps-Roper                                                | [Survey][fireside_chat_survey]                               |
+| 11/10 | Megan Phelps-Roper ([∨][labor_anchor])                            | [Survey][mpr_survey]                                         |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
-| 11/17 | Wealth and Finance                                                | [Survey][wealth_survey]                                      |
+| 11/17 | Wealth and Finance ([∨][wealth_anchor])                           | [Survey][wealth_survey]; [Slides][wealth_slides]             |
 | 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
 
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
@@ -32,6 +32,10 @@
 [memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
 [politics_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-13-lecture-8-politics-and-media
 [bias_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-20-lecture-9-software-risks-and-algorithmic-bias
+[fireside_chat_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-27-lecture-10-fireside-chat
+[labor_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-03-lecture-11-labor-guest-lecture-by-ari-edmundson
+[mpr_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-10-lecture-12-megan-phelps-roper-slides
+[wealth_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-17-lecture-13-wealth-and-finance-slides
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
