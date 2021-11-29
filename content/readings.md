@@ -63,7 +63,7 @@ More information about the assignments, including the essays, can be found on th
  [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
  [future_survey]: https://docs.google.com/forms/d/e/1FAIpQLScjpKVEnrG63l7j3rIVhOtrPFQ64d8iHx4zyI3v6RBYQM4sFg/viewform?usp=sf_link
 
-### 11/17 Lecture 13: Wealth and Finance
+### 11/17 Lecture 13: Wealth and Finance ([Slides][wealth_slides])
 Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!
 
 - Optional: Uzzi, Brian, "[How AI Machines Could Save Wall Street Brokers' Jobs][wsbrokers]"
@@ -74,6 +74,7 @@ Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @
  [robinhood]: https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
  [fairmarket]: https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html
  [wealth_survey]: https://forms.gle/YbP93mYvWUYd3jeX9
+ [wealth_slides]: https://docs.google.com/presentation/d/1mizURsg8xuAQtBpszgUPMPN8zw5uYnRA1h5jG7BcpKY/edit?usp=sharing
 
 ### 11/10 Lecture 12: Megan Phelps-Roper ([Slides][mpr_slides])
 Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!
