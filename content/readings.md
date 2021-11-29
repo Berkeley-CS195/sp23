@@ -57,7 +57,7 @@ More information about the assignments, including the essays, can be found on th
  [seven_sins]: https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/
  [qualia]: https://plato.stanford.edu/entries/qualia/
  [geoengineering]: https://www.cnet.com/news/experiments-to-dim-the-sun-why-we-need-to-talk-about-solar-geoengineering/
- [agi]: https://joshh.ug/195/agi.mhtml
+ [agi]: http://joshh.ug/195/agi.mhtml
  [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
  [ai_harris]: https://www.youtube.com/watch?v=8nt3edWLgIg
  [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
