@@ -16,17 +16,12 @@
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
 | 10/27 | Fireside Chat ([∨][fireside_chat_anchor])                         | [Survey][fireside_chat_survey]                               |
 | 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
-| 11/03 | Labor ([∨][labor_anchor])                                         | No Survey!                                                   |
+| 11/03 | Labor ([∨][mpr_anchor])                                           | No Survey!                                                   |
 | 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
-| 11/10 | Megan Phelps-Roper ([∨][labor_anchor])                            | [Survey][mpr_survey]                                         |
+| 11/10 | Megan Phelps-Roper ([∨][labor_anchor])                            | [Survey][mpr_survey]; [Slides][mpr_slides]                   |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
 | 11/17 | Wealth and Finance ([∨][wealth_anchor])                           | [Survey][wealth_survey]; [Slides][wealth_slides]             |
 | 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
-
-[fireside_chat_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-27-lecture-10-fireside-chat
-[labor_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-03-lecture-11-labor-guest-lecture-by-ari-edmundson
-[mpr_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-10-lecture-12-megan-phelps-roper-slides
-[wealth_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-17-lecture-13-wealth-and-finance-slides
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
@@ -68,8 +63,10 @@ Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @
  [wsbrokers]: https://www.entrepreneur.com/article/295309
  [robinhood]: https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
  [fairmarket]: https://www.nytimes.com/2021/02/02/business/dealbook/gamestop-markets-trust.html
+ 
  [wealth_survey]: https://forms.gle/YbP93mYvWUYd3jeX9
  [wealth_slides]: https://docs.google.com/presentation/d/1mizURsg8xuAQtBpszgUPMPN8zw5uYnRA1h5jG7BcpKY/edit?usp=sharing
+ [wealth_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-17-lecture-13-wealth-and-finance-slides
 
 ### 11/10 Lecture 12: Megan Phelps-Roper ([Slides][mpr_slides])
 Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:59 PM!
@@ -77,8 +74,10 @@ Please complete this short [Lecture 12 survey][mpr_survey] by Tuesday 11/9 @ 11:
 Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westboro Baptist Church][without_fail]"
 
 [without_fail]: https://gimletmedia.com/shows/without-fail/z3hl8ke
+
 [mpr_survey]: https://forms.gle/vZFr8sLqwwzgxoBe6
 [mpr_slides]: https://docs.google.com/presentation/d/1hQDod4R9ZC3xtl87CzwA_5AIEqQA2esO5PxquKuD_6g/edit?usp=sharing
+[mpr_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-10-lecture-12-megan-phelps-roper-slides
 
 ### 11/03 Lecture 11: Labor (Guest Lecture by Ari Edmundson)
 
@@ -93,6 +92,7 @@ Required: Without Fail (Alex Blumberg), "[How Megan Phelps-Roper Left the Westbo
 [world_without_work]: https://www.dissentmagazine.org/article/a-world-without-work
 [labor]: https://drive.google.com/file/d/1sfhAeJ7akrvsr4tVV2xjFUyoJ8IIg8H6/view?usp=sharing
 [boss_algorithm]: https://www.youtube.com/watch?v=q_zFC6s7R8o
+[labor_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-03-lecture-11-labor-guest-lecture-by-ari-edmundson
 
 ### 10/27 Lecture 10: Fireside Chat
 Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 10/26 @ 11:59 PM!
@@ -103,7 +103,9 @@ Please complete this short [Lecture 10 survey][fireside_chat_survey] by Tuesday 
 
 [denero_commencement]: https://www.youtube.com/watch?v=ZCw96OgcBW4&t=2055s
 [hug_commencement]: https://vimeo.com/638776538#t=2700s
+
 [fireside_chat_survey]: https://forms.gle/TR8csL36tzFC2QCP6
+[fireside_chat_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-27-lecture-10-fireside-chat
 
 ### 10/20 Lecture 9: Software Risks and Algorithmic Bias ([Slides][bias_slides])
 Please complete this short [Lecture 9 survey][bias_survey] by Tuesday 10/19 @ 11:59 PM!
