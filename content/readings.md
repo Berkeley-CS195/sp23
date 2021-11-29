@@ -23,15 +23,6 @@
 | 11/17 | Wealth and Finance ([∨][wealth_anchor])                           | [Survey][wealth_survey]; [Slides][wealth_slides]             |
 | 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
 
-[free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#8-25-lecture-1-free-speech-slides
-[privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-1-lecture-2-privacy-slides
-[surveillance_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-8-lecture-3-government-censorship-and-surveillance-slides
-[jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-15-lecture-4-jobs-and-technology-slides
-[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-22-lecture-5-education-slides
-[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#9-29-lecture-6-copyright-amp-patents-slides
-[memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-6-lecture-7-memes
-[politics_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-13-lecture-8-politics-and-media
-[bias_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-20-lecture-9-software-risks-and-algorithmic-bias
 [fireside_chat_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-27-lecture-10-fireside-chat
 [labor_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-03-lecture-11-labor-guest-lecture-by-ari-edmundson
 [mpr_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#11-10-lecture-12-megan-phelps-roper-slides
@@ -138,7 +129,7 @@ Algorithmic Bias:
 
 [bias_survey]: https://forms.gle/adHhSpoRA5PoHb5bA
 [bias_slides]: https://docs.google.com/presentation/d/1K195TIrvsJcLRpE8jdzacZHQNstVp2i2qPMd0qqkHpo/edit?usp=sharing
-
+[bias_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-20-lecture-9-software-risks-and-algorithmic-bias-slides
 
 ### 10/13 Lecture 8: Politics and Media ([Slides][politics_slides])
 Please complete this short [Lecture 8 survey][politics_survey] by Tuesday 10/12 @ 11:59pm.
@@ -159,6 +150,7 @@ Please complete this short [Lecture 8 survey][politics_survey] by Tuesday 10/12 
 
 [politics_survey]: https://forms.gle/ab5SjUtYB6YsN3zc6
 [politics_slides]: https://docs.google.com/presentation/d/1jg_nLUOE_Bvd_nisjIWZkXW92HYZzJ_6GOgk8VnDOOk/edit?usp=sharing
+[politics_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-13-lecture-8-politics-and-media-slides
 
 ### 10/06 Lecture 7: Memes ([Slides][memes_slides])
 
@@ -178,6 +170,7 @@ Please complete this short [Lecture 7 survey][memes_survey] by Tuesday 10/05 @ 1
 
 [memes_slides]: https://docs.google.com/presentation/d/1aNvrcGMyaC10dYWp5ROPrBkkvJBQ9tdzc2wIWku17yk/edit?usp=sharing
 [memes_survey]: https://docs.google.com/forms/d/e/1FAIpQLSd0MTzmqRrnUgxybEuQofDAqJLzQp_hu2_YiJkRJCAS32QrGA/viewform?usp=sf_link
+[memes_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#10-06-lecture-7-memes-slides
 
 
 ### 09/29 Lecture 6: Copyright & Patents ([Slides][copyright_slides])
@@ -200,6 +193,7 @@ Please complete this short [Lecture 6 survey][copyright_survey] by Tuesday 9/28 
 
 [copyright_slides]: https://docs.google.com/presentation/d/1QQN-tVRR6uYCb38zoRT1nZomJr1gvXo_h92f45k9sG0/edit?usp=sharing
 [copyright_survey]: https://forms.gle/ScY7VyZFk5rdcJM2A
+[copyright_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-29-lecture-6-copyright-amp-patents-slides
 
 ### 09/22 Lecture 5: Education ([Slides][education_slides])
 
@@ -219,6 +213,7 @@ Please complete [this survey](https://forms.gle/LCbLPGyVi1rkjFz17) by 11:59 PM o
 
 [education_slides]: https://bit.ly/2ZmJa6W
 [education_survey]: https://forms.gle/LCbLPGyVi1rkjFz17
+[education_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-22-lecture-5-education-slides
 
 ### 09/15 Lecture 4: Jobs and Technology ([Slides][jobs_slides])
 
@@ -238,6 +233,7 @@ Please complete this short [Lecture 4 survey][jobs_survey] by Tuesday 9/14 @ 11:
 
 [jobs_slides]: https://docs.google.com/presentation/d/1U9UWxQasM9BpcWvWbaDsrIpuqdYOecZjYJhOs5c6J5I/edit?usp=sharing
 [jobs_survey]: https://forms.gle/hRMNLJSnaefqoYk66
+[jobs_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-15-lecture-4-jobs-and-technology-slides
 
 ### 09/08 Lecture 3: Government Censorship and Surveillance ([Slides][surveillance_slides])
 
@@ -263,6 +259,7 @@ Historical Censorship and Surveillance in the U.S.:
 
 [surveillance_slides]: https://docs.google.com/presentation/d/1pg3QpN7CSyzoF95eN06GHIhMFaUORnWR0MAA-JZy_B0/edit?usp=sharing
 [surveillance_survey]: https://forms.gle/Rv95Mn1WTBEVBeZU6
+[surveillance_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-08-lecture-3-government-censorship-and-surveillance-slides
 
 ### 09/01 Lecture 2: Privacy ([Slides][privacy_slides])
 
@@ -282,10 +279,12 @@ Please complete this short [Lecture 2 survey][privacy_survey] by Tuesday 8/31 @ 
 
 [privacy_slides]: https://docs.google.com/presentation/d/1maDpC6ixiWNhd0ikmM1XmAqjFo_LNCusvoDGnZg7Bd0/edit?usp=sharing
 [privacy_survey]: https://forms.gle/HLQkCFsyEXuedyLa8
+[privacy_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#09-01-lecture-2-privacy-slides
 
 ### 08/25 Lecture 1: Free Speech ([Slides][speech_slides])
 
 No readings.
 
 [speech_slides]: https://docs.google.com/presentation/d/1MUlhSfocSEqRhqganfXR8ckGhejj4qwZebzLYlPX1tM/edit?usp=sharing
+[free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa21/#08-25-lecture-1-free-speech-slides
 
