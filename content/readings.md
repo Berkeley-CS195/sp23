@@ -48,7 +48,7 @@ More information about the assignments, including the essays, can be found on th
 **Please complete this short [Lecture 14 survey][future_survey] by Tuesday 11/30 @ 11:59 PM!**
 
  - Recommended: Either of Harris, Sam, [Can we build AI without losing control over it?][ai_harris] OR Bostrom, Nick, [What happens when our computers get smarter than we are?][ai_bostrom]
- - Recommended: Heaven, Will, "[Artificial general intelligence: Are we close, and does it even make sense to try?][agi]" (download then open file locally; you might need to open the link in a new window)
+ - Recommended: Heaven, Will, "[Artificial general intelligence: Are we close, and does it even make sense to try?][agi]" (download then open file locally; you might need to open the link in a new window to start the download)
  - Recommended: Brooks, Rodney, [The Seven Deadly Sins of Predicting the Future of AI][seven_sins]
  - Extra: Stanford Encyclopedia of Philosophy, [Qualia][qualia]
  - Extra: Acemoglu, Daron, "[The AI we should fear is already here][AI_here]"
