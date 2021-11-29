@@ -16,9 +16,9 @@
 | 10/20 | Software Risks and Algorithmic Bias ([∨][bias_anchor])            | [Survey][bias_survey]; [Slides][bias_slides]                 |
 | 10/27 | Fireside Chat ([∨][fireside_chat_anchor])                         | [Survey][fireside_chat_survey]                               |
 | 10/31 | Essay 2 Proposal Due at 11:59pm                                   | [Proposal Form][essay_2_proposal]                            |
-| 11/03 | Labor ([∨][mpr_anchor])                                           | No Survey!                                                   |
+| 11/03 | Labor ([∨][labor_anchor])                                         | No Survey!                                                   |
 | 11/03 | **Essay 2 Due at 11:59 PM**                                       | [Submission Link][essay_2_submission]                        |
-| 11/10 | Megan Phelps-Roper ([∨][labor_anchor])                            | [Survey][mpr_survey]; [Slides][mpr_slides]                   |
+| 11/10 | Megan Phelps-Roper ([∨][mpr_anchor])                              | [Survey][mpr_survey]; [Slides][mpr_slides]                   |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
 | 11/17 | Wealth and Finance ([∨][wealth_anchor])                           | [Survey][wealth_survey]; [Slides][wealth_slides]             |
 | 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
