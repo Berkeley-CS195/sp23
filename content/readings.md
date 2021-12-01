@@ -21,7 +21,7 @@
 | 11/10 | Megan Phelps-Roper ([∨][mpr_anchor])                              | [Survey][mpr_survey]; [Slides][mpr_slides]                   |
 | 11/10 | **Essay 2 Peer Reviews Due at 11:59 PM**                          | [Review Link][essay_2_submission]                            |
 | 11/17 | Wealth and Finance ([∨][wealth_anchor])                           | [Survey][wealth_survey]; [Slides][wealth_slides]             |
-| 12/01 | The Distant Future                                                | [Survey][future_survey]                                      |
+| 12/01 | The Distant Future                                                | [Survey][future_survey]; [Slides][future_slides]             |
 
 [essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
 [essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
@@ -34,7 +34,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
 
-### 12/01 Lecture 14: The Distant Future
+### 12/01 Lecture 14: The Distant Future ([Slides][future_slides])
 **Please complete this short [Lecture 14 survey][future_survey] by Tuesday 11/30 @ 11:59 PM!**
 
  - Recommended: Either of Harris, Sam, [Can we build AI without losing control over it?][ai_harris] OR Bostrom, Nick, [What happens when our computers get smarter than we are?][ai_bostrom]
@@ -51,7 +51,9 @@ More information about the assignments, including the essays, can be found on th
  [AI_here]:  https://www.washingtonpost.com/opinions/2021/07/21/ai-we-should-fear-is-already-here/
  [ai_harris]: https://www.youtube.com/watch?v=8nt3edWLgIg
  [ai_bostrom]: https://www.youtube.com/watch?v=MnT1xgZgkpk
+ 
  [future_survey]: https://docs.google.com/forms/d/e/1FAIpQLScjpKVEnrG63l7j3rIVhOtrPFQ64d8iHx4zyI3v6RBYQM4sFg/viewform?usp=sf_link
+ [future_slides]: https://docs.google.com/presentation/d/1E1PE5aWQZkIVRI85MBcFIq005Uj3I6AiytgYWOhIf0A/edit?usp=sharing
 
 ### 11/17 Lecture 13: Wealth and Finance ([Slides][wealth_slides])
 Please complete this short [Lecture 13 survey][wealth_survey] by Tuesday 11/16 @ 11:59 PM!
