@@ -7,8 +7,7 @@ If you need to contact the course staff via email, we can be reached at email ad
 | Name                                                                        | Email     | Pronouns | Role       |
 |-----------------------------------------------------------------------------|-----------|----------|------------|
 | [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html)   | hug@cs.   | he/him   | Instructor |
-| [John DeNero](https://www2.eecs.berkeley.edu/Faculty/Homepages/denero.html) | denero@   | he/him   | Instructor |
-| [Nikita Samarin](https://nikitasamarin.com/)                                | nsamarin@ | he/him   | Course TA  |
+| [Kirthi Kumar]                                | kirthi.kumar@ | she/her   | Course TA  |
 
 
 
