@@ -1,6 +1,6 @@
 ~ title: Course Staff
 
-The best way to contact the staff is through the [Ed discussion board](https://edstem.org/us/courses/8605/discussion/). Additionally, feel free to drop by or schedule a meeting for our office hours. More information about the office hours is available in the left navigation panel. 
+The best way to contact the staff is through the [Ed discussion board](https://edstem.org/us/courses/19208/discussion/). Additionally, feel free to drop by or schedule a meeting for our office hours. More information about the office hours is available in the left navigation panel. 
 
 If you need to contact the course staff via email, we can be reached at email addresses provided below. All emails end with **berkeley.edu**
 
