@@ -7,7 +7,7 @@ If you need to contact the course staff via email, we can be reached at email ad
 | Name                                                                        | Email     | Pronouns | Role       |
 |-----------------------------------------------------------------------------|-----------|----------|------------|
 | [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html)   | hug@cs.   | he/him   | Instructor |
-| [Kirthi Kumar]                                | kirthi.kumar@ | she/her   | Course TA  |
+| Kirthi Kumar                                | kirthi.kumar@ | she/her   | Course TA  |
 
 
 

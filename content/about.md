@@ -10,18 +10,18 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Lecture: Wednesday 12:10 to 1:30 PM
+Lecture: Friday 11:10 to 12:30 PM
 
-Lecture will be in-person in the Sibley Auditorium, but we will also have a Zoom simulcast. Participation will be expected for both in-person and Zoom students. We'll make it work. There will not be after-the-fact recordings posted.
+Lecture will be in-person in the Sibley Auditorium (after being online for 2 weeks), but we will also have a Zoom simulcast. Participation will be expected for both in-person and Zoom students. We'll make it work. There will *not* be after-the-fact recordings posted.
 
-Readings for each week will be released on the Wednesday before class (or thereabouts).
+Readings for each week will be released on the Friday before class (or thereabouts).
 
 **Please finish the readings before class!**
 
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Ed.
 
-**Please submit the weekly survey by 11:59 pm Tuesday!**
+**Please submit the weekly survey by 11:59 pm Thursday!**
 
 Essays
 ------
