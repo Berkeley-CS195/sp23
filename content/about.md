@@ -44,7 +44,7 @@ both in class meetings and in written work.
 
 In order to receive a passing grade in CS 195, you must:
 
- * Attend at least 12 (out of 14) lectures.
+ * Attend at least 10 (out of 13) lectures.
  * Complete at least 10 (out of 13) pre-lecture surveys.
  * Submit 2 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 6 essays.

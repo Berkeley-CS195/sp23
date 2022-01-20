@@ -45,8 +45,8 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_1_proposal]: https://forms.gle/sb3JoT6bDGSpDFsg8
-[essay_1_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5096
+[essay_1_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
+[essay_1_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
 
 Essay 2
 ------
@@ -81,8 +81,8 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_2_proposal]: https://forms.gle/U7agrBm2DNXMZpLv7
-[essay_2_submission]: https://peer.crowdgrader.com/crowdgrader/venues/view_venue/5124
+[essay_2_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
+[essay_2_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
 
 Ethics in the News
 ------------------
