@@ -9,7 +9,7 @@ Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
-More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/fa21/assignments.html).
+More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 ### 01/21 Lecture 1: Free Speech ([Slides][speech_slides])
 

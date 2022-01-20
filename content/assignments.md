@@ -2,8 +2,8 @@
 
 | Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due | Links                                                                      |
 |-------|--------------------|-----------------|------------------|----------------------------------------------------------------------------|
-| 1     | Sunday 09/26       | Wednesday 09/29 | Wednesday 10/06  | [Proposal Form][essay_1_proposal]<br>[Submission Link][essay_1_submission] |
-| 2     | Sunday 10/31       | Wednesday 11/03 | Wednesday 11/10  | [Proposal Form][essay_2_proposal]<br>[Submission Link][essay_2_submission] |
+| 1     | TBD       | TBD | TBD  | [Proposal Form][essay_1_proposal]<br>[Submission Link][essay_1_submission] |
+| 2     | TBD       | TBD | TBD  | [Proposal Form][essay_2_proposal]<br>[Submission Link][essay_2_submission] |
 
 Essays
 ------
@@ -15,9 +15,9 @@ review six essays and have each of your essays reviewed by three of your peers.
 Essay 1 
 ------
 
-Proposal due: Sunday, September 26th (soft deadline). [Proposal Form][essay_1_proposal].<br>
-Essay Due: Wednesday, September 29th (**hard deadline**). [Submission Link][essay_1_submission].<br>
-Peer reviews due: Wednesday, October 6th (**hard deadline**). [Submission Link][essay_1_submission].
+Proposal due: TBD (soft deadline). [Proposal Form][essay_1_proposal].<br>
+Essay Due: TBD (**hard deadline**). [Submission Link][essay_1_submission].<br>
+Peer reviews due: TBD (**hard deadline**). [Submission Link][essay_1_submission].
 
 ### Assignment Description
 
@@ -45,15 +45,15 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_1_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
-[essay_1_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
+[essay_1_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
+[essay_1_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
 
 Essay 2
 ------
 
-Proposal due: Sunday, October 31st at 11:59 PM (soft deadline). [Proposal Form][essay_2_proposal].<br>
-Essay Due: Wednesday, November 3rd at 11:59 PM (**hard deadline**). [Submission Link][essay_2_submission].<br>
-Peer reviews due: Wednesday, November 10th at 11:59 PM (**hard deadline**). [Submission Link][essay_2_submission].<br>
+Proposal due: TBD (soft deadline). [Proposal Form][essay_2_proposal].<br>
+Essay Due: TBD (**hard deadline**). [Submission Link][essay_2_submission].<br>
+Peer reviews due: TBD (**hard deadline**). [Submission Link][essay_2_submission].<br>
 
 ### Assignment Description
 
@@ -81,8 +81,8 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_2_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
-[essay_2_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/index.html
+[essay_2_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
+[essay_2_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
 
 Ethics in the News
 ------------------
