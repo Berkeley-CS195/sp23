@@ -21,7 +21,7 @@ Readings for each week will be released on the Friday before class (or thereabou
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Ed.
 
-**Please submit the weekly survey by 11:59 pm Thursday!**
+**Please submit the weekly survey by 11:59 pm Wednesday!**
 
 Essays
 ------
