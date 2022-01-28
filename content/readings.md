@@ -11,7 +11,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
-### 01/28 Lecture 2: Free Time and Attention
+### 01/28 Lecture 2: Free Time and Attention ([Slides][free_slides])
 Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:59 PM. No required readings this week!
 * Recommended 1: ["This Is Our Chance to Pull Teenagers Out of the Smartphone Trap"](https://www.nytimes.com/2021/07/31/opinion/smartphone-iphone-social-media-isolation.html)
 * Recommended 2: ["The people deciding to ditch their smartphones"](https://www.bbc.com/news/business-60067032)
