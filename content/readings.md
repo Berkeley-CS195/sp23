@@ -4,7 +4,7 @@
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
 | 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
 | 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
-| 02/04 | Free Time and Attention ([∨][privacy_anchor])                 | Slides                                                       |
+| 02/04 | Free Time and Attention (∨)                 | Slides                                                       |
 
 
 Readings are "required", "recommended", or "extra". Required readings should be
