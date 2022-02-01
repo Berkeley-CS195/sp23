@@ -4,7 +4,7 @@
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
 | 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
 | 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
-| 02/04 | Free Time and Attention (∨)                 | Slides                                                       |
+| 02/04 | Privacy (∨)                 | Slides                                                       |
 
 
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -17,7 +17,7 @@ More information about the assignments, including the essays, can be found on th
 
 Guest speaker: [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy), [Electronic Frontier Foundation](https://www.eff.org/)
 
-Survey soon.
+Fill out [this survey](https://forms.gle/PR8ciHDS74mGzjdaA) by Wednesday at 11:59 PM.
 
 * Recommended 1: Recommended: MacMillan, Anderson, ["Student tracking, secret scores: How college admissions offices rank prospects before they apply"](https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/)
 * Recommended 2: Thompson, Kehl, Bankston, ["Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s
