@@ -23,7 +23,7 @@ Fill out [this survey](https://forms.gle/PR8ciHDS74mGzjdaA) by Wednesday at 11:5
 * Recommended 2: Thompson, Kehl, Bankston, ["Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s
 "](https://www.newamerica.org/cybersecurity-initiative/policy-papers/doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/)
 * Extra 1: Rachels, ["Why Privacy Is Important"](https://www.jstor.org/stable/2265077?seq=1)
-* Extra 2: Either one of Tiffany ["The Great (fake) Child-Sex-Trafficking Epidemic"](https://www.theatlantic.com/magazine/archive/2022/01/children-sex-trafficking-conspiracy-epidemic/620845/) OR ["You're Wrong About: Human Trafficking"](https://podcasts.apple.com/us/podcast/human-trafficking/id1380008439?i=1000465289965)
+* Extra 2: Supporting reading for our guest speaker's talk about encryption: Either one of Tiffany ["The Great (fake) Child-Sex-Trafficking Epidemic"](https://www.theatlantic.com/magazine/archive/2022/01/children-sex-trafficking-conspiracy-epidemic/620845/) OR ["You're Wrong About: Human Trafficking"](https://podcasts.apple.com/us/podcast/human-trafficking/id1380008439?i=1000465289965)
 
 ### 01/28 Lecture 2: Free Time and Attention ([Slides][free_slides])
 Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:59 PM. 
