@@ -42,3 +42,4 @@ No readings.
 [speech_slides]: https://docs.google.com/presentation/d/16E6ZmcH7Y67MMImCuSmrFEJSVNfzNSAfgg4jUEa5ssA/edit?usp=sharing
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#01-21-lecture-1-free-speech-slides
 [free_slides]: https://docs.google.com/presentation/d/1YAfx0nYxMdSP4R7mvB3mxias7zU0WqWh1ic7AwWjy1Y/edit?usp=sharing
+[privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
