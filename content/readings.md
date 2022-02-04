@@ -4,7 +4,7 @@
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
 | 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
 | 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
-| 02/04 | Privacy (∨)                 | Slides                                                       |
+| 02/04 | Privacy (∨)                 | [Slides][privacy_slides]                                                       |
 
 
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -13,7 +13,7 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
-### 02/04 Lecture 3: Privacy
+### 02/04 Lecture 3: Privacy ([Slides][privacy_slides])
 
 Guest speaker: [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy), [Electronic Frontier Foundation](https://www.eff.org/)
 
@@ -24,6 +24,7 @@ Fill out [this survey](https://forms.gle/PR8ciHDS74mGzjdaA) by Wednesday at 11:5
 "](https://www.newamerica.org/cybersecurity-initiative/policy-papers/doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/)
 * Extra 1: Rachels, ["Why Privacy Is Important"](https://www.jstor.org/stable/2265077?seq=1)
 * Extra 2: Supporting reading for our guest speaker's talk about encryption: Either one of Tiffany ["The Great (fake) Child-Sex-Trafficking Epidemic"](https://www.theatlantic.com/magazine/archive/2022/01/children-sex-trafficking-conspiracy-epidemic/620845/) OR ["You're Wrong About: Human Trafficking"](https://podcasts.apple.com/us/podcast/human-trafficking/id1380008439?i=1000465289965)
+
 
 ### 01/28 Lecture 2: Free Time and Attention ([Slides][free_slides])
 Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:59 PM. 
