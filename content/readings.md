@@ -5,7 +5,7 @@
 | 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
 | 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
 | 02/04 | Privacy (∨)                 | [Slides][privacy_slides]                                                       |
-
+| 02/11 | Jobs and Automation (∨)                 | Slides                                                                         |
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
@@ -13,6 +13,14 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
+### 02/11 Lecture 4: Jobs and Automation 
+Fill out [this survey](https://forms.gle/2mP9XvvFUBziNpwd7) by Wednesday at 11:59 PM.
+* Required: Williams, Alex, ["Will Robots Take Our Children's Jobs?"](https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html)
+* Required: McKinsey Global Institute, ["Harnessing automation for a future that works"](https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works)
+* Recommended: Kim, Tammy, ["The Gig Economy is Coming for Your Job"](https://www.nytimes.com/2020/01/10/opinion/sunday/gig-economy-unemployment-automation.html)
+* Extra: Chokshi, ["What if You Had a Four-Day Week? Why Don't You?"](https://www.nytimes.com/2019/11/08/business/four-day-work-week.html)
+* Extra: Boudette, ["Despite High Hopes, Self-Driving Cars Are 'Way in the Future'"](https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html)
+* Extra: [Realtime Inequality](https://realtimeinequality.org/)
 ### 02/04 Lecture 3: Privacy ([Slides][privacy_slides])
 
 Guest speaker: [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy), [Electronic Frontier Foundation](https://www.eff.org/)
