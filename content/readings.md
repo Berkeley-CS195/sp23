@@ -21,6 +21,7 @@ Fill out [this survey](https://forms.gle/2mP9XvvFUBziNpwd7) by Wednesday at 11:5
 * Extra: Chokshi, ["What if You Had a Four-Day Week? Why Don't You?"](https://www.nytimes.com/2019/11/08/business/four-day-work-week.html)
 * Extra: Boudette, ["Despite High Hopes, Self-Driving Cars Are 'Way in the Future'"](https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html)
 * Extra: [Realtime Inequality](https://realtimeinequality.org/)
+
 ### 02/04 Lecture 3: Privacy ([Slides][privacy_slides])
 
 Guest speaker: [Erica Portnoy](https://www.eff.org/about/staff/erica-portnoy), [Electronic Frontier Foundation](https://www.eff.org/)
