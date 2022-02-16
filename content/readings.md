@@ -6,12 +6,21 @@
 | 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
 | 02/04 | Privacy (∨)                 | [Slides][privacy_slides]                                                       |
 | 02/11 | Jobs and Automation (∨)                 | Slides                                                                         |
+| 02/18 | Memes (∨)                 | Slides                                                                         |
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
+
+### 02/18 Lecture 5: Memes
+Fill out [this survey](https://forms.gle/wvLzy348C2kfcLhf7) by Thursday at 11:59 PM.
+* Recommended: Chayka, Kyle, ["Ivermectin, the Crate Challenge, and the Danger of Runaway Memes"](https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes)
+* Recommended: ["Why Facts Don't Change Our Minds"](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
+* Extra: CGP Gray, ["This Video Will Make You Angry"](https://www.youtube.com/watch?v=rE3j_RHkqJc)
+* Extra: Heath, Bell, Sternberg, ["Emotional selection in memes: the case of urban legends"](https://psycnet.apa.org/record/2001-05428-005) (required Berkeley VPN)
+* Extra: Shullenberger, ["Mimesis, Violence, and Facebook: Peter Thiel's French Connection"](https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/) (very weird/questionable read, but interesting)
 
 ### 02/11 Lecture 4: Jobs and Automation 
 Fill out [this survey](https://forms.gle/2mP9XvvFUBziNpwd7) by Wednesday at 11:59 PM.
