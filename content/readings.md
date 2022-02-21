@@ -3,10 +3,10 @@
 | Date  | Lecture Topic or Assignment                                       | Links                                                        |
 |-------|-------------------------------------------------------------------|--------------------------------------------------------------|
 | 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
-| 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                                       |
-| 02/04 | Privacy (∨)                 | [Slides][privacy_slides]                                                       |
-| 02/11 | Jobs and Automation (∨)                 | Slides                                                                         |
-| 02/18 | Memes (∨)                 | Slides                                                                         |
+| 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                        |
+| 02/04 | Privacy (∨)                                                       | [Slides][privacy_slides]                                     |
+| 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
+| 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
@@ -61,3 +61,5 @@ No readings.
 [free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#01-21-lecture-1-free-speech-slides
 [free_slides]: https://docs.google.com/presentation/d/1YAfx0nYxMdSP4R7mvB3mxias7zU0WqWh1ic7AwWjy1Y/edit?usp=sharing
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
+[jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
+[memes_slides]: https://docs.google.com/presentation/d/1lxmBDYEAuBsrRhvDe8gX13htCUdFBk3OA-pDox35ies/edit?usp=sharing
