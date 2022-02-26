@@ -2,7 +2,7 @@
 
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                                                      |
 |-------|--------------------|---------------------|---------------------|----------------------------------------------------------------------------|
-| 1     |                    | Sat. 2/26, 11:59 PM | Sat. 3/5, 11:59 PM  | [Crowdgrader Submission Link][essay_1_submission] |
+| 1     |                    | Sat. 2/26, 11:59 PM | Sat. 3/5, 11:59 PM  | [Submission Link][essay_1_submission] |
 | 2     | TBD       | TBD | TBD  | [Proposal Form][essay_2_proposal]<br>[Submission Link][essay_2_submission] |
 
 Essays
