@@ -7,7 +7,7 @@
 | 02/04 | Privacy (∨)                                                       | [Slides][privacy_slides]                                     |
 | 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
-| 02/25 | Politics and Media (∨)                                            | Slides                                                       |
+| 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                                       |
 
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
@@ -73,3 +73,4 @@ No readings.
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
 [memes_slides]: https://docs.google.com/presentation/d/1lxmBDYEAuBsrRhvDe8gX13htCUdFBk3OA-pDox35ies/edit?usp=sharing
+[politics_slides]: https://docs.google.com/presentation/d/1zY_d_ycnz4IjO9s9E4VbcK1zRdGgf1gtMlhP6Q0ojmg/edit?usp=sharing
