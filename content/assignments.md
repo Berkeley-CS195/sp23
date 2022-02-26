@@ -1,8 +1,8 @@
 ~ title: Assignments
 
-| Essay | Essay Proposal Due | Essay Due       | Peer Reviews Due | Links                                                                      |
-|-------|--------------------|-----------------|------------------|----------------------------------------------------------------------------|
-| 1     | TBD       | TBD | TBD  | [Proposal Form][essay_1_proposal]<br>[Submission Link][essay_1_submission] |
+| Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                                                      |
+|-------|--------------------|---------------------|---------------------|----------------------------------------------------------------------------|
+| 1     |                    | Sat. 2/26, 11:59 PM | Sat. 3/5, 11:59 PM  | [Crowdgrader Submission Link][essay_1_submission] |
 | 2     | TBD       | TBD | TBD  | [Proposal Form][essay_2_proposal]<br>[Submission Link][essay_2_submission] |
 
 Essays
@@ -15,9 +15,8 @@ review six essays and have each of your essays reviewed by three of your peers.
 Essay 1 
 ------
 
-Proposal due: TBD (soft deadline). [Proposal Form][essay_1_proposal].<br>
-Essay Due: TBD (**hard deadline**). [Submission Link][essay_1_submission].<br>
-Peer reviews due: TBD (**hard deadline**). [Submission Link][essay_1_submission].
+Essay Due: Sat. 2/26, 11:59 PM (**hard deadline**). [Submission Link][essay_1_submission].<br>
+Peer reviews due: Sat. 3/5, 11:59 PM (**hard deadline**). [Submission Link][essay_1_submission].
 
 ### Assignment Description
 
@@ -45,8 +44,7 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_1_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
-[essay_1_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
+[essay_1_submission]: https://www.crowdgrader.org/crowdgrader/venues/join/5223/symebo_tegedy_qotumu_zicuvo
 
 Essay 2
 ------
