@@ -7,8 +7,8 @@
 | 02/04 | Privacy (∨)                                                       | [Slides][privacy_slides]                                     |
 | 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
-| 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                                       |
-
+| 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
+| 03/04 | No class!!           						    | No Class!! 						   |
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
