@@ -9,11 +9,18 @@
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
 | 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
 | 03/04 | No class!!           						    | No Class!! 						   |
+| 03/11 | Software Risks                                                    | Slides                                                       |
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
+
+### 03/11 Lecture 8: Software Risks
+Fil out [this survey](https://forms.gle/dnv3PjB5b1epvmUh9) by Thursday at 11:59 PM.
+* Recommended: Travis, ["How the Boeing 737 Max Disaster Looks to a Software Developer"](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+* Recommended: Branam, ["Learning from Engineering Failures"](https://www.embeddedrelated.com/showarticle/1410.php)
+
 
 ### 02/18 Lecture 6: Politics and Media
 Fill out [this survey](https://forms.gle/NxbvfVK5xP53PZ988) by Wednesday at 11:59 PM.
