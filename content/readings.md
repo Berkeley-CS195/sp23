@@ -8,8 +8,8 @@
 | 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
 | 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
-| 03/04 | No class!!           						    | No Class!! 						   |
-| 03/11 | Software Risks                                                    | Slides                                                       |
+| 03/04 | No class!           						    | No Class! 						   |
+| 03/11 | Software Risks                                                    | [Slides][risky_slides]                                                       |
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
@@ -81,3 +81,4 @@ No readings.
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
 [memes_slides]: https://docs.google.com/presentation/d/1lxmBDYEAuBsrRhvDe8gX13htCUdFBk3OA-pDox35ies/edit?usp=sharing
 [politics_slides]: https://docs.google.com/presentation/d/1zY_d_ycnz4IjO9s9E4VbcK1zRdGgf1gtMlhP6Q0ojmg/edit?usp=sharing
+[risky_slides]: https://docs.google.com/presentation/d/1txwd9PKO-UrDOT3Fjh3UG9sM2YaQnO3lz_SCBoZjmec/edit?usp=sharing
