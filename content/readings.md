@@ -9,15 +9,24 @@
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
 | 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
 | 03/04 | No class!           						    | No Class! 						   |
-| 03/11 | Software Risks                                                    | [Slides][risky_slides]                                                       |
+| 03/11 | Software Risks                                                    | [Slides][risky_slides]                                       |
+| 03/16 | Education							    | Slides 							   |
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
+## 03/18 Lecture 9: Education
+Fill out [this survey](https://forms.gle/mbsBUdD95ZN9vKPB7) by Thursday at 11:59 PM.
+* Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
+* Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
+* Extra: Reich ["Ed-Tech Mania Is Bac/k"](https://www.chronicle.com/article/ed-tech-mania-is-back), requires registering free chronicle.com account.
+* Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
+* Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
+
 ### 03/11 Lecture 8: Software Risks
-Fil out [this survey](https://forms.gle/dnv3PjB5b1epvmUh9) by Thursday at 11:59 PM.
+Fill out [this survey](https://forms.gle/dnv3PjB5b1epvmUh9) by Thursday at 11:59 PM.
 * Recommended: Travis, ["How the Boeing 737 Max Disaster Looks to a Software Developer"](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
 * Recommended: Branam, ["Learning from Engineering Failures"](https://www.embeddedrelated.com/showarticle/1410.php)
 
