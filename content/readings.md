@@ -21,7 +21,7 @@ More information about the assignments, including the essays, can be found on th
 Fill out [this survey](https://forms.gle/mbsBUdD95ZN9vKPB7) by Thursday at 11:59 PM.
 * Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
 * Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
-* Extra: Reich ["Ed-Tech Mania Is Bac/k"](https://www.chronicle.com/article/ed-tech-mania-is-back), requires registering free chronicle.com account.
+* Extra: Reich ["Ed-Tech Mania Is Back"](https://www.chronicle.com/article/ed-tech-mania-is-back), requires registering free chronicle.com account.
 * Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
 * Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
 
