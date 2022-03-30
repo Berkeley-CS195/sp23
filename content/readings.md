@@ -8,16 +8,34 @@
 | 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
 | 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
 | 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
-| 03/04 | No class!           						    | No Class! 						   |
+| 03/04 | No Class!           						    | No Class! 						   |
 | 03/11 | Software Risks                                                    | [Slides][risky_slides]                                       |
-| 03/16 | Education							    | Slides 							   |
+| 03/16 | Education							    | [Slides][edu_slides] 					   |
+| 04/01 | Government Censorship and Surveillance                            | Slides                                                       |
+
+
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
-## 03/18 Lecture 9: Education
+### 04/01 Lecture 10: Government Censorship and Surveillance
+Fill out [this survey](https://forms.gle/UJYjNEgxRLyazuhq8) by Thursday at 11:59 PM. 
+
+U.S. Tech Companies and Chinese Censorship and Surveillance:
+
+* Recommended: Gallagher, ["I Used to Work for Google. I Am a Conscientious Objector."](https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html)
+* Recommended: BBC News, ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100) (the embedded video up top is also interesting)
+* Extra: Mozur, Kessel, Chan, ["Made in China, Exported to the World: The Surveillance State"](https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html)
+* Extra: Mozur, Buckley ["How China Uses High-Tech Surveillance to Subdue Minorities"](https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html)
+
+Historical Censorship and Surveillance in the U.S.:
+
+* Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance)
+* Extra: Gage, ["What an Uncensored Letter to M.L.K. Reveals"](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)
+
+### 03/18 Lecture 9: Education
 Fill out [this survey](https://forms.gle/mbsBUdD95ZN9vKPB7) by Thursday at 11:59 PM.
 * Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
 * Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
@@ -91,3 +109,4 @@ No readings.
 [memes_slides]: https://docs.google.com/presentation/d/1lxmBDYEAuBsrRhvDe8gX13htCUdFBk3OA-pDox35ies/edit?usp=sharing
 [politics_slides]: https://docs.google.com/presentation/d/1zY_d_ycnz4IjO9s9E4VbcK1zRdGgf1gtMlhP6Q0ojmg/edit?usp=sharing
 [risky_slides]: https://docs.google.com/presentation/d/1txwd9PKO-UrDOT3Fjh3UG9sM2YaQnO3lz_SCBoZjmec/edit?usp=sharing
+[edu_slides]: https://docs.google.com/presentation/d/1D_8bTMAMyA8IrWghJwycqZWt3089qERRepxMB6HGFaE/edit?usp=sharing
