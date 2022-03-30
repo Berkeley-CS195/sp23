@@ -1,9 +1,9 @@
 ~ title: Assignments
 
-| Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                                                      |
-|-------|--------------------|---------------------|---------------------|----------------------------------------------------------------------------|
+| Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
+|-------|--------------------|---------------------|---------------------|---------------------------------------|
 | 1     |                    | Sat. 2/26, 11:59 PM | Sat. 3/5, 11:59 PM  | [Submission Link][essay_1_submission] |
-| 2     | TBD       | TBD | TBD  | [Proposal Form][essay_2_proposal]<br>[Submission Link][essay_2_submission] |
+| 2     |                    | Sat. 4/2, 11:59 PM  | Sat. 4/9, 11:59 PM  | [Submission Link][essay_2_submission] |
 
 Essays
 ------
@@ -49,13 +49,12 @@ You will be evaluated on the following criteria by about three of your peers on 
 Essay 2
 ------
 
-Proposal due: TBD (soft deadline). [Proposal Form][essay_2_proposal].<br>
-Essay Due: TBD (**hard deadline**). [Submission Link][essay_2_submission].<br>
-Peer reviews due: TBD (**hard deadline**). [Submission Link][essay_2_submission].<br>
+Essay Due: Saturday, April 2nd at 11:59 PM (**hard deadline, no exceptions**). [Submission Link][essay_2_submission].<br>
+Peer reviews due: Saturday, April 9th at 11:59 PM (**hard deadline, no exceptions**). [Submission Link][essay_2_submission].<br>
 
 ### Assignment Description
 
-Choose your own essay related to one of the topics covered in Lectures 6 to 9 (Copyright & Patents, Memes, Politics and Media, Software Risks and Algorithmic Bias). You may also discuss multiple topics. Here are the three focus areas you may choose:
+Choose your own essay related to one of the lecture topics from the first eight weeks (Free Speech, Free Time and Attention, Privacy, Jobs and Automation, Memes, Politics and Media, Software Risks, and Education). You may also discuss multiple topics. You also select one of three focus areas you may choose, and at least one source to use. You may use the same lecture topic as you selected for essay 1, but we recommend against doing so.
 
 * Debates. Discuss a controversial and/or unresolved issue related to your chosen topic. This could be a current or historical debate, where you choose a side (please explain why you chose this side), and discuss the merits and demerits of both sides of the argument equally so that readers have a clear view of both sides.
 
@@ -79,8 +78,7 @@ You will be evaluated on the following criteria by about three of your peers on 
 1: The essay discusses the assigned topic and attempts an argument, but it should be rewritten.<br>
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
-[essay_2_proposal]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
-[essay_2_submission]: https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html
+[essay_2_submission]: https://www.crowdgrader.org/crowdgrader/venues/join/5240/siniry_gapybo_towiva_waweda
 
 Ethics in the News
 ------------------
