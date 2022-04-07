@@ -21,6 +21,7 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 ### 04/07 Lecture 11: Web 3.0 and Cryptocurrency
+Fill out [this survey](https://forms.gle/sHMb6TQ7a6PySPD8A) at your convenience. 
 
 * Recommended: Upson, ["The 10000 Faces that Launched an NFT Revolution"](https://drive.google.com/file/d/11vfPXjzHqEcBXOqWtsVTyP_84GdhCoYC/view?usp=sharing)
 * Recommended: Edelman, [The Father of Web3 Wants You to Trust Less"](https://drive.google.com/file/d/10_fkZ3kfx1Ih2RkTWjpBB5-maviME6mx/view?usp=sharing)
