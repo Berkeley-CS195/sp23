@@ -24,7 +24,7 @@ More information about the assignments, including the essays, can be found on th
 Fill out [this survey](https://forms.gle/sHMb6TQ7a6PySPD8A) at your convenience. 
 
 * Recommended: Upson, ["The 10000 Faces that Launched an NFT Revolution"](https://drive.google.com/file/d/1LfLUiOzk7oDKTeRyQGxnRNTuZNgvITKg/view?usp=sharing)
-* Recommended: Goode, Calore ["Web3 Is SiliconValley’s RosyVision of the Future"](https://cms.megaphone.fm/channel/gadget-lab?selected=CNE9803836934) (podcast), or [transcript](https://drive.google.com/file/d/1yBsKDoFTxUbxM5m0wP4fVYBBZg5MAI11/view?usp=sharing)
+* Recommended: Goode, Calore, "Web3 Is SiliconValley’s RosyVision of the Future" [podcast](https://cms.megaphone.fm/channel/gadget-lab?selected=CNE9803836934) or [transcript](https://drive.google.com/file/d/1yBsKDoFTxUbxM5m0wP4fVYBBZg5MAI11/view?usp=sharing)
 * Extra: Edelman, [The Father of Web3 Wants You to Trust Less"](https://drive.google.com/file/d/10_fkZ3kfx1Ih2RkTWjpBB5-maviME6mx/view?usp=sharing)
 * Extra: Edelman, [I Made a DAO, for Laughs. Want to Join?"](https://drive.google.com/file/d/18fn-Rcd0CHUaFV7rhM5VWCsTlX19P0Hs/view?usp=sharing)
 
