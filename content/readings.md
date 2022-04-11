@@ -20,6 +20,12 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
+### 04/14 Lecture 12: The Optimization Mindset, Tech Policy, and How Big Tech Can Do Better
+Fill out [this survey](https://forms.gle/zZ9JVPcd1udtdDr9A) by 4/14. 
+
+ * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/1FGUfORRSmFIe18fy4wUaqsZ0xCVcUALm/view?usp=sharing)
+ * Recommended: Sahami, Weinstein, Reich, ["System Error, Chapter 1: The Imperfections of the Optimization Mindset"](https://drive.google.com/file/d/1C85FpNW5fA7NchV8-NPH5YmhrH04iRPL/view?usp=sharing)
+
 ### 04/07 Lecture 11: Web 3.0 and Cryptocurrency
 Fill out [this survey](https://forms.gle/sHMb6TQ7a6PySPD8A) at your convenience. 
 
