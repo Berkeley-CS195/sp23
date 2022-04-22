@@ -12,6 +12,10 @@
 | 03/11 | Software Risks                                                    | [Slides][risky_slides]                                       |
 | 03/16 | Education							    | [Slides][edu_slides] 					   |
 | 04/01 | Government Censorship and Surveillance                            | Slides                                                       |
+| 04/08 | Web 3.0 and Cryptocurrency                                        | Slides                                                       |
+| 04/15 | The Optimization Mindset, Tech Policy, Big Tech                   | Slides 							   |
+| 04/22 | Guest Speaker -  Timnit Gebru					    | Slides 							   |
+
 
 
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -20,13 +24,18 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
-### 04/14 Lecture 12: The Optimization Mindset, Tech Policy, and How Big Tech Can Do Better
+### 04/22 Lecture 13: Guest Speaker - Timnit Gebru
+Fill out [this survey](https://forms.gle/Cy1MZxhRQFmbGBcm6) by 4/21.
+* Recommended: [https://en.wikipedia.org/wiki/Timnit_Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru)
+
+
+### 04/15 Lecture 12: The Optimization Mindset, Tech Policy, and How Big Tech Can Do Better
 Fill out [this survey](https://forms.gle/zZ9JVPcd1udtdDr9A) by 4/14. 
 
  * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/1FGUfORRSmFIe18fy4wUaqsZ0xCVcUALm/view?usp=sharing)
  * Recommended: Sahami, Weinstein, Reich, ["System Error, Chapter 1: The Imperfections of the Optimization Mindset"](https://drive.google.com/file/d/1C85FpNW5fA7NchV8-NPH5YmhrH04iRPL/view?usp=sharing)
 
-### 04/07 Lecture 11: Web 3.0 and Cryptocurrency
+### 04/08  Lecture 11: Web 3.0 and Cryptocurrency
 Fill out [this survey](https://forms.gle/sHMb6TQ7a6PySPD8A) at your convenience. 
 
 * Recommended: Upson, ["The 10000 Faces that Launched an NFT Revolution"](https://drive.google.com/file/d/1LfLUiOzk7oDKTeRyQGxnRNTuZNgvITKg/view?usp=sharing)
