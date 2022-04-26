@@ -24,6 +24,11 @@ used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
+### 04/29 Lecture 14: The Entwined Futures of Humans and Machines
+
+Fill out [this survey](https://forms.gle/Rr8MEnETnbq7x9zj9) by 4/28.
+* Recommended: [https://drive.google.com/file/d/1EpAgLeNftzHHv-m0FZkgF4pqE1nOfTss/view](The Coevolution, Chapter 14)
+
 ### 04/22 Lecture 13: Guest Speaker - Timnit Gebru
 Fill out [this survey](https://forms.gle/Cy1MZxhRQFmbGBcm6) by 4/21.
 * Recommended: [https://en.wikipedia.org/wiki/Timnit_Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru)
