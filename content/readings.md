@@ -1,23 +1,25 @@
 ~ title: Topics, Readings, and Assignments
 
-| Date  | Lecture Topic or Assignment                                       | Links                                                        |
-|-------|-------------------------------------------------------------------|--------------------------------------------------------------|
-| 01/21 | Free Speech ([∨][free_speech_anchor])                             | [Slides][speech_slides]                                      |
-| 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                        |
-| 02/04 | Privacy (∨)                                                       | [Slides][privacy_slides]                                     |
-| 02/11 | Jobs and Automation (∨)                                           | [Slides][jobs_slides]                                        |
-| 02/18 | Memes (∨)                                                         | [Slides][memes_slides]                                       |
-| 02/25 | Politics and Media (∨)                                            | [Slides][politics_slides]                                    |
-| 03/04 | No Class!           						    | No Class! 						   |
-| 03/11 | Software Risks                                                    | [Slides][risky_slides]                                       |
-| 03/16 | Education							    | [Slides][edu_slides] 					   |
-| 04/01 | Government Censorship and Surveillance                            | Slides                                                       |
-| 04/08 | Web 3.0 and Cryptocurrency                                        | Slides                                                       |
-| 04/15 | The Optimization Mindset, Tech Policy, Big Tech                   | Slides 							   |
-| 04/22 | Guest Speaker -  Timnit Gebru					    | Slides 							   |
+| Date  | Lecture Topic or Assignment                                       | Slides | Assignments |
+|-------|-------------------------------------------------------------------|---------| ----- |
+| 08/29 | Free Speech                                                       | link | [Welcome Form][welcome_form] |
+| 09/05 | No Class!           						                                  |      | No class! |
+| 09/12 | Free Time and Attention                                           | link |
+| 09/19 | Privacy                                                           | link |
+| 09/26 | Jobs and Automation                                               | link |
+| 10/03 | Framing Society and Identity                                      | link |
+| 10/17 | Politics and Media                                                | link |
+| 10/24 | Software Risks                                                    | link |
+| 10/31 | Education	                                                        | link |
+| 11/07 | Government Censorship and Surveillance                            | link |
+| 11/21 | Web 3.0 and Cryptocurrency                                        | link |
+| 11/21 | The Optimization Mindset, Tech Policy, Big Tech                   | link |
+| 11/28 | Guest Speaker TBD                                                 | link |
 
 
+<!--| 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                        |-->
 
+<!--
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
@@ -123,14 +125,20 @@ Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:5
 * Extra 1: ["How TikTok Holds Our Attention"](https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention)
 * Extra 2: ["Tristan Harris: How better tech could protect us from distraction"](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next)
 * Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
+-->
+
+### 09/12 Lecture 02: Free Time and Attention
+
+Please fill out Weekly Survey 1 (to be released) by Sunday 09/11 11:59pm PT.
 
 
-### 01/21 Lecture 1: Free Speech ([Slides][speech_slides])
+### 08/29 Lecture 01: Free Speech
+
+Please fill out the [welcome form][{{welcome_form}}] before class by Monday 08/29 noon PT.
 
 No readings.
 
-[speech_slides]: https://docs.google.com/presentation/d/16E6ZmcH7Y67MMImCuSmrFEJSVNfzNSAfgg4jUEa5ssA/edit?usp=sharing
-[free_speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#01-21-lecture-1-free-speech-slides
+[speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#08-29-lecture-01-free-speech-slides
 [free_slides]: https://docs.google.com/presentation/d/1YAfx0nYxMdSP4R7mvB3mxias7zU0WqWh1ic7AwWjy1Y/edit?usp=sharing
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
@@ -138,3 +146,4 @@ No readings.
 [politics_slides]: https://docs.google.com/presentation/d/1zY_d_ycnz4IjO9s9E4VbcK1zRdGgf1gtMlhP6Q0ojmg/edit?usp=sharing
 [risky_slides]: https://docs.google.com/presentation/d/1txwd9PKO-UrDOT3Fjh3UG9sM2YaQnO3lz_SCBoZjmec/edit?usp=sharing
 [edu_slides]: https://docs.google.com/presentation/d/1D_8bTMAMyA8IrWghJwycqZWt3089qERRepxMB6HGFaE/edit?usp=sharing
+[welcome_form]: https://forms.gle/B47YRvK6m4wQVzpS6
