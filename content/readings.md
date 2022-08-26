@@ -134,7 +134,7 @@ Please fill out Weekly Survey 1 (to be released) by Sunday 09/11 11:59pm PT.
 
 ### 08/29 Lecture 01: Free Speech
 
-Please fill out the [welcome form][{{welcome_form}}] before class by Monday 08/29 noon PT.
+Please fill out the [welcome form][welcome_form] before class by Monday 08/29 noon PT.
 
 No readings.
 
