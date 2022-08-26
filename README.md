@@ -12,5 +12,7 @@ Publishing
 * Install requirements: `pip install -r requirements.txt`
 * Publish: `python3 publish.py`
 * Copy to server: `bash cp.sh`
-* Note: As of fa18, you can just edit markdown files directly and push to server and they'll be autodeployed.
+* Notes:
+  * As of fa18, you can just edit markdown files directly and push to server and they'll be autodeployed.
+  * sp22: upgraded to templar v2
 

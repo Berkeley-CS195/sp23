@@ -16,7 +16,7 @@ def shell(*args):
 
 def templar(html, md, out):
     out = os.path.join(PUB, out)
-    shell('templar', 'compile', html, '-s', md, '-m', '-d', out)
+    shell('templar', '-t', html, '-s', md, '-d', out)
 
 def main():
     if not os.path.exists(PUB):

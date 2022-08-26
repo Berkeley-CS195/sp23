@@ -1,1 +1,1 @@
-templar==1.2.dev1
+templar==2.1.2

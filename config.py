@@ -1,5 +1,11 @@
 import os
 import re
+import templar
+from templar.api.rules.core import SubstitutionRule
+from templar.api.rules.compiler_rules import MarkdownToHtmlRule
+from templar.api.rules.table_of_contents import HtmlTableOfContents
+from templar.api.config import ConfigBuilder
+
 # Import various utilities from utils
 # import templar.utils.html
 # import templar.utils.filters
@@ -11,28 +17,22 @@ FILEPATH = os.path.dirname(os.path.abspath(__file__))
 # Configurations #
 ##################
 
-configurations = {
-    # List of directories in which to search for templates
-    'TEMPLATE_DIRS': [
-        FILEPATH,
-        # Add directories that contain templates
-        # os.path.join(FILEPATH, 'example'),
-    ],
 
-    # Variables that can be used in templates
-    'VARIABLES': {
-        # Add variables here, like the following
-        # 'example': 'something here',
-    },
+# v2 config file
+#class UpperCaseRule(SubstitutionRule):
+#    pattern = r'(\w*)'
+#    def substitute(self, match):
+#        return match.group(1).upper()
 
-    # Substitutions for the linker
-    'SUBSTITUTIONS': [
-        # Add substitutions of the form
-        # (regex, sub_function),
-        # (regex, sub_function, condition),
-    ],
-
-    # Use the following to scrape "headers"
-    # TOC_BUILDER should be a subclass of templar.utils.core.TocBuilder
-    # 'TOC_BUILDER': templar.utils.htmlHeaderParser,
-}
+config = ConfigBuilder().add_template_dirs(
+    # The 'templates' folder is specified explicitly.
+    FILEPATH,
+    # Templates no longer need to be placed in a directory called 'templates'
+    os.path.join(FILEPATH, 'templates')
+).add_variables({
+}).append_compiler_rules(
+    MarkdownToHtmlRule(),
+).append_postprocess_rules(
+    #UpperCaseRule(src='md$', dst='html$'),
+    HtmlTableOfContents(),
+).build()
