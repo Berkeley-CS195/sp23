@@ -129,12 +129,16 @@ Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:5
 
 ### 09/12 Lecture 02: Free Time and Attention
 
-Please fill out Weekly Survey 1 (to be released) by Sunday 09/11 11:59pm PT.
+Please fill out the [welcome form][welcome_form] and Weekly Survey 1 (to be released) by Sunday 09/11 11:59pm PT.
+
+Readings:
 
 
 ### 08/29 Lecture 01: Free Speech
 
 Please fill out the [welcome form][welcome_form] before class by Monday 08/29 noon PT.
+
+**Interested in CS H195?** Check out the [discussion][https://inst.eecs.berkeley.edu/~cs195/sp22/discussion] page and drop by the first open discussion session Wednesday, 09/07, 5-6pm! *Course applications due Wednesday 09/07 11:59pm PT.*
 
 No readings.
 

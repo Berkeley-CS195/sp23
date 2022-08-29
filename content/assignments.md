@@ -2,8 +2,8 @@
 
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
 |-------|--------------------|---------------------|---------------------|---------------------------------------|
-| 1     |                    | Sat. 2/26, 11:59 PM | Sat. 3/5, 11:59 PM  | [Submission Link][essay_1_submission] |
-| 2     |                    | Sat. 4/2, 11:59 PM  | Sat. 4/9, 11:59 PM  | [Submission Link][essay_2_submission] |
+| 1     |                    | Sat. 10/15 11:59 PM | Sat. 10/22, 11:59 PM  | Submission Link |
+| 2     |                    | Sat. 11/12, 11:59 PM  | Sat. 11/19, 11:59 PM  | Submission Link |
 
 Essays
 ------
@@ -15,6 +15,9 @@ review six essays and have each of your essays reviewed by three of your peers.
 Essay 1 
 ------
 
+Details to be released.
+
+<!--
 Essay Due: Sat. 2/26, 11:59 PM (**hard deadline**). [Submission Link][essay_1_submission].<br>
 Peer reviews due: Sat. 3/5, 11:59 PM (**hard deadline**). [Submission Link][essay_1_submission].
 
@@ -45,10 +48,14 @@ You will be evaluated on the following criteria by about three of your peers on 
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
 [essay_1_submission]: https://www.crowdgrader.org/crowdgrader/venues/join/5223/symebo_tegedy_qotumu_zicuvo
+-->
 
 Essay 2
 ------
 
+Details to be released.
+
+<!--
 Essay Due: Saturday, April 2nd at 11:59 PM (**hard deadline, no exceptions**). [Submission Link][essay_2_submission].<br>
 Peer reviews due: Saturday, April 9th at 11:59 PM (**hard deadline, no exceptions**). [Submission Link][essay_2_submission].<br>
 
@@ -79,6 +86,7 @@ You will be evaluated on the following criteria by about three of your peers on 
 0: The essay is not coherent at all, blank, or irrelevant to the assignment.
 
 [essay_2_submission]: https://www.crowdgrader.org/crowdgrader/venues/join/5240/siniry_gapybo_towiva_waweda
+-->
 
 Ethics in the News
 ------------------

@@ -2,7 +2,11 @@
 
 CS H195 complement and supplement the topics presented in CS 195 lecture series. Students are expected to engage at a deeper level with the assigned weekly readings and be prepared to engage in thoughtful and constructive discussions around the course material. Where applicable, we will invite guest speakers from industry and academia to present their work and to participate in discussions alongside students. CS H195 will encourage students to go beyond thinking about computer technology as solely an engineering problem but instead viewing it holistically from the perspective of social sciences, legal studies, and policymaking. 
 
-Please find the up-to-date syllabus on the following [Google doc](https://docs.google.com/document/d/153nARenWjztDxAp_43cWXcWf210nib0j8LVJBpZXOD0/edit?usp=sharing).
+**Course Application**: <a href="https://forms.gle/Kwd6Khkw1zejbJQ58" target="_blank">Application Form</a> due <b>Wednesday 09/07, 11:59pm PT</b>
+
+**Drop-in session of H195**: Wednesday 09/07, 5-6pm, Soda 380. Drop by to see what it's like!
+
+Please find a previous semester's syllabus on the following [Google doc](https://docs.google.com/document/d/153nARenWjztDxAp_43cWXcWf210nib0j8LVJBpZXOD0/edit?usp=sharing).
 
 Assessment
 ---------------
