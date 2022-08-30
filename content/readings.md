@@ -2,7 +2,7 @@
 
 | Date  | Lecture Topic or Assignment                                       | Slides | Assignments |
 |-------|-------------------------------------------------------------------|---------| ----- |
-| 08/29 | Free Speech                                                       | link | [Welcome Form][welcome_form] |
+| 08/29 | Free Speech                                                       | [link][free_slides]| [Welcome Form][welcome_form] |
 | 09/05 | No Class!           						                                  |      | No class! |
 | 09/12 | Free Time and Attention                                           | link |
 | 09/19 | Privacy                                                           | link |
@@ -143,7 +143,7 @@ Please fill out the [welcome form][welcome_form] before class by Monday 08/29 no
 No readings.
 
 [speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#08-29-lecture-01-free-speech-slides
-[free_slides]: https://docs.google.com/presentation/d/1YAfx0nYxMdSP4R7mvB3mxias7zU0WqWh1ic7AwWjy1Y/edit?usp=sharing
+[free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
 [memes_slides]: https://docs.google.com/presentation/d/1lxmBDYEAuBsrRhvDe8gX13htCUdFBk3OA-pDox35ies/edit?usp=sharing
