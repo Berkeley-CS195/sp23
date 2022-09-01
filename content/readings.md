@@ -3,8 +3,8 @@
 | Date  | Lecture Topic or Assignment                                       | Slides | Assignments |
 |-------|-------------------------------------------------------------------|---------| ----- |
 | 08/29 | Free Speech                                                       | [link][free_slides]| [Welcome Form][welcome_form] |
-| 09/05 | No Class!           						                                  |      | No class! |
-| 09/12 | Free Time and Attention                                           | link |
+| 09/05 | No Class!           						                                  |      | |
+| 09/12 | Free Time and Attention                                           | link | [jump][attention_anchor] |
 | 09/19 | Privacy                                                           | link |
 | 09/26 | Jobs and Automation                                               | link |
 | 10/03 | Framing Society and Identity                                      | link |
@@ -19,13 +19,13 @@
 
 <!--| 01/28 | Free Time and Attention ([∨][free_speech_anchor])                 | [Slides][free_slides]                                        |-->
 
-<!--
 Readings are "required", "recommended", or "extra". Required readings should be
 done before class for the discussion to make sense. Recommended readings will be
 used as sources in lecture, but we won't assume you've read them.
 
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
+<!--
 ### 04/29 Lecture 14: The Entwined Futures of Humans and Machines
 
 Fill out [this survey](https://forms.gle/Rr8MEnETnbq7x9zj9) by 4/28.
@@ -129,9 +129,17 @@ Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:5
 
 ### 09/12 Lecture 02: Free Time and Attention
 
-Please fill out the [welcome form][welcome_form] and Weekly Survey 1 (to be released) by Sunday 09/11 11:59pm PT.
+Please fill out the [welcome form][welcome_form] and [Weekly Survey 1][https://forms.gle/XAdWb9a4gf3N7RaQ9] by Sunday 09/11 11:59pm PT.
 
 Readings:
+
+* Required: Pew Research Center, ["Social Media Use in 2021"](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)
+* Recommended 1: New York Times Opinion, ["This Is Our Chance to Pull Teenagers Out of the Smartphone Trap"](https://www.nytimes.com/2021/07/31/opinion/smartphone-iphone-social-media-isolation.html)
+* Recommended 2: BBC, ["The people deciding to ditch their smartphones"](https://www.bbc.com/news/business-60067032)
+* Recommended 3: NPR, ["New Research Casts Doubt On Connection Between Smartphone Use And Teen Mental Health"](https://www.npr.org/2019/08/19/752529380/new-research-casts-doubt-on-connection-between-smartphone-use-and-teen-mental-he)
+* Extra 1: ["How TikTok Holds Our Attention"](https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention)
+* Extra 2: ["Tristan Harris: How better tech could protect us from distraction"](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next)
+* Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
 
 
 ### 08/29 Lecture 01: Free Speech
@@ -143,6 +151,7 @@ Please fill out the [welcome form][welcome_form] before class by Monday 08/29 no
 No readings.
 
 [speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#08-29-lecture-01-free-speech-slides
+[attention_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#09-12-lecture-02-free-time-and-attention
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
