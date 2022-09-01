@@ -146,12 +146,12 @@ Readings:
 
 Please fill out the [welcome form][welcome_form] before class by Monday 08/29 noon PT.
 
-**Interested in CS H195?** Check out the [discussion][https://inst.eecs.berkeley.edu/~cs195/sp22/discussion] page and drop by the first open discussion session Wednesday, 09/07, 5-6pm! *Course applications due Wednesday 09/07 11:59pm PT.*
+**Interested in CS H195?** Check out the [discussion](https://inst.eecs.berkeley.edu/~cs195/fa22/discussion) page and drop by the first open discussion session Wednesday, 09/07, 5-6pm! *Course applications due Wednesday 09/07 11:59pm PT.*
 
 No readings.
 
-[speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#08-29-lecture-01-free-speech-slides
-[attention_anchor]: https://inst.eecs.berkeley.edu/~cs195/sp22/#09-12-lecture-02-free-time-and-attention
+[speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#08-29-lecture-01-free-speech-slides
+[attention_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#09-12-lecture-02-free-time-and-attention
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [privacy_slides]: https://docs.google.com/presentation/d/16gCnS_8OpHN_I1_ULgZSEnD1YpJE7xP7qF3ElxZbG5Q/edit#slide=id.g10e03fbf068_0_0
 [jobs_slides]: https://docs.google.com/presentation/d/1sESVieppFk7tUYC3vGPrcS71kYypNoVZM5H1ba7RDeQ/edit?usp=sharing
