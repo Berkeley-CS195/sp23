@@ -1,5 +1,7 @@
 ~ title: Topics, Readings, and Assignments
 
+**Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please email the instructors who can provide you with a permission code. Thanks!
+
 | Date  | Lecture Topic or Assignment                                       | Slides | Assignments |
 |-------|-------------------------------------------------------------------|---------| ----- |
 | 08/29 | Free Speech                                                       | [link][free_slides]| [Welcome Form][welcome_form] |

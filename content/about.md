@@ -1,6 +1,6 @@
 ~ title: Course Description and Policies
 
-## This course is still under construction.
+**Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please email the instructors who can provide you with a permission code. Thanks!
 
 CS 195 is a discussion-intensive course about the social implications of
 computer technology. The purpose of this course is to help students make
