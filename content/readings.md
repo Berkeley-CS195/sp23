@@ -131,7 +131,7 @@ Fill out [this survey](https://forms.gle/pEEHiLkucrJaibMy9) by Wednesday at 11:5
 
 ### 09/12 Lecture 02: Free Time and Attention
 
-Please fill out the [welcome form][welcome_form] and [Weekly Survey 1][https://forms.gle/XAdWb9a4gf3N7RaQ9] by Sunday 09/11 11:59pm PT.
+Please fill out the [welcome form][welcome_form] and [Weekly Survey 1](https://forms.gle/XAdWb9a4gf3N7RaQ9) by Sunday 09/11 11:59pm PT.
 
 Readings:
 
