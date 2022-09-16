@@ -6,7 +6,7 @@
 |-------|-------------------------------------------------|--------| ----------- |
 | 08/29 | Free Speech                                     | [link][free_slides] | [Welcome Form][welcome_form] |
 | 09/05 | No Class!                                       |      |                          |
-| 09/12 | Free Time and Attention                         | link | [jump][L02_anchor] |
+| 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
 | 09/19 | Privacy                                         | link | [jump][L03_anchor] |
 | 09/26 | Jobs and Automation                             | link | [jump][L04_anchor] |
 | 10/03 | Framing Society and Identity                    | link | [jump][L05_anchor] |
@@ -41,10 +41,11 @@ Readings:
 
 [survey_2]: https://forms.gle/Nx3cJyVKyDeK2YHPA
 
-
 ## 9/12 Lecture 2: Free Time and Attention
 
 Please fill out the [welcome form][welcome_form] and [Weekly Survey 1](https://forms.gle/XAdWb9a4gf3N7RaQ9) by Sunday 09/11 11:59pm PT.
+
+Slides: [link][social_slides]
 
 Readings:
 
@@ -80,4 +81,5 @@ No readings.
 
 
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
+[social_slides]: https://docs.google.com/presentation/d/18fPSnXKIvo7AHh8Ga9h8ElzukqdaYhHUD-s_kZlfiYY/edit?usp=sharing
 [welcome_form]: https://forms.gle/B47YRvK6m4wQVzpS6
