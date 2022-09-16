@@ -1,2 +1,2 @@
 templar==2.1.2
-MarkupSafe=2.0.1
+MarkupSafe==2.0.1
