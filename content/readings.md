@@ -29,7 +29,7 @@ More information about the assignments, including the essays, can be found on th
 
 ## 9/19 Lecture 3: Privacy
 
-**Please fill out [Weekly Survey 2][suvrey_2] by Monday 9/12 at 12:00 PM (noon).**
+**Please fill out [Weekly Survey 2][survey_2] by Monday 9/12 at 12:00 PM (noon).**
 
 Readings:
 * **Required 1**: Theilman, [The Guardian: "Apple v the FBI: what's the beef, how did we get here and what's at stake?"](https://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino)
