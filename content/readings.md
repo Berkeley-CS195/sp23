@@ -7,7 +7,7 @@
 | 08/29 | Free Speech                                     | [link][free_slides] | [Welcome Form][welcome_form] |
 | 09/05 | No Class!                                       |      |                          |
 | 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
-| 09/19 | Privacy                                         | link | [jump][L03_anchor] |
+| 09/19 | [Privacy][l03_slides]                                         | link | [jump][L03_anchor] |
 | 09/26 | Jobs and Automation                             | link | [jump][L04_anchor] |
 | 10/03 | Framing Society and Identity                    | link | [jump][L05_anchor] |
 | 10/17 | Politics and Media                              | link | [jump][L06_anchor] |
@@ -27,9 +27,11 @@ More information about the assignments, including the essays, can be found on th
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
 
-## 9/19 Lecture 3: Privacy
+## 9/19 Lecture 3: Privacy ([Slides][l03_slides])
 
-**Please fill out [Weekly Survey 2][survey_2] by Monday 9/12 at 12:00 PM (noon).**
+[l03_slides]: https://docs.google.com/presentation/d/1AWQd7sn97tmglPbjjSO6z2AcqqBTFZ1t2MCl7e9Bozg/edit?usp=sharing
+
+**Please fill out [Weekly Survey 2][survey_2] by Monday 9/19 at 12:00 PM (noon).**
 
 Readings:
 * **Required 1**: Theilman, [The Guardian: "Apple v the FBI: what's the beef, how did we get here and what's at stake?"](https://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino)
