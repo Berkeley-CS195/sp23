@@ -8,12 +8,12 @@
 | 09/05 | No Class!                                       |      |                          |
 | 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
 | 09/19 | [Privacy][l03_slides]                                         | link | [jump][L03_anchor] |
-| 09/26 | Jobs and Automation                             | link | [jump][L04_anchor] |
+| 09/26 | Governt Censorship and Surveilence                    | [link][l04_slides] | [jump][L04_anchor] |
 | 10/03 | Framing Society and Identity                    | link | [jump][L05_anchor] |
 | 10/17 | Politics and Media                              | link | [jump][L06_anchor] |
 | 10/24 | Software Risks                                  | link | [jump][L07_anchor] |
 | 10/31 | Education	                                      | link | [jump][L08_anchor] |
-| 11/07 | Government Censorship and Surveillance          | link | [jump][L09_anchor] |
+| 11/07 | Jobs and Automation               | link | [jump][L09_anchor] |
 | 11/21 | Web 3.0 and Cryptocurrency                      | link | [jump][L10_anchor] |
 | 11/21 | The Optimization Mindset, Tech Policy, Big Tech | link | [jump][L11_anchor] |
 | 11/28 | Guest Speaker TBD                               | link | [jump][L12_anchor] |
@@ -26,6 +26,23 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+
+## 9/26 Lecture 4: Government Censorship and Surveillance
+**No Survey This Week**
+
+U.S. Tech Companies and Chinese Censorship and Surveillance:
+
+* Recommended: Gallagher, ["I Used to Work for Google. I Am a Conscientious Objector."](https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html)
+* Recommended: BBC News, ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100) (the embedded video up top is also interesting)
+* Extra: Mozur, Kessel, Chan, ["Made in China, Exported to the World: The Surveillance State"](https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html)
+* Extra: Mozur, Buckley ["How China Uses High-Tech Surveillance to Subdue Minorities"](https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html)
+
+Historical Censorship and Surveillance in the U.S.:
+
+* Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance)
+* Extra: Gage, ["What an Uncensored Letter to M.L.K. Reveals"](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)
+
+[l04_slides]: https://docs.google.com/presentation/d/1hoyuwGk0kfVKb5_7w9zsH_c7r9eCj8uEUMz60M1Sdg8/edit?usp=sharing
 
 ## 9/19 Lecture 3: Privacy ([Slides][l03_slides])
 
