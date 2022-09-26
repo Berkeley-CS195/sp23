@@ -14,7 +14,7 @@
 | 10/24 | Software Risks                                  | link | [jump][L07_anchor] |
 | 10/31 | Education	                                      | link | [jump][L08_anchor] |
 | 11/07 | Jobs and Automation               | link | [jump][L09_anchor] |
-| 11/21 | Web 3.0 and Cryptocurrency                      | link | [jump][L10_anchor] |
+| 11/14 | Web 3.0 and Cryptocurrency                      | link | [jump][L10_anchor] |
 | 11/21 | The Optimization Mindset, Tech Policy, Big Tech | link | [jump][L11_anchor] |
 | 11/28 | Guest Speaker TBD                               | link | [jump][L12_anchor] |
 
