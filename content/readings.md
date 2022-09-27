@@ -9,7 +9,8 @@
 | 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
 | 09/19 | [Privacy][l03_slides]                                         | link | [jump][L03_anchor] |
 | 09/26 | Government Censorship and Surveilence                    | [link][l04_slides] | [jump][L04_anchor] |
-| 10/03 | Framing Society and Identity                    | link | [jump][L05_anchor] |
+| 10/03 | Memes                                           | link | [jump][L05_anchor] |
+| 10/10 | Framing Society and Identity                    | link | [jump][L05_anchor] |
 | 10/17 | Politics and Media                              | link | [jump][L06_anchor] |
 | 10/24 | Software Risks                                  | link | [jump][L07_anchor] |
 | 10/31 | Education	                                      | link | [jump][L08_anchor] |
