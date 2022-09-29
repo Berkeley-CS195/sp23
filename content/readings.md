@@ -7,17 +7,17 @@
 | 08/29 | Free Speech                                     | [link][free_slides] | [Welcome Form][welcome_form] |
 | 09/05 | No Class!                                       |      |                          |
 | 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
-| 09/19 | [Privacy][l03_slides]                                         | link | [jump][L03_anchor] |
-| 09/26 | Government Censorship and Surveilence                    | [link][l04_slides] | [jump][L04_anchor] |
+| 09/19 | Privacy                                         | [link][l03_slides] | [jump][L03_anchor] |
+| 09/26 | Government Censorship and Surveilence           | [link][l04_slides] | [jump][L04_anchor] |
 | 10/03 | Memes                                           | link | [jump][L05_anchor] |
-| 10/10 | Framing Society and Identity                    | link | [jump][L05_anchor] |
-| 10/17 | Politics and Media                              | link | [jump][L06_anchor] |
-| 10/24 | Software Risks                                  | link | [jump][L07_anchor] |
-| 10/31 | Education	                                      | link | [jump][L08_anchor] |
-| 11/07 | Jobs and Automation               | link | [jump][L09_anchor] |
-| 11/14 | Web 3.0 and Cryptocurrency                      | link | [jump][L10_anchor] |
-| 11/21 | The Optimization Mindset, Tech Policy, Big Tech | link | [jump][L11_anchor] |
-| 11/28 | Guest Speaker TBD                               | link | [jump][L12_anchor] |
+| 10/10 | Framing Society and Identity                    | link | jump <!--[jump][L05_anchor]--> |
+| 10/17 | Politics and Media                              | link | jump <!--[jump][L06_anchor]--> |
+| 10/24 | Software Risks                                  | link | jump <!--[jump][L07_anchor]--> |
+| 10/31 | Education	                                      | link | jump <!--[jump][L08_anchor]--> |
+| 11/07 | Jobs and Automation                             | link | jump <!--[jump][L09_anchor]--> |
+| 11/14 | Web 3.0 and Cryptocurrency                      | link | jump <!--[jump][L10_anchor]--> |
+| 11/21 | The Optimization Mindset, Tech Policy, Big Tech | link | jump <!--[jump][L11_anchor]--> |
+| 11/28 | Guest Speaker TBD                               | link | jump <!--[jump][L12_anchor]--> |
 
 ### Readings
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -27,6 +27,17 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+### 10/03 Lecture 5: Memes
+
+**Fill out [Weekly Survey Week 5](https://forms.gle/KTASggbxbKRFSjjB9) by Sunday 10/02 at 11:59 PM.**
+
+* Recommended: Chayka, Kyle, ["Ivermectin, the Crate Challenge, and the Danger of Runaway Memes"](https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes)
+* Recommended: ["Why Facts Don't Change Our Minds"](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds) (trigger warning: suicide)
+* Extra: CGP Gray, ["This Video Will Make You Angry"](https://www.youtube.com/watch?v=rE3j_RHkqJc)
+* Extra: Heath, Bell, Sternberg, ["Emotional selection in memes: the case of urban legends"](https://psycnet.apa.org/record/2001-05428-005) (required Berkeley VPN)
+<!--* Extra: Shullenberger, ["Mimesis, Violence, and Facebook: Peter Thiel's French Connection"](https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/) (very weird/questionable read, but interesting)
+-->
+
 
 ## 9/26 Lecture 4: Government Censorship and Surveillance
 **No Survey This Week**
@@ -45,7 +56,9 @@ Historical Censorship and Surveillance in the U.S.:
 
 [l04_slides]: https://docs.google.com/presentation/d/1hoyuwGk0kfVKb5_7w9zsH_c7r9eCj8uEUMz60M1Sdg8/edit?usp=sharing
 
-## 9/19 Lecture 3: Privacy ([Slides][l03_slides])
+## 9/19 Lecture 3: Privacy
+
+<b>Slides</b>: [link][l03_slides]
 
 [l03_slides]: https://docs.google.com/presentation/d/1AWQd7sn97tmglPbjjSO6z2AcqqBTFZ1t2MCl7e9Bozg/edit?usp=sharing
 
@@ -63,9 +76,9 @@ Readings:
 
 ## 9/12 Lecture 2: Free Time and Attention
 
-Please fill out the [welcome form][welcome_form] and [Weekly Survey 1](https://forms.gle/XAdWb9a4gf3N7RaQ9) by Sunday 09/11 11:59pm PT.
+<b>Slides</b>: [link][social_slides]
 
-Slides: [link][social_slides]
+**Please fill out the [welcome form][welcome_form] and [Weekly Survey 1](https://forms.gle/XAdWb9a4gf3N7RaQ9) by Sunday 09/11 11:59pm PT.**
 
 Readings:
 
@@ -86,11 +99,11 @@ Please fill out the [welcome form][welcome_form] before class by Monday 08/29 no
 
 No readings.
 
-[speech_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#8-29-lecture-1-free-speech-slides
-[L02_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L03_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L04_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L05_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
+[speech_anchor]: #8-29-lecture-1-free-speech-slides
+[L02_anchor]: #9-12-lecture-2-free-time-and-attention
+[L03_anchor]: #9-19-lecture-3-privacy
+[L04_anchor]: #9-26-lecture-4-government-censorship-and-surveillance
+[L05_anchor]: #10-03-lecture-5-memes
 [L06_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L07_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L08_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
