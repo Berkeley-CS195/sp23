@@ -2,20 +2,20 @@
 
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
 |-------|--------------------|---------------------|---------------------|---------------------------------------|
-| 1     |                    | Sat. 10/15 11:59 PM | Sat. 10/22, 11:59 PM  | Submission Link |
+| 1     |                    | Sat. 10/15 11:59 PM | Wed. 10/26, 11:59 PM  | [Submission Link](https://bcourses.berkeley.edu/courses/1518980/assignments/8475255) |
 | 2     |                    | Sat. 11/12, 11:59 PM  | Sat. 11/19, 11:59 PM  | Submission Link |
 
 Essays
 ------
 
-You will write two short essays (500-1000 words) of varying format in relation
+You will write two short essays (700-1000 words) of varying format in relation
 to issues discussed in class. Essays are peer reviewed, which means you will
 review six essays and have each of your essays reviewed by three of your peers.
 
 Essay 1 
 ------
 
-Details to be released.
+[Essay details here.](https://docs.google.com/document/d/1VuXzCrrW7VYzLLQyjcUlO8ZYaHycwmdn9p08PmRJzCY/edit?usp=sharing)
 
 <!--
 Essay Due: Sat. 2/26, 11:59 PM (**hard deadline**). [Submission Link][essay_1_submission].<br>
