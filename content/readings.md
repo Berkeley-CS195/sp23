@@ -9,14 +9,14 @@
 | 09/12 | Social Connection and Time Well-Spent           | [link][social_slides] | [jump][L02_anchor] |
 | 09/19 | Privacy                                         | [link][l03_slides] | [jump][L03_anchor] |
 | 09/26 | Government Censorship and Surveilence           | [link][l04_slides] | [jump][L04_anchor] |
-| 10/03 | Memes                                           | link | [jump][L05_anchor] |
-| 10/10 | Framing Society and Identity                    | link | jump <!--[jump][L05_anchor]--> |
-| 10/17 | Politics and Media                              | link | jump <!--[jump][L06_anchor]--> |
-| 10/24 | Software Risks                                  | link | jump <!--[jump][L07_anchor]--> |
-| 10/31 | Education	                                      | link | jump <!--[jump][L08_anchor]--> |
-| 11/07 | Jobs and Automation                             | link | jump <!--[jump][L09_anchor]--> |
-| 11/14 | Web 3.0 and Cryptocurrency                      | link | jump <!--[jump][L10_anchor]--> |
-| 11/21 | The Optimization Mindset, Tech Policy, Big Tech | link | jump <!--[jump][L11_anchor]--> |
+| 10/03 | Memes and Viral Content                         | [link][l05_slides] | [jump][L05_anchor] |
+| 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
+| 10/17 | Software Risks                                  | link | [jump][L07_anchor] |
+| 10/24 | Politics and Media                              | link | jump <!--[jump][L07_anchor]--> |
+| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | link | jump <!--[jump][L11_anchor]--> |
+| 11/07 | Education	                                      | link | jump <!--[jump][L08_anchor]--> |
+| 11/14 | Jobs and Automation                             | link | jump <!--[jump][L09_anchor]--> |
+| 11/21 | Web 3.0 and Cryptocurrency                      | link | jump <!--[jump][L10_anchor]--> |
 | 11/28 | Guest Speaker TBD                               | link | jump <!--[jump][L12_anchor]--> |
 
 ### Readings
@@ -27,14 +27,35 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
-### 10/03 Lecture 5: Memes
+### 10/17 Lecture 7: Software Risks
+Fill out [this survey](https://forms.gle/Zxnd9Bwx4N9en82t5) by Sunday 10/16 at 11:59 PM.
+* Highly suggested: Fabio, ["Killed by a Machine: The Therac-25"](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
+* Highly suggested: Davies, Pierson, Feller, Goel, ["A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear."](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments)
+* Recommended: Travis, ["How the Boeing 737 Max Disaster Looks to a Software Developer"](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+* Recommended: Branam, ["Learning from Engineering Failures"](https://www.embeddedrelated.com/showarticle/1410.php)
 
-**Fill out [Weekly Survey Week 5](https://forms.gle/KTASggbxbKRFSjjB9) by Sunday 10/02 at 11:59 PM.**
+## 10/10 Lecture 6: Framing Society and Identity
+<b>Slides</b>: [link][l06_slides]
+
+**Fill out [Weekly Survey Lecture 06](https://forms.gle/nub9U7fMnqibScpy5) by Sunday 10/09 at 11:59 PM.**
+[l06_slides]: https://docs.google.com/presentation/d/1QcUTtuLabrjrOw6-JfC2b2DtEn-YkYZInDA_IYuFsVk/edit?usp=sharing
+
+* Required: Count your score on the ["Invisible EECS Knapsack"](https://eecs.link/cs195knapsack) and submit it to the Weekly Survey form.
+* Required: Sourour, Bill, ["The code I'm stil ashamed of"](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/) (trigger warning: suicide)
+* Extra: Benjamin, Ruha, ["The New Jim Code"](https://www.youtube.com/watch?v=JahO1-saibU)
+
+## 10/03 Lecture 5: Memes and Viral Content
+
+<b>Slides</b>: [link][l05_slides]
+
+[l05_slides]: https://docs.google.com/presentation/d/1R_YUKxD1iaz_6tplCPRc3mjj_pjS6ypCyq-kf5-BPW0/edit?usp=sharing
+
+**Fill out [Weekly Survey Lecture 05](https://forms.gle/KTASggbxbKRFSjjB9) by Sunday 10/02 at 11:59 PM.**
 
 * Recommended: Chayka, Kyle, ["Ivermectin, the Crate Challenge, and the Danger of Runaway Memes"](https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes)
 * Recommended: ["Why Facts Don't Change Our Minds"](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds) (trigger warning: suicide)
 * Extra: CGP Gray, ["This Video Will Make You Angry"](https://www.youtube.com/watch?v=rE3j_RHkqJc)
-* Extra: Heath, Bell, Sternberg, ["Emotional selection in memes: the case of urban legends"](https://psycnet.apa.org/record/2001-05428-005) (required Berkeley VPN)
+* Extra: Heath, Bell, Sternberg, ["Emotional selection in memes: the case of urban legends"](https://psycnet.apa.org/record/2001-05428-005) (requires Berkeley VPN)
 <!--* Extra: Shullenberger, ["Mimesis, Violence, and Facebook: Peter Thiel's French Connection"](https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/) (very weird/questionable read, but interesting)
 -->
 
@@ -104,8 +125,8 @@ No readings.
 [L03_anchor]: #9-19-lecture-3-privacy
 [L04_anchor]: #9-26-lecture-4-government-censorship-and-surveillance
 [L05_anchor]: #10-03-lecture-5-memes
-[L06_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L07_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
+[L06_anchor]: #10-10-lecture-6-framing-society-and-identity
+[L07_anchor]: #10-17-lecture-7-software-risks
 [L08_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L09_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L10_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
