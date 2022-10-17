@@ -11,13 +11,13 @@
 | 09/26 | Government Censorship and Surveilence           | [link][l04_slides] | [jump][L04_anchor] |
 | 10/03 | Memes and Viral Content                         | [link][l05_slides] | [jump][L05_anchor] |
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
-| 10/17 | Software Risks                                  | link | [jump][L07_anchor] |
-| 10/24 | Politics and Media                              | link | jump <!--[jump][L07_anchor]--> |
-| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | link | jump <!--[jump][L11_anchor]--> |
-| 11/07 | Education	                                      | link | jump <!--[jump][L08_anchor]--> |
-| 11/14 | Jobs and Automation                             | link | jump <!--[jump][L09_anchor]--> |
-| 11/21 | Web 3.0 and Cryptocurrency                      | link | jump <!--[jump][L10_anchor]--> |
-| 11/28 | Guest Speaker TBD                               | link | jump <!--[jump][L12_anchor]--> |
+| 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
+| 10/24 | Politics and Media                              | [link] | jump <!--[jump][L07_anchor]--> |
+| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | [link] | jump <!--[jump][L11_anchor]--> |
+| 11/07 | Education	                                      | [link] | jump <!--[jump][L08_anchor]--> |
+| 11/14 | Jobs and Automation                             | [link] | jump <!--[jump][L09_anchor]--> |
+| 11/21 | Web 3.0 and Cryptocurrency                      | [link] | jump <!--[jump][L10_anchor]--> |
+| 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L12_anchor]--> |
 
 ### Readings
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -28,6 +28,7 @@ More information about the assignments, including the essays, can be found on th
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
 ### 10/17 Lecture 7: Software Risks
+[l07_slides]: https://docs.google.com/presentation/d/1udoEm-vo9Q6jHA_XcjpVW-ilyCUgrlLpZpvTE7B4jKM/edit?usp=sharing
 Fill out [this survey](https://forms.gle/Zxnd9Bwx4N9en82t5) by Sunday 10/16 at 11:59 PM.
 * Highly suggested: Fabio, ["Killed by a Machine: The Therac-25"](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 * Highly suggested: Davies, Pierson, Feller, Goel, ["A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear."](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments)
