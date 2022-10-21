@@ -12,12 +12,12 @@
 | 10/03 | Memes and Viral Content                         | [link][l05_slides] | [jump][L05_anchor] |
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
-| 10/24 | Politics and Media                              | [link] | jump <!--[jump][L07_anchor]--> |
-| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | [link] | jump <!--[jump][L11_anchor]--> |
-| 11/07 | Education	                                      | [link] | jump <!--[jump][L08_anchor]--> |
-| 11/14 | Jobs and Automation                             | [link] | jump <!--[jump][L09_anchor]--> |
-| 11/21 | Web 3.0 and Cryptocurrency                      | [link] | jump <!--[jump][L10_anchor]--> |
-| 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L12_anchor]--> |
+| 10/24 | Algorithmic Bias                                | [link] | [jump][L08_anchor] |
+| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | [link] | jump <!--[jump][L09_anchor]--> |
+| 11/07 | Education	                                      | [link] | jump <!--[jump][L10_anchor]--> |
+| 11/14 | Jobs and Automation                             | [link] | jump <!--[jump][L11_anchor]--> |
+| 11/21 | Web 3.0 and Cryptocurrency                      | [link] | jump <!--[jump][L12_anchor]--> |
+| 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
 
 ### Readings
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -27,7 +27,15 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
-### 10/17 Lecture 7: Software Risks
+## 10/24 Lecture 8: Algorithmic Bias
+
+Fill out [this survey](https://forms.gle/yYGKjjU7CHS6ZvcXA) by Sunday 10/23 at 11:59 PM.
+* Highly suggested: Angwin, Julia, ["Make Algorithms Accountable"](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0)
+* Highly Suggested: Davis, Pierson, Feller, Goel (from last time).
+* Recommended: Tufekci, Zeynep, ["Machine intelligence makes human morals more important"](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important) (video)
+* Optional: Google Research, ["Attacking discrimination with smarter machine learning"](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
+
+## 10/17 Lecture 7: Software Risks
 [l07_slides]: https://docs.google.com/presentation/d/1udoEm-vo9Q6jHA_XcjpVW-ilyCUgrlLpZpvTE7B4jKM/edit?usp=sharing
 Fill out [this survey](https://forms.gle/Zxnd9Bwx4N9en82t5) by Sunday 10/16 at 11:59 PM.
 * Highly suggested: Fabio, ["Killed by a Machine: The Therac-25"](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
@@ -128,7 +136,7 @@ No readings.
 [L05_anchor]: #10-03-lecture-5-memes
 [L06_anchor]: #10-10-lecture-6-framing-society-and-identity
 [L07_anchor]: #10-17-lecture-7-software-risks
-[L08_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
+[L08_anchor]: #10-24-lecture-8-algorithmic-bias
 [L09_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L10_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L11_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
