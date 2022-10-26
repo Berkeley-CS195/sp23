@@ -140,7 +140,7 @@ No readings.
 [L05_anchor]: #10-03-lecture-5-memes
 [L06_anchor]: #10-10-lecture-6-framing-society-and-identity
 [L07_anchor]: #10-17-lecture-7-software-risks
-[L08_anchor]: #10-24-lecture-8-algorithmic-bias
+[L08_anchor]: #10-24-lecture-8-algorithmic-bias-and-fairness
 [L09_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L10_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L11_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
