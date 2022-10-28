@@ -13,7 +13,7 @@
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
-| 10/31 | The Optimization Mindset, Tech Policy, Big Tech | [link] | jump <!--[jump][L09_anchor]--> |
+| 10/31 | Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
 | 11/07 | Education	                                      | [link] | jump <!--[jump][L10_anchor]--> |
 | 11/14 | Jobs and Automation                             | [link] | jump <!--[jump][L11_anchor]--> |
 | 11/21 | Web 3.0 and Cryptocurrency                      | [link] | jump <!--[jump][L12_anchor]--> |
@@ -27,6 +27,12 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech 
+Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.
+
+ * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/16kayO6g1-Xnm8e0SNO9sSEJggEm9opae/view?usp=sharing)
+ * Recommended: Sahami, Weinstein, Reich, ["System Error, Chapter 1: The Imperfections of the Optimization Mindset"](https://drive.google.com/file/d/13XgRP5LJBxyVsuOSkb-75CssC5ZJ2Lji/view?usp=sharing)
+
 ## 10/24 Lecture 8: Algorithmic Bias and Fairness
 <b>Slides</b>: [link][l08_slides]
 [l08_slides]: https://docs.google.com/presentation/d/1JkjJ8oYYDWMMqmi-PyKfME0ZHV5lXAK1SQCY5t1o5tQ/edit?usp=sharing
@@ -141,7 +147,7 @@ No readings.
 [L06_anchor]: #10-10-lecture-6-framing-society-and-identity
 [L07_anchor]: #10-17-lecture-7-software-risks
 [L08_anchor]: #10-24-lecture-8-algorithmic-bias-and-fairness
-[L09_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
+[L09_anchor]: #10-31-lecture-9-the-optimization-mindset-tech-policy-big-tech
 [L10_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L11_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
 [L12_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
