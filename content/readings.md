@@ -13,10 +13,10 @@
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
-| 10/31 | Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
-| 11/07 | Education	                                      | [link] | jump <!--[jump][L10_anchor]--> |
-| 11/14 | Jobs and Automation                             | [link] | jump <!--[jump][L11_anchor]--> |
-| 11/21 | Web 3.0 and Cryptocurrency                      | [link] | jump <!--[jump][L12_anchor]--> |
+| 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
+| 11/07 | Guest Speaker: Christina Warren                            | [link] | jump <!--[jump][L10_anchor]--> |
+| 11/14 | Guest Josh Hug: Jobs and Automation                         | [link] | jump <!--[jump][L11_anchor]--> |
+| 11/21 | Education / TBD                     | [link] | jump <!--[jump][L12_anchor]--> |
 | 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
 
 ### Readings
@@ -27,7 +27,7 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
-## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech 
+## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech
 Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.
 
  * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/16kayO6g1-Xnm8e0SNO9sSEJggEm9opae/view?usp=sharing)
