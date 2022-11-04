@@ -14,7 +14,7 @@
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
 | 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
-| 11/07 | Guest Speaker: Christina Warren                            | [link] | jump <!--[jump][L10_anchor]--> |
+| 11/07 | Guest Speaker: Christina Warren                            | [link] | [jump][L10_anchor] |
 | 11/14 | Guest Josh Hug: Jobs and Automation                         | [link] | jump <!--[jump][L11_anchor]--> |
 | 11/21 | Education / TBD                     | [link] | jump <!--[jump][L12_anchor]--> |
 | 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
@@ -27,6 +27,20 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+## 11/7 Lecture 10: Christina Warren: Twitter, AI Tools, Q&A
+Fill out [this survey](https://forms.gle/KpP26EHoFYpZFCqBA) by Sunday 11/6 at 11:59 PM.
+
+* Required: Nilay Patel, ["Welcome to Hell, Elon"][elon]
+* Required: Michael Weinberg, ["I’m Not Sure That (If?) GitHub Copilot is a Problem"][copilot]
+* Recommended: Christina Warren, Brianna Wu, Simone De Rochefort[ "#410: Twitter Is Over"][rocket] (Podcast)
+* Optional: Andy Baio, ["Invasive Diffusion: How one unwilling illustrator found herself turned into an AI model"][baio]
+
+[elon]: https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation
+[copilot]: https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/
+[rocket]: https://www.relay.fm/rocket/410
+[baio]: https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/
+
+
 ## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech
 Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.
 
