@@ -13,7 +13,7 @@
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
-| 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
+| 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link][l09_slides] | [jump][L09_anchor] |
 | 11/07 | Guest Speaker: Christina Warren                            | [link] | [jump][L10_anchor] |
 | 11/14 | Guest Josh Hug: Jobs and Automation                         | [link] | jump <!--[jump][L11_anchor]--> |
 | 11/21 | Education / TBD                     | [link] | jump <!--[jump][L12_anchor]--> |
@@ -42,6 +42,9 @@ Fill out [this survey](https://forms.gle/KpP26EHoFYpZFCqBA) by Sunday 11/6 at 11
 
 
 ## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech
+<b>Slides</b>: [link][l09_slides]
+[l09_slides]: https://drive.google.com/file/d/19Dw6k1QvWafvqmZyTcXszrqntEztrNuz/view?usp=share_link
+
 Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.
 
  * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/16kayO6g1-Xnm8e0SNO9sSEJggEm9opae/view?usp=sharing)
