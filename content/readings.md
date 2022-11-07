@@ -156,7 +156,7 @@ Readings:
 
 [survey_2]: https://forms.gle/Nx3cJyVKyDeK2YHPA
 
-## 9/12 Lecture 2: Free Time and Attention
+## 9/12 Lecture 2: Social Connection and Time Well-Spent
 
 <b>Slides</b>: [link][social_slides]
 
