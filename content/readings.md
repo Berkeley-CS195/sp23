@@ -57,7 +57,7 @@ Readings (may change, to be updated 11/9):
 
 * Required: Nilay Patel, ["Welcome to Hell, Elon"][elon]
 * Required: Michael Weinberg, ["I’m Not Sure That (If?) GitHub Copilot is a Problem"][copilot]
-* Recommended: Christina Warren, Brianna Wu, Simone De Rochefort[ "#410: Twitter Is Over"][rocket] (Podcast)
+* Recommended: Christina Warren, Brianna Wu, Simone De Rochefort: ["#410: Twitter Is Over"](https://www.relay.fm/rocket/410) (Podcast)
 * Optional: Andy Baio, ["Invasive Diffusion: How one unwilling illustrator found herself turned into an AI model"][baio]
 
 [elon]: https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation
