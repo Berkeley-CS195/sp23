@@ -1,2 +1,7 @@
 # peer-review-averages
-To use this script, copy and paste your Canvas API token into the text file "Canvas API Token.txt". Input the course ID and assignment ID (you must create an assignment ie. "Assignment 1 peer review", ID's can be found in the assignment URL) and the script will average each students peer review score. At the end you will be given an option to upload the scores in the grade center or not. 
+
+This script uploads the average score to an assignment on Canvas.
+
+```sh
+python3 peer-grading/peer_review_average.py -t [CANVAS_AUTH_TOKEN] -c 1518980 -a 8475255
+```
