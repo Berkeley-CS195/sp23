@@ -13,10 +13,10 @@
 | 10/10 | Framing Society and Identity                    | [link][l06_slides] | [jump][L06_anchor] |
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
-| 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link] | [jump][L09_anchor] |
-| 11/07 | Guest Speaker: Christina Warren                            | [link] | [jump][L10_anchor] |
-| 11/14 | Guest Josh Hug: Jobs and Automation                         | [link] | jump <!--[jump][L11_anchor]--> |
-| 11/21 | Education / TBD                     | [link] | jump <!--[jump][L12_anchor]--> |
+| 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link][l09_slides] | [jump][L09_anchor] |
+| 11/07 | Guest Speaker: Christina Warren                 | [link] | [jump][L10_anchor] |
+| 11/14 | Guest Josh Hug: Jobs and Automation             | [link] | [jump][L11_anchor] |
+| 11/21 | Education                                       | [link] | [jump][L12_anchor] |
 | 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
 
 ### Readings
@@ -27,12 +27,37 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+## 11/21 Lecture 12: Education
+<b>Slides [draft]</b>: [link][l12_slides]
+[l12_slides]: https://docs.google.com/presentation/d/1cHBVaLc6cTS2ZDKEQV4n7uGO7REPiOfnvGYshvjyWN4/edit?usp=sharing
+
+Survey: TBD
+
+* Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
+* Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
+* Extra: Reich ["Ed-Tech Mania Is Back"](https://www.chronicle.com/article/ed-tech-mania-is-back), requires registering free chronicle.com account.
+* Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
+* Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
+
+## 11/14 Lecture 11: Josh Hug: Jobs and Automation
+
+Survey: TBD
+
+Readings (may change, to be updated 11/9):
+
+* Required: Williams, Alex, ["Will Robots Take Our Children's Jobs?"](https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html)
+* Required: McKinsey Global Institute, ["Harnessing automation for a future that works"](https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works)
+* Recommended: Kim, Tammy, ["The Gig Economy is Coming for Your Job"](https://www.nytimes.com/2020/01/10/opinion/sunday/gig-economy-unemployment-automation.html)
+* Extra: Chokshi, ["What if You Had a Four-Day Week? Why Don't You?"](https://www.nytimes.com/2019/11/08/business/four-day-work-week.html)
+* Extra: Boudette, ["Despite High Hopes, Self-Driving Cars Are 'Way in the Future'"](https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html)
+* Extra: [Realtime Inequality](https://realtimeinequality.org/)
+
 ## 11/7 Lecture 10: Christina Warren: Twitter, AI Tools, Q&A
-Fill out [this survey](https://forms.gle/KpP26EHoFYpZFCqBA) by Sunday 11/6 at 11:59 PM.
+**Fill out [this survey](https://forms.gle/KpP26EHoFYpZFCqBA) by Sunday 11/6 at 11:59 PM.**
 
 * Required: Nilay Patel, ["Welcome to Hell, Elon"][elon]
 * Required: Michael Weinberg, ["I’m Not Sure That (If?) GitHub Copilot is a Problem"][copilot]
-* Recommended: Christina Warren, Brianna Wu, Simone De Rochefort[ "#410: Twitter Is Over"][rocket] (Podcast)
+* Recommended: Christina Warren, Brianna Wu, Simone De Rochefort: ["#410: Twitter Is Over"](https://www.relay.fm/rocket/410) (Podcast)
 * Optional: Andy Baio, ["Invasive Diffusion: How one unwilling illustrator found herself turned into an AI model"][baio]
 
 [elon]: https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation
@@ -42,7 +67,10 @@ Fill out [this survey](https://forms.gle/KpP26EHoFYpZFCqBA) by Sunday 11/6 at 11
 
 
 ## 10/31 Lecture 9: The Optimization Mindset, Tech Policy, Big Tech
-Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.
+<b>Slides</b>: [link][l09_slides]
+[l09_slides]: https://drive.google.com/file/d/19Dw6k1QvWafvqmZyTcXszrqntEztrNuz/view?usp=share_link
+
+**Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 11:59 PM.**
 
  * Required: Sahami, Weinstein, Reich, ["System Error, Chapter 8: Can Democracies Rise to the Challenge?"](https://drive.google.com/file/d/16kayO6g1-Xnm8e0SNO9sSEJggEm9opae/view?usp=sharing)
  * Recommended: Sahami, Weinstein, Reich, ["System Error, Chapter 1: The Imperfections of the Optimization Mindset"](https://drive.google.com/file/d/13XgRP5LJBxyVsuOSkb-75CssC5ZJ2Lji/view?usp=sharing)
@@ -51,7 +79,7 @@ Fill out [this survey](https://forms.gle/HBBsXmZzjAMyXMY7A) by Sunday 10/30 at 1
 <b>Slides</b>: [link][l08_slides]
 [l08_slides]: https://docs.google.com/presentation/d/1JkjJ8oYYDWMMqmi-PyKfME0ZHV5lXAK1SQCY5t1o5tQ/edit?usp=sharing
 
-Fill out [this survey](https://forms.gle/yYGKjjU7CHS6ZvcXA) by Sunday 10/23 at 11:59 PM.
+**Fill out [this survey](https://forms.gle/yYGKjjU7CHS6ZvcXA) by Sunday 10/23 at 11:59 PM.**
 * Highly suggested: Angwin, Julia, ["Make Algorithms Accountable"](https://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html?_r=0)
 * Highly Suggested: Davis, Pierson, Feller, Goel (from last time).
 * Recommended: Tufekci, Zeynep, ["Machine intelligence makes human morals more important"](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important) (video)
@@ -61,7 +89,7 @@ Fill out [this survey](https://forms.gle/yYGKjjU7CHS6ZvcXA) by Sunday 10/23 at 1
 <b>Slides</b>: [link][l07_slides]
 [l07_slides]: https://docs.google.com/presentation/d/1udoEm-vo9Q6jHA_XcjpVW-ilyCUgrlLpZpvTE7B4jKM/edit?usp=sharing
 
-Fill out [this survey](https://forms.gle/Zxnd9Bwx4N9en82t5) by Sunday 10/16 at 11:59 PM.
+**Fill out [this survey](https://forms.gle/Zxnd9Bwx4N9en82t5) by Sunday 10/16 at 11:59 PM.**
 * Highly suggested: Fabio, ["Killed by a Machine: The Therac-25"](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 * Highly suggested: Davies, Pierson, Feller, Goel, ["A computer program used for bail and sentencing decisions was labeled biased against blacks. It's actually not that clear."](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/#comments)
 * Recommended: Travis, ["How the Boeing 737 Max Disaster Looks to a Software Developer"](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
@@ -128,7 +156,7 @@ Readings:
 
 [survey_2]: https://forms.gle/Nx3cJyVKyDeK2YHPA
 
-## 9/12 Lecture 2: Free Time and Attention
+## 9/12 Lecture 2: Social Connection and Time Well-Spent
 
 <b>Slides</b>: [link][social_slides]
 
@@ -162,10 +190,9 @@ No readings.
 [L07_anchor]: #10-17-lecture-7-software-risks
 [L08_anchor]: #10-24-lecture-8-algorithmic-bias-and-fairness
 [L09_anchor]: #10-31-lecture-9-the-optimization-mindset-tech-policy-big-tech
-[L10_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L11_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-[L12_anchor]: https://inst.eecs.berkeley.edu/~cs195/fa22/#9-12-lecture-2-free-time-and-attention
-
+[L10_anchor]: #11-7-lecture-10-christina-warren-twitter-ai-tools-q-amp-a
+[L11_anchor]: #11-14-lecture-11-josh-hug-jobs-and-automation
+[L12_anchor]: #11-21-education
 
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [social_slides]: https://docs.google.com/presentation/d/18fPSnXKIvo7AHh8Ga9h8ElzukqdaYhHUD-s_kZlfiYY/edit?usp=sharing

@@ -2,8 +2,9 @@
 
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
 |-------|--------------------|---------------------|---------------------|---------------------------------------|
-| 1     |                    | Sat. 10/15 11:59 PM | Wed. 10/26, 11:59 PM  | [Submission Link](https://bcourses.berkeley.edu/courses/1518980/assignments/8475255) |
-| 2     |                    | Sat. 11/12, 11:59 PM  | Sat. 11/19, 11:59 PM  | Submission Link |
+| 1     |                    | Mon. 10/17 11:59 PM | Wed. 10/26, 11:59 PM  | [Submission](https://bcourses.berkeley.edu/courses/1518980/assignments/8475255) |
+| 2     | Tue. 11/8, 11:59pm | Mon. 11/14, 11:59 PM  | Wed. 11/23, 11:59 PM  |  [Proposal](https://www.gradescope.com/courses/437281/assignments/2401006/) <br/> [Essay Submission](https://bcourses.berkeley.edu/courses/1518980/assignments/8516126) |
+| Optional | | Wed. 11/30 11:59 PM | Fri. 12/9 11:59 PM | Submission Link |
 
 Essays
 ------
@@ -53,7 +54,9 @@ You will be evaluated on the following criteria by about three of your peers on 
 Essay 2
 ------
 
-Details to be released.
+[Proposal form here.](https://www.gradescope.com/courses/437281/assignments/2401006/)
+
+[Essay details here.](https://docs.google.com/document/d/1tYHu2PSWJHxyxL0vD_yWqNtEZRmZifvLfLKdGfe8Uds/edit?usp=sharing)
 
 <!--
 Essay Due: Saturday, April 2nd at 11:59 PM (**hard deadline, no exceptions**). [Submission Link][essay_2_submission].<br>
@@ -88,16 +91,17 @@ You will be evaluated on the following criteria by about three of your peers on 
 [essay_2_submission]: https://www.crowdgrader.org/crowdgrader/venues/join/5240/siniry_gapybo_towiva_waweda
 -->
 
-Ethics in the News
+Optional Essay: Ethics in the News
 ------------------
 
-You will complete an Ethics in the News assignment. Details to be released.
+This is an optional assignment that can be completed to make up one of the two required essays. You will complete an Ethics in the News assignment where you research a current topic in computing (outside of lecture topics) and its social implications. Word count, depth, and citation requirements will be similar to the two required essays.
+Details to be released around 11/14.
 
 Accommodations 
 ------
 
 If you have a DSP-approved accommodation and/or extenuating circumstances that prevent you from submitting an assignment on time, please create a private post on the Ed forum describing your accommodation or the extenuating circumstances, as well as the number of additional days that you require to complete the assignment.
 
-We will review each request for an extension on an individual basis.
+We will review each extension request on an individual basis.
 
 
