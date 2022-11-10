@@ -17,15 +17,17 @@ parser.add_argument('-a', '--assignment', help='Assignment ID', required=True)
 
 args = parser.parse_args()
 
+url = "https://bcourses.berkeley.edu/"
 course_id = args.course
 token = args.token
 assignment_id = args.assignment
-confirmation = input('Input any key to continue:')
-
-url = "https://bcourses.berkeley.edu/"
-
+input('Input any key to continue:')
 
 DRY_RUN = False
+# Give students credit for completing per reviews
+UPLOAD_SCORES_FOR_COMPLETION = True
+completion_assignment_id = 8506682
+POINTS_PER_REVIEW = 2
 
 try:
     import requests
@@ -57,6 +59,25 @@ def course_url(end=''):
 
 auth_token = {'Authorization': f'Bearer {token}'}
 
+def upload_scores_for_reviews(df):
+    completed = df[df['workflow_state'] == 'completed']
+    # We end up with oddly named columns, but the counts work.
+    reviews_by_student = completed.groupby('assessor_id').count()
+    reviews_by_student['score'] = reviews_by_student['id'] * POINTS_PER_REVIEW
+    for student_id, row in reviews_by_student.iterrows():
+        # breakpoint()
+        score = row['score']
+        if DRY_RUN:
+            print(f'Skipped! {student_id} {score}')
+            continue
+        print(student_id, score)
+        r = requests.put(
+            course_url(f'/assignments/{completion_assignment_id}/submissions/{student_id}/'),
+            params={'submission[posted_grade]': score},
+            headers=auth_token
+        )
+        print('Data successfully uploaded.')
+
 try:
     # Obtaining the assignment information (settings, assignment id, rubric id)
     assignmentInfo = requests.get(
@@ -83,9 +104,13 @@ try:
     peerReview = requests.get(course_url(f'/assignments/{assignment_id}/peer_reviews'),
                               headers=auth_token)
 
-    peerReviewInfo = json.loads(peerReview.text)
     peerReview_df = pd.read_json(peerReview.text)
     peerReview_df['user_id'] = peerReview_df['user_id'].astype(str)
+
+    if UPLOAD_SCORES_FOR_COMPLETION:
+        upload_scores_for_reviews(peerReview_df)
+        print('Done!')
+        exit()
 
     # Merging data together into one csv file named 'peer review information.csv'
     merged_df = pd.merge(peerReview_df, assessments_df, how='outer', left_on=[
@@ -94,13 +119,12 @@ try:
 
     # Create a table table with user_id and mean peer review score of each assignment
     # (make sure the mean score is rounded to 2, and the user_id is a string)
-    # breakpoint()
     groups = merged_df.groupby('user_id')
     scores = pd.DataFrame(groups['score'])
     # get the 2 largest scores from the 2nd column of scores
+    # TODO: Drop lowest?
     scores['max'] = scores[1].apply(lambda x: sorted(x, reverse=True)[:2])
     scores['mean'] = scores['max'].apply(lambda x: round(sum(x) / len(x), 2))
-    # breakpoint()
     scores['user_id'] = scores[0].astype(str)
 
     # Write the output to a csv file named 'peer_review_average.csv'
