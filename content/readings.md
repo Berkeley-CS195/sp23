@@ -15,7 +15,7 @@
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
 | 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link][l09_slides] | [jump][L09_anchor] |
 | 11/07 | Guest Speaker: Christina Warren                 | none | [jump][L10_anchor] |
-| 11/14 | Guest Josh Hug: Jobs and Automation             | [link] | [jump][L11_anchor] |
+| 11/14 | Jobs and Automation and Labor             | [link][l11_slides] | [jump][L11_anchor] |
 | 11/21 | Education                                       | [link] | [jump][L12_anchor] |
 | 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
 
@@ -39,7 +39,9 @@ Survey: TBD
 * Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
 * Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
 
-## 11/14 Lecture 11: Josh Hug: Jobs and Automation
+## 11/14 Lecture 11: Jobs and Automation and Labor
+<b>Slides</b>: [link][l11_slides]
+[l11_slides]: https://docs.google.com/presentation/d/1n0DWFxk8zYEOYVbqW3uweF0bWZFeGzxiIZXiuP0AOqI/edit?usp=sharing
 
 **Fill out [this survey](https://forms.gle/AUF4o3x4UrpKFpuW7) by Sunday 11/13 at 11:59 PM.** Reminder: This is a soft deadline.
 
