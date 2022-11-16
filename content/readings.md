@@ -14,8 +14,8 @@
 | 10/17 | Software Risks                                  | [link][l07_slides] | [jump][L07_anchor] |
 | 10/24 | Algorithmic Bias and Fairness                   | [link][l08_slides] | [jump][L08_anchor] |
 | 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link][l09_slides] | [jump][L09_anchor] |
-| 11/07 | Guest Speaker: Christina Warren                 | [link] | [jump][L10_anchor] |
-| 11/14 | Guest Josh Hug: Jobs and Automation             | [link] | [jump][L11_anchor] |
+| 11/07 | Guest Speaker: Christina Warren                 | none | [jump][L10_anchor] |
+| 11/14 | Jobs and Automation and Labor             | [link][l11_slides] | [jump][L11_anchor] |
 | 11/21 | Education                                       | [link] | [jump][L12_anchor] |
 | 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
 
@@ -39,11 +39,20 @@ Survey: TBD
 * Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
 * Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
 
-## 11/14 Lecture 11: Josh Hug: Jobs and Automation
+## 11/14 Lecture 11: Jobs and Automation and Labor
+<b>Slides</b>: [link][l11_slides]
+[l11_slides]: https://docs.google.com/presentation/d/1n0DWFxk8zYEOYVbqW3uweF0bWZFeGzxiIZXiuP0AOqI/edit?usp=sharing
 
-Survey: TBD
+**Fill out [this survey](https://forms.gle/AUF4o3x4UrpKFpuW7) by Sunday 11/13 at 11:59 PM.** Reminder: This is a soft deadline.
 
-Readings (may change, to be updated 11/9):
+1) Planned UAW Strike (UAW 5810, UAW 2865, SRU-UAW) Suggested Readings:
+* UC Berkeley (CalNet required), [UAW Strike Information](https://sites.google.com/berkeley.edu/strikeinfo/home)
+* University of California, [Information about UC-UAW negotiations and a UAW strike](https://www.universityofcalifornia.edu/UAW)
+* Fair UC Now, [Bargaining Terms](https://www.fairucnow.org/bargaining/)
+* Fair UC Now, [Strike FAQ](https://www.fairucnow.org/strikefaq/)
+* [UAW Berkeley Staffing Side Letter](https://drive.google.com/file/d/1tdWCJDoHUAVBslgD2OxjvbUvO2O1sMTf/view?usp=share_link) for EECS, Data Science, and Statistics
+
+2) Jobs/Automation Readings:
 
 * Required: Williams, Alex, ["Will Robots Take Our Children's Jobs?"](https://www.nytimes.com/2017/12/11/style/robots-jobs-children.html)
 * Required: McKinsey Global Institute, ["Harnessing automation for a future that works"](https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works)
