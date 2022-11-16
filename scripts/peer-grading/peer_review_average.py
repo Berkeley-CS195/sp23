@@ -122,8 +122,7 @@ try:
     groups = merged_df.groupby('user_id')
     scores = pd.DataFrame(groups['score'])
     # get the 2 largest scores from the 2nd column of scores
-    # TODO: Drop lowest?
-    scores['max'] = scores[1].apply(lambda x: sorted(x, reverse=True)[:2])
+    scores['max'] = scores[1].apply(lambda x: sorted(x, reverse=True)[:-1])
     scores['mean'] = scores['max'].apply(lambda x: round(sum(x) / len(x), 2))
     scores['user_id'] = scores[0].astype(str)
 
