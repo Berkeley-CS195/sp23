@@ -16,8 +16,8 @@
 | 10/31 | Guest Mehran Sahami: The Optimization Mindset, Tech Policy, Big Tech | [link][l09_slides] | [jump][L09_anchor] |
 | 11/07 | Guest Speaker: Christina Warren                 | none | [jump][L10_anchor] |
 | 11/14 | Jobs and Automation and Labor             | [link][l11_slides] | [jump][L11_anchor] |
-| 11/21 | Education                                       | [link] | [jump][L12_anchor] |
-| 11/28 | Guest Speaker TBD                               | [link] | jump <!--[jump][L13_anchor]--> |
+| 11/21 | Education (Canceled)                            | [link] | [jump][L12_anchor] |
+| 11/28 | Guest Speaker: James Allworth                   | [link] | [jump][L13_anchor] |
 
 ### Readings
 Readings are "required", "recommended", or "extra". Required readings should be
@@ -27,11 +27,18 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the [assignments page](https://inst.eecs.berkeley.edu/~cs195/sp22/assignments.html).
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
-## 11/21 Lecture 12: Education
+## 11/28 Lecture 12: James Allworth
+
+Survey: [this survey](https://forms.gle/dM4aQN1my57TndBL6)
+
+* Required Reading: An excerpt from the [book published in HBR](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2772/How-Will-You-Measure-Your-Life-by-Clayton-Christensen.pdf)
+* Optional Reading/Listening:  James cohosts a podcast Exponent with Ben Thompson where they talk about tech issues. There's two interesting episodes which have some background on how James thinks about hard issues in tech: [Facebook, Twitter, and Trump](https://exponent.fm/episode-191-facebook-twitter-and-trump/); [Big Tech, Antitrust, and Democracy](https://exponent.fm/exponent-188-big-tech-antitrust-and-democracy/). Both these are a little old, but a good snapshot of ideas and challenges which are still relevant today. (Apparently Elon Musk is allowing Trump back on Twitter....)
+* Also you might want to check out this [piece](https://blog.cloudflare.com/kiwifarms-blocked/) about Cloudflare blocking the the site KiwiFarms.
+
+
+## 11/21 Lecture (canceled): Education
 <b>Slides [draft]</b>: [link][l12_slides]
 [l12_slides]: https://docs.google.com/presentation/d/1cHBVaLc6cTS2ZDKEQV4n7uGO7REPiOfnvGYshvjyWN4/edit?usp=sharing
-
-Survey: TBD
 
 * Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
 * Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
@@ -40,6 +47,9 @@ Survey: TBD
 * Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
 
 ## 11/14 Lecture 11: Jobs and Automation and Labor
+
+This lecture is optional, meaning the survey and attendance are both counted as extra credit.
+
 <b>Slides</b>: [link][l11_slides]
 [l11_slides]: https://docs.google.com/presentation/d/1n0DWFxk8zYEOYVbqW3uweF0bWZFeGzxiIZXiuP0AOqI/edit?usp=sharing
 
@@ -200,8 +210,9 @@ No readings.
 [L08_anchor]: #10-24-lecture-8-algorithmic-bias-and-fairness
 [L09_anchor]: #10-31-lecture-9-the-optimization-mindset-tech-policy-big-tech
 [L10_anchor]: #11-7-lecture-10-christina-warren-twitter-ai-tools-q-amp-a
-[L11_anchor]: #11-14-lecture-11-josh-hug-jobs-and-automation
-[L12_anchor]: #11-21-education
+[L11_anchor]: #11-14-lecture-11-jobs-and-automation-and-labor
+[L12_anchor]: #11-21-lecture-canceled-education
+[L13_anchor]: #11-28-lecture-12-james-allworth
 
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [social_slides]: https://docs.google.com/presentation/d/18fPSnXKIvo7AHh8Ga9h8ElzukqdaYhHUD-s_kZlfiYY/edit?usp=sharing
