@@ -9,6 +9,13 @@ and future development activities. Readings and lecture topics are drawn from a
 range of fields that together seek to describe our contemporary global society:
 sociology, philosophy, economics, public policy, etc.
 
+CS H195
+-------
+CS H195 is a 3-unit class with the following expectations:
+* In addition to CS 195 lecture, you'll go to 60-90 minute in-person discussion sections led by a GSI, once weekly.
+* You will actively discuss each CS 195 topic in more depth.
+* You will work on interesting projects / papers that replace the usual CS 195 essays.
+
 Weekly Schedule
 ---------------
 
@@ -25,6 +32,18 @@ Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Ed.
 
 **Please submit the weekly survey each week by Monday 11:59 pm Pacific!**
+
+Lecture and Attendance
+---------------
+
+Lecture is going to be a mix of presentations, students asking questions, small
+group discussion, and class-wide debriefing. 
+
+Attendance will be taken in class and is required [either online or in-person]. You cannot have a time conflict.
+The lecture is the vast majority of the experience of the class.
+
+If interested, please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications for H195 are due Wednesday 1/25 11:59pm PT.**
+
 
 Essays
 ------
@@ -47,29 +66,25 @@ both in class meetings and in written work.
 
 In order to receive a passing grade in CS 195, you must:
 
- * Attend at least 10 (out of 12) lectures (excludes the first lecture).
- * Complete at least 10 (out of 12) pre-lecture surveys.
+ * Attend at least 10 (out of 13) lectures (excludes the first lecture).
+ * Complete at least 10 (out of 14) pre-lecture surveys.
  * Submit 2 essays and receive a passing peer review grade on all of them.
  * Provide peer reviews for 6 essays.
  * Complete the Ethics in the News assignment.
 
-We understand that situations come up during the semester. You may make up lecture attendance by attending the H195 discussion section (discussion meeting times in sidebar). Note that sections often require prework, so please do contact course staff in advance so we can provide you with details. **As of now there are no plans to offer makeup essays.**
 
-Lecture and Attendance
----------------
+Accommodations 
+------
 
-Lecture is going to be a mix of presentations, students asking questions, small
-group discussion, and class-wide debriefing. 
+We understand that situations come up during the semester.
 
-Attendance will be taken in class and is required [either online or in-person]. You cannot have a time conflict.
-The lecture is the vast majority of the experience of the class.
+**Lecture attendance**: Please use your built-in absences first before contacting staff about additional makeups. You may make up lecture attendance by attending the H195 discussion section (discussion meeting times in sidebar). Note that sections often require prework, so please do make a private post on Ed in advance so we can provide you with details. 
 
-CS H195
--------
-CS H195 is a 3-unit class with the following expectations:
-* In addition to CS 195 lecture, you'll go to 60-90 minute in-person discussion sections led by a GSI, once weekly.
-* You will actively discuss each CS 195 topic in more depth.
-* You will work on interesting projects / papers that replace the usual CS 195 essays.
+**Pre-lecture surveys**: Please use your built-in survey drops first before contacting staff about additional makeups. These will be reopened for completion as needed. Please make a private post on Ed.
 
-If interested, please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications for H195 are due Wednesday 1/25 11:59pm PT.**
+**Essays**: *As of now there are no plans to offer makeup essays.* While we do not want this 1-unit seminar to stress you out, please also understand that because of our grading timelines, essays must be submitted by the posted deadline. If you have extenuating circumstances or anticipate an overlap with your commitments (personal emergencies, exams, etc.), please make a private Ed post as soon as possible so we can provide a short extension or another accommodation.
+We will review each extension request on an individual basis.
 
+**DSP**: If you have a DSP-approved accommodation, please create a private post on the Ed forum so we can allocate extensions based on your letter on record.
+<!--describing your accommodation or the extenuating circumstances, as well as the number of additional days that you require to complete the assignment.
+-->

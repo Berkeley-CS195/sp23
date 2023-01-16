@@ -2,23 +2,23 @@
 
 **Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please make a private post on Ed.
 
-| Date  | Lecture Topic or Assignment                     | Slides | Readings |
-|-------|-------------------------------------------------|--------| ----------- |
-| 01/17 | Free Speech                                     | link | jump |
-| 01/24 | Free Time and Attention                         | link | jump |
-| 01/31 | Privacy                                         | link | jump |
-| 02/07 | Software Risks                                  | link | jump |
-| 02/14 | Framing Society                                 | link | jump |
-| 02/21 | Framing Engineering Responsibility              | link | jump |
-| 02/28 | MemesSpeech                                     | link | jump |
-| 03/07 | Free Speech                                     | link | jump |
-| 03/14 | Free Speech                                     | link | jump |
-| 03/21 | Free Speech                                     | link | jump |
-| 03/28 | Spring break: No Class!                         |      |      |
-| 04/04 | Free Speech                                     | link | jump |
-| 04/11 | Free Speech                                     | link | jump |
-| 04/18 | Free Speech                                     | link | jump |
-| 04/25 | Closing/Guest Speaker TBD                       | link | jump |
+| Date  | Lecture | Topic                                 | Slides | Readings |
+|-------|-------- | --------------------------------------|--------| ----------- |
+| 01/17 |  1 | Free Speech                                     | link | jump |
+| 01/24 |  2 | Social Connection and Time Well-Spent           | link | jump |
+| 01/31 |  3 | Privacy                                         | link | jump |
+| 02/07 |  4 | Software Risks                                  | link | jump |
+| 02/14 |  5 | Framing Society: Capitalism                     | link | jump |
+| 02/21 |  6 | Memes and Viral Content                         | link | jump |
+| 02/28 |  7 | Government Censorship and Surveillance          | link | jump |
+| 03/07 |  8 | Algorithmic Bias and Fairness                   | link | jump |
+| 03/14 |  9 | Jobs, Automation, and Labor                     | link | jump |
+| 03/21 | 10 | Education                                       | link | jump |
+| 03/28 |  - | Spring break: No Class!                         |      |      |
+| 04/04 | 11 | Framing Society: Individual Responsibility      | link | jump |
+| 04/11 | 12 | Guest Speaker TBD                               | link | jump |
+| 04/18 | 13 | Guest Speaker TBD                               | link | jump |
+| 04/25 | 14 | Closing/Guest Speaker TBD                       | link | jump |
 
 ### Readings
 Readings are "required", "recommended", or "extra". Required readings should be

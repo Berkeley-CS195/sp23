@@ -36,11 +36,3 @@ This is an optional assignment that can be completed to make up one of the two r
 Details to be released around 11/14.
 -->
 
-Accommodations 
-------
-
-If you have a DSP-approved accommodation and/or extenuating circumstances that prevent you from submitting an assignment on time, please create a private post on the Ed forum describing your accommodation or the extenuating circumstances, as well as the number of additional days that you require to complete the assignment.
-
-We will review each extension request on an individual basis.
-
-
