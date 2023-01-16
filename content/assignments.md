@@ -5,7 +5,7 @@
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
 |-------|--------------------|---------------------|---------------------|---------------------------------------|
 | 1     | Tue. 02/14, 11:59pm | Tue. 02/21 11:59pm | Wed. 03/01, 11:59pm  | Submission |
-| 2     |                     | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  |  Submission |
+| 2     | Tue. 03/22, 11:59pm | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  |  Submission |
 | Computing in the News | | Tue. 04/25 11:59pm | Fri. 05/02 11:59 PM | Submission |
 
 Essays
