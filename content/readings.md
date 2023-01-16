@@ -33,7 +33,7 @@ More information about the assignments, including the essays, can be found on th
 
 <b>Slides</b>: TBD
 
-**Survey**: Please fill out the [welcome form][welcome_form] before class by Monday 08/29 noon PT.
+**Survey**: Please fill out the [welcome form][welcome_form] by Friday 1/20 11:59pm PT.<br/>
 **Attendance**: No lecture attendance will be taken.
 
 **Interested in CS H195?** Check out the Discussion Info page in the sidebar and fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**
