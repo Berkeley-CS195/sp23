@@ -1,6 +1,6 @@
 ~ title: Course Description and Policies
 
-**Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please email the instructors who can provide you with a permission code. Thanks!
+**Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please make a private post on Ed.
 
 CS 195 is a discussion-intensive course about the social implications of
 computer technology. The purpose of this course is to help students make
@@ -12,9 +12,9 @@ sociology, philosophy, economics, public policy, etc.
 Weekly Schedule
 ---------------
 
-Lecture: Monday 5:10 to 6:30 PM
+Lecture: Tuesday 3:30 to 5:00 PM
 
-Lecture will be hybrid in the Genetic Plant and Biology Building 100 (GPB 100) with a Zoom simulcast.
+Lecture will be hybrid in the Physics Building 1 (Physics 1) with a Zoom simulcast.
 Participation will be expected for both in-person and Zoom students. We'll make it work. There will *not* be after-the-fact recordings posted.
 
 Readings for each week will be released one week before each next class (or thereabouts).
@@ -24,7 +24,7 @@ Readings for each week will be released one week before each next class (or ther
 Lecture topics will not be determined only by the wisdom of your instructor.
 Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Ed.
 
-**Please submit the weekly survey each week by Sunday 11:59 pm Pacific!**
+**Please submit the weekly survey each week by Monday 11:59 pm Pacific!**
 
 Essays
 ------
@@ -53,8 +53,7 @@ In order to receive a passing grade in CS 195, you must:
  * Provide peer reviews for 6 essays.
  * Complete the Ethics in the News assignment.
 
-In the event that you do not meet the above requirements, we *may* provide
-an opportunity to make up extra work, though you should not count on this.
+We understand that situations come up during the semester. You may make up lecture attendance by attending the H195 discussion section (discussion meeting times in sidebar). Note that sections often require prework, so please do contact course staff in advance so we can provide you with details. **As of now there are no plans to offer makeup essays.**
 
 Lecture and Attendance
 ---------------
@@ -62,10 +61,8 @@ Lecture and Attendance
 Lecture is going to be a mix of presentations, students asking questions, small
 group discussion, and class-wide debriefing. 
 
-Attendance will be taken in class and is required [either online or in-person]. You cannot have a time conflict.* 
+Attendance will be taken in class and is required [either online or in-person]. You cannot have a time conflict.
 The lecture is the vast majority of the experience of the class.
-
-*: If you have a half-hour conflict and you're also planning on doing H195, we might be able to accommodate you.
 
 CS H195
 -------
@@ -74,5 +71,5 @@ CS H195 is a 3-unit class with the following expectations:
 * You will actively discuss each CS 195 topic in more depth.
 * You will work on interesting projects / papers that replace the usual CS 195 essays.
 
-In the first lecture we will share an application form for CS H195 for those interested; applications are due Wednesday 9/7 11:59pm PT. Before the application deadline, there will be an open H195 discussion held Wednesday 9/7 5:00pm - 6:30pm PT in Soda 380, after which regular class meetings for enrolled H195 students will be scheduled.
+If interested, please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications for H195 are due Wednesday 1/25 11:59pm PT.**
 
