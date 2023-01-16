@@ -1,12 +1,11 @@
 ~ title: CS H195: Honors Social Implications of Computer Technology
 
-CS H195 complement and supplement the topics presented in CS 195 lecture series. Students are expected to engage at a deeper level with the assigned weekly readings and be prepared to engage in thoughtful and constructive discussions around the course material. Where applicable, we will invite guest speakers from industry and academia to present their work and to participate in discussions alongside students. CS H195 will encourage students to go beyond thinking about computer technology as solely an engineering problem but instead viewing it holistically from the perspective of social sciences, legal studies, and policymaking. 
+CS H195 discussions complement and supplement the topics presented in CS 195 lecture series. Students are expected to engage at a deeper level with the assigned weekly readings and be prepared to engage in thoughtful and constructive discussions around the course material. Where applicable, we will invite guest speakers from industry and academia to present their work and to participate in discussions alongside students. CS H195 will encourage students to go beyond thinking about computer technology as solely an engineering problem but instead viewing it holistically from the perspective of social sciences, legal studies, policymaking, equity, and inclusion. 
 
 <!--**Course Application**: <a href="https://forms.gle/Kwd6Khkw1zejbJQ58" target="_blank">Application Form</a> due <b>Wednesday 09/07, 11:59pm PT</b>-->
 <!--**Drop-in session of H195**: Wednesday 09/07, 5-6pm, Soda 380. Drop by to see what it's like!-->
 
 **Interested in CS H195?** Please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**
-Kirthi to request an enrollment code ASAP.
 
 **CS H195 time**: See the sidebar.
 

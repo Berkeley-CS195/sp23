@@ -59,4 +59,4 @@ Optional readings:
 
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [social_slides]: https://docs.google.com/presentation/d/18fPSnXKIvo7AHh8Ga9h8ElzukqdaYhHUD-s_kZlfiYY/edit?usp=sharing
-[welcome_form]: https://forms.gle/B47YRvK6m4wQVzpS6
+[welcome_form]: https://docs.google.com/forms/d/e/1FAIpQLScmLPmDYpyZxt9MIGeZbO7t3gB-BP4VJuAK8jzejXNvu-YUbw/viewform?usp=sf_link
