@@ -42,6 +42,7 @@ Optional readings:
 - Motherboard Tech by Vice. [The History of Twitter's Rules](https://www.vice.com/en/article/z43xw3/the-history-of-twitters-rules), 2016.
 - The New Yorker. ["Inside the Making of Facebook’s Supreme Court"](https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court), 2021.
 - United Nations. [Hate speech versus freedom of speech](https://www.un.org/en/hate-speech/understanding-hate-speech/hate-speech-versus-freedom-of-speech).
+- TIME. [What Is #GamerGate and Why Are Women Being Threatened About Video Games?](https://time.com/3510381/gamergate-faq/). 2014.
 - Wikipedia. [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)).
 - Electronic Frontier Foundation. [Section 230: Key Legal Cases](https://www.eff.org/issues/cda230/legal).
 
