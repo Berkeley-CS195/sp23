@@ -1,6 +1,12 @@
 ~ title: Topics, Readings, and Assignments
 
-**Enrollment**: If you are looking to enroll in this course but do not meet EECS department enrollment categories, please make a private post on Ed.
+**Enrollment**: <!--If you are looking to enroll in this course but do not meet EECS department enrollment categories, please make a private post on Ed.-->
+We are still waiting to hear back from the EECS department about whether we can expand this course beyond the lecture room capacity. As of today, the department has informed us that they are facing significant delays to address all course enrollment concerns (including ours) but are hoping to resolve things over the weekend.
+
+Given the situation, there is a small chance that we can't expand the course in time for the upcoming add/drop deadline without fee. In the meantime, if you are a graduating senior and need the ethics requirement to graduate, we do encourage you to look for other courses that satisfy the requirement. In any case, we will hopefully learn something by early next week and will send out further information. Thanks for your patience and understanding.
+
+If you are currently waitlisted or unable to enroll, you can join the Ed for further course announcements: [Ed join link](https://edstem.org/us/join/E8BdJn) This will be refreshed after the final course adjustment deadline passes.
+
 
 | Date  | Lecture | Topic                                 | Slides | Readings |
 |-------|-------- | --------------------------------------|--------| ----------- |
