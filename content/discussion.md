@@ -18,3 +18,7 @@ Please find this semester's syllabus in the following [Google doc](https://docs.
 Assessment
 ---------------
 CS H195 is a 3-unit course. In addition to attending the regular weekly lecture, students will participate in weekly discussions and write reading responses, lead discussions and prepare presentations informed by their understanding of the material, and engage in a series of experiential and real-world assignments.
+
+Resources
+---------------
+Discussion 1 (01/20): [slides](https://docs.google.com/presentation/d/1zxLIS4n9dB8vdHYcMRI5VppHBhN_eVH3s5IaiZHi0yA/edit#slide=id.p)
