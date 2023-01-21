@@ -5,7 +5,7 @@
 | Date  | Lecture | Topic                                 | Slides | Readings |
 |-------|-------- | --------------------------------------|--------| ----------- |
 | 01/17 |  1 | Free Speech                                     | [link][l01_slides] | [jump][l01_anchor] |
-| 01/24 |  2 | Social Connection and Time Well-Spent           | link | jump |
+| 01/24 |  2 | Social Connection and Time Well-Spent           | link | [jump][l02_anchor] |
 | 01/31 |  3 | Privacy                                         | link | jump |
 | 02/07 |  4 | Software Risks                                  | link | jump |
 | 02/14 |  5 | Framing Society: Capitalism                     | link | jump |
@@ -28,6 +28,21 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the Assignments page in the sidebar.
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
+## 01/24 Lecture 2: Social Connection and Time Well-Spent
+
+**Please fill out the [Weekly Survey 02][l02_form] by Monday 01/23 11:59pm PT.**
+
+Readings:
+
+* **Required**: Pew Research Center, ["Social Media Use in 2021"](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)
+* Recommended 1: New York Times Opinion, ["This Is Our Chance to Pull Teenagers Out of the Smartphone Trap"](https://www.nytimes.com/2021/07/31/opinion/smartphone-iphone-social-media-isolation.html)
+* Recommended 2: BBC, ["The people deciding to ditch their smartphones"](https://www.bbc.com/news/business-60067032)
+* Recommended 3: NPR, ["New Research Casts Doubt On Connection Between Smartphone Use And Teen Mental Health"](https://www.npr.org/2019/08/19/752529380/new-research-casts-doubt-on-connection-between-smartphone-use-and-teen-mental-he)
+* Extra 1: ["How TikTok Holds Our Attention"](https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention)
+* Extra 2: ["Tristan Harris: How better tech could protect us from distraction"](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next)
+* Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
+
+[l02_form]: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link
 
 ## 01/17 Lecture 1: Free Speech
 
@@ -47,9 +62,10 @@ Optional readings:
 - Electronic Frontier Foundation. [Section 230: Key Legal Cases](https://www.eff.org/issues/cda230/legal).
 
 [l01_slides]: https://docs.google.com/presentation/d/1bUwt_QM4ZSAIYGSUVnQMMGD0TYs-DgMHCXgEnOk7K3E/edit?usp=sharing
+[welcome_form]: https://docs.google.com/forms/d/e/1FAIpQLScmLPmDYpyZxt9MIGeZbO7t3gB-BP4VJuAK8jzejXNvu-YUbw/viewform?usp=sf_link
 
 [l01_anchor]: #01-17-lecture-1-free-speech
-[l02_anchor]: #9-12-lecture-2-free-time-and-attention
+[l02_anchor]: #01-24-lecture-2-social-connection-and-time-well-spent
 [l03_anchor]: #9-19-lecture-3-privacy
 [l04_anchor]: #9-26-lecture-4-government-censorship-and-surveillance
 [l05_anchor]: #10-03-lecture-5-memes
@@ -64,4 +80,3 @@ Optional readings:
 
 [free_slides]: https://docs.google.com/presentation/d/1iAga3n5ICEGQDPxLRcGb_yxtw90WBsmIpDfQv_MOAtQ/edit?usp=sharing
 [social_slides]: https://docs.google.com/presentation/d/18fPSnXKIvo7AHh8Ga9h8ElzukqdaYhHUD-s_kZlfiYY/edit?usp=sharing
-[welcome_form]: https://docs.google.com/forms/d/e/1FAIpQLScmLPmDYpyZxt9MIGeZbO7t3gB-BP4VJuAK8jzejXNvu-YUbw/viewform?usp=sf_link
