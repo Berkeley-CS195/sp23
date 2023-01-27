@@ -5,50 +5,89 @@ CS H195 discussions complement and supplement the topics presented in CS 195 lec
 <!--**Course Application**: <a href="https://forms.gle/Kwd6Khkw1zejbJQ58" target="_blank">Application Form</a> due <b>Wednesday 09/07, 11:59pm PT</b>-->
 <!--**Drop-in session of H195**: Wednesday 09/07, 5-6pm, Soda 380. Drop by to see what it's like!-->
 
-**Interested in CS H195?** Please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**
+<!--**Interested in CS H195?** Please fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**-->
 
 **CS H195 time**: See the sidebar.
 
-This semester's syllabus will be updated soon.
+Jump on this page:
+- CS H195 Syllabus: [link][syllabus-anchor]
+- Resources and Assignments: [link][resources-anchor]
+
+## CS H195 Syllabus
+[syllabus-anchor]: #cs-h195-syllabus
+
+### Course components
+**To pass this course, you must:**
+- Attend most <b>CS 195 lectures</b>,
+- Be present at all <b>CS H195 discussions</b>,
+- Submit all <b>CS 195/H195 reading assignments and surveys</b>, and
+- Complete passing work on all <b>CS H195 projects</b>.
+
+**Course Policies**: We understand things come up during the semester and synchronous participation may not always be possible. This course is P/NP, and we will make every effort to work with you to help you pass this course.
+- CS 195 lecture and survey completion will be graded according to CS 195 course policies (see sidebar).
+- Attendance is expected at every CS H195 discussion. If you need to miss any, we'd appreciate early notice so we can assign you make up work. 
+    - Weeks 1 and 2: Because of beginning of semester class shuffling, we did not take Week 1 attendance. However, we expect you to do the readings and submit them a week from when you first start attending H195 discussions.
+- Most projects are group work with in-class presentations. We can likely provide extensions to your group, but we'd appreciate early notice where possible. Details TBD.
+
+### Projects
+
+Intead of the CS 195 essays, this semester we are building new H195 project assignments.
+This semester, we are trying some new assignments for CS H195. We appreciate your working with us to design this course, and we welcome your feedback!!
+
+**All dates below are subject to change.**
+
+|       | Projects | Estimated duration | Project Due  | Links                    |
+| ----- | ------ | ----- | --- |
+| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 |       |
+| 2     | Teaching Computing in the News | ~3 weeks | Fri. 3/24 |       |
+| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
+
+<b>1. Social Media Simulation</b>: (individual)  Analyze the dynamics of information bubbles and polarization in social network models. Submit a writeup.<br/>
+
+
+<b>2. Teaching Computing in the News</b>: (groups) What H195 discussion would you run? Build a lesson plan for a 50-minute discussion for (future) H195 students to engage critically with the social context of a particular computing technology. We will provide readings on pedagogical practices.
+- 3/10: Select a topic and readings.
+- 3/17: Design preparation exercise, discussion exercise.
+- 3/24: Identify takewaways, present in class.
+
+
+<b>3. Technology and the Community</b>: (groups) Engage with the community to inform impacts of technology on particular groups of people. This project is <i>open-ended</i> and we are hoping that we can co-design this assessment with you. What do you want to have learned from this class? What kind of community do you want to participate in?
+- 4/14: Community selection, interview plan.
+- 4/28: Present on findings from interviews.
+
+More details on each assignment will be provided as soon as we know them.
 
 <!--
 Please find this semester's syllabus in the following [Google doc](https://docs.google.com/document/d/153nARenWjztDxAp_43cWXcWf210nib0j8LVJBpZXOD0/edit?usp=sharing).
 -->
 
-Assessment
+Course Description
 ---------------
 CS H195 is a 3-unit course. In addition to attending the regular weekly lecture, students will participate in weekly discussions and write reading responses, lead discussions and prepare presentations informed by their understanding of the material, and engage in a series of experiential and real-world assignments.
 
-**Assignments**:
+## CS H195 Resources
+[resources-anchor]: #cs-h195-resources
 
-- Due 2/24 (not yet released): Social Network Simulation
-    - Analyze the dynamics of information bubbles and polarization in social network models
-- Due 3/24 (not yet released): What H195 Discussion Would You Run?
-    - 3/10: Select a topic.
-    - 3/17: Select readings and design preparation exercise.
-    - 3/24: Design discussion exercise, identify takeaways, present.
-- Due 4/28 (not yet released): Technology for Communities
-    - 4/14: Community selection, interview plan.
-    - 4/28: Present on findings from interviews.
+### 01/27 Discussion 02
 
-Resources
----------------
+Readings:
+- CS 195 Week 2 readings.
+- Introduction, Chapter 1: Zeynep Tufekci, <i>Twitter and Tear Gas</i>. [Creative Commons PDF](https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf), [book website](https://www.twitterandteargas.org/).
+- Chapter 2 (required), Chapter 1 (recommended): Beverly Tatum, <i>Why are all the Black Kids Sitting Together in the Cafeteria?</i>. UC Berkeley Library (see instructions below).
 
-Discussion 2 (01/27):
-
-- Read the introduction and Chapter 1 of [Twitter and Tear Gas] by Zeynep Tufekci. (PDF in link).
-- Read Chapter 2 of Why are all the Black Kids Sitting Together in the Cafeteria? By Beverly Tatum. (Chapter 1 is recommended but not required).
-    - You can access this by visiting <https://search.library.berkeley.edu/>, signing in using your CalNet login, then searching for the online access to the book. Alternatively, sign into the library, then navigate to [this library link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/reader.action?docID=903483&ppg=33).
-    - If you can't access the reading, please let me know so I can send you a PDF.
-- After completing the reading, complete the following:
-    - Fill out a [reading notes form](https://docs.google.com/document/d/1CYv_fhe36vyTjZAfQbM54y9DiyCGZnDh3Hs4rsKpBYo/edit) for each reading (graded on completion, **submit in bCourses** before discussion). If you aren't enrolled in H195, you might not have access -- please let me know.
-    - Take 60 seconds and write down as many words or phrases that fill in the blank in “I am `______`.” (prep for discussion, not submitted)
+Assignments:
+- CS 195 Week 2 surveys.
+- Fill out a reading notes form for each reading (graded on completion, submit in bCourses before discussion). If you aren't enrolled in H195, contact Ethan for access.
+- After completing all reading, complete the following:
+    - Take 60 seconds and write down as many words or phrases that fill in the blank in “I am ...” (prep for discussion, not submitted)
     - Then, write down various communities that you engage with or used to engage with; online or otherwise. What connections can you make between your two lists? How about what you didn't write down? (prep for discussion, not submitted)
-- Read the cover page of the Cultural Competence in Computing Survey for definitions on Identity, Diversity, Equity, and Inclusion (click “begin survey” to access definitions. You are not required to complete the research survey for course credit). If you are interested in participating in this research, review the consent form and fill out the survey. Thank you!
-    - *Researchers at Duke University are interested in understanding more about the cultural competence of computer science students. To help us with this research, we ask that you please complete the Cultural Competence in Computing Survey. Please review the following [consent form][] (which details more about the survey) and [begin the survey][]. It should take ~5-7 min to complete.*
+- Read the cover page of the Cultural Competence in Computing Survey for definitions on Identity, Diversity, Equity, and Inclusion. See email for more details.
 
-[Twitter and Tear Gas]: https://www.twitterandteargas.org/downloads/twitter-and-tear-gas-by-zeynep-tufekci.pdf
-[consent form]: https://identity.cs.duke.edu/INFORMED%20CONSENT%20FORM-STUDENTS.pdf
-[begin the survey]: https://duke.qualtrics.com/jfe/form/SV_e3Ag3tCEzEzeRg2
+UC Berkeley Library Access:
+-Visit the [UC Berkeley Library Search Page](https://search.library.berkeley.edu/) and authenticate with CalNet. Then search for <b>online access</b> to the book.
+- Alternatively, sign into the library, then navigate to this [library link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/reader.action?docID=903483&ppg=33).
+- Alternatively, use the [Library proxy bookmarklet](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet).
 
-Discussion 1 (01/20): [slides](https://docs.google.com/presentation/d/1zxLIS4n9dB8vdHYcMRI5VppHBhN_eVH3s5IaiZHi0yA/edit#slide=id.p)
+### 01/20 Discussion 01
+
+<b>Slides</b>: [link](https://docs.google.com/presentation/d/1zxLIS4n9dB8vdHYcMRI5VppHBhN_eVH3s5IaiZHi0yA/edit#slide=id.p)

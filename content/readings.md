@@ -11,7 +11,7 @@ If you are currently waitlisted or unable to enroll, you can join the Ed for fur
 | Date  | Lecture | Topic                                 | Slides | Readings |
 |-------|-------- | --------------------------------------|--------| ----------- |
 | 01/17 |  1 | Free Speech                                     | [link][l01_slides] | [jump][l01_anchor] |
-| 01/24 |  2 | Social Connection and Time Well-Spent           | link | [jump][l02_anchor] |
+| 01/24 |  2 | Social Connection and Time Well-Spent           | [link][l02_slides] | [jump][l02_anchor] |
 | 01/31 |  3 | Privacy                                         | link | jump |
 | 02/07 |  4 | Software Risks                                  | link | jump |
 | 02/14 |  5 | Framing Society: Capitalism                     | link | jump |
@@ -36,6 +36,8 @@ More information about the assignments, including the essays, can be found on th
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
 ## 01/24 Lecture 2: Social Connection and Time Well-Spent
 
+<b>Slides</b>: [link][l02_slides]
+
 **Please fill out the [Weekly Survey 02][l02_form] by Monday 01/23 11:59pm PT.**
 
 Readings:
@@ -49,6 +51,7 @@ Readings:
 * Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
 
 [l02_form]: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link
+[l02_slides]: https://docs.google.com/presentation/d/1mZ7AQFgbzLHIU5gjewKvjtAzw_pUUJGDbFBryMY6DSU/edit?usp=sharing
 
 ## 01/17 Lecture 1: Free Speech
 
@@ -57,7 +60,7 @@ Readings:
 **Survey**: Please fill out the [welcome form][welcome_form] by Friday 1/20 11:59pm PT.<br/>
 **Attendance**: No lecture attendance will be taken for this lecture, though relevant content will be covered.
 
-**Interested in CS H195?** Check out the Discussion Info page in the sidebar and fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**
+<!--**Interested in CS H195?** Check out the Discussion Info page in the sidebar and fill out the interest form listed on the [Course Catalog](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001). **Course applications are due Wednesday 1/25 11:59pm PT.**-->
 
 Optional readings:
 - Motherboard Tech by Vice. [The History of Twitter's Rules](https://www.vice.com/en/article/z43xw3/the-history-of-twitters-rules), 2016.

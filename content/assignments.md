@@ -1,7 +1,5 @@
 ~ title: Assignments
 
-**These deadlines will be updated soon.**
-
 | Essay | Essay Proposal Due | Essay Due           | Peer Reviews Due    | Links                                 |
 |-------|--------------------|---------------------|---------------------|---------------------------------------|
 | 1     | Tue. 02/14, 11:59pm | Tue. 02/21 11:59pm | Wed. 03/01, 11:59pm  | Submission |
