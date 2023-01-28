@@ -69,6 +69,7 @@ CS H195 is a 3-unit course. In addition to attending the regular weekly lecture,
 [resources-anchor]: #cs-h195-resources
 
 ### 01/27 Discussion 02
+<b>Slides</b>: [link](https://docs.google.com/presentation/d/1YpevO3X0v_PVrC3-oLlVDM_7CdQdlwN1za6PCHjY41s/edit?usp=sharing)
 
 Readings:
 - CS 195 Week 2 readings.
