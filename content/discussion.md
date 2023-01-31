@@ -25,7 +25,7 @@ Jump on this page:
 
 **Course Policies**: We understand things come up during the semester and synchronous participation may not always be possible. This course is P/NP, and we will make every effort to work with you to help you pass this course.
 - CS 195 lecture and survey completion will be graded according to CS 195 course policies (see sidebar).
-- Attendance is expected at every CS H195 discussion. If you need to miss any, we'd appreciate early notice so we can assign you make up work. 
+- Attendance is expected at every CS H195 discussion. If you need to miss any, we'd appreciate early notice so we can assign you make up work.
     - Weeks 1 and 2: Because of beginning of semester class shuffling, we did not take Week 1 attendance. However, we expect you to do the readings and submit them a week from when you first start attending H195 discussions.
 - Most projects are group work with in-class presentations. We can likely provide extensions to your group, but we'd appreciate early notice where possible. Details TBD.
 
@@ -67,6 +67,31 @@ CS H195 is a 3-unit course. In addition to attending the regular weekly lecture,
 
 ## CS H195 Resources
 [resources-anchor]: #cs-h195-resources
+
+### 02/03 Discussion 03
+
+<b>Slides</b>: TBD
+
+Readings:
+
+- CS 195 Week 3 readings.
+- Chapter 6: Sara Wachter-Boettcherm, *Technically Wrong*. ([O'Reilly audiobook via library](https://search.library.berkeley.edu/permalink/01UCS_BER/s4lks2/cdi_safari_books_v2_9781681688626))
+
+Assignments:
+
+- CS 195 Week 3 surveys.
+- Fill out a reading notes form for each reading (graded on completion, **submit in bCourses** before discussion).
+-   What are your goals in this course, or what do you want to get out of it?
+    Write 1-2 paragraphs about what you want to happen, and **submit in bCourses**:
+    - Our (Lisa + Ethan) goals for this course are:
+        - Build further on the CS 195 goals ("make informed and thoughtful choices about your careers, participation in society, and future development activities").
+        - Develop your "cultural competency" (awareness of social science topics such as identity, intersectionality, racism, bias, and discrimination; and how they affect both computing, technologies, and society).
+        - Create activities and discussions that you are invested in.
+-   In Discussion 2, we didn’t get to cover DEI definitions. Read the definitions
+    on [this slide](https://docs.google.com/presentation/d/1YpevO3X0v_PVrC3-oLlVDM_7CdQdlwN1za6PCHjY41s/edit#slide=id.g20141896506_0_65), then write a paragraph in response the following question
+    and **submit in bCourses**:
+    - What thoughts do you have on these definitions? What is missing? What is important, or particularly resonates with you?
+
 
 ### 01/27 Discussion 02
 <b>Slides</b>: [link](https://docs.google.com/presentation/d/1YpevO3X0v_PVrC3-oLlVDM_7CdQdlwN1za6PCHjY41s/edit?usp=sharing)
