@@ -21,7 +21,7 @@ If you are currently waitlisted or unable to enroll, you can join the Ed for fur
 |-------|-------- | --------------------------------------|--------| ----------- |
 | 01/17 |  1 | Free Speech                                     | [link][l01_slides] | [jump][l01_anchor] |
 | 01/24 |  2 | Social Connection and Time Well-Spent           | [link][l02_slides] | [jump][l02_anchor] |
-| 01/31 |  3 | Privacy                                         | link | [jump][l03_anchor] |
+| 01/31 |  3 | Privacy                                         | [link][l03_slides] | [jump][l03_anchor] |
 | 02/07 |  4 | Software Risks                                  | link | jump |
 | 02/14 |  5 | Framing Society: Capitalism                     | link | jump |
 | 02/21 |  6 | Memes and Viral Content                         | link | jump |
@@ -45,7 +45,7 @@ More information about the assignments, including the essays, can be found on th
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
 ## 01/31 Lecture 3: Privacy
 
-<!--<b>Slides</b>: [link][l03_slides]-->
+<b>Slides</b>: [link][l03_slides]
 
 **Please fill out [Weekly Survey 03][l03_form] by Monday 1/30 at 11:59 PM.**
 
