@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Social Implications of Computer Technology: {{ title }}</title>
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <style type="text/css">
+      body {
+        padding-top: 20px;
+        padding-bottom: 60px;
+      }
+
+      /* Custom container formatting */
+      .container {
+        margin: 0 auto;
+      }
+      .container h1 {
+        font-size: 24px;
+      }
+      .container h2 {
+        font-size: 20px;
+      }
+      .container h3 {
+        font-size: 16px;
+      }
+
+      /* Custom strong */
+      .container strong:before,strong:after {
+        content: "\2605";
+      }
+      .container strong {
+        color: darkred;
+      }
+
+      /* Here be hacked styles for the assignments table. */
+      table {
+          width: 100%;
+          border: 1px solid black;
+          text-align: center;
+          margin: 0 0 10px;
+          line-height: 30px;
+      }
+      tr {
+          border: 1px solid black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row-fluid">
+        <div class="span4">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li><a href="index.html">Schedule</a></li>
+              <li><a href="assignments.html">Assignments</a></li>
+              <li><a href="about.html">Course Info</a></li>
+              <li><a href="staff.html">Course Staff</a></li>
+              <li><a href="discussion.html">Discussion Info (H195)</a></li>
+              <li class="nav-header">Class Meeting</li>
+              <li>Tuesday 3:30 to 5:00 PM</li>
+              <li><i>Zoom/Physics 1</i></li>
+              <li><a href="https://edstem.org/us/courses/35154/discussion/2394817" target="_blank">Class Zoom Link on Ed</a></li>
+              <li><a href="{{ site.edstem }}" target="_blank">Class Ed Forum</a></li>
+              <li class="nav-header">H195 Discussion Meeting</li>
+              <li> Friday 4:00 to 5:00 PM</li>
+              <li><i>Soda 405</i></li>
+              <li class="nav-header">Lisa's Office Hours</li>
+              <li>Thursday 1:30 to 2:30 PM or <br/>By appointment</li>
+              <li><i>Soda 783</i></li>
+
+	      <li class="nav-header">Ethan's Office Hours</li>
+              <li>By appointment</li>
+              <!--<li><a href="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1EMlNQS0xpZ1FEfGRlZmF1bHR8Yjc3OTI3ZDVmYTE3NzFiM2ZkODU2NTNmN2QzM2IwMDY">Click to schedule</a></li>-->
+            </ul>
+          </div><!--/well-->
+        </div><!--/span-->
+
+        <div class="span8">
+          <div class="row-fluid">
+            <div class="span2">
+            <img src="assets/images/header_intersectionconsulting.jpg"
+                 style="width:100px;height:100px">
+            </div>
+            <div class="span10">
+                <h1>Social Implications of Computer Technology</h1>
+                <h2>CS 195, {{ site.term }}</h2>
+            </div>
+          </div><!--/row-->
+
+          <hr>
+
+          <div class="row-fluid">
+            <h2> {{ page.title }} </h2>
+            {%- assign anchor_h_min = page.anchor.h_min | default: 1 -%}
+            {%- assign anchor_h_max = page.anchor.h_max | default: 6 -%}
+            {%- include
+                anchor_headings.html
+                html=content
+                h_min=anchor_h_min
+                h_max=anchor_h_max
+                anchorBody="#"
+                anchorClass="anchor_heading"
+            -%}
+          </div>
+
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+      </footer>
+
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
