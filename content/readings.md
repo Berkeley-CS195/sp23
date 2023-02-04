@@ -22,7 +22,7 @@ If you are currently waitlisted or unable to enroll, you can join the Ed for fur
 | 01/17 |  1 | Free Speech                                     | [link][l01_slides] | [jump][l01_anchor] |
 | 01/24 |  2 | Social Connection and Time Well-Spent           | [link][l02_slides] | [jump][l02_anchor] |
 | 01/31 |  3 | Privacy                                         | [link][l03_slides] | [jump][l03_anchor] |
-| 02/07 |  4 | Software Risks                                  | link | jump |
+| 02/07 |  4 | Software Risks                                  | link | [jump][l04_anchor] |
 | 02/14 |  5 | Framing Society: Capitalism                     | link | jump |
 | 02/21 |  6 | Memes and Viral Content                         | link | jump |
 | 02/28 |  7 | Government Censorship and Surveillance          | link | jump |
@@ -43,7 +43,26 @@ used as sources in lecture, but we won't assume you've read them.
 More information about the assignments, including the essays, can be found on the Assignments page in the sidebar.
 
 <!-- FOR STAFF: Previous lecture links are in lecture-links.md -->
-## 01/31 Lecture 3: Privacy
+
+
+## 02/07 Lecture 04: Software Risks
+<!--<b>Slides</b>: [link][l04_slides]
+[l04_slides]: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit
+-->
+
+**Fill out [this survey][l04_form] by Monday 02/06 at 11:59 PM.**
+
+Readings:
+* Required: Fabio, ["Killed by a Machine: The Therac-25"](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
+* Required: Peter G. Neumann, ["A Holistic View of Future Risks"](http://www.csl.sri.com/users/neumann/cacm250.pdf), 2020. Inside Risks.
+* Recommended: Travis, ["How the Boeing 737 Max Disaster Looks to a Software Developer"](https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
+* Optional: Branam, ["Learning from Engineering Failures"](https://www.embeddedrelated.com/showarticle/1410.php)
+
+[l04_anchor]: #02-06-lecture-4-software-risks
+[l04_form]: https://docs.google.com/forms/d/e/1FAIpQLScw_cLYTiH-jAJQX89pXacjcKeP8qZqSBTdK00gMElQaWbxdA/viewform?usp=sf_link
+[l04_slides]: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit?usp=sharing
+
+## 01/31 Lecture 03: Privacy
 
 <b>Slides</b>: [link][l03_slides]
 
@@ -57,10 +76,11 @@ Readings:
 * Extra 1: Rachels, ["Why Privacy Is Important"](https://www.jstor.org/stable/2265077?seq=1), 1975. JSTOR.
 * Extra 2: Hill, ["A Dad Took Photos of His Naked Toddler for the Doctor. Google Flagged Him as a Criminal."](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html), 2022. New York Times. (references child abuse).
 
+[l03_anchor]: #01-31-lecture-03-privacy
 [l03_form]: https://docs.google.com/forms/d/e/1FAIpQLSe5aLV2vMQYTtLfkO2zqwFq7bqyehcjYXZf_moWoyLuIvhsaQ/viewform?usp=sf_link
 [l03_slides]: https://docs.google.com/presentation/d/16oaFWbDXew0gfmoCCTAzWqXcnb-cQdWIEYja_rkpbvc/edit?usp=sharing
 
-## 01/24 Lecture 2: Social Connection and Time Well-Spent
+## 01/24 Lecture 02: Social Connection and Time Well-Spent
 
 <b>Slides</b>: [link][l02_slides]
 
@@ -76,10 +96,11 @@ Readings:
 * Extra 2: ["Tristan Harris: How better tech could protect us from distraction"](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next)
 * Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
 
+[l02_anchor]: #01-24-lecture-02-social-connection-and-time-well-spent
 [l02_form]: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link
 [l02_slides]: https://docs.google.com/presentation/d/1mZ7AQFgbzLHIU5gjewKvjtAzw_pUUJGDbFBryMY6DSU/edit?usp=sharing
 
-## 01/17 Lecture 1: Free Speech
+## 01/17 Lecture 01: Free Speech
 
 <b>Slides</b>: [link][l01_slides]
 
@@ -96,13 +117,10 @@ Optional readings:
 - Wikipedia. [Gamergate](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)).
 - Electronic Frontier Foundation. [Section 230: Key Legal Cases](https://www.eff.org/issues/cda230/legal).
 
+[l01_anchor]: #01-17-lecture-01-free-speech
 [l01_slides]: https://docs.google.com/presentation/d/1bUwt_QM4ZSAIYGSUVnQMMGD0TYs-DgMHCXgEnOk7K3E/edit?usp=sharing
 [welcome_form]: https://docs.google.com/forms/d/e/1FAIpQLScmLPmDYpyZxt9MIGeZbO7t3gB-BP4VJuAK8jzejXNvu-YUbw/viewform?usp=sf_link
 
-[l01_anchor]: #01-17-lecture-1-free-speech
-[l02_anchor]: #01-24-lecture-2-social-connection-and-time-well-spent
-[l03_anchor]: #01-31-lecture-3-privacy
-[l04_anchor]: #9-26-lecture-4-government-censorship-and-surveillance
 [l05_anchor]: #10-03-lecture-5-memes
 [l06_anchor]: #10-10-lecture-6-framing-society-and-identity
 [l07_anchor]: #10-17-lecture-7-software-risks
