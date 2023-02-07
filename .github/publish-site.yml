@@ -6,6 +6,10 @@ on:
       - master
   workflow_dispatch:
 
+env:
+  DEPLOY_TARGET: cs195@ashby.cs.berkeley.edu
+  TERM: test
+
 permissions:
   contents: read
 
@@ -32,7 +36,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
 
-        run: bundle exec jekyll build --baseurl "${{ secrets.TERM }}"
+        run: bundle exec jekyll build --baseurl $TERM
         env:
           JEKYLL_ENV: production
 
@@ -46,4 +50,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Rsync to inst
-        run: rsync -rtv ./_site ${{ secrets.DEPLOY_TARGET }}/${{ secrets.TERM }}
+        run: rsync -rtv ./_site $DEPLOY_TARGET/$TERM
