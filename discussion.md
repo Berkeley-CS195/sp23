@@ -4,6 +4,28 @@ released: true
 title: "CS H195: Honors Social Implications of Computer Technology"
 ---
 
+## Readings Table of Contents
+
+{% assign readings = site.csH195_discussions | sort: 'date' %}
+
+| Date  | Discussion | Topic                                 | Slides | Readings |
+|-------|-------- | --------------------------------------|--------| ----------- |
+{% for r in readings -%}
+  | {{ r.date | date: "%m/%d" }} | {{ r.number }} | {{ r.title }} |
+  {%- if r.slides.released -%}
+    [link]({{ r.slides.link }})
+  {%- else -%}
+    link
+  {%- endif -%}
+  |
+  {%- if r.readings_released -%}
+    [jump](#lecture{{ r.number }})
+  {%- else -%}
+    jump
+  {%- endif %}
+{% endfor %}
+
+***
 
 CS H195 discussions complement and supplement the topics presented in CS 195
 lecture series. Students are expected to engage at a deeper level with the
@@ -88,25 +110,6 @@ lead discussions and prepare presentations informed by their understanding of
 the material, and engage in a series of experiential and real-world assignments.
 
 ## CS H195 Resources
-
-{% assign readings = site.csH195_discussions | sort: 'date' %}
-
-| Date  | Discussion | Topic                                 | Slides | Readings |
-|-------|-------- | --------------------------------------|--------| ----------- |
-{% for r in readings -%}
-  | {{ r.date | date: "%m/%d" }} | {{ r.number }} | {{ r.title }} |
-  {%- if r.slides.released -%}
-    [link]({{ r.slides.link }})
-  {%- else -%}
-    link
-  {%- endif -%}
-  |
-  {%- if r.readings_released -%}
-    [jump](#lecture{{ r.number }})
-  {%- else -%}
-    jump
-  {%- endif %}
-{% endfor %}
 
 {% for r in readings reversed %}
   {%- if r.readings_released -%}
