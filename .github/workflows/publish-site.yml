@@ -45,6 +45,7 @@ jobs:
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: unnecessary
 
       - name: Rsync to inst
-        run: rsync -rtvu ./_site/* $DEPLOY_TARGET/$TERM
+        run: rsync -e "ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" -rtvu ./_site/* $DEPLOY_TARGET/$TERM
