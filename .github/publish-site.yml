@@ -50,4 +50,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Rsync to inst
-        run: rsync -rtv ./_site $DEPLOY_TARGET/$TERM
+        run: rsync -rtvu ./_site/* $DEPLOY_TARGET/$TERM

@@ -6,15 +6,20 @@ Website and public materials for UC Berkeley CS 195
 Publishing
 ----------
 
-* ~~Install python3: https://www.python.org/downloads/~~
-* ~~Install virtualenv: `python3 -m venv env`~~
-* ~~Activate venv: `source env/bin/activate`~~
-* ~~Install requirements: `pip install -r requirements.txt`~~
-* ~~Publish: `python3 publish.py`~~
-* ~~Copy to server: `bash cp.sh`~~
-* Install Ruby >= 2.5.0. No need for Rails.
-* `bundle install`, run local server using `bundle exec jekyll serve`
+* [Install Ruby >= 2.5.0 and Jekyll prerequisites](https://jekyllrb.com/docs/installation/).
+  * You'll need an initial version of the `bundler` gem, so run `gem install bundler`.
+* Inside `cs195`, run `bundle install`
+* Run local server using `bundle exec jekyll serve`
 * Notes:
   * As of fa18, you can just edit markdown files directly and push to server and they'll be autodeployed.
   * sp22: upgraded to templar v2
-  * sp23: swapped to Jekyll
+  * sp23: switched to Jekyll
+
+Deploying
+----------
+
+* The [publishing workflow](.github/publish-site.yml) runs on Github Actions, and:
+  * Builds the site using Jekyll
+  * Uses `rsync` to deploy the site to the instructional machines
+  * The deploy location is defined by the environment variables. Update `term`
+    to push to a new directory on the remote.
