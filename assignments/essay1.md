@@ -53,7 +53,7 @@ Answer the following questions and submit in [bCourses][proposal]:
    from. You can find sources on the [course website](/index.md) or in the
    lecture slides.
 
-[proposal]: https://bcourses.berkeley.edu/courses/1521861/assignments/8565873
+[proposal]: https://bcourses.berkeley.edu/courses/1521861/assignments/8565895
 
 ## Assignment Description
 
