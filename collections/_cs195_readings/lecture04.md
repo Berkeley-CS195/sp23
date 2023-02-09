@@ -5,7 +5,7 @@ number: "04"
 title: Software Risks
 slides:
   link: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit
-  released: false
+  released: true
 readings_released: true
 ---
 
