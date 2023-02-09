@@ -1,7 +1,6 @@
 title: CS 195
 description: "CS 195: Social Implications of Computer Technology"
 url: "https://inst.eecs.berkeley.edu/~cs195"
-baseurl: "/sp23"
 collections_dir: collections
 
 edstem: https://edstem.org/us/courses/35154
