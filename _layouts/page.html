@@ -91,6 +91,9 @@
 
           <div class="row-fluid">
             <h2> {{ page.title }} </h2>
+            {% if page.has_toc %}
+              {% include toc.html html=content %}
+            {% endif %}
             {%- assign anchor_h_min = page.anchor.h_min | default: 1 -%}
             {%- assign anchor_h_max = page.anchor.h_max | default: 6 -%}
             {%- include
