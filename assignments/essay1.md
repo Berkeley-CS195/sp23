@@ -46,7 +46,7 @@ Answer the following questions and submit in [bCourses][proposal]:
     - Social Connection and Time Well-Spent
     - Privacy
     - Software Risks
-    - Framing Society: Capitalism
+    - Capitalism and Silicon Valley
 2. Come up with a title that describes your essay. This doesn't need to be your
    final title.
 3. Please include at least one class reading / source that you are starting
@@ -79,7 +79,7 @@ Emerging Technology
 : Discuss an emerging technology. What are its social implications on your
   chosen topic? How does this new technology affect your chosen lecture topic?
 
-The goal is for you to explore a topic that you find interesting.
+The goal is for you to branch from the lecture ideas to explore a topic that you find interesting.
 If you’re not sure if something would be a good fit, please do ask us!
 
 For example (you may not use this):
@@ -173,14 +173,7 @@ Format
 
 ## Submission
 
-The essay will be submitted in bCourses.
-
-**Hard deadline**: The posted essay deadline is a hard deadline as we have a
-short turnaround to match peer graders. If you are unable to submit by the
-deadline for any reason (e.g., midterms DSP, forgot to submit, technical
-difficulties, personal emergency, super stressed, etc.), please email us ASAP
-so we can accommodate you—which may involve extending this essay period or
-submitting a make-up essay later in the semester.
+The essay will be submitted in bCourses. Please visit our syllabus for our [Accommodations policy](../about.html#accommodations).
 
 ## Grading and Rubric
 
@@ -194,3 +187,5 @@ criteria (each on a 2-point scale):
 | Essay presents original or unique thoughts. | Extends the reasoning and analysis beyond a summary of cited sources. | Makes an attempt to extend or link together reasoning beyond a summary of cited sources. | Does not go beyond a summary of cited sources. |
 | Uses 3 sources of evidence | Cites at least 3 sources. Sources should not all be individual perspectives/opinion pieces. | Cites ≤ 3 sources, or less than 2 from outside class. Or, all 3 sources are opinion pieces, i.e., sources not always backed by evidence. | Cites 1 or 0 sources. |
 | Essay writing is clear. | Uses well-written sentences with few spelling/grammatical errors. | Has several stylistic/spelling/grammatical errors that detract from the essay. | Illegible/blank |
+
+Instructional staff may also spot-review essays and provide comments/share ideas.
