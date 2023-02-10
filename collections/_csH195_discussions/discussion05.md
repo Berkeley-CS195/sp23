@@ -1,25 +1,18 @@
 ---
 layout: cs195-reading
-date: 2023-02-10
-number: "04"
-title: Software Risks
+date: 2023-02-17
+number: "05"
+title: Capitalism and Silicon Valley
 slides:
   link: ""
   released: false
 readings_released: true
 ---
 
-Readings:
-
-- CS 195 Week 4 Readings
-
-We're taking a little break from prep work this week! The below is an advance
-notice of prep for the 2/17 disucssion:
-
 - Complete reading notes for the following and submit in bCourses:
   - *Why are all the Black Kids Sitting Together in the Cafeteria?* Chapter 8.
     We will not use the online library copy, as we will use the 2021 edition.
-    I sent a PDF to attending students..
+    I sent a PDF to attending students.
   - [*Hacking Diversity*](https://muse.jhu.edu/book/77375) Chapter 5. The book
     is available for free online at the link.
 - Do the
