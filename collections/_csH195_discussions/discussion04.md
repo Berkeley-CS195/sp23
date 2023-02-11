@@ -4,8 +4,8 @@ date: 2023-02-10
 number: "04"
 title: Software Risks
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/12Xz6n8e__rgpKIdO3RNIsoS_KsmNeAIpHBHY6mWU-1s/edit#slide=id.g1f165ddcf1e_0_140"
+  released: true
 readings_released: true
 ---
 
