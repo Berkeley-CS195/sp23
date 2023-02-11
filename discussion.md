@@ -4,6 +4,11 @@ released: true
 title: "CS H195: Honors Social Implications of Computer Technology"
 ---
 
+Jump on this page:
+
+- CS H195 Syllabus: [link](#cs-h195-syllabus)
+- Discussions, Readings, and Resources: [link](#cs-h195-resources)
+
 ## Readings Table of Contents
 
 {% assign readings = site.csH195_discussions | sort: 'date' %}
@@ -38,11 +43,6 @@ problem but instead viewing it holistically from the perspective of social
 sciences, legal studies, policymaking, equity, and inclusion.
 
 **CS H195 time**: See the sidebar.
-
-Jump on this page:
-
-- CS H195 Syllabus: [link](#cs-h195-syllabus)
-- Resources and Assignments: [link](#cs-h195-resources)
 
 ## CS H195 Syllabus
 
