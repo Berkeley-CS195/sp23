@@ -73,9 +73,11 @@ This semester, we are trying some new assignments for CS H195. We appreciate you
 
 |       | Projects | Estimated duration | Project Due  | Links                    |
 | ----- | ------ | ----- | --- |
-| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 |       |
+| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
 | 2     | Teaching Computing in the News | ~3 weeks | Fri. 3/24 |       |
 | 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
+
+[proj1]: assignments/h195-proj1.md
 
 <b>1. Social Media Simulation</b>: (individual)  Analyze the dynamics of
 information bubbles and polarization in social network models. Submit a writeup.
