@@ -4,8 +4,8 @@ date: 2023-02-17
 number: "05"
 title: Capitalism and Silicon Valley
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1-e0pGfUrkB_KOWf6r_ekK1sGGo7Nh0I5fTRQFwHqYl8/edit#slide=id.p"
+  released: true
 readings_released: true
 ---
 
