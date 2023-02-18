@@ -27,10 +27,10 @@ has_toc: true
 ## Timeline
 
 Proposal
-: **Due Wed. 02/15, 11:59pm**
+: **Due Wed. 02/15, 11:59pm** at <https://bcourses.berkeley.edu/courses/1521861/assignments/8565895>
 
 Essay
-: **Due Tue. 02/21, 11:59pm**
+: **Due Tue. 02/21, 11:59pm** at <https://bcourses.berkeley.edu/courses/1521861/assignments/8568483>
 
 Peer Reviews
 : Assigned Thu. 02/23 via bCourses, **due Wed. 03/01, 11:59pm**
@@ -173,7 +173,8 @@ Format
 
 ## Submission
 
-The essay will be submitted in bCourses. Please visit our syllabus for our [Accommodations policy](../about.html#accommodations).
+The essay will be submitted in [bCourses](https://bcourses.berkeley.edu/courses/1521861/assignments/8568483).
+Please visit our syllabus for our [Accommodations policy](../about.html#accommodations).
 
 ## Grading and Rubric
 
