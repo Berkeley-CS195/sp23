@@ -4,8 +4,8 @@ date: 2023-02-21
 number: "06"
 title: "Memes and Viral Content"
 slides:
-  link: "https://docs.google.com/presentation/d/1R_YUKxD1iaz_6tplCPRc3mjj_pjS6ypCyq-kf5-BPW0/edit?usp=sharing"
-  released: false
+  link: "https://docs.google.com/presentation/d/1ul27SmS9Et6nHYsMp4zlcBAhT3TpnhDjYAu9X8gyCgU/edit"
+  released: true
 readings_released: true
 ---
 
