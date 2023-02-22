@@ -147,7 +147,7 @@ Essay Length
 References
 : Include your references separately at the end of the essay. The format is not
   important as long as the references are unambiguous and include website links
-  as full URLs where applicable. For xample:
+  as full URLs where applicable. For example:
 
   NPR, "New Research Casts Doubt On Connection Between Smartphone Use And Teen
   Mental Health.” <https://www.npr.org/2019/08/19/752529380/new-research-casts-doubt-on-connection-between-smartphone-use-and-teen-mental-he>
@@ -186,7 +186,7 @@ criteria (each on a 2-point scale):
 | -------- | -------- | ------- | -------- |
 | Essay is a coherent discussion of a topic presented in class. | Discusses the listed topic (or topics) in a coherent, balanced argument. | Attempts an argument, but it should be rewritten. | Incoherent/Irrelevant/blank |
 | Essay presents original or unique thoughts. | Extends the reasoning and analysis beyond a summary of cited sources. | Makes an attempt to extend or link together reasoning beyond a summary of cited sources. | Does not go beyond a summary of cited sources. |
-| Uses 3 sources of evidence | Cites at least 3 sources. Sources should not all be individual perspectives/opinion pieces. | Cites ≤ 3 sources, or less than 2 from outside class. Or, all 3 sources are opinion pieces, i.e., sources not always backed by evidence. | Cites 1 or 0 sources. |
+| Uses 3 sources of evidence | Cites at least 3 sources. Sources should not all be individual perspectives/opinion pieces. | Cites < 3 sources, or less than 2 from outside class. Or, all 3 sources are opinion pieces, i.e., sources not always backed by evidence. | Cites 1 or 0 sources. |
 | Essay writing is clear. | Uses well-written sentences with few spelling/grammatical errors. | Has several stylistic/spelling/grammatical errors that detract from the essay. | Illegible/blank |
 
 Instructional staff may also spot-review essays and provide comments/share ideas.
