@@ -107,7 +107,7 @@ the number of additional days that you require to complete the assignment.
 
 ## Academic Integrity
 
-The student community at UC Berkeley has adopted the following Honor Code: "As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others." The expectation is that you will adhere to this code.
+(Updated 2/22, valid for Essay 2) The student community at UC Berkeley has adopted the following Honor Code: "As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others." The expectation is that you will adhere to this code.
 
 **Plagiarism/Self-plagiarism**: You must be original in composing the writing assignments in this class. To copy text or ideas from another source (including your own previously, or concurrently, submitted course work) without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action.  Anyone found to have submitted assignments completed by another person (student or non-student) will likewise receive a failing grade in the course and be reported to the Center for Student Conduct. For additional information on plagiarism, self-plagiarism, and how to avoid it, see [this GSI Guide for Preventing Plagiarism](http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html).
 
