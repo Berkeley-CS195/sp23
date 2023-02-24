@@ -6,15 +6,18 @@ title: "Government Censorship and Surveillance"
 slides:
   link: ""
   released: false
-readings_released: false
+readings_released: true
 ---
 
-* Recommended: Gallagher, ["I Used to Work for Google. I Am a Conscientious Objector."](https://www.nytimes.com/2019/04/23/opinion/google-privacy-china.html)
-* Recommended: BBC News, ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100) (the embedded video up top is also interesting)
-* Extra: Mozur, Kessel, Chan, ["Made in China, Exported to the World: The Surveillance State"](https://www.nytimes.com/2019/04/24/technology/ecuador-surveillance-cameras-police-government.html)
-* Extra: Mozur, Buckley ["How China Uses High-Tech Surveillance to Subdue Minorities"](https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html)
+**Fill out [this survey][l07_form] by Monday 02/27 at 11:59 PM.**
 
-Historical Censorship and Surveillance in the U.S.:
-
+* **Required**: BPR, [Surveillance And Local Police: How Technology Is Evolving Faster Than Regulation](https://www.npr.org/2021/01/27/961103187/surveillance-and-local-police-how-technology-is-evolving-faster-than-regulation)
+* **Required**: BBC News, ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100)
+  * The embedded video up top is also interesting.
+* Recommended: ["Countering an Authoritarian Overhaul of the Internet"](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet)
+  * Skim Key Findings and Introduction; stop before Tracking the Global Decline
 * Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance)
-* Extra: Gage, ["What an Uncensored Letter to M.L.K. Reveals"](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html)
+* Extra: Google Blog, ["A new approach to China"](https://googleblog.blogspot.com/2010/01/new-approach-to-china.html)
+* Extra: NPR podcast, ["Know It All: AI and Police Surveillance"](https://www.npr.org/2023/02/23/1159084476/know-it-all-ai-and-police-surveillance)
+
+[l07_form]: https://docs.google.com/forms/d/e/1FAIpQLSc9A1u2xgsPO-NXlMmOrhNzi2vtOtc8Jw_KZ61hdUG_rkJLRQ/viewform
