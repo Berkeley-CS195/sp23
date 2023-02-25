@@ -4,8 +4,8 @@ date: 2023-02-24
 number: "06"
 title: Memes and Viral Content
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
+  released: true
 readings_released: true
 ---
 
