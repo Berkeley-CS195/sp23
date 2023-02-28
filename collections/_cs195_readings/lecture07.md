@@ -4,8 +4,8 @@ date: 2023-02-28
 number: "07"
 title: "Government Censorship and Surveillance"
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1mEvqtHJrNzelC-C8HGyJNlLKSRIpsO6u3Hf0hAEX3kM/edit"
+  released: true
 readings_released: true
 ---
 
