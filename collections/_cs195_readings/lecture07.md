@@ -13,7 +13,6 @@ readings_released: true
 
 * **Required**: NPR. [Surveillance And Local Police: How Technology Is Evolving Faster Than Regulation](https://www.npr.org/2021/01/27/961103187/surveillance-and-local-police-how-technology-is-evolving-faster-than-regulation), 2021.
 * **Required**: BBC News ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100), 2021.
-  * The embedded video up top is also interesting.
 * Recommended: FreedomHouse, ["Countering an Authoritarian Overhaul of the Internet"](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet), 2022.
   * Skim Key Findings and Introduction; stop before Tracking the Global Decline
 * Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance), 2014.
