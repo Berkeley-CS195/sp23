@@ -74,7 +74,7 @@ This semester, we are trying some new assignments for CS H195. We appreciate you
 |       | Projects | Estimated duration | Project Due  | Links                    |
 | ----- | ------ | ----- | --- |
 | 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
-| 2     | Teaching Computing in the News | ~3 weeks | Fri. 3/24 | [link][proj2]      |
+| 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
 | 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
 
 [proj1]: assignments/h195-proj1.md
@@ -90,8 +90,8 @@ students to engage critically with the social context of a particular computing
 technology. We will provide readings on pedagogical practices.
 
 - 3/10: Select a topic and readings.
-- 3/17: Design preparation exercise, discussion exercise.
-- 3/24: Identify takewaways, present in class.
+- 3/17: Finalize readings, design preparation exercise.
+- 3/24: Design discussion exercise, identify takewaways, present in class.
 
 
 <b>3. Technology and the Community</b>: (groups) Engage with the community to

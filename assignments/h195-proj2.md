@@ -29,10 +29,6 @@ You may do this assignment in pairs.
 The topic can be, broadly, anything that you are interested in as long as it
 has a computing component and a society component.
 
-For example, I could choose to design a discussion around FOSS (free and
-open-source software), covering its history and sustainability in capitalism.
-If you're uncertain whether a topic would be a good fit, please ask!
-
 Some of the things that you shared at the beginning of the term in response to
 the question "What do you want to get out of this course?" might be good
 starting points.
@@ -42,6 +38,14 @@ how you plan to draw a connection to society or identity concepts.
 Additionally, please provide a link or citation for one possible pre-reading.
 You aren't obligated to use this pre-reading -- this is just to give me a sense
 of the direction you're planning on going.
+
+For example, if I were to do this assignment, I might design a discussion
+around FOSS (free and open-source software), covering its history and
+sustainability in capitalism, and select the
+[`core-js` README by zloirock][core-js] as a possible pre-reading. If you're
+uncertain whether a topic would be a good fit, please ask!
+
+[core-js]: https://github.com/zloirock/core-js/blob/71ea97c987e793d3c44f4a7cee78dffe17771c05/README.md
 
 This is due Friday 3/10, 11:59 PM PT.
 
