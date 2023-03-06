@@ -12,22 +12,31 @@ Computing in the News
 
 ## Assignment Description
 
-For this assignment, you <b>must</b> select a different lecture topic from what
-you chose to discuss in Essays 1 and 2.
+For this assignment, you are not restricted to topics covered in lectures!
+However, any topic you choose should still be related to the "social
+implications of computing technology."
 
-Choose two articles published in 2023 that cover the same
-computing topic, concept, or event, that intersects with a CS 195 lecture.
-The articles must be from different sources or provide different perspectives
-from each other. Do not use opinion pieces, even from primary news outlets.
+Choose two articles published in 2023 that cover the same topic, concept, or
+current event:
 
-In your essay, provide context for the articles (what are they about?), and
-summarize them.
+1. The first article must be a non-opinion piece from a "top 10" news website,
+   which are: TODO. If you would like to use a different site, please check
+   with us first.
+2. The second article must be an opinion piece from any news or blog site.
+
+Your essay will consist of two paragraphs:
+
+1. In the first paragraph, summarize and provide context for the topic, concept,
+   or current event.
+2. In the second paragraph, compare and contrast the news article and opinion
+   piece. As part of your analysis, consider the perspective of the opinion
+   piece's author. Who are they, and why did they include or omit certain
+   details?
 
 ## Essay Format
 
 Title
-: Please include your selected lecture topic (or topics) at the top of the
-  page.
+: Please include your title at the top of the page.
 
 Essay Length
 : Essays should be short: 300-400 words, excluding references.
