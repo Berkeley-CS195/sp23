@@ -7,7 +7,7 @@ title: Assignments
 | Essay | Proposal Due | Essay Due           | Peer Reviews Due    | Assignment<br/>Specification |
 |-------|--------------------|---------------------|---------------------| ---- |
 | 1     | Wed. 02/15, 11:59pm | Tue. 02/21, 11:59pm | Wed. 03/01, 11:59pm  | [link][essay1] |
-| 2     | Tue. 03/22, 11:59pm | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  | link |
+| 2     | Wed. 03/22, 11:59pm | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  | link |
 | Computing<br/>in the News | | Tue. 04/25 11:59pm | Fri. 05/02 11:59 PM | link |
 
 ## Essays
