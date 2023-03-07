@@ -4,8 +4,8 @@ date: 2023-03-07
 number: "08"
 title: "Algorithmic Bias and Fairness"
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1MYl2FFeMdgGXNz1bpDZXg0MkY81ClBcz8sXzQ0HmcLw/edit"
+  released: true
 readings_released: true
 ---
 
