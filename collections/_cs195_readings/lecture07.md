@@ -17,6 +17,6 @@ readings_released: true
   * Skim Key Findings and Introduction; stop before Tracking the Global Decline
 * Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance), 2014.
 * Extra: Google Blog. ["A new approach to China"](https://googleblog.blogspot.com/2010/01/new-approach-to-china.html), 2010.
-* Extra: NPR podcast. ["Know It All: AI and Police Surveillance"](https://www.npr.org/2023/02/23/1159084476/know-it-all-ai-and-police-surveillance), 2023.
+* Extra: 1A podcast. ["Know It All: AI and Police Surveillance"](https://the1a.org/segments/know-it-all-facial-recognition-and-ai-in-police-surveillance/), 2023. Click on "Trancsript" to expand transcript as needed.
 
 [l07_form]: https://docs.google.com/forms/d/e/1FAIpQLSc9A1u2xgsPO-NXlMmOrhNzi2vtOtc8Jw_KZ61hdUG_rkJLRQ/viewform
