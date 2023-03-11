@@ -12,6 +12,7 @@ theme: minima
 exclude:
   - .venv
   - .direnv
+  - scripts
 
 collections:
   - cs195_readings
