@@ -9,7 +9,7 @@ slides:
 readings_released: true
 ---
 
-**Fill out [this survey][l09_form] by Monday 03/06 at 11:59 PM.**
+**Fill out [this survey][l09_form] by Monday 03/13 at 11:59 PM.**
 
 * Required: [UAW 2865 & SRU Contract Highlights](https://www.fairucnow.org/uaw2865-sru-contracts/)
 * Required: Zaveri, Paayal, ["The tech layoffs have created the perfect moment for tech workers to get organized and unionize, but getting there isn't easy"](https://www.businessinsider.com/tech-layoffs-allow-workers-learn-how-to-unionize-2023-3)
