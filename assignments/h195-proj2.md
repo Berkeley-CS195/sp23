@@ -81,6 +81,8 @@ Please read the following:
 4. Try it out with 3-4 friends! For maximum effect, ask them to skim / do the
    readings. Then, complete a 1-page writeup that consists of:
 
+   - Your chosen readings
+   - Your chosen pre-work activity
    - Your activity plan (see [below](#activity-plan))
    - A reflection on the pilot
    - Any changes that you plan to make for the final deliverable.
