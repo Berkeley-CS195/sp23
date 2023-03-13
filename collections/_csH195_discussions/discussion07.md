@@ -1,11 +1,11 @@
 ---
 layout: cs195-reading
-date: 2023-02-24
+date: 2023-03-03
 number: "07"
 title: "Government Censorship and Surveillance"
 slides:
   link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
-  released: false
+  released: true
 readings_released: true
 ---
 
