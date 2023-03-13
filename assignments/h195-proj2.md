@@ -60,20 +60,58 @@ Please read the following:
 [Tools for Teaching]: https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view
 [How to Write Learning Outcomes]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes
 
-## Readings Selection
+## Readings Selection + Activity Pilot
 
-Select 3-4 readings that students should read prior to discussion that will
-situate your chosen technology or concept in the context of society. Student
-readings should take about 1 to 1.5 hours in total, maximum.
+1. Select 3-4 readings that students should read prior to discussion that will
+   situate your chosen technology or concept in the context of society. Student
+   readings should take about 1 to 1.5 hours in total, maximum.
 
-We won't require specific kinds of sources, but please limit yourself to at
-most two opinion pieces (and at most one from any single group). Additionally,
-the UC Berkeley library is a good source for accessing possible readings.
+   We won't require specific kinds of sources, but please limit yourself to at
+   most two opinion pieces (and at most one from any single group). Additionally,
+   the UC Berkeley library is a good source for accessing possible readings.
 
-Secondly, design a short "pre-work" activity for students to complete,
-which should involve about a paragraph of writing.
+2. Design a short "pre-work" activity for students to complete, which should
+   involve about a paragraph of writing.
+
+3. Brainstorm one 25-minute discussion activity to engage the students
+   critically with the social context and implications of your chosen topic.
+   The 25 minutes or so should include all parts (intro, exercise, takeaway/
+   synthesis).
+
+4. Try it out with 3-4 friends! For maximum effect, ask them to skim / do the
+   readings. Then, complete a 1-page writeup that consists of:
+
+   - Your activity plan (see [below](#activity-plan))
+   - A reflection on the pilot
+   - Any changes that you plan to make for the final deliverable.
 
 This is due Friday 3/17, 11:59 PM PT.
+
+### Activity Plan
+
+Construct one 25-minute activity where students engage with the social context
+of the computing technology. In your writeup, address the following:
+
+Introduction
+: How will you introduce the discussion section? For example, will you provide
+  any additional context beyond the readings?
+
+Recall Activity (Optional)
+: Pose a question you to get students positioned and warmed up to discuss. It
+  often involves students "recalling" what was in their required readings.
+
+Activity Structure
+: How will you structure the discussion of this question (in small groups,
+  pairs, as a class, a mixture, or something else)? Will you have time to
+  review as a class before or after the activity?
+
+Learning Goal/Outcome
+: Write a sentence for the instructor-facing lesson plan, e.g. "By the end of
+  this activity, students will be able to..." (See [Action Verbs])
+
+Main Takeaway
+: Share the main student-facing takeaway(s) that you will state for students
+  at the activity.
 
 ## Presentation
 
@@ -85,42 +123,14 @@ Introduction / Contexualization
 : What are the computing topic and social context you are exploring?
 
 Readings
-: Why did you choose each reading?
+: What are your readings, and why did you choose each reading?
 
-Lesson Plan
-: See below for instructions.
+Activity Plan
+: See above. You should present a slide, or multiple that addresses your
+  activity plan.
 
 Additionally, include a slide with 2-3 "instructor readings," or sources
 that you think an instructor would find useful, but may be too in-depth for a
 student. This slide will not be presented.
-
-### Lesson Plan
-
-Construct at least two activities where students engage with the social context
-of the computing technology. You may use one activity, but you should justify
-why it is the only activity for a 50-minute discussion. For example, I
-typically use two discussion questions, with paired discussion followed by
-whole-group discussion, aiming to spend around 25 minutes total on each.
-
-You should present a slide, or multiple that addresses the following list:
-
-Introduction
-: How will you introduce the discussion section? For example, will you provide
-  any additional context beyond the readings?
-
-Recall Activity (Optional)
-: Pose a question you to get students positioned and warmed up to discuss. It
-  often involves students "recalling" what was in their required readings.
-
-Question 1-N
-: - How will you structure the discussion of this question (in small groups,
-    pairs, as a class, a mixture, or something else)? Will you have time to
-    review as a class before or after the activity?
-  - Write a sentence for the instructor-facing lesson plan, e.g. "By the end of
-    this activity, students will be able to..." (See [Action Verbs])
-  - Share the main student-facing takeaway(s) that you will state for students
-    at the activity, if any.
-
-This is due Friday 3/24, 3:59 PM PT, to be presented in discussion!
 
 [Action Verbs]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes
