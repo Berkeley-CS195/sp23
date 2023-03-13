@@ -9,7 +9,7 @@ title: Project 2
 Topic Selection
 : **Due Friday 3/10, 11:59 PM PT**
 
-Readings Selection
+Readings Selection + Activity Pilot
 : **Due Friday 3/17, 11:59 PM PT**
 
 Lesson Plan, Slides, Presentation

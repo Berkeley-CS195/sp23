@@ -30,6 +30,17 @@ Jump on this page:
   {%- endif %}
 {% endfor %}
 
+## Projects Table of Contents
+
+|       | Projects | Estimated duration | Project Due  | Links                    |
+| ----- | ------ | ----- | --- |
+| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
+| 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
+| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
+
+[proj1]: assignments/h195-proj1
+[proj2]: assignments/h195-proj2
+
 ***
 
 CS H195 discussions complement and supplement the topics presented in CS 195
@@ -66,28 +77,25 @@ we will make every effort to work with you to help you pass this course.
 
 ### Projects
 
+Jump up [here](#projects-table-of-contents).
+
+
 Intead of the CS 195 essays, this semester we are building new H195 project assignments.
 This semester, we are trying some new assignments for CS H195. We appreciate your working with us to design this course, and we welcome your feedback!!
 
-**All dates below are subject to change.**
-
-|       | Projects | Estimated duration | Project Due  | Links                    |
-| ----- | ------ | ----- | --- |
-| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
-| 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
-| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
-
-[proj1]: assignments/h195-proj1.md
-[proj2]: assignments/h195-proj2.md
-
-<b>1. Social Media Simulation</b>: (individual)  Analyze the dynamics of
-information bubbles and polarization in social network models. Submit a writeup.
+<b>1. Social Media Simulation</b>: 
+[link](proj1)
+(individual)
+Analyze the dynamics of
+information bubbles and polarization in social network models. Submit a writeup. 
 <br/>
 
-<b>2. Teaching Computing in the News</b>: (groups) What H195 discussion would
+<b>2. Teaching Computing in the News</b>: 
+[link](proj2)
+What H195 discussion would
 you run? Build a lesson plan for a 50-minute discussion for (future) H195
 students to engage critically with the social context of a particular computing
-technology. We will provide readings on pedagogical practices.
+technology. We will provide readings on pedagogical practices. 
 
 - 3/10: Select a topic and readings.
 - 3/17: Finalize readings, design preparation exercise.
@@ -103,7 +111,7 @@ do you want to participate in?
 - 4/14: Community selection, interview plan.
 - 4/28: Present on findings from interviews.
 
-More details on each assignment will be provided as soon as we know them.
+<!--More details on each assignment will be provided as soon as we know them.-->
 
 ### Course Description
 
