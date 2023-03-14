@@ -4,8 +4,8 @@ date: 2023-03-14
 number: "09"
 title: "Jobs, Automation, and Labor"
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1D5A5t993wYZeHh9P-An9SMP-yC5ziA6fs30rOgVz5t0/edit?usp=sharing"
+  released: true
 readings_released: true
 ---
 
