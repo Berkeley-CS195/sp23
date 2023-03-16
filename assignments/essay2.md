@@ -59,7 +59,7 @@ Answer the following questions and submit in [bCourses][proposal]:
    from. You can find sources on the [course website](/index.md) or in the
    lecture slides.
 
-[proposal]: https://bcourses.berkeley.edu/courses/1521861/assignments/8565895
+[proposal]: https://bcourses.berkeley.edu/courses/1521861/assignments/8572307
 
 ## Assignment Description
 
@@ -101,13 +101,13 @@ market share in censored markets?"
 **New in Essay 2: Cultural Mindset**
 
 After your essay, write a final separate paragraph addressing the following
-question: In what way does meritocracy, techno-solutionism and/or market
+question: In what way does meritocracy, techno-solutionism, and/or market
 fundamentalism *manifest* in the topic that you are exploring? You should feel
 free to frame your topic in terms of a different cultural mindset, but be sure
 to define and cite it.
 
 Since this is a separate paragraph, don't worry about "flow" with the rest of
-your essay.
+your essay. This paragraph will not be included in the essay word count.
 
 ### Evidence and Credibility
 
@@ -161,8 +161,7 @@ Title
   page.
 
 Essay Length
-: Essays should be short: 700-1000 words, excluding references. This does not
-  include the cultural mindset paragraph.
+: Essays should be short: 700-1000 words, excluding references and the Cultural Mindset paragraph.
 
 References
 : Include your references separately at the end of the essay. The format is not
