@@ -35,10 +35,6 @@ Essay
 Peer Reviews
 : Assigned Thu. 04/06 via bCourses, **due Wed. 04/12, 11:59pm**
 
-## Alternate Assignment
-
-Details coming soon. Assignment replaces Essay 2 + Computing in the News.
-
 ## Proposal
 
 **Due Wed. 03/22, 11:59pm**
@@ -102,6 +98,17 @@ start from this
 and center my essay around the question, "How do Social Media companies gain
 market share in censored markets?"
 
+**New in Essay 2: Cultural Mindset**
+
+After your essay, write a final separate paragraph addressing the following
+question: In what way does meritocracy, techno-solutionism and/or market
+fundamentalism *manifest* in the topic that you are exploring? You should feel
+free to frame your topic in terms of a different cultural mindset, but be sure
+to define and cite it.
+
+Since this is a separate paragraph, don't worry about "flow" with the rest of
+your essay.
+
 ### Evidence and Credibility
 
 You should have at least <b>three</b> sources throughout the essay. At least
@@ -154,7 +161,8 @@ Title
   page.
 
 Essay Length
-: Essays should be short: 700-1000 words, excluding references.
+: Essays should be short: 700-1000 words, excluding references. This does not
+  include the cultural mindset paragraph.
 
 References
 : Include your references separately at the end of the essay. The format is not
@@ -185,7 +193,7 @@ Format
 
 ## Submission
 
-The essay will be submitted in [bCourses](https://bcourses.berkeley.edu/courses/1521861/assignments/8568483).
+The essay will be submitted in bCourses (URL TODO).
 Please visit our syllabus for our [Accommodations policy](../about.html#accommodations).
 
 ## Grading and Rubric
@@ -200,5 +208,6 @@ criteria (each on a 2-point scale):
 | Essay presents original or unique thoughts. | Extends the reasoning and analysis beyond a summary of cited sources. | Makes an attempt to extend or link together reasoning beyond a summary of cited sources. | Does not go beyond a summary of cited sources. |
 | Uses 3 sources of evidence | Cites at least 3 sources. Sources should not all be individual perspectives/opinion pieces. | Cites < 3 sources, or less than 2 from outside class. Or, all 3 sources are opinion pieces, i.e., sources not always backed by evidence. | Cites 1 or 0 sources. |
 | Essay writing is clear. | Uses well-written sentences with few spelling/grammatical errors. | Has several stylistic/spelling/grammatical errors that detract from the essay. | Illegible/blank |
+| Cultural mindset paragraph makes a reasonable argument. | Paragraph identifies a manifestation (example or outcome) of the framework in the essay topic, and provides reasonable justification for the connection. | Paragraph identifies a manifestation, but does not justify why the framework is connected to the example or outcome. | Illegible/missing |
 
 Instructional staff may also spot-review essays and provide comments/share ideas.

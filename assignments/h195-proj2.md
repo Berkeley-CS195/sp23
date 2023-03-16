@@ -56,9 +56,15 @@ Please read the following:
 - [Tools for Teaching][], (p. 97-p.101, PDF 115-119). Read up to and including
   "Starting a Discussion."
 - [How to Write Learning Outcomes][]
+- [Establish Course-level Learning Objectives][]
+- [5E Lesson Plan][]
+- [Knowledge Integration Environment][]
 
 [Tools for Teaching]: https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view
 [How to Write Learning Outcomes]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes
+[Establish Course-level learning Objectives]: https://teaching.berkeley.edu/resources/course-design-guide/establish-course-level-learning-objectives
+[5E Lesson Plan]: https://blog.tcea.org/lesson-planning-5e-model/
+[Knowledge Integration Environment]: https://lessonresearch.net/teacher-learning/knowledge-integration/
 
 ## Readings Selection + Activity Pilot
 
