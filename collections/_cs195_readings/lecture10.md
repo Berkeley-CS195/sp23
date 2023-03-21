@@ -2,12 +2,13 @@
 layout: cs195-reading
 date: 2023-03-21
 number: "10"
-title: "Education"
+title: "Education (canceled)"
 slides:
   link: ""
   released: false
 readings_released: true
 ---
+**Lecture has been canceled due to the EECS Faculty Retreat. The survey is still required.** See this [Ed post](https://edstem.org/us/courses/35154/discussion/2800890).
 
 **Fill out [this survey][l10_form] by Monday 03/20 at 11:59 PM.**
 
