@@ -30,7 +30,7 @@ Proposal
 : **Due Wed. 03/22, 11:59pm** at <https://bcourses.berkeley.edu/courses/1521861/assignments/8572307>
 
 Essay
-: **Due Tue. 04/04, 11:59pm** at (coming soon)
+: **Due Tue. 04/04, 11:59pm** at <https://bcourses.berkeley.edu/courses/1521861/assignments/8577036>
 
 Peer Reviews
 : Assigned Thu. 04/06 via bCourses, **due Wed. 04/12, 11:59pm**
