@@ -34,6 +34,7 @@ the Assignments page in the sidebar.
 
 {% for r in readings reversed %}
   {%- if r.readings_released -%}
-    {{ r }}
+    <hr>
+    {{- r -}}
   {%- endif %}
 {% endfor %}
