@@ -9,6 +9,8 @@ slides:
 readings_released: true
 ---
 
+Guest speaker: Dr. Jay Chen, Senior Researcher at ICSI. [profile](https://chenjay.org/)
+
 **Fill out [this survey][l11_form] by Monday 04/03 at 11:59 PM.**
 
 * Required: Rittel, H.W.J. and Webber, M.M. (1973). ["Dilemmas in a General Theory of Planning." Policy Sciences 4. Elsevier.](https://static.us.edusercontent.com/files/6NmLJoNOAh7UCIAF9t3kn5cF)
