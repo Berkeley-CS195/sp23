@@ -11,7 +11,7 @@ readings_released: true
 
 Guest speaker: Michael Ball, Lecturer in EECS.
 
-**Fill out [this survey][l12_form] by Monday 04/09 at 11:59 PM.**
+**Fill out [this survey][l12_form] by Monday 04/10 at 11:59 PM.**
 
 * Required: Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and
   Shmargaret Shmitchell. 2021. On the Dangers of Stochastic Parrots: Can Language
