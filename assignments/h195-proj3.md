@@ -2,37 +2,49 @@
 layout: page
 released: true
 title: Project 3
+topicdue: Friday, 4/14
+proposaldue: Wednesday 4/19
+presentationdue: 4/28
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
 
 ## Timeline
 
-Topic Brainstorming + Group Selection
-: **Friday 4/14, 11:59 PM PT**, activity during discussion
+1. Topic Brainstorming + Group Selection. [link](#1-topic-and-project-selection)
+: **Due {{page.topicdue}}, 11:59 PM PT**, activity during discussion
 
-Proposal
-: **Due Wednesday 4/19, 11:59 PM PT**
+2. Proposal. [link](#2-proposal)
+: **Due {{page.proposaldue}}, 11:59 PM PT**
 
-Presentation
-: TBD, either Friday 4/28 in extended section or early RRR
+3. Presentation. [link](#3-presentation)
+: TBD, either {{page.presentationdue}} in extended section or early RRR
 
 ## Overview
 
-This project is sort of a continuation of Project 2. You are free to do
+This project is (thematically) a continuation of Project 2. You are free to do
 "whatever you want," as it relates to the themes of our class. While Project 2
-focused on a discussion section for students, this project's deliverable could
-accomplish some of the following goals for a *community*:
+focused on a discussion section for students, Project 3's deliverable could
+accomplish some of the following goals for a *<u>community</u>*:
 
 - Raise awareness
 - Design an intervention
 - Engage the community in an issue
 
-This project may be completed in pairs.
+This project may be (and is encouragedt to be) completed in pairs.
 
-## Topic and Project Selection
+## Guidelines on Project Scope
 
-In Week 12, we will do a "post-it" brainstorming activity in pairs or groups on
+Since we are a 3-unit class and are supposed to have about
+[6 hours of work outside of class per week](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001),
+and this project should occupy your last 1-2 weeks of the class, plan on doing
+something that takes about 9-15 hours. That number should be understood very
+generously--i.e., it's understood to include time spent pondering what you want
+to do for your project, not just time actively typing.
+
+## 1. Topic and Project Selection
+
+In Week 12 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
 possible topics and projects; and possibly form pairs.
 
 Some past projects from students that have done a similar project at Stanford:
@@ -50,24 +62,13 @@ Some past projects from students that have done a similar project at Stanford:
   broader trends in how tech cultures affect individuals
 - Design a PSA about a particular technology, such as the effects it has on your
   chosen community
+- *Note*: We'd like you to do something that is not a lesson plan, given that Project 2 already engaged with the classroom environment.
 
-Since Project 2 engaged with the classroom environment, we'd like to see you
-do something that is not a lesson plan.
+By the end of the day ({{page.topicdue}}, 11:59pm), you will need to submit a quick summary of what you did here on bCourses. One submission per group.
 
-## Guidelines on Project Scope
+## 2. Proposal
 
-Since we are a 3-unit class and are supposed to have about
-[6 hours of work outside of class per week](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001),
-and this project should occupy your last 1-2 weeks of the class, plan on doing
-something that takes about 9-15 hours. That number should be understood very
-generously--i.e., it's understood to include time spent pondering what you want
-to do for your project, not just time actively typing. You'll be asked to
-present what you did for about 5 minutes in class, and write a quick summary of
-what you did here on Canvas.
-
-## Proposal
-
-The project proposal outlines what your project will be. The sections of the
+The project proposal outlines what your project will be and is due via bCourses by {{page.proposaldue}}, 11:59pm. The sections of the
 proposal are as follows:
 
 1. 1-2 paragraphs (about 500 words) describing the project vision.
@@ -102,7 +103,7 @@ proposal are as follows:
    is also in part to communicate with me so we can help you address open
    questions, find additional resources, organize around concerns, etc.
 
-## Presentation Guidelines
+## 3. Presentation
 
 Target between 7-10 minutes, and cover the following:
 
@@ -111,3 +112,5 @@ Target between 7-10 minutes, and cover the following:
 - How do you feel about how it went? What is the impact? What are you most
   proud of about regarding how your project unfolded? How did your project
   influence others or influence your own views?
+
+We will send out a survey about which presentation date would work best: either {{page.presentationdue}} as an extended section, or early RRR.
