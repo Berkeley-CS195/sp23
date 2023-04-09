@@ -48,6 +48,8 @@ Some past projects from students that have done a similar project at Stanford:
 - Record a podcast episode talking about your own experience in
   CS/tech/Berkeley EECS classes, and connecting it to what research says about
   broader trends in how tech cultures affect individuals
+- Design a PSA about a particular technology, such as the effects it has on your
+  chosen community
 
 Since Project 2 engaged with the classroom environment, we'd like to see you
 do something that is not a lesson plan.
