@@ -125,6 +125,7 @@ the material, and engage in a series of experiential and real-world assignments.
 
 {% for r in readings reversed %}
   {%- if r.readings_released -%}
-    {{ r }}
+    <hr>
+    {{- r -}}
   {%- endif %}
 {% endfor %}
