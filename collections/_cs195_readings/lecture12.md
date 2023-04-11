@@ -4,8 +4,8 @@ date: 2023-04-11
 number: "12"
 title: "Guest Speaker: Michael Ball, Generative AI"
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/17_vbNpYAdAicNZkXJoyXcJwWtRYwEVAO9_i25dgwzuk/edit?usp=sharing"
+  released: true
 readings_released: true
 ---
 
