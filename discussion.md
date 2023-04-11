@@ -36,10 +36,11 @@ Jump on this page:
 | ----- | ------ | ----- | --- |
 | 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
 | 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
-| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 |       |
+| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 | [link][proj3]      |
 
 [proj1]: assignments/h195-proj1
 [proj2]: assignments/h195-proj2
+[proj3]: assignments/h195-proj3
 
 ***
 
@@ -83,19 +84,19 @@ Jump up [here](#projects-table-of-contents).
 Intead of the CS 195 essays, this semester we are building new H195 project assignments.
 This semester, we are trying some new assignments for CS H195. We appreciate your working with us to design this course, and we welcome your feedback!!
 
-<b>1. Social Media Simulation</b>: 
+<b>1. Social Media Simulation</b>:
 [link](proj1)
 (individual)
 Analyze the dynamics of
-information bubbles and polarization in social network models. Submit a writeup. 
+information bubbles and polarization in social network models. Submit a writeup.
 <br/>
 
-<b>2. Teaching Computing in the News</b>: 
+<b>2. Teaching Computing in the News</b>:
 [link](proj2)
 What H195 discussion would
 you run? Build a lesson plan for a 50-minute discussion for (future) H195
 students to engage critically with the social context of a particular computing
-technology. We will provide readings on pedagogical practices. 
+technology. We will provide readings on pedagogical practices.
 
 - 3/10: Select a topic and readings.
 - 3/17: Finalize readings, design preparation exercise.
