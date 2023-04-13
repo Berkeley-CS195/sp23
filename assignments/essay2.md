@@ -5,25 +5,6 @@ title: Essay 2
 has_toc: true
 ---
 
-<style>
-   .rubric-table {
-      line-height: inherit;
-   }
-   .rubric-table thead {
-      background-color: lightgray;
-   }
-   .rubric-table td, .rubric-table th {
-      border: 1px solid black;
-      padding: 5px;
-   }
-   .rubric-table td {
-      text-align: left;
-   }
-   .rubric-table td:first-child {
-      font-weight: bold;
-   }
-</style>
-
 ## Timeline
 
 Proposal

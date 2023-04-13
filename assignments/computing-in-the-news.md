@@ -10,6 +10,9 @@ has_toc: true
 Computing in the News
 : **Due Tue. 04/25, 11:59pm**
 
+Peer Reviews
+: Assigned Thu. 04/27 via bCourses, **due Fri. 04/28, 11:59pm**
+
 ## Assignment Description
 
 For this assignment, you are not restricted to topics covered in lectures!
@@ -58,3 +61,17 @@ Style
 Format
 : The bCourses assignment will accept a PDF. This PDF must contain English
   prose.
+
+## Grading and Rubric
+
+Your essay will be evaluated by three of your peers on each of the following
+criteria (each on a 2-point scale):
+
+{: .rubric-table }
+| Category | 2 points | 1 point | 0 points |
+| -------- | -------- | ------- | -------- |
+| Summary is coherent. | Summarizes the topic in a coherent, balanced manner. | Attempts a summary, but it should be rewritten. | Incoherent/Irrelevant/blank |
+| Essay makes a meaningful comparison. | Makes a comparison that considers the authors' pespectives. | Compares the articles, but does not consider author perspectives. | Does not compare the articles. |
+| Essay writing is clear. | Uses well-written sentences with few spelling/grammatical errors. | Has several stylistic/spelling/grammatical errors that detract from the essay. | Illegible/blank |
+
+Instructional staff may also spot-review essays and provide comments/share ideas.

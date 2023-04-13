@@ -73,9 +73,8 @@ In order to receive a passing grade in CS 195, you must:
 * Attend at least 10 (out of 13) lectures (excludes the first lecture).
 * Complete at least 10 (out of 14) pre-lecture surveys.
 * Submit 2 essays and receive a passing peer review grade on all of them.
-* Provide peer reviews for 6 essays.
-* Complete the Ethics in the News assignment.
-
+* Submit a Computing in the News essay and receive a passing peer review grade.
+* Provide 3 peer reviews for each essay.
 
 ## Accommodations
 

@@ -16,10 +16,6 @@ You will write two short essays (700-1000 words) of varying format in relation
 to issues discussed in class. Essays are peer reviewed, which means you will
 review six essays and have each of your essays reviewed by three of your peers.
 
-### Essay 1
-
-Essay details [here][essay1].
-
 [essay1]: assignments/essay1.md
 [essay2]: assignments/essay2.md
 
