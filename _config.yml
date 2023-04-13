@@ -1,10 +1,10 @@
 title: CS 195
 description: "CS 195: Social Implications of Computer Technology"
-url: "https://inst.eecs.berkeley.edu/~cs195"
 collections_dir: collections
 
+url: "sp23.cs195.org"
 edstem: https://edstem.org/us/courses/35154
-
+ed_zoom_link: https://edstem.org/us/courses/35154/discussion/2394817
 term: Spring 2023
 
 theme: minima
