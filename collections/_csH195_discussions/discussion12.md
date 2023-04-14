@@ -4,8 +4,8 @@ date: 2023-04-14
 number: "12"
 title: Community Design + Project Brainstorming
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/18rfymGxHptdoc0BViVd4DkUqZDh5MOikpLLWpX9a-NE/edit#slide=id.g22e2c70feb3_0_30"
+  released: true
 readings_released: true
 ---
 
