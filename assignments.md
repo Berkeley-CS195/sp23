@@ -8,7 +8,7 @@ title: Assignments
 |-------|--------------------|---------------------|---------------------| ---- |
 | 1     | Wed. 02/15, 11:59pm | Tue. 02/21, 11:59pm | Wed. 03/01, 11:59pm  | [link][essay1] |
 | 2     | Wed. 03/22, 11:59pm | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  | [link][essay2] |
-| Computing<br/>in the News | | Tue. 04/25 11:59pm | Fri. 05/02 11:59 PM | link |
+| Computing<br/>in the News | | Tue. 04/25 11:59pm | Fri. 05/02 11:59 PM | [link][computing-news] |
 
 ## Essays
 
@@ -18,6 +18,13 @@ review six essays and have each of your essays reviewed by three of your peers.
 
 [essay1]: assignments/essay1.md
 [essay2]: assignments/essay2.md
+
+## Computing in the News
+
+You will write a short essay comparing two perspectives on the same concept or
+topic.
+
+[computing-news]: assignments/computing-in-the-news.md
 
 <!--
 Optional Essay: Ethics in the News
