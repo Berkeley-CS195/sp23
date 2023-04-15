@@ -9,7 +9,7 @@ slides:
 readings_released: true
 ---
 
-Guest speaker: Josh Hug, Assistant Teaching Professor in EECS.
+Guest speaker: Josh Hug, Associate Teaching Professor in EECS.
 
 **Fill out [this survey][l13_form] by Monday 04/17 at 11:59 PM.**
 
