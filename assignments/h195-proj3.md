@@ -31,7 +31,7 @@ accomplish some of the following goals for a *<u>community</u>*:
 - Design an intervention
 - Engage the community in an issue
 
-This project may be (and is encouragedt to be) completed in pairs.
+This project may be (and is encouragedt to be) completed in groups.
 
 ## Guidelines on Project Scope
 
@@ -45,7 +45,7 @@ to do for your project, not just time actively typing.
 ## 1. Topic and Project Selection
 
 In Week 12 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
-possible topics and projects; and possibly form pairs.
+possible topics and projects; and possibly form groups.
 
 Some past projects from students that have done a similar project at Stanford:
 
