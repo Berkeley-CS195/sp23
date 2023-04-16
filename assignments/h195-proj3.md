@@ -72,17 +72,11 @@ The project proposal outlines what your project will be and is due via bCourses 
 proposal are as follows:
 
 1. 1-2 paragraphs (about 500 words) describing the project vision.
-2. A list of readings from our syllabus (including the tab with a longer list
-   of readings, not all of which were actually assigned on the syllabus
-   day-by-day calendar tab) that most relate to your project or inform its
-   design.
-   1. Keep this? I want to fold it into (3) as optional, since Proj 2 drew on
-      readings.
-3. Separate list of additional resources or readings, like those on our
+2. Separate list of additional resources or readings, like those on our
    syllabus, that relate to your project or inform its design. You aren't
    strictly required to have any, but many projects will have some and it will
    be good to track them.
-4. (If you worked in a group) A list of the members of your team, and a bullet
+3. (If you worked in a group) A list of the members of your team, and a bullet
    list breakdown describing
    what each member is responsible for. (If a team of one, still give a bullet
    list breakdown of the individual tasks required to complete this project.)
@@ -95,12 +89,10 @@ proposal are as follows:
    for what to do, re-doing work that was done when there is an unexpected
    hiccup, etc. That said, professionalism also means not grotesquely "padding"
    the estimates.
-   1. Are we emphasizing the "group-ness" of the project? Ambivalent about
-      keeping this section.
-5. 1-2 paragraphs (about 500 words) describing the main open questions or
+4. 1-2 paragraphs (about 500 words) describing the main open questions or
    potential areas of concern on the horizon for this project. This is in part
    to help you foresee problems for yourselves by stopping to consider this. It
-   is also in part to communicate with me so we can help you address open
+   is also in part to communicate with us so we can help you address open
    questions, find additional resources, organize around concerns, etc.
 
 ## 3. Presentation
