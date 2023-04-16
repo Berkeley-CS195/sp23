@@ -38,8 +38,11 @@ Your essay will consist of two paragraphs:
 2. In the second paragraph, compare and contrast the news article and opinion
    piece. As part of your analysis, consider the perspective of the opinion
    piece's author. Who are they, and why did they include or omit certain
-   details? (This is why we want the first article to be reasonably impartial --
-   if we drew from a biased source)
+   details?
+
+   (This is why we want the first article to be reasonably impartial --
+   if we drew from a biased source, we would be comparing to a different
+   baseline.)
 
 ## Essay Format
 
