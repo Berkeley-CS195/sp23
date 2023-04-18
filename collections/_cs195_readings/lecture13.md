@@ -4,8 +4,8 @@ date: 2023-04-18
 number: "13"
 title: "Guest Speaker: Josh Hug, Web 3.0, Bitcoin, and Storytelling"
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1tGgZxxr1tuacLn6oAVbqR_NhrMDepQEA9vYD5MVfIvs/edit#slide=id.g409413421_0637"
+  released: true
 readings_released: true
 ---
 
