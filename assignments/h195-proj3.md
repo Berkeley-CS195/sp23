@@ -2,7 +2,6 @@
 layout: page
 released: true
 title: Project 3
-topicdue: Friday, 4/14
 proposaldue: Wednesday 4/19
 presentationdue: 4/28
 ---
@@ -63,8 +62,6 @@ Some past projects from students that have done a similar project at Stanford:
 - Design a PSA about a particular technology, such as the effects it has on your
   chosen community
 - *Note*: We'd like you to do something that is not a lesson plan, given that Project 2 already engaged with the classroom environment.
-
-By the end of the day ({{page.topicdue}}, 11:59pm), you will need to submit a quick summary of what you did here on bCourses. One submission per group.
 
 ## 2. Proposal
 
