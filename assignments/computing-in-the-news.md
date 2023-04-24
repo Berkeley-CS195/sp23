@@ -11,7 +11,7 @@ Computing in the News
 : **Due Tue. 04/25, 11:59pm**
 
 Peer Reviews
-: Assigned Thu. 04/27 via bCourses, **due Fri. 04/28, 11:59pm**
+: Assigned Thu. 04/27 via bCourses, **due Wed. 05/03, 11:59pm**
 
 ## Assignment Description
 

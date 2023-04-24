@@ -8,7 +8,7 @@ title: Assignments
 |-------|--------------------|---------------------|---------------------| ---- |
 | 1     | Wed. 02/15, 11:59pm | Tue. 02/21, 11:59pm | Wed. 03/01, 11:59pm  | [link][essay1] |
 | 2     | Wed. 03/22, 11:59pm | Tue. 04/04, 11:59pm  | Wed. 04/12, 11:59pm  | [link][essay2] |
-| Computing<br/>in the News | | Tue. 04/25 11:59pm | Fri. 05/02 11:59 PM | [link][computing-news] |
+| Computing<br/>in the News | | Tue. 04/25 11:59pm | Wed. 05/03 11:59 PM | [link][computing-news] |
 
 ## Essays
 
