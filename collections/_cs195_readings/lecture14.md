@@ -4,7 +4,7 @@ date: 2023-04-25
 number: "14"
 title: "Guest Speaker: Khalid Kadir, Whose Cities? The Political Economy of Someone Else’s Smart Cities"
 slides:
-  link: "https://bcourses.berkeley.edu/files/85986479/download?download_frd=1"
+  link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
   released: true
 readings_released: true
 ---
